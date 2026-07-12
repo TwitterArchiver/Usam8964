@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043374558611406849"
+      ],
+      "media_source_tweet_id": [
+        "2043375168689721498"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2043375884799971745",
+    "created_at": "2026-04-12T17:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043375884799971745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032033299980566528",
+          "start": 3,
+          "username": "rinii165892"
+        },
+        {
+          "end": 60,
+          "id": "1228546301572173825",
+          "start": 50,
+          "username": "AAAAAMTxT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e5Knb63tPb",
+          "end": 84,
+          "expanded_url": "https://x.com/rinii165892/status/2043375168689721498/photo/1",
+          "media_key": "3_2043374558611406849",
+          "start": 61,
+          "url": "https://t.co/e5Knb63tPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043375884799971745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043375168689721498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rinii165892: 糖星账号被冻了，感觉好像有点死，谁有糖星墙内能帮忙劝劝或监控。。\n@AAAAAMTxT https://t.co/e5Knb63tPb"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [AAAAAMTxT].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "AAAAAMTxT",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "AAAAAMTxT"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2043374558611406849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuGVbUagAEqYiE.png",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043374558611406849"
+          ],
+          "media_source_tweet_id": [
+            "2043375168689721498"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2043375884799971745",
+        "created_at": "2026-04-12T17:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043375884799971745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032033299980566528",
+              "start": 3,
+              "username": "rinii165892"
+            },
+            {
+              "end": 60,
+              "id": "1228546301572173825",
+              "start": 50,
+              "username": "AAAAAMTxT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5Knb63tPb",
+              "end": 84,
+              "expanded_url": "https://x.com/rinii165892/status/2043375168689721498/photo/1",
+              "media_key": "3_2043374558611406849",
+              "start": 61,
+              "url": "https://t.co/e5Knb63tPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043375884799971745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043375168689721498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rinii165892: 糖星账号被冻了，感觉好像有点死，谁有糖星墙内能帮忙劝劝或监控。。\n@AAAAAMTxT https://t.co/e5Knb63tPb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043374558611406849"
+          ]
+        },
+        "author_id": "2032033299980566528",
+        "conversation_id": "2043375168689721498",
+        "created_at": "2026-04-12T17:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043375168689721498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1228546301572173825",
+              "start": 33,
+              "username": "AAAAAMTxT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5Knb63tPb",
+              "end": 67,
+              "expanded_url": "https://x.com/rinii165892/status/2043375168689721498/photo/1",
+              "media_key": "3_2043374558611406849",
+              "start": 44,
+              "url": "https://t.co/e5Knb63tPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043375168689721498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "糖星账号被冻了，感觉好像有点死，谁有糖星墙内能帮忙劝劝或监控。。\n@AAAAAMTxT https://t.co/e5Knb63tPb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 1157,
+          "like_count": 52583,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 6557
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "被当成人机了随缘回fo【寻回推u】🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 654,
+          "like_count": 3933,
+          "listed_count": 5,
+          "media_count": 96,
+          "tweet_count": 2304
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1832032631820804438",
+    "created_at": "2024-09-06T15:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T16:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832085529338503604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1577644061174865920",
+          "start": 0,
+          "username": "Xiiii_LX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832085529338503604",
+    "in_reply_to_user_id": "1577644061174865920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832081251668459538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiiii_LX 是这样的，西班牙战列舰，挺好玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1832032631820804438",
+        "created_at": "2024-09-06T15:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T16:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832085529338503604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1577644061174865920",
+              "start": 0,
+              "username": "Xiiii_LX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832085529338503604",
+        "in_reply_to_user_id": "1577644061174865920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832081251668459538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiiii_LX 是这样的，西班牙战列舰，挺好玩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577644061174865920",
+        "conversation_id": "1832032631820804438",
+        "created_at": "2024-09-06T15:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T16:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832081251668459538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832081251668459538",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832032631820804438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 新船嘛？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 828,
+          "like_count": 22904,
+          "listed_count": 2,
+          "tweet_count": 2830
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T12:57:33.000Z",
+        "description": "持证上岗🍥MtF☜半无性恋☜坐标郑州☜不建政☜ISFP☜努力治疗抑郁及各种心理疾病☜想要和大家一起玩☜聊天终结者☜留长发中☜思维不受控☜妄想症患者☜准术",
+        "id": "1577644061174865920",
+        "name": "希Xiiii",
+        "pinned_tweet_id": "1780813805087494429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674646895174750208/x2XESClq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 385,
+          "like_count": 2770,
+          "listed_count": 4,
+          "tweet_count": 2451
+        },
+        "username": "Xiiii_LX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2024368963946500531",
+    "created_at": "2026-02-19T09:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024417199923089419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986828541930119168",
+          "start": 0,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024417199923089419",
+    "in_reply_to_user_id": "1986828541930119168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024368963946500531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigure07288 当支黑别用睦当皮套行不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2024368963946500531",
+        "created_at": "2026-02-19T09:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024417199923089419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024417199923089419",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024368963946500531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 当支黑别用睦当皮套行不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "conversation_id": "2024368963946500531",
+        "created_at": "2026-02-19T06:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024368963946500531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhinaqingchu/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/zhinaqingchu/status/2024282072274391406",
+              "start": 25,
+              "url": "https://t.co/Jd8JLpr9FJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024368963946500531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024282072274391406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小支那🐖你怎么不想清除支那人了？建议从自己做起😁 https://t.co/Jd8JLpr9FJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3550,
+          "following_count": 1065,
+          "like_count": 34265,
+          "listed_count": 8,
+          "media_count": 317,
+          "tweet_count": 4209
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|毛主义|左翼共产主义|民主社会主义|左翼民粹主义|反资本主义|平权主义|反激进女权|友跨",
+        "id": "1986828541930119168",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🇻🇪🏳️‍🌈",
+        "pinned_tweet_id": "2004470065887117362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872933650059266/LBQYDyhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 518,
+          "like_count": 1856,
+          "listed_count": 6,
+          "media_count": 219,
+          "tweet_count": 2619
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

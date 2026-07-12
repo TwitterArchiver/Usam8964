@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1984392807952392422",
+    "created_at": "2025-11-01T16:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T17:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984664107954610411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980401937280561159",
+          "start": 0,
+          "username": "_conniesgrave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984664107954610411",
+    "in_reply_to_user_id": "1980401937280561159",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984392807952392422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_conniesgrave I am the one who cuts my arm too much"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1984392804395552768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4n6vejWkAAl9O0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1984392807952392422",
+        "created_at": "2025-11-01T16:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984664107954610411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980401937280561159",
+              "start": 0,
+              "username": "_conniesgrave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984664107954610411",
+        "in_reply_to_user_id": "1980401937280561159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984392807952392422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_conniesgrave I am the one who cuts my arm too much"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984392804395552768"
+          ]
+        },
+        "author_id": "1980401937280561159",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Non-fungible tokens",
+              "id": "1369311988040355840",
+              "name": "NFTs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521274017130319872",
+              "name": "Koda NFTs"
+            }
+          }
+        ],
+        "conversation_id": "1984392807952392422",
+        "created_at": "2025-10-31T22:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T23:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984392807952392422"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "koda",
+              "probability": 0.5097,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wyuyevTivx",
+              "end": 97,
+              "expanded_url": "https://x.com/_conniesgrave/status/1984392807952392422/photo/1",
+              "media_key": "3_1984392804395552768",
+              "start": 74,
+              "url": "https://t.co/wyuyevTivx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984392807952392422",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 14426,
+          "like_count": 3240,
+          "quote_count": 46,
+          "reply_count": 15,
+          "retweet_count": 470
+        },
+        "reply_settings": "everyone",
+        "text": "had nowhere to post this dynamic so have it while koda two time isn't out https://t.co/wyuyevTivx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3482,
+          "following_count": 1029,
+          "like_count": 33067,
+          "listed_count": 9,
+          "media_count": 463,
+          "tweet_count": 4091
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:33:52.000Z",
+        "description": "♡ . .  ꒰ ⚰️  multifandom  ༝  no dni 🦴 .ᐟ\n︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵\n                    . ◟🪦 i dont use twitter much ok? ok. ໒꒰ྀིっ˕ -｡꒱ྀི১              ♡   🌈🍖/🎱🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "conniesgrave.straw.page",
+                "end": 23,
+                "expanded_url": "https://conniesgrave.straw.page",
+                "start": 0,
+                "url": "https://t.co/NXCFSBUsDd"
+              }
+            ]
+          }
+        },
+        "id": "1980401937280561159",
+        "name": "connie of proshiptwt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980403153360035840/PISwMlaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 32,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/NXCFSBUsDd",
+        "username": "_conniesgrave",
+        "verified": false
+      }
+    ]
+  }
+}

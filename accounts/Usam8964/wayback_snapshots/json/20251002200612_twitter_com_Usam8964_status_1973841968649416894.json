@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1973841968649416894",
+    "created_at": "2025-10-02T20:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T21:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973841968649416894"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973841968649416894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想加微信的宝子可以私聊我，不是三无号我查成分会加的，可以免费陪聊陪玩，看我清醒的时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1973841968649416894",
+        "created_at": "2025-10-02T20:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T21:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973841968649416894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973841968649416894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想加微信的宝子可以私聊我，不是三无号我查成分会加的，可以免费陪聊陪玩，看我清醒的时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "不是男娘/社交苦手/持证含糖/肄业JK/纯生活推\n正體中文/简体中文/日本語/English\n正室：@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3444,
+          "following_count": 1028,
+          "like_count": 33285,
+          "listed_count": 10,
+          "media_count": 461,
+          "tweet_count": 4050
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

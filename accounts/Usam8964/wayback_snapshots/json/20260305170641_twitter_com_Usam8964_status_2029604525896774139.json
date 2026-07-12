@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2029604525896774139",
+    "created_at": "2026-03-05T17:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T18:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029604525896774139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seitenkanna/st…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/seitenkanna/status/2029380379480891425",
+          "start": 50,
+          "url": "https://t.co/B9mDngRFmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029604525896774139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029380379480891425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有个橡胶果实能给自己捏脸捏身材，再来个哥特妈咪每天晚上在床边给我念欧洲恐怖故事，我不知道会有多幸福 https://t.co/B9mDngRFmi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_2029380339173605384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCnOqpaawAg_qtv.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029604525896774139",
+        "created_at": "2026-03-05T17:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029604525896774139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seitenkanna/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/seitenkanna/status/2029380379480891425",
+              "start": 50,
+              "url": "https://t.co/B9mDngRFmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029604525896774139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029380379480891425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有个橡胶果实能给自己捏脸捏身材，再来个哥特妈咪每天晚上在床边给我念欧洲恐怖故事，我不知道会有多幸福 https://t.co/B9mDngRFmi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029380339173605384"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "conversation_id": "2029380379480891425",
+        "created_at": "2026-03-05T02:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029380379480891425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLIohVYa3L",
+              "end": 32,
+              "expanded_url": "https://x.com/seitenkanna/status/2029380379480891425/photo/1",
+              "media_key": "3_2029380339173605384",
+              "start": 9,
+              "url": "https://t.co/FLIohVYa3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029380379480891425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 126786,
+          "like_count": 881,
+          "quote_count": 8,
+          "reply_count": 75,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "這錢你要怎麼花? https://t.co/FLIohVYa3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3577,
+          "following_count": 1066,
+          "like_count": 35477,
+          "listed_count": 8,
+          "media_count": 346,
+          "tweet_count": 4572
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSuX6j\n圖奇:https://t.co/YkKOU5z2az \nDC群:https://t.co/9pJ2kTcrlK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 22,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 74,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 51,
+                "url": "https://t.co/O6HztSuX6j"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 101,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 78,
+                "url": "https://t.co/YkKOU5z2az"
+              },
+              {
+                "display_url": "discord.gg/R4BPCm6up",
+                "end": 130,
+                "expanded_url": "http://discord.gg/R4BPCm6up",
+                "start": 107,
+                "url": "https://t.co/9pJ2kTcrlK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGY3c"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天神奈@兩聲類Vtuber",
+        "pinned_tweet_id": "1713829179014426931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991793225141825536/rU2YpGKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 672,
+          "like_count": 21332,
+          "listed_count": 24,
+          "media_count": 2117,
+          "tweet_count": 12746
+        },
+        "url": "https://t.co/SRtlcPGY3c",
+        "username": "seitenkanna",
+        "verified": true
+      }
+    ]
+  }
+}

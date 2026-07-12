@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2032391700208075184",
+    "created_at": "2026-03-13T09:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T10:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032392392385646906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001598933169315840",
+          "start": 0,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032392392385646906",
+    "in_reply_to_user_id": "2001598933169315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032391700208075184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldscX 很酷，不说话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2032391678129209344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSBdpNaAAALWGr.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2032391700208075184",
+        "created_at": "2026-03-13T09:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032392392385646906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001598933169315840",
+              "start": 0,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032392392385646906",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032391700208075184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldscX 很酷，不说话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032391678129209344"
+          ]
+        },
+        "author_id": "2001598933169315840",
+        "conversation_id": "2032391700208075184",
+        "created_at": "2026-03-13T09:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032391700208075184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZFDhloGJD",
+              "end": 23,
+              "expanded_url": "https://x.com/XldscX/status/2032391700208075184/photo/1",
+              "media_key": "3_2032391678129209344",
+              "start": 0,
+              "url": "https://t.co/CZFDhloGJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032391700208075184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CZFDhloGJD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3604,
+          "following_count": 1100,
+          "like_count": 37525,
+          "listed_count": 9,
+          "media_count": 384,
+          "tweet_count": 4864
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./xy/无性别类似物/hrt24.4.20/181cm 59kg/无任何特长/喜欢Apex和睡觉/mai 15000/Arc 11.00/想打fps可以找我。\n\n可以叫我翎。\n\n蹭蓝标互关请私信，蓝标小号@AzureV1xen \n\n好厚米🇲🇴@letana358121\n对象♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "AzureV1xen"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "letana358121"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/song?id=263740…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/song?id=2637402867&uct2=U2FsdGVkX1/XfjjVnwMFP6PT6YaKrz8aBzuHf03Mm/E=",
+                "start": 0,
+                "url": "https://t.co/9UnSJ1lBcS"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "重庆市胖猫大桥",
+        "name": "赤骸",
+        "pinned_tweet_id": "2026573127841726842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031653162483085312/moL7xILD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 303,
+          "like_count": 7920,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 2910
+        },
+        "url": "https://t.co/9UnSJ1lBcS",
+        "username": "XldscX",
+        "verified": false
+      }
+    ]
+  }
+}

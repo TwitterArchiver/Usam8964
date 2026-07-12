@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1825254401705218188",
+    "created_at": "2024-08-19T19:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T20:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825610071344361723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "391180417",
+          "start": 0,
+          "username": "DalinHuang"
+        },
+        {
+          "end": 26,
+          "id": "1781715614706655232",
+          "start": 12,
+          "username": "xiaozhi222222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825610071344361723",
+    "in_reply_to_user_id": "391180417",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825422954408104360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DalinHuang @xiaozhi222222 突触凝练机：π=3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1825254401705218188",
+        "created_at": "2024-08-19T19:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T20:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825610071344361723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "391180417",
+              "start": 0,
+              "username": "DalinHuang"
+            },
+            {
+              "end": 26,
+              "id": "1781715614706655232",
+              "start": 12,
+              "username": "xiaozhi222222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825610071344361723",
+        "in_reply_to_user_id": "391180417",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825422954408104360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DalinHuang @xiaozhi222222 突触凝练机：π=3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "391180417",
+        "conversation_id": "1825254401705218188",
+        "created_at": "2024-08-19T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825422954408104360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781715614706655232",
+              "start": 0,
+              "username": "xiaozhi222222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825422954408104360",
+        "in_reply_to_user_id": "1781715614706655232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3778,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825254401705218188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhi222222 物理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 781,
+          "like_count": 18632,
+          "listed_count": 2,
+          "tweet_count": 2606
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-15T05:21:24.000Z",
+        "description": "Meme🐸/Ski⛷️/Fishing🎣/Tech👨‍💻| HiNature ® | Dad 👨‍👩‍👧‍👦 | https://t.co/G72rJ59yNj | ӾNO and Tesla. Crypto since 2013. All posts are my own / NFA. ▶️NoobFishing",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dalin.dev",
+                "end": 80,
+                "expanded_url": "https://dalin.dev",
+                "start": 57,
+                "url": "https://t.co/G72rJ59yNj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dalin.dev",
+                "end": 23,
+                "expanded_url": "https://dalin.dev",
+                "start": 0,
+                "url": "https://t.co/G72rJ59yNj"
+              }
+            ]
+          }
+        },
+        "id": "391180417",
+        "location": "Canada",
+        "name": "Dalin Huang",
+        "pinned_tweet_id": "1819581805906801120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811255186632929280/UxOQyToU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 431,
+          "like_count": 2590,
+          "listed_count": 12,
+          "tweet_count": 2797
+        },
+        "url": "https://t.co/G72rJ59yNj",
+        "username": "DalinHuang",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T16:04:53.000Z",
+        "description": "我只是一个爱搞抽象的小女孩\n双鱼INFP | 好友位22让你知道便宜没好货 门槛222既没有福利也没有特别待遇让你知道贵的也没有好货 | 匿名箱在此🙌🏻https://t.co/3js0mkbgDW | \n自用紫鸟VPN请点击👇🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaozhi222222",
+                "end": 99,
+                "expanded_url": "https://ngl.link/xiaozhi222222",
+                "start": 76,
+                "url": "https://t.co/3js0mkbgDW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ziniao.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://ziniao.top/#/register?code=nDypUHy8",
+                "start": 0,
+                "url": "https://t.co/JKXDGVtVV8"
+              }
+            ]
+          }
+        },
+        "id": "1781715614706655232",
+        "location": "Earth",
+        "name": "小峙",
+        "pinned_tweet_id": "1824461348216115409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781729387374899200/rt-iwKm1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 645,
+          "like_count": 12876,
+          "listed_count": 4,
+          "tweet_count": 6110
+        },
+        "url": "https://t.co/JKXDGVtVV8",
+        "username": "xiaozhi222222",
+        "verified": false
+      }
+    ]
+  }
+}

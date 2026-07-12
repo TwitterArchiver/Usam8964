@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1822367020698267648",
+        "3_1822367024519208960",
+        "3_1822367028294123520",
+        "3_1822367032295530496"
+      ],
+      "media_source_tweet_id": [
+        "1822367034686234639",
+        "1822367034686234639",
+        "1822367034686234639",
+        "1822367034686234639"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1822578586827862319",
+    "created_at": "2024-08-11T10:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T11:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822578586827862319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1354157392959660038",
+          "start": 3,
+          "username": "translate_cn"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Context: We report herein a remarkable family in which the mother of a woman with 46,XY complete gonadal dysgenesis was found to have a 46,XY karyotype in peripheral lymphocytes, mosaicism in cultured skin fibroblasts (80% 46,XY and 20% 45,X) and a predominantly ...",
+          "display_url": "ncbi.nlm.nih.gov/pmc/articles/P…",
+          "end": 80,
+          "expanded_url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC2190741/",
+          "images": [
+            {
+              "height": 836,
+              "url": "https://pbs.twimg.com/news_img/1822367039509729280/o1uYG-fd?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1822367039509729280/o1uYG-fd?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 57,
+          "status": 200,
+          "title": "Report of Fertility in a Woman with a Predominantly 46,XY Karyotype in a Family with Multiple Disorders of Sexual Development",
+          "unwound_url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC2190741/",
+          "url": "https://t.co/WpQOjqv77w"
+        },
+        {
+          "description": "2007年，克罗地亚发现一位性染色体为XY且成功生育的52岁女性。 这位52岁的女性有一位成绩优异的17岁女儿，因为女儿迟迟没有来月经，她带女儿前去就医。盆腔检查发现，17岁的女儿子宫偏小，其余一切正常。验血发现，这位17岁的女儿的性染色体为XY。进一步检查发现，17岁女儿的皮肤采样的性染色体也是XY。在采样的400个性腺细胞中，其中有3个的性染色体为X，其余都是XY。 医生请求这位52岁的母亲也做一些相关的检查。检查发现，这位52岁的女性子宫发育良好。病人自述月经规律，直至49岁绝经，绝经后为避免更年期相关症状，一直在服用雌激素。验血发现，这位52岁女性的性染色体也是XY。在采样的50个皮肤细胞中，其中10个的性染色体是X，其余都是XY。在采样的1000个性腺细胞中，其中59个的性染色体为X，6个为XX，6个为XXY，其余都是XY。 进一步检查表明，女儿的Y染色体来源为父亲。Y染色体不存在变异。在研究人员的请求下，该母女的多位亲属接受了检查，检查发现该母亲有多位亲属存在类似的基因变化。同时，根据这位母亲的回忆，自己外婆的一位姐姐因容貌男性化而不得不离开家乡，自己还有一位阿姨因长有胡须被家人禁止出门见人。 注1：大多数男性的性染色体为XY。大多数女性的性染色体为XX。 注2：性别是一种社会建构。性别和染色体、性特征、外貌、打扮都没有必然的联系。一个人的性别应由本人自身所感受到的为准。有XY染色体的人不一定是男性，有XX染色体的人也不一定是女性。查出性染色体为XY，也不说明当事人“其实是男性”。 source",
+          "display_url": "t.me/twitter_transl…",
+          "end": 108,
+          "expanded_url": "https://t.me/twitter_translate/23496",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1822367039450918912/Gr2M1S5d?format=jpg&name=orig",
+              "width": 250
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1822367039450918912/Gr2M1S5d?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 85,
+          "status": 200,
+          "title": "推特翻译",
+          "unwound_url": "https://t.me/twitter_translate/23496",
+          "url": "https://t.co/0omQOwj3yR"
+        },
+        {
+          "display_url": "pic.x.com/jk9ytl8mjt",
+          "end": 132,
+          "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+          "media_key": "3_1822367020698267648",
+          "start": 109,
+          "url": "https://t.co/Jk9YTl8mJt"
+        },
+        {
+          "display_url": "pic.x.com/jk9ytl8mjt",
+          "end": 132,
+          "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+          "media_key": "3_1822367024519208960",
+          "start": 109,
+          "url": "https://t.co/Jk9YTl8mJt"
+        },
+        {
+          "display_url": "pic.x.com/jk9ytl8mjt",
+          "end": 132,
+          "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+          "media_key": "3_1822367028294123520",
+          "start": 109,
+          "url": "https://t.co/Jk9YTl8mJt"
+        },
+        {
+          "display_url": "pic.x.com/jk9ytl8mjt",
+          "end": 132,
+          "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+          "media_key": "3_1822367032295530496",
+          "start": 109,
+          "url": "https://t.co/Jk9YTl8mJt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822578586827862319",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822367034686234639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @translate_cn: 2007年，克罗地亚发现一位性染色体为XY且成功生育的52岁女性。\n\n原文： https://t.co/WpQOjqv77w\n翻译： https://t.co/0omQOwj3yR https://t.co/Jk9YTl8mJt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1822367020698267648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUpZJmcbcAAQf6D.jpg",
+        "width": 1525
+      },
+      {
+        "height": 2560,
+        "media_key": "3_1822367024519208960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUpZJ0raYAAOIYg.jpg",
+        "width": 1525
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1822367028294123520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUpZKCvbAAAhZHQ.jpg",
+        "width": 1002
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1822367032295530496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUpZKRpboAAqQII.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822367020698267648",
+            "3_1822367024519208960",
+            "3_1822367028294123520",
+            "3_1822367032295530496"
+          ],
+          "media_source_tweet_id": [
+            "1822367034686234639",
+            "1822367034686234639",
+            "1822367034686234639",
+            "1822367034686234639"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1822578586827862319",
+        "created_at": "2024-08-11T10:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T11:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822578586827862319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1354157392959660038",
+              "start": 3,
+              "username": "translate_cn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Context: We report herein a remarkable family in which the mother of a woman with 46,XY complete gonadal dysgenesis was found to have a 46,XY karyotype in peripheral lymphocytes, mosaicism in cultured skin fibroblasts (80% 46,XY and 20% 45,X) and a predominantly ...",
+              "display_url": "ncbi.nlm.nih.gov/pmc/articles/P…",
+              "end": 80,
+              "expanded_url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC2190741/",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/1822367039509729280/o1uYG-fd?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1822367039509729280/o1uYG-fd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "Report of Fertility in a Woman with a Predominantly 46,XY Karyotype in a Family with Multiple Disorders of Sexual Development",
+              "unwound_url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC2190741/",
+              "url": "https://t.co/WpQOjqv77w"
+            },
+            {
+              "description": "2007年，克罗地亚发现一位性染色体为XY且成功生育的52岁女性。 这位52岁的女性有一位成绩优异的17岁女儿，因为女儿迟迟没有来月经，她带女儿前去就医。盆腔检查发现，17岁的女儿子宫偏小，其余一切正常。验血发现，这位17岁的女儿的性染色体为XY。进一步检查发现，17岁女儿的皮肤采样的性染色体也是XY。在采样的400个性腺细胞中，其中有3个的性染色体为X，其余都是XY。 医生请求这位52岁的母亲也做一些相关的检查。检查发现，这位52岁的女性子宫发育良好。病人自述月经规律，直至49岁绝经，绝经后为避免更年期相关症状，一直在服用雌激素。验血发现，这位52岁女性的性染色体也是XY。在采样的50个皮肤细胞中，其中10个的性染色体是X，其余都是XY。在采样的1000个性腺细胞中，其中59个的性染色体为X，6个为XX，6个为XXY，其余都是XY。 进一步检查表明，女儿的Y染色体来源为父亲。Y染色体不存在变异。在研究人员的请求下，该母女的多位亲属接受了检查，检查发现该母亲有多位亲属存在类似的基因变化。同时，根据这位母亲的回忆，自己外婆的一位姐姐因容貌男性化而不得不离开家乡，自己还有一位阿姨因长有胡须被家人禁止出门见人。 注1：大多数男性的性染色体为XY。大多数女性的性染色体为XX。 注2：性别是一种社会建构。性别和染色体、性特征、外貌、打扮都没有必然的联系。一个人的性别应由本人自身所感受到的为准。有XY染色体的人不一定是男性，有XX染色体的人也不一定是女性。查出性染色体为XY，也不说明当事人“其实是男性”。 source",
+              "display_url": "t.me/twitter_transl…",
+              "end": 108,
+              "expanded_url": "https://t.me/twitter_translate/23496",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1822367039450918912/Gr2M1S5d?format=jpg&name=orig",
+                  "width": 250
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1822367039450918912/Gr2M1S5d?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "推特翻译",
+              "unwound_url": "https://t.me/twitter_translate/23496",
+              "url": "https://t.co/0omQOwj3yR"
+            },
+            {
+              "display_url": "pic.x.com/jk9ytl8mjt",
+              "end": 132,
+              "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+              "media_key": "3_1822367020698267648",
+              "start": 109,
+              "url": "https://t.co/Jk9YTl8mJt"
+            },
+            {
+              "display_url": "pic.x.com/jk9ytl8mjt",
+              "end": 132,
+              "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+              "media_key": "3_1822367024519208960",
+              "start": 109,
+              "url": "https://t.co/Jk9YTl8mJt"
+            },
+            {
+              "display_url": "pic.x.com/jk9ytl8mjt",
+              "end": 132,
+              "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+              "media_key": "3_1822367028294123520",
+              "start": 109,
+              "url": "https://t.co/Jk9YTl8mJt"
+            },
+            {
+              "display_url": "pic.x.com/jk9ytl8mjt",
+              "end": 132,
+              "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+              "media_key": "3_1822367032295530496",
+              "start": 109,
+              "url": "https://t.co/Jk9YTl8mJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822578586827862319",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822367034686234639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @translate_cn: 2007年，克罗地亚发现一位性染色体为XY且成功生育的52岁女性。\n\n原文： https://t.co/WpQOjqv77w\n翻译： https://t.co/0omQOwj3yR https://t.co/Jk9YTl8mJt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822367020698267648",
+            "3_1822367024519208960",
+            "3_1822367028294123520",
+            "3_1822367032295530496"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "1822367034686234639",
+        "created_at": "2024-08-10T20:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T21:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822367034686234639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Context: We report herein a remarkable family in which the mother of a woman with 46,XY complete gonadal dysgenesis was found to have a 46,XY karyotype in peripheral lymphocytes, mosaicism in cultured skin fibroblasts (80% 46,XY and 20% 45,X) and a predominantly ...",
+              "display_url": "ncbi.nlm.nih.gov/pmc/articles/P…",
+              "end": 62,
+              "expanded_url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC2190741/",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/1822367039509729280/o1uYG-fd?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1822367039509729280/o1uYG-fd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "Report of Fertility in a Woman with a Predominantly 46,XY Karyotype in a Family with Multiple Disorders of Sexual Development",
+              "unwound_url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC2190741/",
+              "url": "https://t.co/WpQOjqv77w"
+            },
+            {
+              "description": "2007年，克罗地亚发现一位性染色体为XY且成功生育的52岁女性。 这位52岁的女性有一位成绩优异的17岁女儿，因为女儿迟迟没有来月经，她带女儿前去就医。盆腔检查发现，17岁的女儿子宫偏小，其余一切正常。验血发现，这位17岁的女儿的性染色体为XY。进一步检查发现，17岁女儿的皮肤采样的性染色体也是XY。在采样的400个性腺细胞中，其中有3个的性染色体为X，其余都是XY。 医生请求这位52岁的母亲也做一些相关的检查。检查发现，这位52岁的女性子宫发育良好。病人自述月经规律，直至49岁绝经，绝经后为避免更年期相关症状，一直在服用雌激素。验血发现，这位52岁女性的性染色体也是XY。在采样的50个皮肤细胞中，其中10个的性染色体是X，其余都是XY。在采样的1000个性腺细胞中，其中59个的性染色体为X，6个为XX，6个为XXY，其余都是XY。 进一步检查表明，女儿的Y染色体来源为父亲。Y染色体不存在变异。在研究人员的请求下，该母女的多位亲属接受了检查，检查发现该母亲有多位亲属存在类似的基因变化。同时，根据这位母亲的回忆，自己外婆的一位姐姐因容貌男性化而不得不离开家乡，自己还有一位阿姨因长有胡须被家人禁止出门见人。 注1：大多数男性的性染色体为XY。大多数女性的性染色体为XX。 注2：性别是一种社会建构。性别和染色体、性特征、外貌、打扮都没有必然的联系。一个人的性别应由本人自身所感受到的为准。有XY染色体的人不一定是男性，有XX染色体的人也不一定是女性。查出性染色体为XY，也不说明当事人“其实是男性”。 source",
+              "display_url": "t.me/twitter_transl…",
+              "end": 90,
+              "expanded_url": "https://t.me/twitter_translate/23496",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1822367039450918912/Gr2M1S5d?format=jpg&name=orig",
+                  "width": 250
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1822367039450918912/Gr2M1S5d?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "推特翻译",
+              "unwound_url": "https://t.me/twitter_translate/23496",
+              "url": "https://t.co/0omQOwj3yR"
+            },
+            {
+              "display_url": "pic.x.com/jk9ytl8mjt",
+              "end": 114,
+              "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+              "media_key": "3_1822367020698267648",
+              "start": 91,
+              "url": "https://t.co/Jk9YTl8mJt"
+            },
+            {
+              "display_url": "pic.x.com/jk9ytl8mjt",
+              "end": 114,
+              "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+              "media_key": "3_1822367024519208960",
+              "start": 91,
+              "url": "https://t.co/Jk9YTl8mJt"
+            },
+            {
+              "display_url": "pic.x.com/jk9ytl8mjt",
+              "end": 114,
+              "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+              "media_key": "3_1822367028294123520",
+              "start": 91,
+              "url": "https://t.co/Jk9YTl8mJt"
+            },
+            {
+              "display_url": "pic.x.com/jk9ytl8mjt",
+              "end": 114,
+              "expanded_url": "https://twitter.com/translate_cn/status/1822367034686234639/photo/1",
+              "media_key": "3_1822367032295530496",
+              "start": 91,
+              "url": "https://t.co/Jk9YTl8mJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822367034686234639",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1722,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "2007年，克罗地亚发现一位性染色体为XY且成功生育的52岁女性。\n\n原文： https://t.co/WpQOjqv77w\n翻译： https://t.co/0omQOwj3yR https://t.co/Jk9YTl8mJt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 767,
+          "like_count": 17175,
+          "listed_count": 2,
+          "tweet_count": 2510
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "关于我们： https://t.co/HrhGp1Y8A4\n\n参与翻译： https://t.co/UhWmHDw6RV\n\n我们欢迎所有善意的修改和转发。\n\n翻译中的用词取舍、是否为选译、译者校对者等信息，请至电报频道的评论区查看。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/twitter_transl…",
+                "end": 29,
+                "expanded_url": "https://linktr.ee/twitter_translate",
+                "start": 6,
+                "url": "https://t.co/HrhGp1Y8A4"
+              },
+              {
+                "display_url": "t.me/+UqONLgaRc1Mnq…",
+                "end": 60,
+                "expanded_url": "https://t.me/+UqONLgaRc1Mnq19T",
+                "start": 37,
+                "url": "https://t.co/UhWmHDw6RV"
+              }
+            ]
+          }
+        },
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1712022291092275438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16397,
+          "following_count": 20,
+          "like_count": 556,
+          "listed_count": 96,
+          "tweet_count": 7814
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1843365039379825042",
+    "created_at": "2024-10-08T13:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T14:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843649443939397953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821055353834131456",
+          "start": 0,
+          "username": "mzd1968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843649443939397953",
+    "in_reply_to_user_id": "1821055353834131456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843365039379825042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzd1968 第三张，经典皮肤🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1843365039379825042",
+        "created_at": "2024-10-08T13:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T14:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843649443939397953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821055353834131456",
+              "start": 0,
+              "username": "mzd1968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843649443939397953",
+        "in_reply_to_user_id": "1821055353834131456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843365039379825042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzd1968 第三张，经典皮肤🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843365032505290754",
+            "3_1843365033239293955",
+            "3_1843365035101626368"
+          ]
+        },
+        "author_id": "1821055353834131456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1843365039379825042",
+        "created_at": "2024-10-07T18:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T19:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843365039379825042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJfMwDdHwG",
+              "end": 44,
+              "expanded_url": "https://x.com/mzd1968/status/1843365039379825042/photo/1",
+              "media_key": "3_1843365032505290754",
+              "start": 21,
+              "url": "https://t.co/GJfMwDdHwG"
+            },
+            {
+              "display_url": "pic.x.com/GJfMwDdHwG",
+              "end": 44,
+              "expanded_url": "https://x.com/mzd1968/status/1843365039379825042/photo/1",
+              "media_key": "3_1843365033239293955",
+              "start": 21,
+              "url": "https://t.co/GJfMwDdHwG"
+            },
+            {
+              "display_url": "pic.x.com/GJfMwDdHwG",
+              "end": 44,
+              "expanded_url": "https://x.com/mzd1968/status/1843365039379825042/photo/1",
+              "media_key": "3_1843365035101626368",
+              "start": 21,
+              "url": "https://t.co/GJfMwDdHwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843365039379825042",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8554,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "习近平证件照的三个版本，你更喜欢哪一个？ https://t.co/GJfMwDdHwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 909,
+          "like_count": 25731,
+          "listed_count": 4,
+          "tweet_count": 3124
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T05:26:52.000Z",
+        "description": "会回关，没回就是没看到可以私信/毛左，倾向于支持建制/毛泽东思想拯救世界/吴非的主人/司马套皮扑街仔@aoxiongdiguo5 @mzd1967 /bot：@xijinping_bot @aoxiongdiguo8/🌟💢@Mizuki_8964 @ANON_SHANGHAI/不再对线",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "aoxiongdiguo5"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "mzd1967"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "xijinping_bot"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "aoxiongdiguo8"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Mizuki_8964"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "ANON_SHANGHAI"
+              }
+            ]
+          }
+        },
+        "id": "1821055353834131456",
+        "location": "就感觉到快",
+        "name": "陈伯达",
+        "pinned_tweet_id": "1842834620854751650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841120918480863232/eBG7MDrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1046,
+          "like_count": 5827,
+          "listed_count": 2,
+          "tweet_count": 4821
+        },
+        "username": "mzd1968",
+        "verified": false
+      }
+    ]
+  }
+}

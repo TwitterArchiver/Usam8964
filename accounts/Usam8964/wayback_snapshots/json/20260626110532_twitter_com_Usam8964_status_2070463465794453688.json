@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070067639603617792"
+      ],
+      "media_source_tweet_id": [
+        "2070067641952485384"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2070463465794453688",
+    "created_at": "2026-06-26T11:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070463465794453688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2062972889729847296",
+          "start": 3,
+          "username": "YNxxxjjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zuIa1ZLPNY",
+          "end": 64,
+          "expanded_url": "https://x.com/YNxxxjjkk/status/2070067641952485384/photo/1",
+          "media_key": "3_2070067639603617792",
+          "start": 41,
+          "url": "https://t.co/zuIa1ZLPNY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070463465794453688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070067641952485384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YNxxxjjkk: 我是旖旎。我的前三世都被封锁了。马斯克，你无敌了。 https://t.co/zuIa1ZLPNY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2070067639603617792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpbjO-a4AAtZGz.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070067639603617792"
+          ],
+          "media_source_tweet_id": [
+            "2070067641952485384"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2070463465794453688",
+        "created_at": "2026-06-26T11:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070463465794453688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2062972889729847296",
+              "start": 3,
+              "username": "YNxxxjjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuIa1ZLPNY",
+              "end": 64,
+              "expanded_url": "https://x.com/YNxxxjjkk/status/2070067641952485384/photo/1",
+              "media_key": "3_2070067639603617792",
+              "start": 41,
+              "url": "https://t.co/zuIa1ZLPNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070463465794453688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070067641952485384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YNxxxjjkk: 我是旖旎。我的前三世都被封锁了。马斯克，你无敌了。 https://t.co/zuIa1ZLPNY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070067639603617792"
+          ]
+        },
+        "author_id": "2062972889729847296",
+        "conversation_id": "2070067641952485384",
+        "created_at": "2026-06-25T08:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070067641952485384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuIa1ZLPNY",
+              "end": 49,
+              "expanded_url": "https://x.com/YNxxxjjkk/status/2070067641952485384/photo/1",
+              "media_key": "3_2070067639603617792",
+              "start": 26,
+              "url": "https://t.co/zuIa1ZLPNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070067641952485384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 900,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是旖旎。我的前三世都被封锁了。马斯克，你无敌了。 https://t.co/zuIa1ZLPNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4026,
+          "following_count": 1314,
+          "like_count": 71224,
+          "listed_count": 6,
+          "media_count": 570,
+          "tweet_count": 7886
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T19:01:12.000Z",
+        "description": "我的病历本。\n前三世都被封了。马斯克，你就追着我杀吧。",
+        "id": "2062972889729847296",
+        "name": "YN",
+        "pinned_tweet_id": "2070067641952485384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062973424906182656/JZRg31DI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "YNxxxjjkk",
+        "verified": false
+      }
+    ]
+  }
+}

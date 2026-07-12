@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929192819262115840"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1928788177596104993",
+    "created_at": "2025-06-01T15:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T16:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929192822424399998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883047762729820160",
+          "start": 0,
+          "username": "tidy_fun8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TYKBUtD0rO",
+          "end": 44,
+          "expanded_url": "https://x.com/Usam8964/status/1929192822424399998/photo/1",
+          "media_key": "3_1929192819262115840",
+          "start": 21,
+          "url": "https://t.co/TYKBUtD0rO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929192822424399998",
+    "in_reply_to_user_id": "1883047762729820160",
+    "lang": "lt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928788177596104993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tidy_fun8964 pixel5 https://t.co/TYKBUtD0rO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929192819262115840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXepddaUAA4jnO.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928788174874226691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRuoDpaMAM3TcF.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929192819262115840"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1928788177596104993",
+        "created_at": "2025-06-01T15:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T16:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929192822424399998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883047762729820160",
+              "start": 0,
+              "username": "tidy_fun8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYKBUtD0rO",
+              "end": 44,
+              "expanded_url": "https://x.com/Usam8964/status/1929192822424399998/photo/1",
+              "media_key": "3_1929192819262115840",
+              "start": 21,
+              "url": "https://t.co/TYKBUtD0rO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929192822424399998",
+        "in_reply_to_user_id": "1883047762729820160",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928788177596104993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tidy_fun8964 pixel5 https://t.co/TYKBUtD0rO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928788174874226691"
+          ]
+        },
+        "author_id": "1883047762729820160",
+        "conversation_id": "1928788177596104993",
+        "created_at": "2025-05-31T12:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T13:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928788177596104993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrCWFBxUKJ",
+              "end": 44,
+              "expanded_url": "https://x.com/tidy_fun8964/status/1928788177596104993/photo/1",
+              "media_key": "3_1928788174874226691",
+              "start": 21,
+              "url": "https://t.co/XrCWFBxUKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928788177596104993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5643,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 80,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看你们的control center👊 https://t.co/XrCWFBxUKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2894,
+          "following_count": 1036,
+          "like_count": 33064,
+          "listed_count": 8,
+          "media_count": 443,
+          "tweet_count": 3810
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T07:02:44.000Z",
+        "description": "『如果以后再也遇不到你 那祝你 早安 午安 晚安』\n好宝宝🤤 @JyushitiYizuka @LiuSuK7777 @LightlyXiaoLu99 @Quitewaterqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "JyushitiYizuka"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "LiuSuK7777"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "LightlyXiaoLu99"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Quitewaterqwq"
+              }
+            ]
+          }
+        },
+        "id": "1883047762729820160",
+        "location": "秋葉原",
+        "name": "泉こなたOffical🇺🇳",
+        "pinned_tweet_id": "1927764183724020144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928107397618274304/Z0ZdVWJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 1722,
+          "like_count": 7836,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 4846
+        },
+        "username": "tidy_fun8964",
+        "verified": false
+      }
+    ]
+  }
+}

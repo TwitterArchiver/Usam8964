@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2032195102949691476",
+    "created_at": "2026-03-13T01:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T02:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032275126029525067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711227715939160064",
+          "start": 0,
+          "username": "Umino_0906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032275126029525067",
+    "in_reply_to_user_id": "1711227715939160064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032195102949691476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Umino_0906 ジャッジメード"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2032195102949691476",
+        "created_at": "2026-03-13T01:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032275126029525067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711227715939160064",
+              "start": 0,
+              "username": "Umino_0906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032275126029525067",
+        "in_reply_to_user_id": "1711227715939160064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032195102949691476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Umino_0906 ジャッジメード"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711227715939160064",
+        "conversation_id": "2032195102949691476",
+        "created_at": "2026-03-12T20:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032195102949691476"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "水手服"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "女仆装"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "哥特"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "校服"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032195102949691476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 298,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在各位的支持下也是艰难到达100关注了\n不知道怎么感谢所以发一个小投票\n（其实还有很多其他风格，妹妹风（？姐姐，酷一点的，都可以发，我会记录的。如果最后无人在意的话我就随便发点别的什么了）\n总而言之还是请大家多多关注！\n我是海野，谢谢大家，祝大家天天开心🥳🥳\n#水手服 #女仆装 #哥特 #校服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3604,
+          "following_count": 1098,
+          "like_count": 37308,
+          "listed_count": 9,
+          "media_count": 378,
+          "tweet_count": 4810
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T03:51:06.000Z",
+        "description": "清水推，聊黄聊骚的滚，盗图狗也滚，不要冲我脸我会骂人。只有一个号，盗图请自辨，也不会收任何钱，大家不要被骗",
+        "id": "1711227715939160064",
+        "name": "海野",
+        "pinned_tweet_id": "2031333783040045066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031335805646680065/2Tx9Uw-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 659,
+          "like_count": 725,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 220
+        },
+        "username": "Umino_0906",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1839862223822565464",
+    "created_at": "2024-09-28T12:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T13:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839999900035297309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767521153952968704",
+          "start": 0,
+          "username": "Entro_Enthal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839999900035297309",
+    "in_reply_to_user_id": "1767521153952968704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839862223822565464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entro_Enthal 我妹也是，有一次上完学回来，跟我说，她想要日本人全死光，日本人都是坏蛋之类的。她才8岁啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1839862223822565464",
+        "created_at": "2024-09-28T12:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T13:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839999900035297309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767521153952968704",
+              "start": 0,
+              "username": "Entro_Enthal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839999900035297309",
+        "in_reply_to_user_id": "1767521153952968704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839862223822565464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entro_Enthal 我妹也是，有一次上完学回来，跟我说，她想要日本人全死光，日本人都是坏蛋之类的。她才8岁啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767521153952968704",
+        "conversation_id": "1839862223822565464",
+        "created_at": "2024-09-28T02:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T03:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839862223822565464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839862223822565464",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9453,
+          "like_count": 164,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我妹昨天回家和我说：“日本人都该杀了，在海里排放核污水。”\n我说：“别听网上那些宣传机器炒作，日本政府排放核污水，关日本人什么事呢？”\n我妹：“日本政府就是日本人。”\n我说：“那照你的意思，中共就是中国人呗。”\n我妹：“不是吗？中国共产党体现的是中国人民的意志。”\n/第1页"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 893,
+          "like_count": 25206,
+          "listed_count": 3,
+          "tweet_count": 3043
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T12:01:11.000Z",
+        "description": "She&her/Preparing HRT/TransLesbian/15 years old 🏳️‍⚧MtF🏳️‍⚧/INFP/Dependence on Estradiol/Based in Beijing/CChOer/Submissive/Prepar3D Player",
+        "id": "1767521153952968704",
+        "location": "Beijing",
+        "name": "🍥焓熵🏳️‍⚧（期望中日友好版）",
+        "pinned_tweet_id": "1839992644342296925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786987194491744256/tgnoIq6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 433,
+          "like_count": 2089,
+          "listed_count": 0,
+          "tweet_count": 703
+        },
+        "username": "Entro_Enthal",
+        "verified": false
+      }
+    ]
+  }
+}

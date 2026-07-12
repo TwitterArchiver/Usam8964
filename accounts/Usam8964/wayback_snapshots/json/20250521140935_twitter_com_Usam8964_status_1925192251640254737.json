@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1924151272284000484",
+    "created_at": "2025-05-21T14:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T15:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925192251640254737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925192251640254737",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924151272284000484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ bombarbini gusini"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1454,
+        "media_key": "3_1924151269146386432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrP1YnuWYAASSie.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1924151272284000484",
+        "created_at": "2025-05-21T14:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T15:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925192251640254737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925192251640254737",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924151272284000484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ bombarbini gusini"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924151269146386432"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "1924151272284000484",
+        "created_at": "2025-05-18T17:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T18:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924151272284000484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dy7rWyGnnA",
+              "end": 31,
+              "expanded_url": "https://x.com/huahuojiang_/status/1924151272284000484/photo/1",
+              "media_key": "3_1924151269146386432",
+              "start": 8,
+              "url": "https://t.co/dy7rWyGnnA"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "1924151272284000484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1683,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "专业对口，hi https://t.co/dy7rWyGnnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 1032,
+          "like_count": 32947,
+          "listed_count": 8,
+          "media_count": 441,
+          "tweet_count": 3794
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Muoujiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 55,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 32,
+                "url": "https://t.co/LtoB1mlWHz"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1874363360755831286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5745,
+          "following_count": 3596,
+          "like_count": 83434,
+          "listed_count": 12,
+          "media_count": 4011,
+          "tweet_count": 70793
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

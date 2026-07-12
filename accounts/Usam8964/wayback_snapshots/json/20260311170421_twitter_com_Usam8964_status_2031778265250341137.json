@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031775616685793765",
+    "created_at": "2026-03-11T17:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T18:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031778265250341137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1495305183030497286",
+          "start": 0,
+          "username": "youdanmeiyouyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031778265250341137",
+    "in_reply_to_user_id": "1495305183030497286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031775616685793765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youdanmeiyouyou ゲームでしか味わえないキャンパスライフ🏳️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031775616685793765",
+        "created_at": "2026-03-11T17:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031778265250341137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1495305183030497286",
+              "start": 0,
+              "username": "youdanmeiyouyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031778265250341137",
+        "in_reply_to_user_id": "1495305183030497286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031775616685793765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youdanmeiyouyou ゲームでしか味わえないキャンパスライフ🏳️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495305183030497286",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2031775616685793765",
+        "created_at": "2026-03-11T16:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031775616685793765"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "東洋英和",
+              "probability": 0.5976,
+              "start": 24,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/usam8964/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/usam8964/status/2031693451608432810",
+              "start": 40,
+              "url": "https://t.co/7TaOAU9MlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031775616685793765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031693451608432810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "脳内検索してみたら🤡女子校除いてみたら立教女と東洋英和の辺の学校しか残ってない https://t.co/7TaOAU9MlU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 1082,
+          "like_count": 36796,
+          "listed_count": 8,
+          "media_count": 362,
+          "tweet_count": 4656
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T07:52:04.000Z",
+        "description": "学校擬人化/東京師範と慶應と🍵激推し/女子枠、指定校入試批判/高等教育 学校指定校推薦入試改革/オリキャラ、制服、教育、語学勉強のこと呟く/子供十七人いるシングルファザー/世界女子校聖地巡礼中/慶應の誇りを取り戻す/国立大学授業料値上げ支持/縮小@yuukikagi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "yuukikagi2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9e10ma96mw3uj7…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9e10ma96mw3uj7o?t=QG4fNE&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FTIyv7tjgd"
+              }
+            ]
+          }
+        },
+        "id": "1495305183030497286",
+        "location": "慶應義塾大学（羽沢横浜国大キャンパス）🤡",
+        "name": "ゆうき　生まれたから慶應推しデス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880275215458136065/-cRY-lNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1643,
+          "like_count": 42476,
+          "listed_count": 7,
+          "media_count": 1476,
+          "tweet_count": 14031
+        },
+        "url": "https://t.co/FTIyv7tjgd",
+        "username": "youdanmeiyouyou",
+        "verified": false
+      }
+    ]
+  }
+}

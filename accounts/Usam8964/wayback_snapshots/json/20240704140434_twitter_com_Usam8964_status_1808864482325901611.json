@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1808860101694083570",
+    "created_at": "2024-07-04T14:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T15:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808864482325901611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596181948975628288",
+          "start": 0,
+          "username": "ddsqqq1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808864482325901611",
+    "in_reply_to_user_id": "1596181948975628288",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808863886151725481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddsqqq1 早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1808860101694083570",
+        "created_at": "2024-07-04T14:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T15:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808864482325901611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596181948975628288",
+              "start": 0,
+              "username": "ddsqqq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808864482325901611",
+        "in_reply_to_user_id": "1596181948975628288",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808863886151725481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddsqqq1 早"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596181948975628288",
+        "conversation_id": "1808860101694083570",
+        "created_at": "2024-07-04T14:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T15:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808863886151725481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808863886151725481",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808860101694083570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 早"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 706,
+          "like_count": 13331,
+          "listed_count": 2,
+          "tweet_count": 2351
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T16:40:27.000Z",
+        "description": "是郭楠",
+        "id": "1596181948975628288",
+        "location": "不知道",
+        "name": "Ningyue",
+        "pinned_tweet_id": "1805289723923251271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797671446837374976/6_HzEhAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 1312,
+          "like_count": 33111,
+          "listed_count": 2,
+          "tweet_count": 3500
+        },
+        "username": "ddsqqq1",
+        "verified": false
+      }
+    ]
+  }
+}

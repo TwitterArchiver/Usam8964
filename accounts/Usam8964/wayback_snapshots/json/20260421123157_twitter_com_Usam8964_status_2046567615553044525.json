@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046567581696589824",
+        "3_2046567612189163520"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2046567615553044525",
+    "created_at": "2026-04-21T12:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046567615553044525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q0ifCojEwx",
+          "end": 32,
+          "expanded_url": "https://x.com/Usam8964/status/2046567615553044525/photo/1",
+          "media_key": "3_2046567581696589824",
+          "start": 9,
+          "url": "https://t.co/Q0ifCojEwx"
+        },
+        {
+          "display_url": "pic.x.com/Q0ifCojEwx",
+          "end": 32,
+          "expanded_url": "https://x.com/Usam8964/status/2046567615553044525/photo/1",
+          "media_key": "3_2046567612189163520",
+          "start": 9,
+          "url": "https://t.co/Q0ifCojEwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046567615553044525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是非常健全的人 https://t.co/Q0ifCojEwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2046567581696589824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbeX1PbAAAsh86.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2046567612189163520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbeZm1awAAvmFM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046567581696589824",
+            "3_2046567612189163520"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2046567615553044525",
+        "created_at": "2026-04-21T12:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046567615553044525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0ifCojEwx",
+              "end": 32,
+              "expanded_url": "https://x.com/Usam8964/status/2046567615553044525/photo/1",
+              "media_key": "3_2046567581696589824",
+              "start": 9,
+              "url": "https://t.co/Q0ifCojEwx"
+            },
+            {
+              "display_url": "pic.x.com/Q0ifCojEwx",
+              "end": 32,
+              "expanded_url": "https://x.com/Usam8964/status/2046567615553044525/photo/1",
+              "media_key": "3_2046567612189163520",
+              "start": 9,
+              "url": "https://t.co/Q0ifCojEwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046567615553044525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是非常健全的人 https://t.co/Q0ifCojEwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3642,
+          "following_count": 1168,
+          "like_count": 53746,
+          "listed_count": 6,
+          "media_count": 476,
+          "tweet_count": 6626
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

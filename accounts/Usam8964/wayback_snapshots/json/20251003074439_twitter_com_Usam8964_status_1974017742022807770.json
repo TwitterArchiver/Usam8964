@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956961829990842368"
+      ],
+      "media_source_tweet_id": [
+        "1956961838350152056"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1974017742022807770",
+    "created_at": "2025-10-03T07:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T08:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974017742022807770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "20603690",
+          "start": 3,
+          "username": "korindo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bGDdnO4gl9",
+          "end": 59,
+          "expanded_url": "https://x.com/korindo/status/1956961838350152056/photo/1",
+          "media_key": "3_1956961829990842368",
+          "start": 36,
+          "url": "https://t.co/bGDdnO4gl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974017742022807770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 663
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956961838350152056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @korindo: 無事生還しました。夏コミお疲れさまでしたー！ https://t.co/bGDdnO4gl9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1956961829990842368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyiGanuaQAAT1qU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956961829990842368"
+          ],
+          "media_source_tweet_id": [
+            "1956961838350152056"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1974017742022807770",
+        "created_at": "2025-10-03T07:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974017742022807770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "20603690",
+              "start": 3,
+              "username": "korindo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGDdnO4gl9",
+              "end": 59,
+              "expanded_url": "https://x.com/korindo/status/1956961838350152056/photo/1",
+              "media_key": "3_1956961829990842368",
+              "start": 36,
+              "url": "https://t.co/bGDdnO4gl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974017742022807770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 663
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956961838350152056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @korindo: 無事生還しました。夏コミお疲れさまでしたー！ https://t.co/bGDdnO4gl9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956961829990842368"
+          ]
+        },
+        "author_id": "20603690",
+        "conversation_id": "1956961838350152056",
+        "created_at": "2025-08-17T06:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T07:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956961838350152056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGDdnO4gl9",
+              "end": 46,
+              "expanded_url": "https://x.com/korindo/status/1956961838350152056/photo/1",
+              "media_key": "3_1956961829990842368",
+              "start": 23,
+              "url": "https://t.co/bGDdnO4gl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956961838350152056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 147530,
+          "like_count": 5749,
+          "quote_count": 5,
+          "reply_count": 48,
+          "retweet_count": 663
+        },
+        "reply_settings": "everyone",
+        "text": "無事生還しました。夏コミお疲れさまでしたー！ https://t.co/bGDdnO4gl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏 静かに交流できる方、歓迎します。",
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 1028,
+          "like_count": 33288,
+          "listed_count": 10,
+          "media_count": 461,
+          "tweet_count": 4061
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-11T17:13:40.000Z",
+        "description": "ZUNという名だけ知られているエニグマティクデベロッパー",
+        "id": "20603690",
+        "location": "幻想郷",
+        "name": "博麗神主",
+        "pinned_tweet_id": "1838542908145963290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843477823031480320/Dr_WWVkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557083,
+          "following_count": 102,
+          "like_count": 11,
+          "listed_count": 4915,
+          "media_count": 685,
+          "tweet_count": 9604
+        },
+        "username": "korindo",
+        "verified": true
+      }
+    ]
+  }
+}

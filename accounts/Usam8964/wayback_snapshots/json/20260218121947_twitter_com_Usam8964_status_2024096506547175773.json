@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2023870996353286606",
+    "created_at": "2026-02-18T12:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024096506547175773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937086999548035072",
+          "start": 0,
+          "username": "Jaime_Rimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024096506547175773",
+    "in_reply_to_user_id": "1937086999548035072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024078390823715096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaime_Rimi 不孬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2023870996353286606",
+        "created_at": "2026-02-18T12:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024096506547175773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1937086999548035072",
+              "start": 0,
+              "username": "Jaime_Rimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024096506547175773",
+        "in_reply_to_user_id": "1937086999548035072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024078390823715096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaime_Rimi 不孬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937086999548035072",
+        "conversation_id": "2023870996353286606",
+        "created_at": "2026-02-18T11:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024078390823715096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024078390823715096",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023873047468593594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 这张图是我做的哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3547,
+          "following_count": 1065,
+          "like_count": 34180,
+          "listed_count": 8,
+          "media_count": 316,
+          "tweet_count": 4178
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:55:18.000Z",
+        "description": "ACGN爱好者，温和右翼，支持🇮🇱&🇺🇦，友性少数群体。\n🈲政治内容生活号@vivahumanrights，里账@0222ArayaTouka。\n主人: @K1raK1ra818",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "vivahumanrights"
+              },
+              {
+                "end": 71,
+                "start": 56,
+                "username": "0222ArayaTouka"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "K1raK1ra818"
+              }
+            ]
+          }
+        },
+        "id": "1937086999548035072",
+        "location": "QC",
+        "name": "Léo ⚜️",
+        "pinned_tweet_id": "2018555624112726344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016378797541486592/dTaapTTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 1530,
+          "like_count": 4960,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1524
+        },
+        "username": "Jaime_Rimi",
+        "verified": false
+      }
+    ]
+  }
+}

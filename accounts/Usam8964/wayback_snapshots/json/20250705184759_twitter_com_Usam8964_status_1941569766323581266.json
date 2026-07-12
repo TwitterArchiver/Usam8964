@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1941335929798775164",
+    "created_at": "2025-07-05T18:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T19:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941569766323581266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "405353604",
+          "start": 0,
+          "username": "azusa_banjo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941569766323581266",
+    "in_reply_to_user_id": "405353604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941335929798775164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azusa_banjo 诺斯费拉图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_1941335922597036037",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvECvGgaAAUaXpF.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1941335929798775164",
+        "created_at": "2025-07-05T18:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T19:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941569766323581266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "405353604",
+              "start": 0,
+              "username": "azusa_banjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941569766323581266",
+        "in_reply_to_user_id": "405353604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941335929798775164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azusa_banjo 诺斯费拉图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941335922597036037"
+          ]
+        },
+        "author_id": "405353604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941335929798775164",
+        "created_at": "2025-07-05T03:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T04:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941335929798775164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/prnvUkYDoY",
+              "end": 31,
+              "expanded_url": "https://x.com/azusa_banjo/status/1941335929798775164/photo/1",
+              "media_key": "3_1941335922597036037",
+              "start": 8,
+              "url": "https://t.co/prnvUkYDoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941335929798775164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 43378,
+          "like_count": 4084,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 584
+        },
+        "reply_settings": "everyone",
+        "text": "ヴァンパイア♂ https://t.co/prnvUkYDoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2989,
+          "following_count": 1031,
+          "like_count": 33616,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 3870
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-05T06:04:30.000Z",
+        "description": "漫画家◆主人公(♂)のことが好きすぎる男の娘(おとこのこ)の漫画を描いてます◆comicPOOL『恋する（おとめ）の作り方』隔週金曜▶https://t.co/KI74JdgIC1 ◆既刊紹介・お問い合わせ・その他すべてのリンクはこちら▶https://t.co/27yaP4hmHz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic.pixiv.net/works/6403",
+                "end": 90,
+                "expanded_url": "http://comic.pixiv.net/works/6403",
+                "start": 67,
+                "url": "https://t.co/KI74JdgIC1"
+              },
+              {
+                "display_url": "lit.link/azusabanjo",
+                "end": 142,
+                "expanded_url": "https://lit.link/azusabanjo",
+                "start": 119,
+                "url": "https://t.co/27yaP4hmHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=5279612",
+                "start": 0,
+                "url": "https://t.co/68EbQiqVxd"
+              }
+            ]
+          }
+        },
+        "id": "405353604",
+        "location": "リプライ全て見てます、いつもありがとうございます！",
+        "name": "万丈梓",
+        "pinned_tweet_id": "1929553607646666812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520691095159541762/0x5eAcvI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262779,
+          "following_count": 428,
+          "like_count": 29476,
+          "listed_count": 1484,
+          "media_count": 2195,
+          "tweet_count": 15116
+        },
+        "url": "https://t.co/68EbQiqVxd",
+        "username": "azusa_banjo",
+        "verified": true
+      }
+    ]
+  }
+}

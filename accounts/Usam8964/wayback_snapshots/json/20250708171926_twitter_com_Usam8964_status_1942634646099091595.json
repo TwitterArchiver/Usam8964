@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1942541612547985890",
+    "created_at": "2025-07-08T17:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T18:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942634646099091595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2733045266",
+          "start": 0,
+          "username": "kobayashmiyako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942634646099091595",
+    "in_reply_to_user_id": "2733045266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942541612547985890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kobayashmiyako 听说米兰一瓶苹果汁17欧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942541600518795264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVLSyxXcAA88O6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942541601013719040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVLS0nXYAApecA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942541601957396480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVLS4IWwAAWWRn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942541602657873920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVLS6vXMAAsO5T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1942541612547985890",
+        "created_at": "2025-07-08T17:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T18:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942634646099091595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2733045266",
+              "start": 0,
+              "username": "kobayashmiyako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942634646099091595",
+        "in_reply_to_user_id": "2733045266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942541612547985890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kobayashmiyako 听说米兰一瓶苹果汁17欧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942541600518795264",
+            "3_1942541601013719040",
+            "3_1942541601957396480",
+            "3_1942541602657873920"
+          ]
+        },
+        "author_id": "2733045266",
+        "conversation_id": "1942541612547985890",
+        "created_at": "2025-07-08T11:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942541612547985890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2tMKbjS83",
+              "end": 155,
+              "expanded_url": "https://x.com/kobayashmiyako/status/1942541612547985890/photo/1",
+              "media_key": "3_1942541600518795264",
+              "start": 132,
+              "url": "https://t.co/l2tMKbjS83"
+            },
+            {
+              "display_url": "pic.x.com/l2tMKbjS83",
+              "end": 155,
+              "expanded_url": "https://x.com/kobayashmiyako/status/1942541612547985890/photo/1",
+              "media_key": "3_1942541601013719040",
+              "start": 132,
+              "url": "https://t.co/l2tMKbjS83"
+            },
+            {
+              "display_url": "pic.x.com/l2tMKbjS83",
+              "end": 155,
+              "expanded_url": "https://x.com/kobayashmiyako/status/1942541612547985890/photo/1",
+              "media_key": "3_1942541601957396480",
+              "start": 132,
+              "url": "https://t.co/l2tMKbjS83"
+            },
+            {
+              "display_url": "pic.x.com/l2tMKbjS83",
+              "end": 155,
+              "expanded_url": "https://x.com/kobayashmiyako/status/1942541612547985890/photo/1",
+              "media_key": "3_1942541602657873920",
+              "start": 132,
+              "url": "https://t.co/l2tMKbjS83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942541612547985890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "意大利可爱小喵求寄养，最好罗马米兰，其他位置也可🥺\n从七月中到十月，因为现在房东不让养所以想临时找人帮忙带一下猫，猫乖懂事粘人事少，情绪价值能给足\n因为实在没钱找商业寄养，身边也没人可以帮忙养，只好上推求助看看有没有喜欢猫猫的能帮忙带一下孩子QAQ\n眼熟推油优先 https://t.co/l2tMKbjS83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2991,
+          "following_count": 1031,
+          "like_count": 33822,
+          "listed_count": 8,
+          "media_count": 451,
+          "tweet_count": 3891
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-14T22:37:51.000Z",
+        "description": "enby/Gynesexual/ iiii 受/sub（偶尔brat）\n/线上社恐，比较被动 \n又想认识新朋友TAT/ 理性 • 客观 • 反贼 • 包容/讨厌下体壬/\n\n banner画师  @jiangnanan1  🎃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "jiangnanan1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kobayashi_miya…",
+                "end": 23,
+                "expanded_url": "https://t.me/kobayashi_miyako",
+                "start": 0,
+                "url": "https://t.co/J8yKhlBk1l"
+              }
+            ]
+          }
+        },
+        "id": "2733045266",
+        "location": "朧塚",
+        "name": "☪️小林宮子🇮🇹🦄",
+        "pinned_tweet_id": "1828387139958251836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823472254086221824/p1KYdQ1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 439,
+          "like_count": 27638,
+          "listed_count": 2,
+          "media_count": 1218,
+          "tweet_count": 10769
+        },
+        "url": "https://t.co/J8yKhlBk1l",
+        "username": "kobayashmiyako",
+        "verified": false
+      }
+    ]
+  }
+}

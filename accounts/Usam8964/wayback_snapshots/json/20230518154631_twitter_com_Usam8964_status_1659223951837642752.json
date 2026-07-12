@@ -1,0 +1,236 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1658701278564999174",
+    "created_at": "2023-05-18T15:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2023-05-18T16:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1659223951837642752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1653099373172248577",
+          "start": 0,
+          "username": "ami4kiss"
+        },
+        {
+          "end": 26,
+          "id": "1575145790892285954",
+          "start": 10,
+          "username": "AsaTsukiSioKumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1659223951837642752",
+    "in_reply_to_user_id": "1653099373172248577",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1659222264087461888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ami4kiss @AsaTsukiSioKumo 两胁痛应该也和肝病有关，西药推荐水飞蓟素，中药推荐龙胆泻肝丸、加味逍遥丸或者大黄蟄虫丸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1658701278564999174",
+        "created_at": "2023-05-18T15:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-18T16:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1659223951837642752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1653099373172248577",
+              "start": 0,
+              "username": "ami4kiss"
+            },
+            {
+              "end": 26,
+              "id": "1575145790892285954",
+              "start": 10,
+              "username": "AsaTsukiSioKumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1659223951837642752",
+        "in_reply_to_user_id": "1653099373172248577",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1659222264087461888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ami4kiss @AsaTsukiSioKumo 两胁痛应该也和肝病有关，西药推荐水飞蓟素，中药推荐龙胆泻肝丸、加味逍遥丸或者大黄蟄虫丸"
+      },
+      {
+        "attachments": {},
+        "author_id": "1653099373172248577",
+        "conversation_id": "1658701278564999174",
+        "created_at": "2023-05-18T15:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-18T16:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1659222264087461888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 26,
+              "id": "1575145790892285954",
+              "start": 10,
+              "username": "AsaTsukiSioKumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1659222264087461888",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1658705627173261312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @AsaTsukiSioKumo 我感觉肋骨下方有点不舒服，不知道是不是肝痛，如果是的话应该吃什么药物呢？可以推荐一下嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\n不知道写什么好了，可能是战犯（）\nTg: https://t.co/HKffFbQmwb\nDiscord: イレンナ🍥🍥🍥#8408",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/usamiryanko8964",
+                "end": 117,
+                "expanded_url": "http://t.me/usamiryanko8964",
+                "start": 94,
+                "url": "https://t.co/HKffFbQmwb"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜🇹🇼🇬🇧🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 468,
+          "listed_count": 1,
+          "tweet_count": 1606
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T18:09:56.000Z",
+        "description": "176/55kg/05/🇨🇳上海？多伦多🇨🇦/喜欢汉服丝袜Lolita/🏳️‍⚧️无证含糖ing🍬/网络社恐现实社牛/随缘上推/虽然不知道是不是正确的选择但是也是一只新手mtf了呀～",
+        "id": "1653099373172248577",
+        "location": "喵喵海",
+        "name": "Ameliararara！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653104021891321856/aBbK6yR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 60,
+          "listed_count": 0,
+          "tweet_count": 44
+        },
+        "username": "ami4kiss",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T15:30:41.000Z",
+        "description": "个人势非全职vtb bilibili活动中|已炸柜家暴党mtf|INFP-A|hrt 23.2.22|无证含糖|药物od|重焦中抑失眠|不喜建政|特别温柔但有点腹黑|语言学|心理学|钢琴|上一次自杀4.22|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/362786367",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/362786367",
+                "start": 0,
+                "url": "https://t.co/mlvbBKr3SN"
+              }
+            ]
+          }
+        },
+        "id": "1575145790892285954",
+        "location": "Stockholm, Sverige",
+        "name": "浅月汐云🍥Shirin🏳‍⚧🇸🇪",
+        "pinned_tweet_id": "1658249644068175872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658398414932152321/t05gelf2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 167,
+          "listed_count": 2,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/mlvbBKr3SN",
+        "username": "AsaTsukiSioKumo",
+        "verified": false
+      }
+    ]
+  }
+}

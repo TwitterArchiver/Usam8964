@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2029854052318921190",
+    "created_at": "2026-03-06T10:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029861500513571280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993069252245651456",
+          "start": 0,
+          "username": "libertyodeath3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029861500513571280",
+    "in_reply_to_user_id": "1993069252245651456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029854052318921190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertyodeath3 钢丝还在乎红不红脸吗，在乎红脸应该是一友四和群星（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029854052318921190",
+        "created_at": "2026-03-06T10:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029861500513571280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993069252245651456",
+              "start": 0,
+              "username": "libertyodeath3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029861500513571280",
+        "in_reply_to_user_id": "1993069252245651456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029854052318921190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyodeath3 钢丝还在乎红不红脸吗，在乎红脸应该是一友四和群星（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993069252245651456",
+        "conversation_id": "2029854052318921190",
+        "created_at": "2026-03-06T09:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029854052318921190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/johncn0428/sta…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/johncn0428/status/2029757427130966073",
+              "start": 146,
+              "url": "https://t.co/tCRoVuTOKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029854052318921190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029757427130966073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "搁这玩儿钢4呢\n可以开存档锐评了\n\n敌方掌控绝对制空权制海权，狂轰乱炸，大量民用设施焚毁民众死亡，还没派陆军，而且战争支持度狂掉，抵抗力量狂涨，花了几百个政治点的司令和学说专家或者科学家上任几天就死了，民族精神debuff一堆，导弹打不中军事或战略目标全砸周围民用设施上，导致周围国家全红脸 https://t.co/tCRoVuTOKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3575,
+          "following_count": 1066,
+          "like_count": 35630,
+          "listed_count": 8,
+          "media_count": 342,
+          "tweet_count": 4476
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T21:28:56.000Z",
+        "description": "☠᛭.✟🕸️🐙༝☆₊˚♰ ༝",
+        "id": "1993069252245651456",
+        "name": "Kein Kriegsverbrecher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027816282259599362/MC9DroTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 354,
+          "like_count": 10960,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1483
+        },
+        "username": "libertyodeath3",
+        "verified": false
+      }
+    ]
+  }
+}

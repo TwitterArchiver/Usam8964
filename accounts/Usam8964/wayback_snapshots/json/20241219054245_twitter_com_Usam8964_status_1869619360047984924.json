@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869619339592421376"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1869619360047984924",
+    "created_at": "2024-12-19T05:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T06:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869619360047984924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KudyxO7men",
+          "end": 52,
+          "expanded_url": "https://x.com/Usam8964/status/1869619360047984924/photo/1",
+          "media_key": "3_1869619339592421376",
+          "start": 29,
+          "url": "https://t.co/KudyxO7men"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869619360047984924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "战舰世界陪伴了我半个2024年\n大方承认吧 你最爱的游戏 https://t.co/KudyxO7men"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 874,
+        "media_key": "3_1869619339592421376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfI44jmbUAAfWjr.jpg",
+        "width": 1717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869619339592421376"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1869619360047984924",
+        "created_at": "2024-12-19T05:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T06:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869619360047984924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KudyxO7men",
+              "end": 52,
+              "expanded_url": "https://x.com/Usam8964/status/1869619360047984924/photo/1",
+              "media_key": "3_1869619339592421376",
+              "start": 29,
+              "url": "https://t.co/KudyxO7men"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869619360047984924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "战舰世界陪伴了我半个2024年\n大方承认吧 你最爱的游戏 https://t.co/KudyxO7men"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 1008,
+          "like_count": 30696,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3596
+        },
+        "username": "Usam8964",
+        "verified": true
+      }
+    ]
+  }
+}

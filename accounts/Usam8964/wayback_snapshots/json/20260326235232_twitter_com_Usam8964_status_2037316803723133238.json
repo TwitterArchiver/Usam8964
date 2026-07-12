@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037043068248219648"
+      ],
+      "media_source_tweet_id": [
+        "2037043070408286623"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2037316803723133238",
+    "created_at": "2026-03-26T23:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T00:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037316803723133238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472219833261772801",
+          "start": 3,
+          "username": "xxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XsZ3K4ePxn",
+          "end": 75,
+          "expanded_url": "https://x.com/xxx_jjkk/status/2037043070408286623/photo/1",
+          "media_key": "3_2037043068248219648",
+          "start": 52,
+          "url": "https://t.co/XsZ3K4ePxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037316803723133238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037043070408286623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @xxx_jjkk: 当你对我骂“操你妈”的时候，我的妈将自动代指祖国母亲。本人的母亲将幸免于难 https://t.co/XsZ3K4ePxn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_2037043068248219648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUH4LsbYAAE_sQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037043068248219648"
+          ],
+          "media_source_tweet_id": [
+            "2037043070408286623"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2037316803723133238",
+        "created_at": "2026-03-26T23:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037316803723133238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472219833261772801",
+              "start": 3,
+              "username": "xxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsZ3K4ePxn",
+              "end": 75,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2037043070408286623/photo/1",
+              "media_key": "3_2037043068248219648",
+              "start": 52,
+              "url": "https://t.co/XsZ3K4ePxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037316803723133238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037043070408286623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @xxx_jjkk: 当你对我骂“操你妈”的时候，我的妈将自动代指祖国母亲。本人的母亲将幸免于难 https://t.co/XsZ3K4ePxn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037043068248219648"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2037043070408286623",
+        "created_at": "2026-03-26T05:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037043070408286623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsZ3K4ePxn",
+              "end": 61,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2037043070408286623/photo/1",
+              "media_key": "3_2037043068248219648",
+              "start": 38,
+              "url": "https://t.co/XsZ3K4ePxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037043070408286623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10851,
+          "like_count": 309,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 27
+        },
+        "reply_settings": "following",
+        "text": "当你对我骂“操你妈”的时候，我的妈将自动代指祖国母亲。本人的母亲将幸免于难 https://t.co/XsZ3K4ePxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3642,
+          "following_count": 1142,
+          "like_count": 45453,
+          "listed_count": 9,
+          "media_count": 438,
+          "tweet_count": 5811
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我这一生都存进这小小的屏幕里\n当我离去了\n至少这里曾有我活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 397,
+          "like_count": 8491,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

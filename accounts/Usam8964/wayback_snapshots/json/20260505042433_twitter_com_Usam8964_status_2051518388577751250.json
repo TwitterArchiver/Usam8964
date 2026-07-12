@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2051518388577751250",
+    "created_at": "2026-05-05T04:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051518388577751250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fox_Kikumi/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Fox_Kikumi/status/2046537096689782836",
+          "start": 14,
+          "url": "https://t.co/kiQl910jh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051518388577751250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046537096689782836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我昨天在地铁上就这样。。。 https://t.co/kiQl910jh3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2046537086216605696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbCowuakAA8mc0.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2051518388577751250",
+        "created_at": "2026-05-05T04:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051518388577751250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fox_Kikumi/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Fox_Kikumi/status/2046537096689782836",
+              "start": 14,
+              "url": "https://t.co/kiQl910jh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051518388577751250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046537096689782836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我昨天在地铁上就这样。。。 https://t.co/kiQl910jh3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046537086216605696"
+          ]
+        },
+        "author_id": "1393471785471942656",
+        "conversation_id": "2046537096689782836",
+        "created_at": "2026-04-21T10:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046537096689782836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "苦米"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmoGHI8wNq",
+              "end": 34,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2046537096689782836/photo/1",
+              "media_key": "3_2046537086216605696",
+              "start": 11,
+              "url": "https://t.co/pmoGHI8wNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046537096689782836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 21986,
+          "like_count": 1404,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "不安障害 [#苦米] https://t.co/pmoGHI8wNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3727,
+          "following_count": 1205,
+          "like_count": 56719,
+          "listed_count": 6,
+          "media_count": 495,
+          "tweet_count": 6882
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T07:42:30.000Z",
+        "description": "#苦米 /Kumi￤🎨 Illustration & Animation￤中文￤依赖于翻译器￤联络DM /📩foxkikumi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "苦米"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/HfKKMSw",
+                "end": 23,
+                "expanded_url": "https://b23.tv/HfKKMSw",
+                "start": 0,
+                "url": "https://t.co/adZh2cyd96"
+              }
+            ]
+          }
+        },
+        "id": "1393471785471942656",
+        "location": "(´,,•ω•,,)  bilibili➡️",
+        "name": "苦米( ˙꒳˙ )",
+        "pinned_tweet_id": "1829182660385886650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045708311782453248/dWqKOUXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7921,
+          "following_count": 1004,
+          "like_count": 19759,
+          "listed_count": 36,
+          "media_count": 450,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/adZh2cyd96",
+        "username": "Fox_Kikumi",
+        "verified": false
+      }
+    ]
+  }
+}

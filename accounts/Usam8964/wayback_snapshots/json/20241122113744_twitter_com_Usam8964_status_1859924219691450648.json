@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1859918960311030013",
+    "created_at": "2024-11-22T11:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T12:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859924219691450648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "995268939994165248",
+          "start": 0,
+          "username": "KaguraAiri_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859924219691450648",
+    "in_reply_to_user_id": "995268939994165248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859918960311030013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraAiri_QWQ 对啊，谁啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1859918960311030013",
+        "created_at": "2024-11-22T11:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T12:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859924219691450648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "995268939994165248",
+              "start": 0,
+              "username": "KaguraAiri_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859924219691450648",
+        "in_reply_to_user_id": "995268939994165248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859918960311030013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraAiri_QWQ 对啊，谁啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859918941369286658"
+          ]
+        },
+        "author_id": "995268939994165248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1859918960311030013",
+        "created_at": "2024-11-22T11:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T12:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859918960311030013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1643490407094030338",
+              "start": 14,
+              "username": "Usam8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/huBz2a4KwH",
+              "end": 47,
+              "expanded_url": "https://x.com/KaguraAiri_QWQ/status/1859918960311030013/photo/1",
+              "media_key": "3_1859918941369286658",
+              "start": 24,
+              "url": "https://t.co/huBz2a4KwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859918960311030013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人怎么身为湖南人吃不了辣呀@Usam8964 https://t.co/huBz2a4KwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 977,
+          "like_count": 29143,
+          "listed_count": 4,
+          "tweet_count": 3504
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-12T11:46:21.000Z",
+        "description": "想和大家做朋友!/一只有点不太像INFJ的INFJ-T猫猫/好友位🚪50，同类免费/全国乱跑/过期(?)jk/我家给我摄影后期搭衣服化妆的全能宝宝@123___jump",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "123___jump"
+              }
+            ]
+          }
+        },
+        "id": "995268939994165248",
+        "location": "Far away from stars",
+        "name": "神楽愛理🍥",
+        "pinned_tweet_id": "1813057468626530802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829025477136396289/dpVRfuzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 357,
+          "like_count": 5262,
+          "listed_count": 1,
+          "tweet_count": 1968
+        },
+        "username": "KaguraAiri_QWQ",
+        "verified": true
+      }
+    ]
+  }
+}

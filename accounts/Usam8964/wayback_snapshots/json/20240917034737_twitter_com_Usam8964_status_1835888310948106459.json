@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1835518842908365187",
+    "created_at": "2024-09-17T03:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T04:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835888310948106459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "Olt_ura"
+        },
+        {
+          "end": 20,
+          "id": "1740248854975696896",
+          "start": 9,
+          "username": "Illusory_P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835888310948106459",
+    "in_reply_to_user_id": "1643490407094030338",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835888159810286059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olt_ura @Illusory_P 正在背雅思单词的我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1835518842908365187",
+        "created_at": "2024-09-17T03:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T04:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835888310948106459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "Olt_ura"
+            },
+            {
+              "end": 20,
+              "id": "1740248854975696896",
+              "start": 9,
+              "username": "Illusory_P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835888310948106459",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835888159810286059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olt_ura @Illusory_P 正在背雅思单词的我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1835518842908365187",
+        "created_at": "2024-09-17T03:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T04:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835888159810286059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "Olt_ura"
+            },
+            {
+              "end": 20,
+              "id": "1740248854975696896",
+              "start": 9,
+              "username": "Illusory_P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835888159810286059",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835586212284993872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olt_ura @Illusory_P 这简直就是我（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 849,
+          "like_count": 24225,
+          "listed_count": 2,
+          "tweet_count": 2944
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "豫州储户莫自哀，\n千军万马避白袍。",
+        "id": "1422567543940677634",
+        "location": "Chiba-shi Wakaba-ku, Chiba",
+        "name": "❄️天ㄕ🏳️‍⚧️",
+        "pinned_tweet_id": "1740107442418237574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781733276270690304/WBG4Nhk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 388,
+          "like_count": 181687,
+          "listed_count": 1,
+          "tweet_count": 11074
+        },
+        "username": "Olt_ura",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T05:50:42.000Z",
+        "description": "是小药娘呐🍥/15YMtF/HRT.2023/生日4.17/持证含糖/一半家长党/微天赋…?/女高生活中/反向深柜中/AL在读/身高165/武汉随机刷新/来和我贴贴!/",
+        "id": "1740248854975696896",
+        "location": "夢之彼方",
+        "name": "月すき🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1766509089838846361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814271879768862722/6LZoAmAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 372,
+          "like_count": 8799,
+          "listed_count": 5,
+          "tweet_count": 1041
+        },
+        "username": "Illusory_P",
+        "verified": false
+      }
+    ]
+  }
+}

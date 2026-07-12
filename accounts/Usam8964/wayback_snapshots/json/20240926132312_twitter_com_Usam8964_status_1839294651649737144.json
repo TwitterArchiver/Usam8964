@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1839259474919567681",
+    "created_at": "2024-09-26T13:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T14:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839294651649737144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1489807738410450945",
+          "start": 0,
+          "username": "kite52154243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839294651649737144",
+    "in_reply_to_user_id": "1489807738410450945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839259474919567681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kite52154243 揪鲨鱼尾巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1839259474919567681",
+        "created_at": "2024-09-26T13:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T14:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839294651649737144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1489807738410450945",
+              "start": 0,
+              "username": "kite52154243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839294651649737144",
+        "in_reply_to_user_id": "1489807738410450945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839259474919567681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kite52154243 揪鲨鱼尾巴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839259472025604096"
+          ]
+        },
+        "author_id": "1489807738410450945",
+        "conversation_id": "1839259474919567681",
+        "created_at": "2024-09-26T11:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T12:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839259474919567681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tegsrdcbi5",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kite52154243/status/1839259474919567681/photo/1",
+              "media_key": "3_1839259472025604096",
+              "start": 17,
+              "url": "https://t.co/TEgsrdCbI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839259474919567681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来锐评一下新衣服趁着吊带没剪（） https://t.co/TEgsrdCbI5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 891,
+          "like_count": 25152,
+          "listed_count": 3,
+          "tweet_count": 3030
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T03:47:10.000Z",
+        "description": "enfp/鲨鱼公主/恐虐冠军勇士/傻卵二次元/xyn互fo/家长党天赋党术后党/烘焙少女/日常游荡长沙//LLM",
+        "id": "1489807738410450945",
+        "location": "长沙",
+        "name": "翼儿🇹🇼（广告位招租）",
+        "pinned_tweet_id": "1831485368623100329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830241436140494848/ArTF9698_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 721,
+          "like_count": 7381,
+          "listed_count": 9,
+          "tweet_count": 3494
+        },
+        "username": "kite52154243",
+        "verified": false
+      }
+    ]
+  }
+}

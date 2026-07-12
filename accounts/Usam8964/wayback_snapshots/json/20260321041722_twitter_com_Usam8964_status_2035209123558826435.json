@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2035196630622675006",
+    "created_at": "2026-03-21T04:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T05:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035209123558826435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031982761150652416",
+          "start": 0,
+          "username": "Krokodils_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035209123558826435",
+    "in_reply_to_user_id": "2031982761150652416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035208898651541820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krokodils_ 我前夫姐也是，可现在联系不上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2035196630622675006",
+        "created_at": "2026-03-21T04:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035209123558826435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031982761150652416",
+              "start": 0,
+              "username": "Krokodils_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035209123558826435",
+        "in_reply_to_user_id": "2031982761150652416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035208898651541820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krokodils_ 我前夫姐也是，可现在联系不上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031982761150652416",
+        "conversation_id": "2035196630622675006",
+        "created_at": "2026-03-21T04:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035208898651541820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035208898651541820",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035208104162599078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 我就是bpd，这个得问我前妻姐去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 1131,
+          "like_count": 41900,
+          "listed_count": 9,
+          "media_count": 414,
+          "tweet_count": 5390
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T06:37:14.000Z",
+        "description": "戒割戒o颓废懒得hrt\n我身体的上一个主人叫自己\n৯৫໒+大馬士革舞女坟.☆\n我被限制了关注不了任何人😭",
+        "id": "2031982761150652416",
+        "name": "Aufzeichnungen eines Krokodils🐊",
+        "pinned_tweet_id": "2033910956443783183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033874502543937538/oSyD_BMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 160,
+          "like_count": 1416,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 313
+        },
+        "username": "Krokodils_",
+        "verified": false
+      }
+    ]
+  }
+}

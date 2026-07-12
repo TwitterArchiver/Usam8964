@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832089434365243392"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1832089459929837590",
+    "created_at": "2024-09-06T16:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T17:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1832089459929837590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1wyx6cptrt",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Usam8964/status/1832089459929837590/photo/1",
+          "media_key": "3_1832089434365243392",
+          "start": 9,
+          "url": "https://t.co/1wyx6cPTRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832089459929837590",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "进行一个夜宵的吃 https://t.co/1wyx6cPTRT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1832089434365243392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWzjojwWMAA-r05.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832089434365243392"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1832089459929837590",
+        "created_at": "2024-09-06T16:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T17:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832089459929837590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wyx6cptrt",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Usam8964/status/1832089459929837590/photo/1",
+              "media_key": "3_1832089434365243392",
+              "start": 9,
+              "url": "https://t.co/1wyx6cPTRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832089459929837590",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进行一个夜宵的吃 https://t.co/1wyx6cPTRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 828,
+          "like_count": 22914,
+          "listed_count": 2,
+          "tweet_count": 2832
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

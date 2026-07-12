@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1937347652041212416",
+    "created_at": "2025-06-24T18:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T19:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937577154226847934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695975046051942400",
+          "start": 0,
+          "username": "mitsuki87613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937577154226847934",
+    "in_reply_to_user_id": "1695975046051942400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937347652041212416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsuki87613 主包这个太吃建模了，能不能有个平替"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_1937347621972234240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLXZc4aUAAdIk_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1648,
+        "media_key": "3_1937347632164405250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLXaC2agAI29e4.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1469,
+        "media_key": "3_1937347641966493698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLXanXagAIVsck.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1937347652041212416",
+        "created_at": "2025-06-24T18:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T19:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937577154226847934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695975046051942400",
+              "start": 0,
+              "username": "mitsuki87613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937577154226847934",
+        "in_reply_to_user_id": "1695975046051942400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937347652041212416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki87613 主包这个太吃建模了，能不能有个平替"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937347621972234240",
+            "3_1937347632164405250",
+            "3_1937347641966493698"
+          ]
+        },
+        "author_id": "1695975046051942400",
+        "conversation_id": "1937347652041212416",
+        "created_at": "2025-06-24T03:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T04:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937347652041212416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4NSvj2pdJ",
+              "end": 51,
+              "expanded_url": "https://x.com/mitsuki87613/status/1937347652041212416/photo/1",
+              "media_key": "3_1937347621972234240",
+              "start": 28,
+              "url": "https://t.co/I4NSvj2pdJ"
+            },
+            {
+              "display_url": "pic.x.com/I4NSvj2pdJ",
+              "end": 51,
+              "expanded_url": "https://x.com/mitsuki87613/status/1937347652041212416/photo/1",
+              "media_key": "3_1937347632164405250",
+              "start": 28,
+              "url": "https://t.co/I4NSvj2pdJ"
+            },
+            {
+              "display_url": "pic.x.com/I4NSvj2pdJ",
+              "end": 51,
+              "expanded_url": "https://x.com/mitsuki87613/status/1937347652041212416/photo/1",
+              "media_key": "3_1937347641966493698",
+              "start": 28,
+              "url": "https://t.co/I4NSvj2pdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937347652041212416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3727,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天哪，穿上这样的衣裙的时候我不敢想象我有多幸福…… https://t.co/I4NSvj2pdJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2959,
+          "following_count": 1033,
+          "like_count": 33509,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 3856
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T01:42:26.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️/免费树洞/已出柜/跨女同/社会主义/马列毛主义，卢森堡思想/反资反修/术力口/愿人类彻底解放，愿人类真正自由/想和大家交朋友，同类会回fo(◍˃̶ᗜ˂̶◍)/为世界上所有的美好而战/\nWe shall meet in the place where there is no darkness",
+        "id": "1695975046051942400",
+        "location": "亚细亚苏维埃社会主义人民联盟（PASSU）-上海公社",
+        "name": "なな🏳️‍⚧️🍥Demodosia（暖言版）",
+        "pinned_tweet_id": "1924281280566583396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908598291681677312/j-YqJbMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 746,
+          "like_count": 10752,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 2911
+        },
+        "username": "mitsuki87613",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1982427994141687980",
+    "created_at": "2025-10-26T17:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T18:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982497714761052662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724356825980768256",
+          "start": 0,
+          "username": "Anzhai_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982497714761052662",
+    "in_reply_to_user_id": "1724356825980768256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982427994141687980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anzhai_Official 感觉没有很敢在评论区下留言，但我也是长沙的鼠鼠🐭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982427991058550784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4L_wSfWEAAzR18.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1982427994141687980",
+        "created_at": "2025-10-26T17:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T18:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982497714761052662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724356825980768256",
+              "start": 0,
+              "username": "Anzhai_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982497714761052662",
+        "in_reply_to_user_id": "1724356825980768256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982427994141687980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anzhai_Official 感觉没有很敢在评论区下留言，但我也是长沙的鼠鼠🐭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982427991058550784"
+          ]
+        },
+        "author_id": "1724356825980768256",
+        "conversation_id": "1982427994141687980",
+        "created_at": "2025-10-26T12:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982427994141687980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhvvDh9K3A",
+              "end": 42,
+              "expanded_url": "https://x.com/Anzhai_Official/status/1982427994141687980/photo/1",
+              "media_key": "3_1982427991058550784",
+              "start": 19,
+              "url": "https://t.co/bhvvDh9K3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982427994141687980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4740,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "亚丝娜\n有没有长沙的cos搭子🥺🥺🥺 https://t.co/bhvvDh9K3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3448,
+          "following_count": 1025,
+          "like_count": 33062,
+          "listed_count": 9,
+          "media_count": 461,
+          "tweet_count": 4084
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T09:21:30.000Z",
+        "description": "缺爱ing🥺🥺🥺🥺网上扩列QQ🚪50，不圆角，可接委托阿巴阿巴🥺🥺，扣扣群982604361，某些味大的批爆的所谓男娘mtf别私信找我互fo互转了😅😅😅😅先照镜子看看自己",
+        "id": "1724356825980768256",
+        "location": "长沙",
+        "name": "安斋",
+        "pinned_tweet_id": "1855595917946290215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866406608009617408/Z2xL7vmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3871,
+          "following_count": 1082,
+          "like_count": 13603,
+          "listed_count": 13,
+          "media_count": 179,
+          "tweet_count": 1864
+        },
+        "username": "Anzhai_Official",
+        "verified": false
+      }
+    ]
+  }
+}

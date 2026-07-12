@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857363645447184384",
+        "3_1857363649268228096"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1857363652267098235",
+    "created_at": "2024-11-15T10:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T11:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857363652267098235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wKGLsCXr9g",
+          "end": 54,
+          "expanded_url": "https://x.com/Usam8964/status/1857363652267098235/photo/1",
+          "media_key": "3_1857363645447184384",
+          "start": 31,
+          "url": "https://t.co/wKGLsCXr9g"
+        },
+        {
+          "display_url": "pic.x.com/wKGLsCXr9g",
+          "end": 54,
+          "expanded_url": "https://x.com/Usam8964/status/1857363652267098235/photo/1",
+          "media_key": "3_1857363649268228096",
+          "start": 31,
+          "url": "https://t.co/wKGLsCXr9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857363652267098235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一觉醒来，全球智商下降一百万倍，而你不受影响be like： https://t.co/wKGLsCXr9g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1857363645447184384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcauZRGaoAAme4Z.jpg",
+        "width": 571
+      },
+      {
+        "height": 1184,
+        "media_key": "3_1857363649268228096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcauZfVbIAACEol.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857363645447184384",
+            "3_1857363649268228096"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1857363652267098235",
+        "created_at": "2024-11-15T10:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T11:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857363652267098235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKGLsCXr9g",
+              "end": 54,
+              "expanded_url": "https://x.com/Usam8964/status/1857363652267098235/photo/1",
+              "media_key": "3_1857363645447184384",
+              "start": 31,
+              "url": "https://t.co/wKGLsCXr9g"
+            },
+            {
+              "display_url": "pic.x.com/wKGLsCXr9g",
+              "end": 54,
+              "expanded_url": "https://x.com/Usam8964/status/1857363652267098235/photo/1",
+              "media_key": "3_1857363649268228096",
+              "start": 31,
+              "url": "https://t.co/wKGLsCXr9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857363652267098235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来，全球智商下降一百万倍，而你不受影响be like： https://t.co/wKGLsCXr9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 957,
+          "like_count": 28838,
+          "listed_count": 4,
+          "tweet_count": 3474
+        },
+        "username": "Usam8964",
+        "verified": true
+      }
+    ]
+  }
+}

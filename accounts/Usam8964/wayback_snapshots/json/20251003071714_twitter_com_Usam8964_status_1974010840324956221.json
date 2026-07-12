@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973174768171098113"
+      ],
+      "media_source_tweet_id": [
+        "1973311941062885381"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1974010840324956221",
+    "created_at": "2025-10-03T07:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T08:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974010840324956221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1228994980040994817",
+          "start": 3,
+          "username": "cheribon1204"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8EhDEVH2FC",
+          "end": 44,
+          "expanded_url": "https://x.com/cheribon1204/status/1973311941062885381/photo/1",
+          "media_key": "3_1973174768171098113",
+          "start": 21,
+          "url": "https://t.co/8EhDEVH2FC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974010840324956221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8538
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973311941062885381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cheribon1204: 白線 https://t.co/8EhDEVH2FC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1973174768171098113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2If_1CaIAEPxA9.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973174768171098113"
+          ],
+          "media_source_tweet_id": [
+            "1973311941062885381"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1974010840324956221",
+        "created_at": "2025-10-03T07:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974010840324956221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1228994980040994817",
+              "start": 3,
+              "username": "cheribon1204"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EhDEVH2FC",
+              "end": 44,
+              "expanded_url": "https://x.com/cheribon1204/status/1973311941062885381/photo/1",
+              "media_key": "3_1973174768171098113",
+              "start": 21,
+              "url": "https://t.co/8EhDEVH2FC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974010840324956221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8538
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973311941062885381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cheribon1204: 白線 https://t.co/8EhDEVH2FC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973174768171098113"
+          ]
+        },
+        "author_id": "1228994980040994817",
+        "conversation_id": "1973311941062885381",
+        "created_at": "2025-10-01T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973311941062885381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EhDEVH2FC",
+              "end": 26,
+              "expanded_url": "https://x.com/cheribon1204/status/1973311941062885381/photo/1",
+              "media_key": "3_1973174768171098113",
+              "start": 3,
+              "url": "https://t.co/8EhDEVH2FC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973311941062885381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7097,
+          "impression_count": 1676961,
+          "like_count": 95083,
+          "quote_count": 155,
+          "reply_count": 110,
+          "retweet_count": 8538
+        },
+        "reply_settings": "everyone",
+        "text": "白線 https://t.co/8EhDEVH2FC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "不是男娘/社交苦手/持证含糖/肄业JK/纯生活推\n正體中文/简体中文/日本語/English\n正室：@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "pinned_tweet_id": "1973842139240075628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 1027,
+          "like_count": 33288,
+          "listed_count": 10,
+          "media_count": 461,
+          "tweet_count": 4052
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-16T10:50:23.000Z",
+        "description": "絵を描くのが好きな人 pixiv: https://t.co/L3LeCIolDn\nご依頼の相談はDMまたは【cheribon1204@gmail.com】まで",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/cheribon",
+                "end": 41,
+                "expanded_url": "https://pixiv.me/cheribon",
+                "start": 18,
+                "url": "https://t.co/L3LeCIolDn"
+              }
+            ]
+          }
+        },
+        "id": "1228994980040994817",
+        "name": "ちぇりぼん",
+        "pinned_tweet_id": "1969265264014606469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895502600901943296/clW5KT1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5476,
+          "following_count": 127,
+          "like_count": 2296,
+          "listed_count": 68,
+          "media_count": 363,
+          "tweet_count": 1704
+        },
+        "username": "cheribon1204",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2037852128669020322",
+    "created_at": "2026-03-28T11:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037859276329562623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1537009225716576257",
+          "start": 0,
+          "username": "JINPINGslutflop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037859276329562623",
+    "in_reply_to_user_id": "1537009225716576257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037858383391252623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINPINGslutflop 摸摸摸摸，没事就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2037852128669020322",
+        "created_at": "2026-03-28T11:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037859276329562623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1537009225716576257",
+              "start": 0,
+              "username": "JINPINGslutflop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037859276329562623",
+        "in_reply_to_user_id": "1537009225716576257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037858383391252623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINPINGslutflop 摸摸摸摸，没事就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537009225716576257",
+        "conversation_id": "2037852128669020322",
+        "created_at": "2026-03-28T11:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037858383391252623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037858383391252623",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037858278680793166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 我没事了！ 只是刚才有点崩溃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3649,
+          "following_count": 1145,
+          "like_count": 46853,
+          "listed_count": 8,
+          "media_count": 442,
+          "tweet_count": 5940
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T09:49:00.000Z",
+        "description": "╭(°ㅂ°`)╮",
+        "id": "1537009225716576257",
+        "name": "咩记营养快餐",
+        "pinned_tweet_id": "2036118695387480065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 2368,
+          "like_count": 98185,
+          "listed_count": 3,
+          "media_count": 1400,
+          "tweet_count": 10787
+        },
+        "username": "JINPINGslutflop",
+        "verified": false
+      }
+    ]
+  }
+}

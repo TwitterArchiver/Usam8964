@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1857331743717556705",
+    "created_at": "2024-11-15T10:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T11:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857372531788800061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429365180618706945",
+          "start": 0,
+          "username": "Simone_Luxem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857372531788800061",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857331743717556705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Simone_Luxem 鹅膏菌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1857331743717556705",
+        "created_at": "2024-11-15T10:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T11:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857372531788800061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857372531788800061",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857331743717556705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 鹅膏菌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857331734485839874",
+            "3_1857331734477430784",
+            "3_1857331734494289920"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1857331743717556705",
+        "created_at": "2024-11-15T07:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T08:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857331743717556705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhzIT76xcP",
+              "end": 61,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1857331743717556705/photo/1",
+              "media_key": "3_1857331734485839874",
+              "start": 38,
+              "url": "https://t.co/QhzIT76xcP"
+            },
+            {
+              "display_url": "pic.x.com/QhzIT76xcP",
+              "end": 61,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1857331743717556705/photo/1",
+              "media_key": "3_1857331734477430784",
+              "start": 38,
+              "url": "https://t.co/QhzIT76xcP"
+            },
+            {
+              "display_url": "pic.x.com/QhzIT76xcP",
+              "end": 61,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1857331743717556705/photo/1",
+              "media_key": "3_1857331734494289920",
+              "start": 38,
+              "url": "https://t.co/QhzIT76xcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857331743717556705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校门口张了一颗好漂亮的蘑菇\n不过吃下去的话效果大概不是致幻的\n而是窒息的 https://t.co/QhzIT76xcP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 957,
+          "like_count": 28852,
+          "listed_count": 4,
+          "tweet_count": 3476
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3858,
+          "following_count": 224,
+          "like_count": 17913,
+          "listed_count": 10,
+          "tweet_count": 17773
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

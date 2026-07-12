@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1494702873564758024",
+          "name": "Pinterest"
+        }
+      }
+    ],
+    "conversation_id": "1972379879657394580",
+    "created_at": "2025-09-28T19:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T20:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972379879657394580"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "皮物"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/apparatchika/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/apparatchika/status/1972112142574014853",
+          "start": 11,
+          "url": "https://t.co/QvFZcdTlNs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972379879657394580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972112142574014853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我嘞个皮物啊\n#皮物 https://t.co/QvFZcdTlNs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13237,
+        "height": 1024,
+        "media_key": "13_1972112073858732032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972112073858732032/img/W7QzgyUndQSsf9rK.jpg",
+        "public_metrics": {
+          "view_count": 2307717
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972112073858732032/vid/avc1/320x568/rcOD3clFT_IHdAyY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972112073858732032/vid/avc1/480x852/FuJyH2yGEo_Y1lXu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972112073858732032/vid/avc1/576x1024/mLf0sQe1MtR0Kv0e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972112073858732032/pl/TemAEKccw01iG-rE.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494702873564758024",
+              "name": "Pinterest"
+            }
+          }
+        ],
+        "conversation_id": "1972379879657394580",
+        "created_at": "2025-09-28T19:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T20:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972379879657394580"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "皮物"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/apparatchika/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/apparatchika/status/1972112142574014853",
+              "start": 11,
+              "url": "https://t.co/QvFZcdTlNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972379879657394580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972112142574014853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我嘞个皮物啊\n#皮物 https://t.co/QvFZcdTlNs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972112073858732032"
+          ]
+        },
+        "author_id": "1620390672779055104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494702873564758024",
+              "name": "Pinterest"
+            }
+          }
+        ],
+        "conversation_id": "1972112142574014853",
+        "created_at": "2025-09-28T01:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T02:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972112142574014853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQUmP5fK2T",
+              "end": 121,
+              "expanded_url": "https://x.com/apparatchika/status/1972112142574014853/video/1",
+              "media_key": "13_1972112073858732032",
+              "start": 98,
+              "url": "https://t.co/IQUmP5fK2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972112142574014853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15099,
+          "impression_count": 5039998,
+          "like_count": 87297,
+          "quote_count": 1524,
+          "reply_count": 514,
+          "retweet_count": 4236
+        },
+        "reply_settings": "everyone",
+        "text": "the future is full of indonesian streamers skin walking random japanese pinterest girls .. tragic https://t.co/IQUmP5fK2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接\n\n正室：@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3436,
+          "following_count": 1028,
+          "like_count": 33278,
+          "listed_count": 10,
+          "media_count": 469,
+          "tweet_count": 4053
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T11:57:10.000Z",
+        "description": "i sell the finest post soviet korean carrot salad in madina bazaar bishkek kyrgyzstan former idlib saladist foreign fighter, proficient w/ kornet fagot malyutka",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/morkovcha",
+                "end": 23,
+                "expanded_url": "https://ngl.link/morkovcha",
+                "start": 0,
+                "url": "https://t.co/e8pNEvU68S"
+              }
+            ]
+          }
+        },
+        "id": "1620390672779055104",
+        "location": "Madina Bazaar, Bishkek ",
+        "name": "68 year old dungan morkovcha vendor",
+        "pinned_tweet_id": "1940978690210635922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918735432327831552/B4WQlhJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 632,
+          "like_count": 10359,
+          "listed_count": 3,
+          "media_count": 1062,
+          "tweet_count": 9058
+        },
+        "url": "https://t.co/e8pNEvU68S",
+        "username": "apparatchika",
+        "verified": false
+      }
+    ]
+  }
+}

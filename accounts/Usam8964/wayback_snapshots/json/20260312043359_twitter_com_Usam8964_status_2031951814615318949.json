@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2031946221045358693",
+    "created_at": "2026-03-12T04:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T05:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031951814615318949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        },
+        {
+          "end": 24,
+          "id": "1999504877337395200",
+          "start": 13,
+          "username": "chuan_0123"
+        }
+      ],
+      "urls": [
+        {
+          "description": "根据Reddit上的用户报告，小剂量美金刚（通常指5-10mg或更低，如0.2mg/kg）被一些人视为潜在的促智药（nootropic），主要通过改善注意力、减少焦虑、增强认知或神经保护效果，但效果因人而异，且有潜在负面影响。以下是从r/Nootropics、r/MemantineHCl等子版块中提取的相关轶事总结，这些是用户自述，不是临床证据： 正面效果：一些用户报告低剂量能提升认知和注意力，尤其对ADHD或焦虑相关问题有效。例如，一位用户称其是“对ADHD的最佳治疗”，能改善专注力而无明显副作用（初始脑雾除外）。 另有报告指出非常低剂量可促进神经生成（如上调BDNF水平），用于认知长寿和作为神经保护剂。 还有人提到它减少 cravings（如酒精、赌博），并整体改善认知如果存在原有损伤。 部分用户将其用作表现增强剂或非标签抗抑郁药，结合OCD或BPD症状。 负面效果：并非所有体验正面。低剂量可能导致脑雾、解离或记忆干扰。一位用户首次10mg后报告严重脑雾和不适。 研究引用显示低剂量在大鼠中破坏记忆和行为，用户推测人类类似，可能导致永久认知问题。 初始阶段常有疲劳、迷失方向等症状，长期使用安全性存疑（如对ADHD/PTSD患者）。 总体上，Reddit社区（如r/Nootropics）视其为实验性促智选项，但强调需缓慢滴定剂量，并非人人适用。用户常建议咨询医生，因为它是阿尔茨海默药物，非标准促智用途。 这些报告主观，可能受个体差异影响。",
+          "display_url": "x.com/i/grok/share/8…",
+          "end": 48,
+          "expanded_url": "https://x.com/i/grok/share/817c019c037145c5b2dda6539a64dd43",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2031951822341226499/p26mr6RB?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2031951822341226499/p26mr6RB?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "小剂量美金刚有没有促智效果，从reddit英文版搜索相关报告",
+          "unwound_url": "https://x.com/i/grok/share/817c019c037145c5b2dda6539a64dd43",
+          "url": "https://t.co/9cdQd8FOVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031951814615318949",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031951753789497457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 @chuan_0123 https://t.co/9cdQd8FOVs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2031946221045358693",
+        "created_at": "2026-03-12T04:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031951814615318949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            },
+            {
+              "end": 24,
+              "id": "1999504877337395200",
+              "start": 13,
+              "username": "chuan_0123"
+            }
+          ],
+          "urls": [
+            {
+              "description": "根据Reddit上的用户报告，小剂量美金刚（通常指5-10mg或更低，如0.2mg/kg）被一些人视为潜在的促智药（nootropic），主要通过改善注意力、减少焦虑、增强认知或神经保护效果，但效果因人而异，且有潜在负面影响。以下是从r/Nootropics、r/MemantineHCl等子版块中提取的相关轶事总结，这些是用户自述，不是临床证据： 正面效果：一些用户报告低剂量能提升认知和注意力，尤其对ADHD或焦虑相关问题有效。例如，一位用户称其是“对ADHD的最佳治疗”，能改善专注力而无明显副作用（初始脑雾除外）。 另有报告指出非常低剂量可促进神经生成（如上调BDNF水平），用于认知长寿和作为神经保护剂。 还有人提到它减少 cravings（如酒精、赌博），并整体改善认知如果存在原有损伤。 部分用户将其用作表现增强剂或非标签抗抑郁药，结合OCD或BPD症状。 负面效果：并非所有体验正面。低剂量可能导致脑雾、解离或记忆干扰。一位用户首次10mg后报告严重脑雾和不适。 研究引用显示低剂量在大鼠中破坏记忆和行为，用户推测人类类似，可能导致永久认知问题。 初始阶段常有疲劳、迷失方向等症状，长期使用安全性存疑（如对ADHD/PTSD患者）。 总体上，Reddit社区（如r/Nootropics）视其为实验性促智选项，但强调需缓慢滴定剂量，并非人人适用。用户常建议咨询医生，因为它是阿尔茨海默药物，非标准促智用途。 这些报告主观，可能受个体差异影响。",
+              "display_url": "x.com/i/grok/share/8…",
+              "end": 48,
+              "expanded_url": "https://x.com/i/grok/share/817c019c037145c5b2dda6539a64dd43",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2031951822341226499/p26mr6RB?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2031951822341226499/p26mr6RB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "小剂量美金刚有没有促智效果，从reddit英文版搜索相关报告",
+              "unwound_url": "https://x.com/i/grok/share/817c019c037145c5b2dda6539a64dd43",
+              "url": "https://t.co/9cdQd8FOVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031951814615318949",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031951753789497457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 @chuan_0123 https://t.co/9cdQd8FOVs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687566770763071489",
+        "conversation_id": "2031946221045358693",
+        "created_at": "2026-03-12T04:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031951753789497457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 21,
+              "id": "1999504877337395200",
+              "start": 10,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031951753789497457",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031950669222199533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @chuan_0123 哒咪，副作用已吓哭(，先吃残再加智了((／_＼)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2031786435662266400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3599,
+          "following_count": 1086,
+          "like_count": 36916,
+          "listed_count": 8,
+          "media_count": 364,
+          "tweet_count": 4690
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/赛博精神病/百合厨/二次元\n欢迎互关",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 337,
+          "like_count": 14897,
+          "listed_count": 0,
+          "media_count": 506,
+          "tweet_count": 1697
+        },
+        "username": "Olebe179131",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/顺女/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的/🚪88互关免费",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 319,
+          "like_count": 10393,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 5132
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

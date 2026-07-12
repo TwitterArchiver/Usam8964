@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1836430782367437123",
+    "created_at": "2024-09-18T16:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T17:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836441211722437026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653099373172248577",
+          "start": 0,
+          "username": "thisishami52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836441211722437026",
+    "in_reply_to_user_id": "1653099373172248577",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836430782367437123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thisishami52 加加👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1836430782367437123",
+        "created_at": "2024-09-18T16:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T17:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836441211722437026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653099373172248577",
+              "start": 0,
+              "username": "thisishami52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836441211722437026",
+        "in_reply_to_user_id": "1653099373172248577",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836430782367437123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thisishami52 加加👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653099373172248577",
+        "conversation_id": "1836430782367437123",
+        "created_at": "2024-09-18T15:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T16:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836430782367437123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836430782367437123",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "23年初 刚发现自己是跨的时候 跨圈给我了很多帮助和精神支持 我对当时跨圈的前辈们身怀感激 只是她们现在几乎都淡推了 现在的圈子也不是我认同的那个了 所以我也想降一下自己的浓度啦～\n如果我取fo了你 欢迎你来加我的微信 进入我的朋友圈 成为我生活的一部分 变成我的普通女性朋友 感谢大家🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 885,
+          "like_count": 24629,
+          "listed_count": 3,
+          "tweet_count": 2963
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T18:09:56.000Z",
+        "description": "🍈一般路过女大学生｜坐标纽约｜同类贴贴",
+        "id": "1653099373172248577",
+        "location": "喵喵海",
+        "name": "Hami爱吃哈密瓜🍈",
+        "pinned_tweet_id": "1804337543305220216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738607451078111232/6UwZyuOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3717,
+          "following_count": 125,
+          "like_count": 6519,
+          "listed_count": 19,
+          "tweet_count": 2946
+        },
+        "username": "thisishami52",
+        "verified": false
+      }
+    ]
+  }
+}

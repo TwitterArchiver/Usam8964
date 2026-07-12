@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1907831622763995294",
+    "created_at": "2025-04-03T16:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T17:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907835150706315422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1246386071010553857",
+          "start": 0,
+          "username": "YuXi520_Sugar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907835150706315422",
+    "in_reply_to_user_id": "1246386071010553857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907831622763995294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuXi520_Sugar 好大"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1907831622763995294].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907831622763995294",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1907831622763995294"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1907831622763995294",
+        "created_at": "2025-04-03T16:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T17:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907835150706315422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1246386071010553857",
+              "start": 0,
+              "username": "YuXi520_Sugar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907835150706315422",
+        "in_reply_to_user_id": "1246386071010553857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907831622763995294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuXi520_Sugar 好大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 1028,
+          "like_count": 32306,
+          "listed_count": 7,
+          "media_count": 436,
+          "tweet_count": 3761
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-04T10:36:20.000Z",
+        "description": "含糖mtf🍥/Le⭐/INTP/05老阿姨/HRT 2021.10.12~地下党/185 70kg天空树🌲/ADHD/CS在读/maimai新手/梦想是光明正大成为女孩子/蓄发中/欢迎扩列/键政❎/#mtf  #美少女 #m属性 #xyn #CS #Computer_Science #Cpp /欢迎找我聊天↓↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "mtf"
+              },
+              {
+                "end": 109,
+                "start": 105,
+                "tag": "美少女"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "m属性"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "xyn"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "CS"
+              },
+              {
+                "end": 141,
+                "start": 124,
+                "tag": "Computer_Science"
+              },
+              {
+                "end": 146,
+                "start": 142,
+                "tag": "Cpp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yuxi_sugar",
+                "end": 23,
+                "expanded_url": "http://t.me/Yuxi_sugar",
+                "start": 0,
+                "url": "https://t.co/ub1O9vRonY"
+              }
+            ]
+          }
+        },
+        "id": "1246386071010553857",
+        "name": "辛熙羽🍥",
+        "pinned_tweet_id": "1870111993119556068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863423188761489408/LdBG2Qpx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 1521,
+          "like_count": 13953,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 4410
+        },
+        "url": "https://t.co/ub1O9vRonY",
+        "username": "YuXi520_Sugar",
+        "verified": false
+      }
+    ]
+  }
+}

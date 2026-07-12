@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031954116327641088"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2031616365254340609",
+    "created_at": "2026-03-12T04:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T05:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031954118957498454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1512135884765806593",
+          "start": 0,
+          "username": "SatoSher0"
+        },
+        {
+          "end": 19,
+          "id": "134716312",
+          "start": 11,
+          "username": "YamayaT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qNG0YcdiNh",
+          "end": 55,
+          "expanded_url": "https://x.com/Usam8964/status/2031954118957498454/photo/1",
+          "media_key": "3_2031954116327641088",
+          "start": 32,
+          "url": "https://t.co/qNG0YcdiNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031954118957498454",
+    "in_reply_to_user_id": "1512135884765806593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031951216717283774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SatoSher0 @YamayaT 俺们弗兰....... https://t.co/qNG0YcdiNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2031954116327641088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLzgMeaEAAod1n.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031954116327641088"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2031616365254340609",
+        "created_at": "2026-03-12T04:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031954118957498454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512135884765806593",
+              "start": 0,
+              "username": "SatoSher0"
+            },
+            {
+              "end": 19,
+              "id": "134716312",
+              "start": 11,
+              "username": "YamayaT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNG0YcdiNh",
+              "end": 55,
+              "expanded_url": "https://x.com/Usam8964/status/2031954118957498454/photo/1",
+              "media_key": "3_2031954116327641088",
+              "start": 32,
+              "url": "https://t.co/qNG0YcdiNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031954118957498454",
+        "in_reply_to_user_id": "1512135884765806593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031951216717283774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SatoSher0 @YamayaT 俺们弗兰....... https://t.co/qNG0YcdiNh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512135884765806593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1551915644269932544",
+              "name": "Anker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1551915644269932544",
+              "name": "Anker"
+            }
+          }
+        ],
+        "conversation_id": "2031616365254340609",
+        "created_at": "2026-03-12T04:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031951216717283774"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "湖南省",
+              "probability": 0.4496,
+              "start": 9,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "134716312",
+              "start": 0,
+              "username": "YamayaT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ja.wikipedia.org/wiki/Anker?wpr…",
+              "end": 57,
+              "expanded_url": "https://ja.wikipedia.org/wiki/Anker?wprov=sfla1",
+              "start": 34,
+              "status": 200,
+              "title": "Anker - Wikipedia",
+              "unwound_url": "https://ja.wikipedia.org/wiki/Anker?wprov=sfla1",
+              "url": "https://t.co/WCw45qHMzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031951216717283774",
+        "in_reply_to_user_id": "134716312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031616365254340609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YamayaT 湖南省の代表的なブランドは\nAnkerであるべきだhttps://t.co/WCw45qHMzH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2031786435662266400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3599,
+          "following_count": 1086,
+          "like_count": 36920,
+          "listed_count": 8,
+          "media_count": 365,
+          "tweet_count": 4692
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T18:31:14.000Z",
+        "description": "She/Her | 08 | 高中生? | HRT Since20220613 | 長沙在住 | Satoshi Wachi 和知 綰 | 最近執筆中 | 神戸救国党党員@Kobekyukoku | 永遠の友達@Moelin_Moe @manani_QvQ @Goldwater8964 @heshan258",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Kobekyukoku"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Moelin_Moe"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "manani_QvQ"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "Goldwater8964"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "heshan258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/wachisatoshi",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/wachisatoshi",
+                "start": 0,
+                "url": "https://t.co/DfPxPTB7M7"
+              }
+            ]
+          }
+        },
+        "id": "1512135884765806593",
+        "location": "雲水禅心",
+        "name": "さとし｜和知 綰⛩️",
+        "pinned_tweet_id": "1972502213177266193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018132477970427904/0E_yxrtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 7373,
+          "like_count": 68735,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 6196
+        },
+        "url": "https://t.co/DfPxPTB7M7",
+        "username": "SatoSher0",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-19T07:12:50.000Z",
+        "description": "2002年よりライターやってます。中国IT系トレンド系紹介の連載ほか『異国飯100倍お楽しみマニュアル』『中国のインターネット史（共に星海社）』など本数冊出版。記事は #山谷剛史記事 。Huawei,36krのTWの中の人。お仕事依頼は dtgoshi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "山谷剛史記事"
+              }
+            ]
+          }
+        },
+        "id": "134716312",
+        "location": "雲南省🐘→日本",
+        "name": "山谷剛史　アジア中国ITライター＆異国飯",
+        "pinned_tweet_id": "2027759556949119180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986256198354808832/tkV3t9Cd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45991,
+          "following_count": 989,
+          "like_count": 48796,
+          "listed_count": 1012,
+          "media_count": 59853,
+          "tweet_count": 337966
+        },
+        "username": "YamayaT",
+        "verified": true
+      }
+    ]
+  }
+}

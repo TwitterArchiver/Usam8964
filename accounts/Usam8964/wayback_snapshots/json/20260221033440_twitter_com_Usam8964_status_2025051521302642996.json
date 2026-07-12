@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2025051521302642996",
+    "created_at": "2026-02-21T03:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025051521302642996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2004245938534338566",
+          "start": 3,
+          "username": "ColdRainy_Night"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025051521302642996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024772716491153676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ColdRainy_Night: 。喜欢有女性特质的男性。直男味重的呢反耳让人家很恶心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2025051521302642996",
+        "created_at": "2026-02-21T03:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025051521302642996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2004245938534338566",
+              "start": 3,
+              "username": "ColdRainy_Night"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025051521302642996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024772716491153676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ColdRainy_Night: 。喜欢有女性特质的男性。直男味重的呢反耳让人家很恶心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004245938534338566",
+        "conversation_id": "2024772716491153676",
+        "created_at": "2026-02-20T09:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024772716491153676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024772716491153676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12503,
+          "like_count": 255,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "。喜欢有女性特质的男性。直男味重的呢反耳让人家很恶心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3554,
+          "following_count": 1070,
+          "like_count": 34438,
+          "listed_count": 8,
+          "media_count": 321,
+          "tweet_count": 4256
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T17:40:58.000Z",
+        "description": "互联网电子试吃点心。",
+        "id": "2004245938534338566",
+        "name": "Dejavu",
+        "pinned_tweet_id": "2024117127523791196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022719133998256128/RPk7xPb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 51,
+          "like_count": 1936,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 531
+        },
+        "username": "ColdRainy_Night",
+        "verified": false
+      }
+    ]
+  }
+}

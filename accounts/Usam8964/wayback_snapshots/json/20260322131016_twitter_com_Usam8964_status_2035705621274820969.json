@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035705614807293952",
+        "3_2035705617453903873",
+        "3_2035705607702056960",
+        "3_2035705617424449536"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2035705621274820969",
+    "created_at": "2026-03-22T13:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T14:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035705621274820969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1fApYejQEl",
+          "end": 48,
+          "expanded_url": "https://x.com/Usam8964/status/2035705621274820969/photo/1",
+          "media_key": "3_2035705614807293952",
+          "start": 25,
+          "url": "https://t.co/1fApYejQEl"
+        },
+        {
+          "display_url": "pic.x.com/1fApYejQEl",
+          "end": 48,
+          "expanded_url": "https://x.com/Usam8964/status/2035705621274820969/photo/1",
+          "media_key": "3_2035705617453903873",
+          "start": 25,
+          "url": "https://t.co/1fApYejQEl"
+        },
+        {
+          "display_url": "pic.x.com/1fApYejQEl",
+          "end": 48,
+          "expanded_url": "https://x.com/Usam8964/status/2035705621274820969/photo/1",
+          "media_key": "3_2035705607702056960",
+          "start": 25,
+          "url": "https://t.co/1fApYejQEl"
+        },
+        {
+          "display_url": "pic.x.com/1fApYejQEl",
+          "end": 48,
+          "expanded_url": "https://x.com/Usam8964/status/2035705621274820969/photo/1",
+          "media_key": "3_2035705617424449536",
+          "start": 25,
+          "url": "https://t.co/1fApYejQEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035705621274820969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大西王雪王\n蜜雪冰城旗舰店\n芭乐雪糕\n背后有雪王 https://t.co/1fApYejQEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2035705614807293952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBHeJXbYAAVPgV.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2035705617453903873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBHeTObcAEhHQu.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2035705607702056960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBHdu5aEAAaRgM.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2035705617424449536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBHeTHaAAA72kT.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035705614807293952",
+            "3_2035705617453903873",
+            "3_2035705607702056960",
+            "3_2035705617424449536"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035705621274820969",
+        "created_at": "2026-03-22T13:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035705621274820969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fApYejQEl",
+              "end": 48,
+              "expanded_url": "https://x.com/Usam8964/status/2035705621274820969/photo/1",
+              "media_key": "3_2035705614807293952",
+              "start": 25,
+              "url": "https://t.co/1fApYejQEl"
+            },
+            {
+              "display_url": "pic.x.com/1fApYejQEl",
+              "end": 48,
+              "expanded_url": "https://x.com/Usam8964/status/2035705621274820969/photo/1",
+              "media_key": "3_2035705617453903873",
+              "start": 25,
+              "url": "https://t.co/1fApYejQEl"
+            },
+            {
+              "display_url": "pic.x.com/1fApYejQEl",
+              "end": 48,
+              "expanded_url": "https://x.com/Usam8964/status/2035705621274820969/photo/1",
+              "media_key": "3_2035705607702056960",
+              "start": 25,
+              "url": "https://t.co/1fApYejQEl"
+            },
+            {
+              "display_url": "pic.x.com/1fApYejQEl",
+              "end": 48,
+              "expanded_url": "https://x.com/Usam8964/status/2035705621274820969/photo/1",
+              "media_key": "3_2035705617424449536",
+              "start": 25,
+              "url": "https://t.co/1fApYejQEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035705621274820969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大西王雪王\n蜜雪冰城旗舰店\n芭乐雪糕\n背后有雪王 https://t.co/1fApYejQEl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3633,
+          "following_count": 1132,
+          "like_count": 43046,
+          "listed_count": 9,
+          "media_count": 426,
+          "tweet_count": 5542
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

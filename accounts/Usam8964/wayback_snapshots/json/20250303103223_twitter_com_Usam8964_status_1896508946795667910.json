@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1896508946795667910",
+    "created_at": "2025-03-03T10:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T11:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896508946795667910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1552308324338749440",
+          "start": 3,
+          "username": "UltimateOne_Arc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896508946795667910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896107967134801977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UltimateOne_Arc: 一想到各位跨儿死了就会让支那人高潮那我看你们还是别死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1896508946795667910",
+        "created_at": "2025-03-03T10:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T11:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896508946795667910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1552308324338749440",
+              "start": 3,
+              "username": "UltimateOne_Arc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896508946795667910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896107967134801977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UltimateOne_Arc: 一想到各位跨儿死了就会让支那人高潮那我看你们还是别死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552308324338749440",
+        "conversation_id": "1896107967134801977",
+        "created_at": "2025-03-02T07:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T08:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896107967134801977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896107967134801977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3230,
+          "like_count": 124,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "一想到各位跨儿死了就会让支那人高潮那我看你们还是别死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 1019,
+          "like_count": 31946,
+          "listed_count": 6,
+          "media_count": 431,
+          "tweet_count": 3710
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T15:02:10.000Z",
+        "description": "我一直是无孩爱猫女啊😁",
+        "id": "1552308324338749440",
+        "location": "Brunestud",
+        "name": "废话做爱紫餐发癫精神病公主BOT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857737935896064000/Rb-GvfqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 1352,
+          "like_count": 43923,
+          "listed_count": 6,
+          "media_count": 1648,
+          "tweet_count": 19400
+        },
+        "username": "UltimateOne_Arc",
+        "verified": false
+      }
+    ]
+  }
+}

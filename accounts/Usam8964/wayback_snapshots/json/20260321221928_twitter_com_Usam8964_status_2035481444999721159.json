@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2035419446802776407",
+    "created_at": "2026-03-21T22:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T23:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035481444999721159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683001001043984384",
+          "start": 0,
+          "username": "TudouCn24795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035481444999721159",
+    "in_reply_to_user_id": "1683001001043984384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035419446802776407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TudouCn24795 在原后面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2035419446802776407",
+        "created_at": "2026-03-21T22:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T23:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035481444999721159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683001001043984384",
+              "start": 0,
+              "username": "TudouCn24795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035481444999721159",
+        "in_reply_to_user_id": "1683001001043984384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035419446802776407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TudouCn24795 在原后面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683001001043984384",
+        "conversation_id": "2035419446802776407",
+        "created_at": "2026-03-21T18:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035419446802776407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hagishigure/status/2035387030503293286",
+              "start": 5,
+              "url": "https://t.co/PoNQEoQQZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035419446802776407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035387030503293286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/PoNQEoQQZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3632,
+          "following_count": 1129,
+          "like_count": 42437,
+          "listed_count": 9,
+          "media_count": 420,
+          "tweet_count": 5451
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T06:28:22.000Z",
+        "description": "少女終末旅行／絵を投稿中／鄭州在住／パンセクシュアル／トランスヒューマニズム／人間です👋／今年の春は暖かい",
+        "id": "1683001001043984384",
+        "name": "☯️🧬サーモン（販売中)🐟🍻❄Warm Spring",
+        "pinned_tweet_id": "2024831087487467816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024831783003676672/uTnSwwGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 523,
+          "like_count": 4008,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 2199
+        },
+        "username": "TudouCn24795",
+        "verified": false
+      }
+    ]
+  }
+}

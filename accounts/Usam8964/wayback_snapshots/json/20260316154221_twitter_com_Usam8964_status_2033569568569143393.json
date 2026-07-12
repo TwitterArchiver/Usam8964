@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033529142441103361"
+      ],
+      "media_source_tweet_id": [
+        "2033529157297361372"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2033569568569143393",
+    "created_at": "2026-03-16T15:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033569568569143393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1924328636670484480",
+          "start": 3,
+          "username": "Amami_Idora88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NmWpQ2ZuGy",
+          "end": 47,
+          "expanded_url": "https://x.com/Amami_Idora88/status/2033529157297361372/photo/1",
+          "media_key": "3_2033529142441103361",
+          "start": 24,
+          "url": "https://t.co/NmWpQ2ZuGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033569568569143393",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033529157297361372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amami_Idora88: 💕🪡🔄💕 https://t.co/NmWpQ2ZuGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2033529142441103361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiL-x-bUAEo4-7.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033529142441103361"
+          ],
+          "media_source_tweet_id": [
+            "2033529157297361372"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2033569568569143393",
+        "created_at": "2026-03-16T15:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033569568569143393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1924328636670484480",
+              "start": 3,
+              "username": "Amami_Idora88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmWpQ2ZuGy",
+              "end": 47,
+              "expanded_url": "https://x.com/Amami_Idora88/status/2033529157297361372/photo/1",
+              "media_key": "3_2033529142441103361",
+              "start": 24,
+              "url": "https://t.co/NmWpQ2ZuGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033569568569143393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033529157297361372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amami_Idora88: 💕🪡🔄💕 https://t.co/NmWpQ2ZuGy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033529142441103361"
+          ]
+        },
+        "author_id": "1924328636670484480",
+        "conversation_id": "2033529157297361372",
+        "created_at": "2026-03-16T13:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033529157297361372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmWpQ2ZuGy",
+              "end": 28,
+              "expanded_url": "https://x.com/Amami_Idora88/status/2033529157297361372/photo/1",
+              "media_key": "3_2033529142441103361",
+              "start": 5,
+              "url": "https://t.co/NmWpQ2ZuGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033529157297361372",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 4488,
+          "like_count": 442,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "💕🪡🔄💕 https://t.co/NmWpQ2ZuGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 1126,
+          "like_count": 39557,
+          "listed_count": 9,
+          "media_count": 409,
+          "tweet_count": 5194
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T04:59:24.000Z",
+        "description": "正邪love 太子様like サブ▶︎@Amami_Subnohou マロ▶︎ https://t.co/KHydWhUYPr 🚫AI学習、無断使用を禁じます🚫 ごく稀に東方以外も描く",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Amami_Subnohou"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/2h25s5i1488ooqa",
+                "end": 63,
+                "expanded_url": "https://marshmallow-qa.com/2h25s5i1488ooqa",
+                "start": 40,
+                "url": "https://t.co/KHydWhUYPr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/idora88",
+                "end": 23,
+                "expanded_url": "https://lit.link/idora88",
+                "start": 0,
+                "url": "https://t.co/g59EqpvSFJ"
+              }
+            ]
+          }
+        },
+        "id": "1924328636670484480",
+        "location": "百合あります",
+        "name": "天見いどら🎀",
+        "pinned_tweet_id": "2033529157297361372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031638132437954566/g1KoJMYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 283,
+          "like_count": 11865,
+          "listed_count": 7,
+          "media_count": 204,
+          "tweet_count": 4414
+        },
+        "url": "https://t.co/g59EqpvSFJ",
+        "username": "Amami_Idora88",
+        "verified": false
+      }
+    ]
+  }
+}

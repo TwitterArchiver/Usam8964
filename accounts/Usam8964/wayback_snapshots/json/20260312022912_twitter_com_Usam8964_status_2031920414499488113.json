@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031920411202801664",
+        "3_2031920411689283584",
+        "3_2031920411408248832"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031774105801023763",
+    "created_at": "2026-03-12T02:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T03:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031920414499488113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025169140571590656",
+          "start": 0,
+          "username": "fusouorg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TMUSKTuTwz",
+          "end": 33,
+          "expanded_url": "https://x.com/Usam8964/status/2031920414499488113/photo/1",
+          "media_key": "3_2031920411202801664",
+          "start": 10,
+          "url": "https://t.co/TMUSKTuTwz"
+        },
+        {
+          "display_url": "pic.x.com/TMUSKTuTwz",
+          "end": 33,
+          "expanded_url": "https://x.com/Usam8964/status/2031920414499488113/photo/1",
+          "media_key": "3_2031920411689283584",
+          "start": 10,
+          "url": "https://t.co/TMUSKTuTwz"
+        },
+        {
+          "display_url": "pic.x.com/TMUSKTuTwz",
+          "end": 33,
+          "expanded_url": "https://x.com/Usam8964/status/2031920414499488113/photo/1",
+          "media_key": "3_2031920411408248832",
+          "start": 10,
+          "url": "https://t.co/TMUSKTuTwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031920414499488113",
+    "in_reply_to_user_id": "2025169140571590656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031916259248652619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusouorg https://t.co/TMUSKTuTwz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2031920411202801664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLU2TGb0AACOFE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1660,
+        "media_key": "3_2031920411689283584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLU2U6a8AAXKlf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1660,
+        "media_key": "3_2031920411408248832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLU2T3asAA2q2C.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031920411202801664",
+            "3_2031920411689283584",
+            "3_2031920411408248832"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031774105801023763",
+        "created_at": "2026-03-12T02:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031920414499488113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025169140571590656",
+              "start": 0,
+              "username": "fusouorg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMUSKTuTwz",
+              "end": 33,
+              "expanded_url": "https://x.com/Usam8964/status/2031920414499488113/photo/1",
+              "media_key": "3_2031920411202801664",
+              "start": 10,
+              "url": "https://t.co/TMUSKTuTwz"
+            },
+            {
+              "display_url": "pic.x.com/TMUSKTuTwz",
+              "end": 33,
+              "expanded_url": "https://x.com/Usam8964/status/2031920414499488113/photo/1",
+              "media_key": "3_2031920411689283584",
+              "start": 10,
+              "url": "https://t.co/TMUSKTuTwz"
+            },
+            {
+              "display_url": "pic.x.com/TMUSKTuTwz",
+              "end": 33,
+              "expanded_url": "https://x.com/Usam8964/status/2031920414499488113/photo/1",
+              "media_key": "3_2031920411408248832",
+              "start": 10,
+              "url": "https://t.co/TMUSKTuTwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031920414499488113",
+        "in_reply_to_user_id": "2025169140571590656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031916259248652619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusouorg https://t.co/TMUSKTuTwz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025169140571590656",
+        "conversation_id": "2031774105801023763",
+        "created_at": "2026-03-12T02:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031916259248652619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031916259248652619",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031774105801023763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 来了来了，四斋蒸鹅心😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2031786435662266400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 1083,
+          "like_count": 36861,
+          "listed_count": 8,
+          "media_count": 363,
+          "tweet_count": 4669
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T11:22:17.000Z",
+        "description": "在日友善華人互助社區，限時開放注冊中。\n邀請碼： IFIFDOA1\n歡迎加入吹水閑談。\n愛具體的人，而非抽象的國。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fusou.org",
+                "end": 23,
+                "expanded_url": "http://fusou.org",
+                "start": 0,
+                "url": "https://t.co/db67inl5aR"
+              }
+            ]
+          }
+        },
+        "id": "2025169140571590656",
+        "name": "扶桑社區",
+        "pinned_tweet_id": "2028277018157301895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025169903926607877/d1rpQ1hR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 93,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/db67inl5aR",
+        "username": "fusouorg",
+        "verified": true
+      }
+    ]
+  }
+}

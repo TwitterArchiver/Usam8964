@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1861426750594351155",
+    "created_at": "2024-11-27T10:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T11:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861712302539743285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690386306139111424",
+          "start": 0,
+          "username": "Saiba_MomoiQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861712302539743285",
+    "in_reply_to_user_id": "1690386306139111424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861426750594351155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saiba_MomoiQWQ 原味第一 番茄第二 烧烤味第三"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1861426750594351155",
+        "created_at": "2024-11-27T10:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861712302539743285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690386306139111424",
+              "start": 0,
+              "username": "Saiba_MomoiQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861712302539743285",
+        "in_reply_to_user_id": "1690386306139111424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861426750594351155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saiba_MomoiQWQ 原味第一 番茄第二 烧烤味第三"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861426734400172032"
+          ]
+        },
+        "author_id": "1690386306139111424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1861426750594351155",
+        "created_at": "2024-11-26T15:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T16:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861426750594351155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OyiM7SbFsZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Saiba_MomoiQWQ/status/1861426750594351155/photo/1",
+              "media_key": "3_1861426734400172032",
+              "start": 39,
+              "url": "https://t.co/OyiM7SbFsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861426750594351155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4802,
+          "like_count": 65,
+          "quote_count": 9,
+          "reply_count": 63,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“每个人都喜爱薯片，但又对口味各有喜好”\n说出你最喜欢的乐事口味！本人原味党 https://t.co/OyiM7SbFsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 979,
+          "like_count": 29323,
+          "listed_count": 4,
+          "tweet_count": 3516
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-12T15:34:46.000Z",
+        "description": "CN/EN\nロリ、男の娘、百合大好きです\n（DX Rating 14901）\n16岁｜♂｜🇨🇳｜双性恋｜\n0.5｜📸｜🚇丨东方Project｜蔚蓝档案｜节奏游戏｜地域传说｜永远之友：@LinranOVERDOSE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "LinranOVERDOSE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Litosoda",
+                "end": 23,
+                "expanded_url": "http://t.me/Litosoda",
+                "start": 0,
+                "url": "https://t.co/Vw40i43EFM"
+              }
+            ]
+          }
+        },
+        "id": "1690386306139111424",
+        "location": "Mettaton Hotel",
+        "name": "才羽モモイ⭐🏳️‍🌈「DX15000激推中」",
+        "pinned_tweet_id": "1842579756816220662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855547571051065344/gXIVcUGs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 533,
+          "like_count": 3212,
+          "listed_count": 1,
+          "tweet_count": 5425
+        },
+        "url": "https://t.co/Vw40i43EFM",
+        "username": "Saiba_MomoiQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

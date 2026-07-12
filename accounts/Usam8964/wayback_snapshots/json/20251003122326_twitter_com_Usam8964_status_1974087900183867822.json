@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1974087900183867822",
+    "created_at": "2025-10-03T12:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T13:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974087900183867822"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "日本帝国",
+          "probability": 0.2394,
+          "start": 0,
+          "type": "Organization"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Chromeedgeonio…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Chromeedgeonion/status/1973700260766826798",
+          "start": 13,
+          "url": "https://t.co/Syt08P95E1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974087900183867822",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973700260766826798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本帝国で一番厳しい戦士 https://t.co/Syt08P95E1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1973700257365245952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2P97U1aQAAI8if.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1974087900183867822",
+        "created_at": "2025-10-03T12:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974087900183867822"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "日本帝国",
+              "probability": 0.2394,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Chromeedgeonio…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Chromeedgeonion/status/1973700260766826798",
+              "start": 13,
+              "url": "https://t.co/Syt08P95E1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974087900183867822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973700260766826798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本帝国で一番厳しい戦士 https://t.co/Syt08P95E1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973700257365245952"
+          ]
+        },
+        "author_id": "1639861465183322117",
+        "conversation_id": "1973700260766826798",
+        "created_at": "2025-10-02T10:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973700260766826798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SsRE8uLWk",
+              "end": 35,
+              "expanded_url": "https://x.com/Chromeedgeonion/status/1973700260766826798/photo/1",
+              "media_key": "3_1973700257365245952",
+              "start": 12,
+              "url": "https://t.co/0SsRE8uLWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973700260766826798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 52856,
+          "like_count": 822,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "大日本帝国最勇猛的武士 https://t.co/0SsRE8uLWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 1028,
+          "like_count": 33318,
+          "listed_count": 10,
+          "media_count": 453,
+          "tweet_count": 4058
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T05:27:03.000Z",
+        "description": "自由民主\n普世价值\n个人权利与自由\n摄影师@gmailphotoshare",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "gmailphotoshare"
+              }
+            ]
+          }
+        },
+        "id": "1639861465183322117",
+        "name": "Gmail",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969315700314685440/bo5VKQdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 187,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 786
+        },
+        "username": "Chromeedgeonion",
+        "verified": false
+      }
+    ]
+  }
+}

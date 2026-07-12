@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029277081658638338"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2029208276391354373",
+    "created_at": "2026-03-04T19:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T20:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029277145718202404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637070779975352320",
+          "start": 0,
+          "username": "arkuy99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z0F4J5p4UA",
+          "end": 42,
+          "expanded_url": "https://x.com/Usam8964/status/2029277145718202404/photo/1",
+          "media_key": "3_2029277081658638338",
+          "start": 19,
+          "url": "https://t.co/z0F4J5p4UA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029277145718202404",
+    "in_reply_to_user_id": "1637070779975352320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029208276391354373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arkuy99 Gemini，出列 https://t.co/z0F4J5p4UA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2029277081658638338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HClwwRMawAI8OKx.jpg",
+        "width": 1024
+      },
+      {
+        "height": 314,
+        "media_key": "3_2029208182204035072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkyFyuWcAA6JqR.png",
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029277081658638338"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029208276391354373",
+        "created_at": "2026-03-04T19:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T20:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029277145718202404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637070779975352320",
+              "start": 0,
+              "username": "arkuy99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0F4J5p4UA",
+              "end": 42,
+              "expanded_url": "https://x.com/Usam8964/status/2029277145718202404/photo/1",
+              "media_key": "3_2029277081658638338",
+              "start": 19,
+              "url": "https://t.co/z0F4J5p4UA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029277145718202404",
+        "in_reply_to_user_id": "1637070779975352320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029208276391354373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arkuy99 Gemini，出列 https://t.co/z0F4J5p4UA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029208182204035072"
+          ]
+        },
+        "author_id": "1637070779975352320",
+        "conversation_id": "2029208276391354373",
+        "created_at": "2026-03-04T14:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029208276391354373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxRFTOQ8gR",
+              "end": 48,
+              "expanded_url": "https://x.com/arkuy99/status/2029208276391354373/photo/1",
+              "media_key": "3_2029208182204035072",
+              "start": 25,
+              "url": "https://t.co/JxRFTOQ8gR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029208276391354373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8655,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "评价一下我这 icon  , GPT 给我生成的 https://t.co/JxRFTOQ8gR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 1066,
+          "like_count": 35401,
+          "listed_count": 8,
+          "media_count": 344,
+          "tweet_count": 4531
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T12:37:54.000Z",
+        "description": "- 王者荣耀 PUBG Mobile 早期AI NPC 问答开发者 \n- 神庙逃亡 地铁跑酷 全民切水果 主程 \n- IM 即时通讯专家",
+        "id": "1637070779975352320",
+        "location": "距离你 500 m",
+        "name": "Go学长",
+        "pinned_tweet_id": "1969000535945596971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929775085520670720/nyG5k8ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 741,
+          "like_count": 3111,
+          "listed_count": 12,
+          "media_count": 274,
+          "tweet_count": 4211
+        },
+        "username": "arkuy99",
+        "verified": false
+      }
+    ]
+  }
+}

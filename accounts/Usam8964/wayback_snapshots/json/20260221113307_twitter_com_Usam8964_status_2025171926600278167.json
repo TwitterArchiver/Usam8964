@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2025009760194756958",
+    "created_at": "2026-02-21T11:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025171926600278167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025171926600278167",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025009760194756958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 953,
+        "media_key": "3_2025009690397319168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpHlZ7bIAA276I.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2025009760194756958",
+        "created_at": "2026-02-21T11:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025171926600278167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025171926600278167",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025009760194756958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025009690397319168"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "conversation_id": "2025009760194756958",
+        "created_at": "2026-02-21T00:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025009760194756958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2RGdUvuhyZ",
+              "end": 35,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2025009760194756958/photo/1",
+              "media_key": "3_2025009690397319168",
+              "start": 12,
+              "url": "https://t.co/2RGdUvuhyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025009760194756958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11327,
+          "like_count": 228,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "请明白女生无义务陪聊。 https://t.co/2RGdUvuhyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3558,
+          "following_count": 1071,
+          "like_count": 34503,
+          "listed_count": 8,
+          "media_count": 321,
+          "tweet_count": 4300
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2013542676201967753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 30,
+          "like_count": 26455,
+          "listed_count": 3,
+          "media_count": 3367,
+          "tweet_count": 9706
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

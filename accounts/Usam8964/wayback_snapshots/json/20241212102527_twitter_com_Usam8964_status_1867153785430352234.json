@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1867031313959751810",
+    "created_at": "2024-12-12T10:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T11:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867153785430352234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1602663153623388161",
+          "start": 0,
+          "username": "knd_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867153785430352234",
+    "in_reply_to_user_id": "1602663153623388161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867031313959751810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knd_8964 汉堡王好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1867031313959751810",
+        "created_at": "2024-12-12T10:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T11:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867153785430352234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1602663153623388161",
+              "start": 0,
+              "username": "knd_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867153785430352234",
+        "in_reply_to_user_id": "1602663153623388161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867031313959751810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knd_8964 汉堡王好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867031304283594752"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1867031313959751810",
+        "created_at": "2024-12-12T02:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T03:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867031313959751810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xP9JTZ2RG",
+              "end": 23,
+              "expanded_url": "https://x.com/knd_8964/status/1867031313959751810/photo/1",
+              "media_key": "3_1867031304283594752",
+              "start": 0,
+              "url": "https://t.co/4xP9JTZ2RG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867031313959751810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 29290,
+          "like_count": 596,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4xP9JTZ2RG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 995,
+          "like_count": 30386,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 3578
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "啥时候大都会区域更到九的时候叫我一声（似了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845797448633184256/y-BKXgHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 4116,
+          "like_count": 54737,
+          "listed_count": 9,
+          "media_count": 3122,
+          "tweet_count": 8460
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

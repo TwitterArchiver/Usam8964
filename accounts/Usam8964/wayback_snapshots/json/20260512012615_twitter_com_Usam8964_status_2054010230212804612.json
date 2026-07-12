@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2053792380399259917",
+    "created_at": "2026-05-12T01:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T02:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054010230212804612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052760341411708928",
+          "start": 0,
+          "username": "Sui17171Fei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054010230212804612",
+    "in_reply_to_user_id": "2052760341411708928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054010159337517080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui17171Fei 兑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2054010146293186560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFPWG7agAA7fJ1.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2053792380399259917",
+        "created_at": "2026-05-12T01:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054010230212804612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052760341411708928",
+              "start": 0,
+              "username": "Sui17171Fei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054010230212804612",
+        "in_reply_to_user_id": "2052760341411708928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054010159337517080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui17171Fei 兑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054010146293186560"
+          ]
+        },
+        "author_id": "2052760341411708928",
+        "conversation_id": "2053792380399259917",
+        "created_at": "2026-05-12T01:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054010159337517080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/js56JTsotP",
+              "end": 36,
+              "expanded_url": "https://x.com/Sui17171Fei/status/2054010159337517080/photo/1",
+              "media_key": "3_2054010146293186560",
+              "start": 13,
+              "url": "https://t.co/js56JTsotP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054010159337517080",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053792380399259917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 你： https://t.co/js56JTsotP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3753,
+          "following_count": 1227,
+          "like_count": 58458,
+          "listed_count": 6,
+          "media_count": 506,
+          "tweet_count": 7086
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T14:39:47.000Z",
+        "description": "是千早的姐姐大人千岁/药理学习中/可以称为千岁/心理学重度依赖/魔法少女千岁/LGBT全友好/提供自杀干预思路详解",
+        "id": "2052760341411708928",
+        "name": "妃宫千岁",
+        "pinned_tweet_id": "2053188472073281774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053203840141500416/0ozHzqR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 159,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 141
+        },
+        "username": "Sui17171Fei",
+        "verified": false
+      }
+    ]
+  }
+}

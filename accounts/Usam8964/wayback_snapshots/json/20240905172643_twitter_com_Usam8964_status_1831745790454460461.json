@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1831286399284449474",
+    "created_at": "2024-09-05T17:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T18:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831745790454460461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831745790454460461",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831286399284449474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 某些顺直男更是自信心爆棚，既不爱卫生不爱收拾自己，又没一点性张力打扮老土，还在贴吧虎扑上指点江山，看到他们觉得丑的女人说丑逼，看到“美”女进行荡妇羞辱，然而现实中连女人的手都没摸过，属实是自卑到家了。应证了自卑的尽头就是自大😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1831286399284449474",
+        "created_at": "2024-09-05T17:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T18:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831745790454460461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831745790454460461",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831286399284449474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 某些顺直男更是自信心爆棚，既不爱卫生不爱收拾自己，又没一点性张力打扮老土，还在贴吧虎扑上指点江山，看到他们觉得丑的女人说丑逼，看到“美”女进行荡妇羞辱，然而现实中连女人的手都没摸过，属实是自卑到家了。应证了自卑的尽头就是自大😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1831286399284449474",
+        "created_at": "2024-09-04T11:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T12:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831286399284449474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831286399284449474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 28099,
+          "like_count": 419,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得顺直很恶心的一点就是很多人会用南通玩的花，喜熊喜猪这种特殊玩法，药娘长得不够雌脸不够精致，或者性少数群体精神不正常对家里人对同学态度很疯颠来歧视性少数群体。怎么？你们顺直就没人喜欢胖子？没人玩SM 换妻？海角乱伦社区的顺直还少吗？你们顺直没有长得丑的吗？还评价上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 829,
+          "like_count": 22736,
+          "listed_count": 2,
+          "tweet_count": 2815
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 811,
+          "like_count": 12785,
+          "listed_count": 3,
+          "tweet_count": 5207
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

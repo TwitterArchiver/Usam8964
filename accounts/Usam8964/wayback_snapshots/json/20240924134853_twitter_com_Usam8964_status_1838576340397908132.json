@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1838555486997618988",
+    "created_at": "2024-09-24T13:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T14:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838576340397908132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652582280974708736",
+          "start": 0,
+          "username": "yingxue20747802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838576340397908132",
+    "in_reply_to_user_id": "1652582280974708736",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838555486997618988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingxue20747802 科技蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1838555486997618988",
+        "created_at": "2024-09-24T13:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T14:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838576340397908132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652582280974708736",
+              "start": 0,
+              "username": "yingxue20747802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838576340397908132",
+        "in_reply_to_user_id": "1652582280974708736",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838555486997618988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingxue20747802 科技蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838555483608879109"
+          ]
+        },
+        "author_id": "1652582280974708736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1838555486997618988",
+        "created_at": "2024-09-24T12:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T13:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838555486997618988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/do7vuvwnmy",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yingxue20747802/status/1838555486997618988/photo/1",
+              "media_key": "3_1838555483608879109",
+              "start": 14,
+              "url": "https://t.co/do7vuVwNmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838555486997618988",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1185,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不信邪——搞点垃圾吃吃？ https://t.co/do7vuVwNmy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 892,
+          "like_count": 24992,
+          "listed_count": 3,
+          "tweet_count": 3010
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T07:55:02.000Z",
+        "description": "OvO？！这里是简介，我可以打广告吗？（广告位招租）←假嘟~就算你给我钱也不会打广告喔（除非你给的太多啦！）\n\nINFP-A🦋 │ 文学少女📖 │ les-ppl │ 退役魔法少女🪄（尊嘟）│ 美食生活岁静日常推 │ 聪明的笨蛋 │ 愿我，也愿你能一而再，再而三，三而不竭，千次万次毫不犹豫地救自己于这世间水火之中",
+        "id": "1652582280974708736",
+        "location": "Super Earth",
+        "name": "樱雪（可是我好困） 🍜🍔🍱🍇🍰🍒🍓🍟🍧",
+        "pinned_tweet_id": "1825545392735600913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787758645188689920/M7T8Ew8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21275,
+          "following_count": 330,
+          "like_count": 53008,
+          "listed_count": 51,
+          "tweet_count": 9453
+        },
+        "username": "yingxue20747802",
+        "verified": true
+      }
+    ]
+  }
+}

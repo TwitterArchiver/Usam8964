@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1964813568555335912",
+    "created_at": "2025-09-08T09:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T10:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964977793223229508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741623197546807296",
+          "start": 0,
+          "username": "xinmengQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964977793223229508",
+    "in_reply_to_user_id": "1741623197546807296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964813568555335912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinmengQAQ 宝子加我😎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_1964813549030825984",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G0Rrg0fbYAAsnLt.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G0Rrg0fbYAAsnLt.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1964813568555335912",
+        "created_at": "2025-09-08T09:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T10:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964977793223229508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741623197546807296",
+              "start": 0,
+              "username": "xinmengQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964977793223229508",
+        "in_reply_to_user_id": "1741623197546807296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964813568555335912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinmengQAQ 宝子加我😎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1964813549030825984"
+          ]
+        },
+        "author_id": "1741623197546807296",
+        "conversation_id": "1964813568555335912",
+        "created_at": "2025-09-07T22:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T23:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964813568555335912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2ZHLKH6ez",
+              "end": 53,
+              "expanded_url": "https://x.com/xinmengQAQ/status/1964813568555335912/photo/1",
+              "media_key": "16_1964813549030825984",
+              "start": 30,
+              "url": "https://t.co/h2ZHLKH6ez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964813568555335912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8551,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有谁愿意加我的qq，我很会聊天......更不介意被你视奸 https://t.co/h2ZHLKH6ez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3249,
+          "following_count": 1031,
+          "like_count": 33526,
+          "listed_count": 10,
+          "media_count": 463,
+          "tweet_count": 4026
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T00:51:54.000Z",
+        "description": "ENFJ-A，只是一个普通的音乐爱好者啦～性格比较像虹夏，取向双性，现在正在学习电吉他🎸～互fo和q扩列请私信～咩咩子:@cleanDust_Chen\n/匿名箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "cleanDust_Chen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinmengqaq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinmengqaq",
+                "start": 0,
+                "url": "https://t.co/GbMDFl22iM"
+              }
+            ]
+          }
+        },
+        "id": "1741623197546807296",
+        "location": "個性捨てたら死んでるのと一緒だよ",
+        "name": "薪梦喵丶✨☀️🎸",
+        "pinned_tweet_id": "1961955189692534799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960122425313726464/mGMZMtA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 3612,
+          "like_count": 3838,
+          "listed_count": 2,
+          "media_count": 1496,
+          "tweet_count": 4192
+        },
+        "url": "https://t.co/GbMDFl22iM",
+        "username": "xinmengQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

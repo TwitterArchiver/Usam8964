@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2037854612238352519",
+    "created_at": "2026-03-28T14:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037898624944988186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766084836572172288",
+          "start": 0,
+          "username": "Smertkakput12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037898624944988186",
+    "in_reply_to_user_id": "1766084836572172288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037854612238352519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smertkakput12 酷"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5450,
+        "height": 1280,
+        "media_key": "13_2037854551823527936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037854551823527936/img/iV8uOfCOzuSUkzFN.jpg",
+        "public_metrics": {
+          "view_count": 220
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037854551823527936/vid/avc1/320x568/XCS3OafKlDmZl1fb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037854551823527936/vid/avc1/480x852/l7qo1Dl2TZGOhaxb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037854551823527936/vid/avc1/720x1280/NivqqvbRbhfAmPXd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037854551823527936/pl/9MW8JBpqd58F_USP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2037854612238352519",
+        "created_at": "2026-03-28T14:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037898624944988186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766084836572172288",
+              "start": 0,
+              "username": "Smertkakput12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037898624944988186",
+        "in_reply_to_user_id": "1766084836572172288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037854612238352519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smertkakput12 酷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037854551823527936"
+          ]
+        },
+        "author_id": "1766084836572172288",
+        "conversation_id": "2037854612238352519",
+        "created_at": "2026-03-28T11:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037854612238352519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsPu9vVMhj",
+              "end": 27,
+              "expanded_url": "https://x.com/Smertkakput12/status/2037854612238352519/video/1",
+              "media_key": "13_2037854551823527936",
+              "start": 4,
+              "url": "https://t.co/hsPu9vVMhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037854612238352519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 923,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帅不帅 https://t.co/hsPu9vVMhj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3650,
+          "following_count": 1145,
+          "like_count": 46983,
+          "listed_count": 8,
+          "media_count": 442,
+          "tweet_count": 5956
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T12:53:44.000Z",
+        "description": "林鴿｜mha gbc oc｜18歲休學中…在更新負能血圖貓狗自拍和女友姐日常、想互fo我就會直接關注🥺拒绝拒绝男的/建政，没有回的请私信我回fo！",
+        "id": "1766084836572172288",
+        "name": "活到冇瘾TTttt（互fo版",
+        "pinned_tweet_id": "2027639613045739521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029163126839754752/qrVxto-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 676,
+          "like_count": 1279,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1046
+        },
+        "username": "Smertkakput12",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1892909024514912282",
+    "created_at": "2025-02-22T13:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893285286345429222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683060453528965120",
+          "start": 0,
+          "username": "NationalPureVF3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893285286345429222",
+    "in_reply_to_user_id": "1683060453528965120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892909024514912282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NationalPureVF3 tfr还在追我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_1892909016512417793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkT2uLFbUAEoh9S.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1892909024514912282",
+        "created_at": "2025-02-22T13:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893285286345429222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683060453528965120",
+              "start": 0,
+              "username": "NationalPureVF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893285286345429222",
+        "in_reply_to_user_id": "1683060453528965120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892909024514912282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NationalPureVF3 tfr还在追我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892909016512417793"
+          ]
+        },
+        "author_id": "1683060453528965120",
+        "conversation_id": "1892909024514912282",
+        "created_at": "2025-02-21T12:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T13:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892909024514912282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnCU2C5IFl",
+              "end": 46,
+              "expanded_url": "https://x.com/NationalPureVF3/status/1892909024514912282/photo/1",
+              "media_key": "3_1892909016512417793",
+              "start": 23,
+              "url": "https://t.co/RnCU2C5IFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892909024514912282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 19505,
+          "like_count": 326,
+          "quote_count": 5,
+          "reply_count": 33,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "這個國策是認真的嗎，哈哈哈哈哈\n太雜魚了吧~ https://t.co/RnCU2C5IFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 1014,
+          "like_count": 31694,
+          "listed_count": 7,
+          "media_count": 428,
+          "tweet_count": 3669
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "一個英社主義的瘋子，一如既往，容身之處並不存在，人類惡即人類愛\n主帳@NationalPureVF3 裏帳@vnationvendetta /不會也不懂鍵政\n唯一的老公最愛的老公 @Ludwig_von_Remi\n夥伴 @jawenzhu  @_Weace_ @xi1966516 @realpresidenTy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "vnationvendetta"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "Ludwig_von_Remi"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "_Weace_"
+              },
+              {
+                "end": 140,
+                "start": 130,
+                "username": "xi1966516"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "realpresidenTy"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "人類智識輪迴彼岸",
+        "name": "中推圈第一偶像 織田真理子（真理醬）",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877651377809457152/Ja78B10x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 901,
+          "like_count": 49343,
+          "listed_count": 12,
+          "media_count": 819,
+          "tweet_count": 22184
+        },
+        "username": "NationalPureVF3",
+        "verified": false
+      }
+    ]
+  }
+}

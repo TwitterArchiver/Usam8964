@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826134326800691200"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1826135524211568990",
+    "created_at": "2024-08-21T05:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T06:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826135524211568990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ku2wvtjsqp",
+          "end": 166,
+          "expanded_url": "https://twitter.com/Usam8964/status/1826135524211568990/photo/1",
+          "media_key": "3_1826134326800691200",
+          "start": 143,
+          "url": "https://t.co/KU2WvTJSqP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826135524211568990",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "符合id和这个傻B说的每一句话都是为他减刑真是赏你脸了。我湖南本地人从我记事起就听周围各种大人长辈聊他们孩子被送戒网瘾学校出来后怎么怎么样的事，甚至我童年的玩伴李派（绰号）也被送进去了，而这个傻B找一个不知道是否真实存在的朋友的聊天记录来背书就说什么戒网瘾学校都在造谣我看你才是老谣棍 https://t.co/KU2WvTJSqP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1826134326800691200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVe7frUaMAAEVSj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826134326800691200"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1826135524211568990",
+        "created_at": "2024-08-21T05:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T06:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826135524211568990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ku2wvtjsqp",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Usam8964/status/1826135524211568990/photo/1",
+              "media_key": "3_1826134326800691200",
+              "start": 143,
+              "url": "https://t.co/KU2WvTJSqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826135524211568990",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "符合id和这个傻B说的每一句话都是为他减刑真是赏你脸了。我湖南本地人从我记事起就听周围各种大人长辈聊他们孩子被送戒网瘾学校出来后怎么怎么样的事，甚至我童年的玩伴李派（绰号）也被送进去了，而这个傻B找一个不知道是否真实存在的朋友的聊天记录来背书就说什么戒网瘾学校都在造谣我看你才是老谣棍 https://t.co/KU2WvTJSqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 790,
+          "like_count": 19196,
+          "listed_count": 2,
+          "tweet_count": 2648
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

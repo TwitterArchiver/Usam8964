@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1873658152987787498",
+    "created_at": "2024-12-30T09:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T10:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873658152987787498"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1873658152987787498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在黄兴广场的次元街的椅子上普普通通地坐着，突然有个男生说要加我微信，不好意思拒绝的老毛病犯了，加了微信后说是找个跨年搭子，呃啊为什么当时找的是我，非常sorry但是我不太想做你的跨年搭子。🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1873658152987787498",
+        "created_at": "2024-12-30T09:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T10:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873658152987787498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873658152987787498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在黄兴广场的次元街的椅子上普普通通地坐着，突然有个男生说要加我微信，不好意思拒绝的老毛病犯了，加了微信后说是找个跨年搭子，呃啊为什么当时找的是我，非常sorry但是我不太想做你的跨年搭子。🙏🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1008,
+          "like_count": 31031,
+          "listed_count": 4,
+          "media_count": 419,
+          "tweet_count": 3614
+        },
+        "username": "Usam8964",
+        "verified": true
+      }
+    ]
+  }
+}

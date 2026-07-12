@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2029347657769246962",
+    "created_at": "2026-03-05T16:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029591970172359046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966445060872093696",
+          "start": 0,
+          "username": "woshiamio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029591970172359046",
+    "in_reply_to_user_id": "1966445060872093696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029347657769246962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiamio 一口气退出30多个乐队发现祥子不想组mujica而红温的海铃姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029347647094669312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmw7t7aQAAlFnF.jpg",
+        "width": 651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029347657769246962",
+        "created_at": "2026-03-05T16:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029591970172359046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1966445060872093696",
+              "start": 0,
+              "username": "woshiamio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029591970172359046",
+        "in_reply_to_user_id": "1966445060872093696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029347657769246962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiamio 一口气退出30多个乐队发现祥子不想组mujica而红温的海铃姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029347647094669312"
+          ]
+        },
+        "author_id": "1966445060872093696",
+        "conversation_id": "2029347657769246962",
+        "created_at": "2026-03-05T00:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T01:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029347657769246962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4r04ZPac6",
+              "end": 35,
+              "expanded_url": "https://x.com/woshiamio/status/2029347657769246962/photo/1",
+              "media_key": "3_2029347647094669312",
+              "start": 12,
+              "url": "https://t.co/k4r04ZPac6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029347657769246962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1393,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少女的脸红胜过一切言语 https://t.co/k4r04ZPac6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 1066,
+          "like_count": 35469,
+          "listed_count": 8,
+          "media_count": 346,
+          "tweet_count": 4568
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T10:13:57.000Z",
+        "description": "客服小祥,随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/40ZHppBx24"
+              }
+            ]
+          }
+        },
+        "id": "1966445060872093696",
+        "location": "距您2.8km",
+        "name": "阿mi",
+        "pinned_tweet_id": "2005156467763229043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012232123739254784/zGVmSTgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 703,
+          "like_count": 23716,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 1239
+        },
+        "url": "https://t.co/40ZHppBx24",
+        "username": "woshiamio",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2017585319261180059",
+    "created_at": "2026-02-01T17:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T18:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018018363608584451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018018363608584451",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017585319261180059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 看到老推u越来越好看的救赎感"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2017585308934811648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__nJhsbMAAgil6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2017585319261180059",
+        "created_at": "2026-02-01T17:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T18:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018018363608584451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018018363608584451",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017585319261180059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 看到老推u越来越好看的救赎感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017585308934811648"
+          ]
+        },
+        "author_id": "1668037836996771840",
+        "conversation_id": "2017585319261180059",
+        "created_at": "2026-01-31T13:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017585319261180059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WysWRL9Evg",
+              "end": 41,
+              "expanded_url": "https://x.com/cha_li_jin/status/2017585319261180059/photo/1",
+              "media_key": "3_2017585308934811648",
+              "start": 18,
+              "url": "https://t.co/WysWRL9Evg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017585319261180059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3448,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路上经过的女孩子可能不一定是女孩子 https://t.co/WysWRL9Evg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998373924263153664/RfLfOjEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3438,
+          "following_count": 1014,
+          "like_count": 32508,
+          "listed_count": 8,
+          "media_count": 472,
+          "tweet_count": 4120
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "一只会上网的家猪丨阴湿阳光长发男，重度回避型，坐标珠三角，普通在读大学生，间歇性讨厌人类丨瑟瑟营业号： @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "tashigan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsaritsyn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsaritsyn1",
+                "start": 0,
+                "url": "https://t.co/2Jeo14uWZ8"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "距离178m",
+        "name": "AAA星之果实批发零售察里津",
+        "pinned_tweet_id": "2016343571872547188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017837540590686211/LprwScgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8501,
+          "following_count": 776,
+          "like_count": 13793,
+          "listed_count": 46,
+          "media_count": 320,
+          "tweet_count": 2749
+        },
+        "url": "https://t.co/2Jeo14uWZ8",
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

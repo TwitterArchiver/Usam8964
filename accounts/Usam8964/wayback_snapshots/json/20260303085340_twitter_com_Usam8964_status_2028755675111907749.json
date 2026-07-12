@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2028755675111907749",
+    "created_at": "2026-03-03T08:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T09:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028755675111907749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/udngame/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/udngame/status/2028306370513236255",
+          "start": 11,
+          "url": "https://t.co/3G7n7KvAiP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028755675111907749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028306370513236255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求你别把Go团写崩了 https://t.co/3G7n7KvAiP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2028306325256720384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCX92zya0AAB4Z5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2028755675111907749",
+        "created_at": "2026-03-03T08:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028755675111907749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/udngame/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/udngame/status/2028306370513236255",
+              "start": 11,
+              "url": "https://t.co/3G7n7KvAiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028755675111907749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028306370513236255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求你别把Go团写崩了 https://t.co/3G7n7KvAiP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028306325256720384"
+          ]
+        },
+        "author_id": "1235807095888285698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2028306370513236255",
+        "created_at": "2026-03-02T03:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028306370513236255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "持續一輩子是很困難的......",
+              "display_url": "game.udn.com/game/story/122…",
+              "end": 31,
+              "expanded_url": "https://game.udn.com/game/story/122089/9353418",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/2028306375546462208/wrEUrsR8?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028306375546462208/wrEUrsR8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "一輩子樂團！《BanG Dream! It's MyGO!!!!! / Ave Mujica》動畫續篇2027年1月開播 | udn遊戲角落",
+              "unwound_url": "https://game.udn.com/game/story/122089/9353418",
+              "url": "https://t.co/h5GAdHvt0n"
+            },
+            {
+              "display_url": "pic.x.com/MaVgEZiIsa",
+              "end": 125,
+              "expanded_url": "https://x.com/udngame/status/2028306370513236255/photo/1",
+              "media_key": "3_2028306325256720384",
+              "start": 102,
+              "url": "https://t.co/MaVgEZiIsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028306370513236255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 33436,
+          "like_count": 886,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "【一輩子樂團】\nhttps://t.co/h5GAdHvt0n\n​\n《BanG Dream!》將推出《It's MyGO!!!!! / Ave Mujica》動畫續篇，\n預計 2027 年 1 月開播！ https://t.co/MaVgEZiIsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3575,
+          "following_count": 1066,
+          "like_count": 35318,
+          "listed_count": 8,
+          "media_count": 340,
+          "tweet_count": 4496
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T05:59:14.000Z",
+        "description": "最夯的ACG新聞，最廣的深度評析，偶爾吸點迷因或替自己加點「油」(？)，快來udn遊戲角落，找尋自己的角落吧！ 投稿或合作洽詢： udngame@udngroup.com.tw YouTube 頻道： https://t.co/79EOaloavm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@udngame",
+                "end": 124,
+                "expanded_url": "https://www.youtube.com/@udngame",
+                "start": 101,
+                "url": "https://t.co/79EOaloavm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "game.udn.com/game/",
+                "end": 23,
+                "expanded_url": "https://game.udn.com/game/",
+                "start": 0,
+                "url": "https://t.co/xpo5BOYPcd"
+              }
+            ]
+          }
+        },
+        "id": "1235807095888285698",
+        "location": "新北市汐止區",
+        "name": "遊戲角落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996266424315367424/Qj5qDiT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5228,
+          "following_count": 249,
+          "like_count": 1066,
+          "listed_count": 10,
+          "media_count": 270,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/xpo5BOYPcd",
+        "username": "udngame",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1832610385310183687",
+    "created_at": "2024-09-08T14:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T15:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832781957924864426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683441735144439808",
+          "start": 0,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832781957924864426",
+    "in_reply_to_user_id": "1683441735144439808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832610385310183687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenium114 我也没有戒断"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1832610385310183687",
+        "created_at": "2024-09-08T14:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T15:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832781957924864426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832781957924864426",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832610385310183687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenium114 我也没有戒断"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832610378628644864",
+            "3_1832610378628657155"
+          ]
+        },
+        "author_id": "1683441735144439808",
+        "conversation_id": "1832610385310183687",
+        "created_at": "2024-09-08T02:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T03:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832610385310183687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnqrq2jxhq",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Allenium114/status/1832610385310183687/photo/1",
+              "media_key": "3_1832610378628644864",
+              "start": 30,
+              "url": "https://t.co/bnqRQ2JxHq"
+            },
+            {
+              "display_url": "pic.x.com/bnqrq2jxhq",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Allenium114/status/1832610385310183687/photo/1",
+              "media_key": "3_1832610378628657155",
+              "start": 30,
+              "url": "https://t.co/bnqRQ2JxHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832610385310183687",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1310,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致敬传奇耐药王牢铃\n总共 224t 普瑞巴林\n没有戒断\n樂 https://t.co/bnqRQ2JxHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 832,
+          "like_count": 23147,
+          "listed_count": 2,
+          "tweet_count": 2842
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥 HRT2024.4.20|ADHD:专注达ing | 半出柜半家长党| 小证 2024.8.5|178cm 57kg | Apex🎮纯净手柄♿️线性 41bug3.4 使用者♿️| 麻麻@xue_zhi2008 笨蛋@charge_rif|🇵🇸|逃生舱@kagurazaka_Lynn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "xue_zhi2008"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "charge_rif"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "kagurazaka_Lynn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "重庆 渝北",
+        "name": ".翎🍥",
+        "pinned_tweet_id": "1832469146862547048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789540383489449984/g9zaDvGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 833,
+          "like_count": 38478,
+          "listed_count": 7,
+          "tweet_count": 9082
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

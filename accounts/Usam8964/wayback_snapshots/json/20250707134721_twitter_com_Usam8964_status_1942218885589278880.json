@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1941964901741895820",
+    "created_at": "2025-07-07T13:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T14:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942218885589278880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596416860752207872",
+          "start": 0,
+          "username": "Longlinlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942218885589278880",
+    "in_reply_to_user_id": "1596416860752207872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941964901741895820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Longlinlon 这位还被熊老大挂过，不好评价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1941964901741895820",
+        "created_at": "2025-07-07T13:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942218885589278880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942218885589278880",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941964901741895820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 这位还被熊老大挂过，不好评价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1941964901741895820",
+        "created_at": "2025-07-06T20:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T21:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941964901741895820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sxshuishuimao/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/sxshuishuimao/status/1941280157056323903",
+              "start": 55,
+              "url": "https://t.co/sx0uzrqBXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941964901741895820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 973,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941280157056323903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翻半天媒体也没见发过自拍呀 倒是一堆吃喝拉撒都来了，唯一一张手照小臂跟猪蹄一样粗，到底是自恨还是傲慢我不好说 https://t.co/sx0uzrqBXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2987,
+          "following_count": 1031,
+          "like_count": 33656,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 3876
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2469,
+          "like_count": 211218,
+          "listed_count": 7,
+          "media_count": 1235,
+          "tweet_count": 13929
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1828070353111048291",
+    "created_at": "2024-08-26T14:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T15:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828073030117200352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828073030117200352",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828070353111048291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 你冲Q币吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1828070353111048291",
+        "created_at": "2024-08-26T14:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T15:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828073030117200352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828073030117200352",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828070353111048291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 你冲Q币吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828070350317604864"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1828070353111048291",
+        "created_at": "2024-08-26T14:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T15:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828070353111048291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hizsz5fviz",
+              "end": 23,
+              "expanded_url": "https://twitter.com/yqua_/status/1828070353111048291/photo/1",
+              "media_key": "3_1828070350317604864",
+              "start": 0,
+              "url": "https://t.co/hIZSZ5FViz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828070353111048291",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hIZSZ5FViz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 807,
+          "like_count": 21226,
+          "listed_count": 2,
+          "tweet_count": 2728
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "你永远可以相信永铨！|天残党断糖郭楠MtX🏳️‍⚧️|高三伪DK的日常与梗图|金融|电竞|创业|业余无线电|空铁轨交|日常：@RU9SH|日本語：@ryq59|社长:@Saikin_XiJun|商业（更新暂停中）#小药娘网络科技|互fo请DM |链接为个人全平台联系方式",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "小药娘网络科技"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 62,
+                "username": "RU9SH"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "username": "ryq59"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Saikin_XiJun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "ゆきの懐",
+        "name": "铨🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8428,
+          "following_count": 3704,
+          "like_count": 149552,
+          "listed_count": 42,
+          "tweet_count": 16247
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2050573628983669224",
+    "created_at": "2026-05-02T14:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050579684317147142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1527652153392701442",
+          "start": 0,
+          "username": "ctf7zi"
+        },
+        {
+          "end": 23,
+          "id": "1489468526826082312",
+          "start": 8,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 40,
+          "id": "1682687182375636992",
+          "start": 24,
+          "username": "Cavaradossi1008"
+        },
+        {
+          "end": 52,
+          "id": "1480902038884130819",
+          "start": 41,
+          "username": "AyatamaNya"
+        },
+        {
+          "end": 68,
+          "id": "1644616720580218882",
+          "start": 53,
+          "username": "T01PUklPTU9SSQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050579684317147142",
+    "in_reply_to_user_id": "1527652153392701442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050573628983669224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctf7zi @Diamond_Kokoro @Cavaradossi1008 @AyatamaNya @T01PUklPTU9SSQ 宝宝🫳🏻🫳🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050573626152501248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUZ2TyawAA6Yy0.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2050573628983669224",
+        "created_at": "2026-05-02T14:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050579684317147142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1527652153392701442",
+              "start": 0,
+              "username": "ctf7zi"
+            },
+            {
+              "end": 23,
+              "id": "1489468526826082312",
+              "start": 8,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 40,
+              "id": "1682687182375636992",
+              "start": 24,
+              "username": "Cavaradossi1008"
+            },
+            {
+              "end": 52,
+              "id": "1480902038884130819",
+              "start": 41,
+              "username": "AyatamaNya"
+            },
+            {
+              "end": 68,
+              "id": "1644616720580218882",
+              "start": 53,
+              "username": "T01PUklPTU9SSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050579684317147142",
+        "in_reply_to_user_id": "1527652153392701442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050573628983669224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctf7zi @Diamond_Kokoro @Cavaradossi1008 @AyatamaNya @T01PUklPTU9SSQ 宝宝🫳🏻🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050573626152501248"
+          ]
+        },
+        "author_id": "1527652153392701442",
+        "conversation_id": "2050573628983669224",
+        "created_at": "2026-05-02T13:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050573628983669224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1489468526826082312",
+              "start": 22,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 47,
+              "id": "1643490407094030338",
+              "start": 38,
+              "username": "Usam8964"
+            },
+            {
+              "end": 70,
+              "id": "1682687182375636992",
+              "start": 54,
+              "username": "Cavaradossi1008"
+            },
+            {
+              "end": 88,
+              "id": "1480902038884130819",
+              "start": 77,
+              "username": "AyatamaNya"
+            },
+            {
+              "end": 104,
+              "id": "1644616720580218882",
+              "start": 89,
+              "username": "T01PUklPTU9SSQ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 132,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/awgtggid0c"
+            },
+            {
+              "display_url": "pic.x.com/S3PjDFLZka",
+              "end": 156,
+              "expanded_url": "https://x.com/ctf7zi/status/2050573628983669224/photo/1",
+              "media_key": "3_2050573626152501248",
+              "start": 133,
+              "url": "https://t.co/S3PjDFLZka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050573628983669224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Diamond_Kokoro @Usam8964\n👰 配偶: @Cavaradossi1008\n👶 孩子: @AyatamaNya @T01PUklPTU9SSQ\n\n➡️ https://t.co/awgtggid0c https://t.co/S3PjDFLZka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 1195,
+          "like_count": 55512,
+          "listed_count": 6,
+          "media_count": 489,
+          "tweet_count": 6800
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T14:07:21.000Z",
+        "description": "自伤/od/跨女/一些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ctf7zi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ctf7zi",
+                "start": 0,
+                "url": "https://t.co/N1lw2XkF1m"
+              }
+            ]
+          }
+        },
+        "id": "1527652153392701442",
+        "name": "自愿躺平的大和撫子玔(高浮上)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785403185932455936/UTl4_iZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 516,
+          "like_count": 25227,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 8166
+        },
+        "url": "https://t.co/N1lw2XkF1m",
+        "username": "ctf7zi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity: Non-Male. 我最喜欢She/her，但实际上除了“He/him”都OK，中文“他”、“它”不介意。\n我是@irisdesombres 的忠犬，祂的命令就是我的愿望。\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 66,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 130,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 107,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "但愿从今后 你我永不忘",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050387766765129728/PlDRukuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 107,
+          "like_count": 4653,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 3106
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-22T09:41:26.000Z",
+        "description": "🔱🇮🇳शिव नाम से है जगत में उजाला",
+        "id": "1682687182375636992",
+        "location": "Ganga",
+        "name": "🇮🇳MerryMerryHearn",
+        "pinned_tweet_id": "2049939605114515756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041797915426091009/vc4YUeLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1432,
+          "like_count": 170975,
+          "listed_count": 10,
+          "media_count": 1351,
+          "tweet_count": 17663
+        },
+        "username": "Cavaradossi1008",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T14:02:08.000Z",
+        "description": "我是绫玉/是个笨蛋/INFP/永远14岁/虽然b人很多但我友好善良/雷点很多/单推沙月/萝莉控/猫控/喜欢一切可爱的东西/互动有概率掉落回fo",
+        "id": "1480902038884130819",
+        "location": "绝缘栅双极晶体管  调制传递函数",
+        "name": "绫玉今天吃什么🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026919123041607680/dBL0VRhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 483,
+          "like_count": 40826,
+          "listed_count": 2,
+          "media_count": 1034,
+          "tweet_count": 6312
+        },
+        "username": "AyatamaNya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T08:22:43.000Z",
+        "description": "something",
+        "id": "1644616720580218882",
+        "name": "basil",
+        "pinned_tweet_id": "1875070857036611592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766069312870342656/067cuMF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 695,
+          "like_count": 16974,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 3668
+        },
+        "username": "T01PUklPTU9SSQ",
+        "verified": false
+      }
+    ]
+  }
+}

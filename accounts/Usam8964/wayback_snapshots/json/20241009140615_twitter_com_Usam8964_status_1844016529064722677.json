@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1844016397342715964",
+    "created_at": "2024-10-09T14:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T15:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844016529064722677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Hot_Wave_Flow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844016529064722677",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844016397342715964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hot_Wave_Flow 会的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1844016397342715964].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1844016397342715964",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1844016397342715964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1844016397342715964",
+        "created_at": "2024-10-09T14:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T15:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844016529064722677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Hot_Wave_Flow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844016529064722677",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844016397342715964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hot_Wave_Flow 会的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 910,
+          "like_count": 25823,
+          "listed_count": 4,
+          "tweet_count": 3137
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "可以称呼为阿冷或者阿棄🥺♥️\n讨厌指派性别/友跨/只想开开心心地活着\n喜欢可爱的事物\n高二（物化生），平时由于学业会长期锁推\n精神状态时好时坏，所以你能看到两个不同的我\n喜欢和推友们在一起，有你们在就不会孤独\n分身@mkc_Cute\n堇堇@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "mkc_Cute"
+              },
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ColdWindBlow",
+                "end": 23,
+                "expanded_url": "https://t.me/ColdWindBlow",
+                "start": 0,
+                "url": "https://t.co/CImmUnc097"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "𝓒𝓸𝓵𝓭 𝓦𝓲𝓷𝓭 𝓑𝓵𝓸𝔀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842004481489186816/OdEl70D9_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 675,
+          "like_count": 80560,
+          "listed_count": 3,
+          "tweet_count": 2898
+        },
+        "url": "https://t.co/CImmUnc097",
+        "username": "Hot_Wave_Flow",
+        "verified": false
+      }
+    ]
+  }
+}

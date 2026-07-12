@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2025082530899394622",
+    "created_at": "2026-02-21T10:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025148556668276878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904239490132246528",
+          "start": 0,
+          "username": "fb_tx71061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025148556668276878",
+    "in_reply_to_user_id": "1904239490132246528",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025087887453421932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fb_tx71061 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2025082530899394622",
+        "created_at": "2026-02-21T10:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025148556668276878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904239490132246528",
+              "start": 0,
+              "username": "fb_tx71061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025148556668276878",
+        "in_reply_to_user_id": "1904239490132246528",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025087887453421932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fb_tx71061 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904239490132246528",
+        "conversation_id": "2025082530899394622",
+        "created_at": "2026-02-21T05:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025087887453421932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025087887453421932",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025082530899394622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 冷静一下，好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3557,
+          "following_count": 1072,
+          "like_count": 34481,
+          "listed_count": 8,
+          "media_count": 321,
+          "tweet_count": 4293
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T18:30:57.000Z",
+        "description": "把我当成精神病就好了",
+        "id": "1904239490132246528",
+        "name": "今天又是快乐的一天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020862551610015744/l5-ZafSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 62,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 421
+        },
+        "username": "fb_tx71061",
+        "verified": false
+      }
+    ]
+  }
+}

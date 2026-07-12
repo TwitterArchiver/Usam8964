@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2037791034311409842",
+    "created_at": "2026-03-28T11:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037849099693953280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992142628343996416",
+          "start": 0,
+          "username": "Witch198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037849099693953280",
+    "in_reply_to_user_id": "1992142628343996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037848983708786863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Witch198964 已严肃受教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2037791034311409842",
+        "created_at": "2026-03-28T11:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037849099693953280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992142628343996416",
+              "start": 0,
+              "username": "Witch198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037849099693953280",
+        "in_reply_to_user_id": "1992142628343996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037848983708786863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Witch198964 已严肃受教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992142628343996416",
+        "conversation_id": "2037791034311409842",
+        "created_at": "2026-03-28T11:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037848983708786863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037848983708786863",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037845996831649813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 已私下传授"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3649,
+          "following_count": 1145,
+          "like_count": 46843,
+          "listed_count": 8,
+          "media_count": 442,
+          "tweet_count": 5936
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T08:07:09.000Z",
+        "description": "MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜一个喜欢搞抽象的健全人｜同类互fo可面",
+        "id": "1992142628343996416",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Witch🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034994870910427157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037766248273170433/x_uOGJpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 331,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 314
+        },
+        "username": "Witch198964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2016406623003279662",
+    "created_at": "2026-02-20T09:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T10:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024781667492311374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898887455245582336",
+          "start": 0,
+          "username": "ShiyouXu114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024781667492311374",
+    "in_reply_to_user_id": "1898887455245582336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016406623003279662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiyouXu114514 入选cornhub"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2016406623003279662",
+        "created_at": "2026-02-20T09:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024781667492311374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898887455245582336",
+              "start": 0,
+              "username": "ShiyouXu114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024781667492311374",
+        "in_reply_to_user_id": "1898887455245582336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016406623003279662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiyouXu114514 入选cornhub"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898887455245582336",
+        "conversation_id": "2016406623003279662",
+        "created_at": "2026-01-28T07:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016406623003279662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TWCommanderCat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/TWCommanderCat/status/2016397028453167532",
+              "start": 10,
+              "url": "https://t.co/8FozSze1CT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016406623003279662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016397028453167532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么多玉米不得升天 https://t.co/8FozSze1CT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3550,
+          "following_count": 1066,
+          "like_count": 34380,
+          "listed_count": 8,
+          "media_count": 320,
+          "tweet_count": 4235
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T00:04:10.000Z",
+        "description": "🐧咕咕嘎嘎🐧\n顺治捏，非滴泪女非木桶饭\nHere’s the worlds most laughable centralist🐼",
+        "id": "1898887455245582336",
+        "location": "チナ企鹅思想研究院🐧",
+        "name": "悲惨世界...",
+        "pinned_tweet_id": "1987522355388891172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984643775445286914/evh3rktN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 620,
+          "like_count": 1111,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 745
+        },
+        "username": "ShiyouXu114514",
+        "verified": false
+      }
+    ]
+  }
+}

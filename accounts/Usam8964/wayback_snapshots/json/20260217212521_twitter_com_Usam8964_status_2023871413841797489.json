@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2023870996353286606",
+    "created_at": "2026-02-17T21:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T22:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023871413841797489"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023871413841797489",
+    "in_reply_to_user_id": "1643490407094030338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023870996353286606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我得感谢这位阿訇，不然我怎么能从这篇推文的引用里收藏那么多表情包呢。\n\n这是真猪给我的礼物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2023870993887096832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBY78i3bcAAn00S.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2023870996353286606",
+        "created_at": "2026-02-17T21:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023871413841797489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023871413841797489",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023870996353286606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我得感谢这位阿訇，不然我怎么能从这篇推文的引用里收藏那么多表情包呢。\n\n这是真猪给我的礼物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023870993887096832"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2023870996353286606",
+        "created_at": "2026-02-17T21:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023870996353286606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JShgdIGXK7",
+              "end": 23,
+              "expanded_url": "https://x.com/Usam8964/status/2023870996353286606/photo/1",
+              "media_key": "3_2023870993887096832",
+              "start": 0,
+              "url": "https://t.co/JShgdIGXK7"
+            },
+            {
+              "display_url": "x.com/BNI_1378/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/BNI_1378/status/2023415521031667814",
+              "start": 24,
+              "url": "https://t.co/YHU765PXeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023870996353286606",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023415521031667814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/JShgdIGXK7 https://t.co/YHU765PXeL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3547,
+          "following_count": 1065,
+          "like_count": 34146,
+          "listed_count": 8,
+          "media_count": 315,
+          "tweet_count": 4171
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

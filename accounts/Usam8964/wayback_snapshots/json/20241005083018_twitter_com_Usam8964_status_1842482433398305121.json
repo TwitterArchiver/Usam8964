@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1842119535392145623",
+    "created_at": "2024-10-05T08:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T09:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842482433398305121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1457925329939361797",
+          "start": 0,
+          "username": "sutanghentian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842482433398305121",
+    "in_reply_to_user_id": "1457925329939361797",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842119535392145623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sutanghentian 土耳其首都是伊斯坦布尔还是安卡拉？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1842119535392145623",
+        "created_at": "2024-10-05T08:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T09:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842482433398305121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1457925329939361797",
+              "start": 0,
+              "username": "sutanghentian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842482433398305121",
+        "in_reply_to_user_id": "1457925329939361797",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842119535392145623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sutanghentian 土耳其首都是伊斯坦布尔还是安卡拉？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1842119534129590272"
+          ]
+        },
+        "author_id": "1457925329939361797",
+        "conversation_id": "1842119535392145623",
+        "created_at": "2024-10-04T08:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T09:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842119535392145623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842119535392145623",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 35621,
+          "like_count": 184,
+          "quote_count": 14,
+          "reply_count": 199,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "澳大利亚首都是悉尼还是墨尔本呀（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 894,
+          "like_count": 25382,
+          "listed_count": 4,
+          "tweet_count": 3082
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T04:17:53.000Z",
+        "description": "咱的另外一个号@sutangtiantian。07年的女孩子，hrt：2023.6.24，姐姐@Fancy_Starry，闺蜜@eureka222323，@plantie_uwu，@bghtnya，妹妹@sorasukiovo，经常emo…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "sutangtiantian"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Fancy_Starry"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "eureka222323"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "plantie_uwu"
+              },
+              {
+                "end": 98,
+                "start": 90,
+                "username": "bghtnya"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "sorasukiovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sutangtiantian",
+                "end": 23,
+                "expanded_url": "https://t.me/sutangtiantian",
+                "start": 0,
+                "url": "https://t.co/kPZmayouXK"
+              }
+            ]
+          }
+        },
+        "id": "1457925329939361797",
+        "location": "垃圾桶",
+        "name": "酥糖～🏳️‍⚧️🍥🍬",
+        "pinned_tweet_id": "1823031404789481494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695389239528353792/rhleJFI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3227,
+          "following_count": 1475,
+          "like_count": 22532,
+          "listed_count": 4,
+          "tweet_count": 13104
+        },
+        "url": "https://t.co/kPZmayouXK",
+        "username": "sutanghentian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2025045646131200315",
+    "created_at": "2026-02-21T03:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025045646131200315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/H0H0v/status/2…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/H0H0v/status/2024752146709659956",
+          "start": 14,
+          "url": "https://t.co/2XyezTt7Vs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025045646131200315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024752146709659956",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "申请查询评论区平均数学水平 https://t.co/2XyezTt7Vs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_2024752140342759425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBldWBNXkAEHbPe.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2025045646131200315",
+        "created_at": "2026-02-21T03:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025045646131200315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/H0H0v/status/2…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/H0H0v/status/2024752146709659956",
+              "start": 14,
+              "url": "https://t.co/2XyezTt7Vs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025045646131200315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024752146709659956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "申请查询评论区平均数学水平 https://t.co/2XyezTt7Vs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024752140342759425"
+          ]
+        },
+        "author_id": "907661917866610689",
+        "conversation_id": "2024752146709659956",
+        "created_at": "2026-02-20T07:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024752146709659956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wxg9cVGkPT",
+              "end": 28,
+              "expanded_url": "https://x.com/H0H0v/status/2024752146709659956/photo/1",
+              "media_key": "3_2024752140342759425",
+              "start": 5,
+              "url": "https://t.co/Wxg9cVGkPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024752146709659956",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 1512604,
+          "like_count": 3104,
+          "quote_count": 132,
+          "reply_count": 447,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "b =? https://t.co/Wxg9cVGkPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3555,
+          "following_count": 1070,
+          "like_count": 34436,
+          "listed_count": 8,
+          "media_count": 321,
+          "tweet_count": 4253
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-12T17:47:19.000Z",
+        "description": "Passionate about knowledge … sharing it with precision.",
+        "id": "907661917866610689",
+        "name": "KHALID",
+        "pinned_tweet_id": "1847895019115462949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011013274918170624/YuCteRdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29113,
+          "following_count": 0,
+          "like_count": 43944,
+          "listed_count": 176,
+          "media_count": 4686,
+          "tweet_count": 8312
+        },
+        "username": "H0H0v",
+        "verified": true
+      }
+    ]
+  }
+}

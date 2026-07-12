@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2049482075053654206",
+    "created_at": "2026-04-30T12:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049825207079391482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2030593429047287808",
+          "start": 0,
+          "username": "hyuISJ90oR64018"
+        },
+        {
+          "end": 26,
+          "id": "1348848172584505346",
+          "start": 17,
+          "username": "_Lucayyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049825207079391482",
+    "in_reply_to_user_id": "2030593429047287808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049718036429730217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyuISJ90oR64018 @_Lucayyy 美金刚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2049482075053654206",
+        "created_at": "2026-04-30T12:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049825207079391482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2030593429047287808",
+              "start": 0,
+              "username": "hyuISJ90oR64018"
+            },
+            {
+              "end": 26,
+              "id": "1348848172584505346",
+              "start": 17,
+              "username": "_Lucayyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049825207079391482",
+        "in_reply_to_user_id": "2030593429047287808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049718036429730217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyuISJ90oR64018 @_Lucayyy 美金刚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030593429047287808",
+        "conversation_id": "2049482075053654206",
+        "created_at": "2026-04-30T05:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049718036429730217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1348848172584505346",
+              "start": 0,
+              "username": "_Lucayyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049718036429730217",
+        "in_reply_to_user_id": "1348848172584505346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049482075053654206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Lucayyy メジコン、って何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 1189,
+          "like_count": 55181,
+          "listed_count": 6,
+          "media_count": 485,
+          "tweet_count": 6760
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T10:39:10.000Z",
+        "description": "",
+        "id": "2030593429047287808",
+        "name": "G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030594169073524736/5YtCddbY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 11,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 770
+        },
+        "username": "hyuISJ90oR64018",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-12T04:24:10.000Z",
+        "description": "🚺｜ケモナー｜イラスト｜自傷｜飛び降り歴｜鬱｜統合失調症｜ダイエット|15歳｜病み垢基本通す｜たまにコスプレ｜サブ垢→@_Lucayyy26\nこちらは大切なお兄ちゃん→✨️@fishheaven1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "_Lucayyy26"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "fishheaven1019"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/_Lucayyy/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/_Lucayyy/",
+                "start": 0,
+                "url": "https://t.co/qR0RWNDZub"
+              }
+            ]
+          }
+        },
+        "id": "1348848172584505346",
+        "location": "マンションの階段",
+        "name": "るか",
+        "pinned_tweet_id": "2048291510152806771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041035289515438081/o3YhsRtg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 284,
+          "like_count": 2801,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/qR0RWNDZub",
+        "username": "_Lucayyy",
+        "verified": false
+      }
+    ]
+  }
+}

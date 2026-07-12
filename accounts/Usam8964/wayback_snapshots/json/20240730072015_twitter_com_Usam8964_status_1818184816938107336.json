@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1817879916236697767",
+    "created_at": "2024-07-30T07:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T08:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818184816938107336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818184816938107336",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817879916236697767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 9.331%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1817879916236697767",
+        "created_at": "2024-07-30T07:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T08:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818184816938107336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818184816938107336",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817879916236697767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 9.331%"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703297947121901568",
+        "conversation_id": "1817879916236697767",
+        "created_at": "2024-07-29T11:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T12:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817879916236697767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817879916236697767",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7158,
+          "like_count": 57,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "用含糖的天数，除以出生的天数\n寻找比我比值更高的人（）\n22.8437%"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 752,
+          "like_count": 15783,
+          "listed_count": 2,
+          "tweet_count": 2464
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "永远长不大的傻孩子x｜持证20.11.11含糖MtF/08/CChOer（等待退役）/准高二/持“证”ADHD&ASD｜｜❤️麻麻@toukorina🥰｜｜女儿@Allenium114🥵｜｜呱呱 是可爱的青蛙\n喵喵 有时候会是猫猫x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "toukorina"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "橙子精神病院",
+        "name": "雪织🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1814631948649963805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757371809710907392/xCYUa4m8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 263,
+          "like_count": 484,
+          "listed_count": 2,
+          "tweet_count": 299
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

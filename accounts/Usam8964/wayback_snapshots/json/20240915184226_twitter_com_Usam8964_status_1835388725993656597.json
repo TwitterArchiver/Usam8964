@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1834805785043566699",
+    "created_at": "2024-09-15T18:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T19:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835388725993656597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1527308255927492609",
+          "start": 0,
+          "username": "love1027w"
+        },
+        {
+          "end": 23,
+          "id": "1689568264681058304",
+          "start": 11,
+          "username": "Ray20180901"
+        },
+        {
+          "end": 32,
+          "id": "1433678976564662273",
+          "start": 24,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835388725993656597",
+    "in_reply_to_user_id": "1527308255927492609",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835360474000764960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love1027w @Ray20180901 @hsn8086 “领导”綳不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1834805785043566699",
+        "created_at": "2024-09-15T18:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T19:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835388725993656597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1527308255927492609",
+              "start": 0,
+              "username": "love1027w"
+            },
+            {
+              "end": 23,
+              "id": "1689568264681058304",
+              "start": 11,
+              "username": "Ray20180901"
+            },
+            {
+              "end": 32,
+              "id": "1433678976564662273",
+              "start": 24,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835388725993656597",
+        "in_reply_to_user_id": "1527308255927492609",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835360474000764960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love1027w @Ray20180901 @hsn8086 “领导”綳不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527308255927492609",
+        "conversation_id": "1834805785043566699",
+        "created_at": "2024-09-15T16:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T17:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835360474000764960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689568264681058304",
+              "start": 0,
+              "username": "Ray20180901"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835360474000764960",
+        "in_reply_to_user_id": "1689568264681058304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835217757354275159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ray20180901 @hsn8086 唉中国人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 847,
+          "like_count": 24121,
+          "listed_count": 2,
+          "tweet_count": 2932
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "⚠️‼️无敏感血图/OD/负能量，注意避雷，善用屏蔽，谨慎关注，被误b可联系@Yuzumi0211 ⚠️NSFW 🏳️‍⚧️Non-binary（they/he/she）🌈pan | grey-aro #shtwt #od",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 101,
+                "tag": "shtwt"
+              },
+              {
+                "end": 111,
+                "start": 108,
+                "tag": "od"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "Yuzumi0211"
+              }
+            ]
+          }
+        },
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1832125547960471576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765012568337432576/CKVTZuPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11007,
+          "following_count": 468,
+          "like_count": 38169,
+          "listed_count": 13,
+          "tweet_count": 21297
+        },
+        "username": "love1027w",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T09:24:30.000Z",
+        "description": "Just want see others country's people",
+        "id": "1689568264681058304",
+        "name": "Ray",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690648564278460416/ZrDaZ6JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 188,
+          "like_count": 1205,
+          "listed_count": 0,
+          "tweet_count": 511
+        },
+        "username": "Ray20180901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn!半角符号万岁!主人: @permanent_yin backup: https://t.co/Oug18Qj2wJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "permanent_yin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mastodon.social/@hsn8086",
+                "end": 67,
+                "expanded_url": "https://mastodon.social/@hsn8086",
+                "start": 44,
+                "url": "https://t.co/Oug18Qj2wJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh314.xyz",
+                "end": 23,
+                "expanded_url": "http://www.zh314.xyz",
+                "start": 0,
+                "url": "https://t.co/UXagT1hqJX"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1766387926320214177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 831,
+          "like_count": 35030,
+          "listed_count": 4,
+          "tweet_count": 4957
+        },
+        "url": "https://t.co/UXagT1hqJX",
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

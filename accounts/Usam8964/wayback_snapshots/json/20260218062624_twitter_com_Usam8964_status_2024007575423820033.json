@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024007572840493056"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2023986426409611375",
+    "created_at": "2026-02-18T06:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T07:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024007575423820033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672856505048264706",
+          "start": 0,
+          "username": "xplq1985411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uyN1dnizxC",
+          "end": 41,
+          "expanded_url": "https://x.com/Usam8964/status/2024007575423820033/photo/1",
+          "media_key": "3_2024007572840493056",
+          "start": 18,
+          "url": "https://t.co/uyN1dnizxC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024007575423820033",
+    "in_reply_to_user_id": "1672856505048264706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024003478889091499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xplq1985411 文案出处 https://t.co/uyN1dnizxC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024007572840493056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa4KfHbsAAN-bz.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024007572840493056"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2023986426409611375",
+        "created_at": "2026-02-18T06:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024007575423820033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672856505048264706",
+              "start": 0,
+              "username": "xplq1985411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uyN1dnizxC",
+              "end": 41,
+              "expanded_url": "https://x.com/Usam8964/status/2024007575423820033/photo/1",
+              "media_key": "3_2024007572840493056",
+              "start": 18,
+              "url": "https://t.co/uyN1dnizxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024007575423820033",
+        "in_reply_to_user_id": "1672856505048264706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024003478889091499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xplq1985411 文案出处 https://t.co/uyN1dnizxC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672856505048264706",
+        "conversation_id": "2023986426409611375",
+        "created_at": "2026-02-18T06:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024003478889091499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024003478889091499",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023986426409611375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 何意味啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3548,
+          "following_count": 1066,
+          "like_count": 34175,
+          "listed_count": 8,
+          "media_count": 316,
+          "tweet_count": 4174
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T06:37:35.000Z",
+        "description": "@plq1985411的分身，大号扔在打复活赛中，寻找失散的朋友ing。预备避难所@dplq1985411。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "plq1985411"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "dplq1985411"
+              }
+            ]
+          }
+        },
+        "id": "1672856505048264706",
+        "location": "青岛",
+        "name": "pradge-official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860157901337427971/QXTssgJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 2505,
+          "like_count": 21865,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 3367
+        },
+        "username": "xplq1985411",
+        "verified": false
+      }
+    ]
+  }
+}

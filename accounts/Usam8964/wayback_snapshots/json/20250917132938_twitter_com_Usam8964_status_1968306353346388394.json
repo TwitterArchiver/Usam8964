@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968306348720029696",
+        "3_1968306349588271104"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1968306353346388394",
+    "created_at": "2025-09-17T13:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968306353346388394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/88POS5zGoE",
+          "end": 59,
+          "expanded_url": "https://x.com/Usam8964/status/1968306353346388394/photo/1",
+          "media_key": "3_1968306348720029696",
+          "start": 36,
+          "url": "https://t.co/88POS5zGoE"
+        },
+        {
+          "display_url": "pic.x.com/88POS5zGoE",
+          "end": 59,
+          "expanded_url": "https://x.com/Usam8964/status/1968306353346388394/photo/1",
+          "media_key": "3_1968306349588271104",
+          "start": 36,
+          "url": "https://t.co/88POS5zGoE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968306353346388394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生日去女仆咖啡厅吃了爱心蛋包饭，三位可爱的女仆一起给我唱生日歌，泪目了 https://t.co/88POS5zGoE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1968306348720029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DUMhSagAAuCqY.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1968306349588271104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DUMkha0AA0mut.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968306348720029696",
+            "3_1968306349588271104"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968306353346388394",
+        "created_at": "2025-09-17T13:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968306353346388394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88POS5zGoE",
+              "end": 59,
+              "expanded_url": "https://x.com/Usam8964/status/1968306353346388394/photo/1",
+              "media_key": "3_1968306348720029696",
+              "start": 36,
+              "url": "https://t.co/88POS5zGoE"
+            },
+            {
+              "display_url": "pic.x.com/88POS5zGoE",
+              "end": 59,
+              "expanded_url": "https://x.com/Usam8964/status/1968306353346388394/photo/1",
+              "media_key": "3_1968306349588271104",
+              "start": 36,
+              "url": "https://t.co/88POS5zGoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968306353346388394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日去女仆咖啡厅吃了爱心蛋包饭，三位可爱的女仆一起给我唱生日歌，泪目了 https://t.co/88POS5zGoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接\n老婆：@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3343,
+          "following_count": 1028,
+          "like_count": 33264,
+          "listed_count": 10,
+          "media_count": 466,
+          "tweet_count": 4040
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

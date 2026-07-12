@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1856635561349697858",
+    "created_at": "2024-11-13T16:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T17:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856742893949784180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1035153041392107520",
+          "start": 0,
+          "username": "boss_fanta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856742893949784180",
+    "in_reply_to_user_id": "1035153041392107520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856635561349697858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boss_fanta 这是我（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1856635561349697858",
+        "created_at": "2024-11-13T16:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T17:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856742893949784180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1035153041392107520",
+              "start": 0,
+              "username": "boss_fanta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856742893949784180",
+        "in_reply_to_user_id": "1035153041392107520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856635561349697858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boss_fanta 这是我（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856635559227367424"
+          ]
+        },
+        "author_id": "1035153041392107520",
+        "conversation_id": "1856635561349697858",
+        "created_at": "2024-11-13T09:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T10:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856635561349697858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXo91LxdDs",
+              "end": 23,
+              "expanded_url": "https://x.com/boss_fanta/status/1856635561349697858/photo/1",
+              "media_key": "3_1856635559227367424",
+              "start": 0,
+              "url": "https://t.co/iXo91LxdDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856635561349697858",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4592,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iXo91LxdDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 956,
+          "like_count": 28669,
+          "listed_count": 4,
+          "tweet_count": 3459
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-30T13:11:32.000Z",
+        "description": "臭肥屌丝一个，找稳定对象，不约不嫖\n穷酸文人，满脑不切实际的幻想\n走在荆棘之路上的爱而不得者\n钟爱短发，痣，眼镜，贫乳，身体线条，假小子。",
+        "id": "1035153041392107520",
+        "location": "中国山东东营",
+        "name": "FANTA",
+        "pinned_tweet_id": "1816429957062771175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837010313008533504/ap4M6to1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 62,
+          "like_count": 309,
+          "listed_count": 0,
+          "tweet_count": 615
+        },
+        "username": "boss_fanta",
+        "verified": false
+      }
+    ]
+  }
+}

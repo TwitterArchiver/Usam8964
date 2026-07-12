@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066875670446358528"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2066779239186354671",
+    "created_at": "2026-06-16T13:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066875673625714721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1649365408779214848",
+          "start": 0,
+          "username": "bolckAshley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B3Bo4j3u1z",
+          "end": 41,
+          "expanded_url": "https://x.com/Usam8964/status/2066875673625714721/photo/1",
+          "media_key": "3_2066875670446358528",
+          "start": 18,
+          "url": "https://t.co/B3Bo4j3u1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066875673625714721",
+    "in_reply_to_user_id": "1649365408779214848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066779239186354671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bolckAshley 吃奥氮平 https://t.co/B3Bo4j3u1z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2066875670446358528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8EeLPaQAAVacX.jpg",
+        "width": 596
+      },
+      {
+        "height": 1723,
+        "media_key": "3_2066779232966221824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6swxobIAA8FLS.jpg",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066875670446358528"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2066779239186354671",
+        "created_at": "2026-06-16T13:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066875673625714721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3Bo4j3u1z",
+              "end": 41,
+              "expanded_url": "https://x.com/Usam8964/status/2066875673625714721/photo/1",
+              "media_key": "3_2066875670446358528",
+              "start": 18,
+              "url": "https://t.co/B3Bo4j3u1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066875673625714721",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066779239186354671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley 吃奥氮平 https://t.co/B3Bo4j3u1z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066779232966221824"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2066779239186354671",
+        "created_at": "2026-06-16T07:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066779239186354671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsayrRigtH",
+              "end": 76,
+              "expanded_url": "https://x.com/bolckAshley/status/2066779239186354671/photo/1",
+              "media_key": "3_2066779232966221824",
+              "start": 53,
+              "url": "https://t.co/jsayrRigtH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066779239186354671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "請問一下妹妹17歲，因為愈美片吃太多，一直發瘋大喊大叫亂打人，還在公共場合要脫掉所有衣服，這些該怎麼治？ https://t.co/jsayrRigtH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "location": "RenkoUsami8964@proton.me",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3840,
+          "following_count": 1294,
+          "like_count": 66939,
+          "listed_count": 6,
+          "media_count": 553,
+          "tweet_count": 7705
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3776,
+          "following_count": 2175,
+          "like_count": 42557,
+          "listed_count": 31,
+          "media_count": 1683,
+          "tweet_count": 22724
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      }
+    ]
+  }
+}

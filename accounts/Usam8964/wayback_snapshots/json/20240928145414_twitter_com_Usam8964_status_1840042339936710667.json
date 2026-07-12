@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1839984702553501755",
+    "created_at": "2024-09-28T14:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T15:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840042339936710667"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "javas",
+          "probability": 0.6374,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Mualani_Ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840042339936710667",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839984702553501755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mualani_Ch modding javas netdisk resources texture..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1839984702553501755",
+        "created_at": "2024-09-28T14:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T15:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840042339936710667"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "javas",
+              "probability": 0.6374,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Mualani_Ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840042339936710667",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839984702553501755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mualani_Ch modding javas netdisk resources texture..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839984698979954688"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1839984702553501755",
+        "created_at": "2024-09-28T11:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T12:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839984702553501755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5aadfhurl",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Mualani_Ch/status/1839984702553501755/photo/1",
+              "media_key": "3_1839984698979954688",
+              "start": 0,
+              "url": "https://t.co/r5aadFHurl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839984702553501755",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 26739,
+          "like_count": 692,
+          "quote_count": 7,
+          "reply_count": 44,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r5aadFHurl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 893,
+          "like_count": 25241,
+          "listed_count": 3,
+          "tweet_count": 3046
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🇹🇼•友🏳️‍🌈🏳️‍⚧️•互fo请私讯•@Landscapy_Lover|@huahuojiang_|@GotouSugi_Kh|@MiaoShenXiuSi|@AvrovaDonz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Landscapy_Lover"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "GotouSugi_Kh"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "MiaoShenXiuSi"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "AvrovaDonz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mualani_ch",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mualani_ch",
+                "start": 0,
+                "url": "https://t.co/tNTYDoELYC"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "↓我的提问箱",
+        "name": "🫧玛拉妮酱～",
+        "pinned_tweet_id": "1826201330584842293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827023479385849856/bYntY_Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12940,
+          "following_count": 9266,
+          "like_count": 51744,
+          "listed_count": 52,
+          "tweet_count": 8709
+        },
+        "url": "https://t.co/tNTYDoELYC",
+        "username": "Mualani_Ch",
+        "verified": false
+      }
+    ]
+  }
+}

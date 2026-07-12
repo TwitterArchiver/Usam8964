@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1837295148440703417",
+    "created_at": "2024-09-21T10:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T11:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837436680091193795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521276666689261568",
+          "start": 0,
+          "username": "Yue_0404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837436680091193795",
+    "in_reply_to_user_id": "1521276666689261568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837295148440703417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yue_0404 竹蜻蜓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1837295148440703417",
+        "created_at": "2024-09-21T10:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T11:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837436680091193795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521276666689261568",
+              "start": 0,
+              "username": "Yue_0404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837436680091193795",
+        "in_reply_to_user_id": "1521276666689261568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837295148440703417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yue_0404 竹蜻蜓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521276666689261568",
+        "conversation_id": "1837295148440703417",
+        "created_at": "2024-09-21T00:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T01:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837295148440703417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837295148440703417",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5565,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "睿智时刻：\n有没有FTM男娘？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 889,
+          "like_count": 24780,
+          "listed_count": 3,
+          "tweet_count": 2989
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T23:53:27.000Z",
+        "description": "Yuèyue：“因为有自知之明，所以我包容万事万物；因为曾历经黑暗，所以我可以同情同理。”",
+        "id": "1521276666689261568",
+        "name": "钥钥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827259873094217728/Egy3bzp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 8,
+          "like_count": 3398,
+          "listed_count": 0,
+          "tweet_count": 3511
+        },
+        "username": "Yue_0404",
+        "verified": false
+      }
+    ]
+  }
+}

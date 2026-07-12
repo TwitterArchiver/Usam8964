@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1810128013541150720"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1810128196530290983",
+    "created_at": "2024-07-08T01:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T02:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1810128196530290983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/2daaNklpqp",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Usam8964/status/1810128196530290983/video/1",
+          "media_key": "7_1810128013541150720",
+          "start": 12,
+          "url": "https://t.co/2daaNklpqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810128196530290983",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好~~大~~~~的鹦鹉 https://t.co/2daaNklpqp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10661,
+        "height": 1280,
+        "media_key": "7_1810128013541150720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1810128013541150720/pu/img/7OG_NKFsFzb6TTot.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810128013541150720/pu/vid/avc1/320x568/rqJ-STySAFUInOKN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810128013541150720/pu/vid/avc1/480x852/u7DIkL-q_VXmT8CE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810128013541150720/pu/vid/avc1/720x1280/6MiHWRXVjpj2e4QR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1810128013541150720/pu/pl/jgxUwTblzO50SvIQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810128013541150720"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1810128196530290983",
+        "created_at": "2024-07-08T01:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T02:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810128196530290983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2daaNklpqp",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Usam8964/status/1810128196530290983/video/1",
+              "media_key": "7_1810128013541150720",
+              "start": 12,
+              "url": "https://t.co/2daaNklpqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810128196530290983",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好~~大~~~~的鹦鹉 https://t.co/2daaNklpqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 717,
+          "like_count": 13593,
+          "listed_count": 2,
+          "tweet_count": 2384
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

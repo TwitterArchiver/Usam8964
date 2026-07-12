@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1867507156809109730",
+    "created_at": "2024-12-13T10:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T11:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867511117821751559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "995268939994165248",
+          "start": 0,
+          "username": "KaguraAiri_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867511117821751559",
+    "in_reply_to_user_id": "995268939994165248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867507156809109730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraAiri_QWQ 啊，宝宝。。。抱抱你。。\n这医生真讨厌。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1867507156809109730",
+        "created_at": "2024-12-13T10:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T11:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867511117821751559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "995268939994165248",
+              "start": 0,
+              "username": "KaguraAiri_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867511117821751559",
+        "in_reply_to_user_id": "995268939994165248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867507156809109730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraAiri_QWQ 啊，宝宝。。。抱抱你。。\n这医生真讨厌。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "995268939994165248",
+        "conversation_id": "1867507156809109730",
+        "created_at": "2024-12-13T09:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T10:38:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867504299217236081",
+          "1867507156809109730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867507156809109730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "气死我了，真nm服了，天津安定这医生听说我有幻听跟他妈天神下凡拯救人间一样，我就不该提我跨性别的事情，嘴真他妈贱。那医生一副过来人的样子和我说他妈我这样不行，做出的决定不理智，直接给我妈打电话说我不适合srs，去他妈的。我都说我从初中开始就不舒服，这些年也很难受，在北京也开出来诊断了，一听说我已经去过411了更是如临大敌，说tmd减寿，还怀疑我幻听是涂凝胶导致的，去nmd，我要是能自己解决这问题早解决了好吧，你知道我为此做了多少吗，你知道我花了多少时间吗，你知道我纠结考证了多久吗，我说什么也不听，就知道说我精分不可靠。好啊，不做手术你给我解决解决啊，你解决了这个问题我跪下来替全世界的trans们感谢你，你知道我们的自杀率有多高吗，你知道由此引发的精神问题有多难受吗，不然就把嘴闭上，你旁边那个实习生都知道该怎么说话，你这么讲话真的不是给我上压力吗？你不会真的以为自己又拯救了一个家庭吧？还你妈说看我面相就是吃过激素的，我从小就长得像女孩子怎么你了，啥都不知道就在那边瞎叭叭，啥也不是\n好他妈不爽，我现在手还一直抖，本来没什么事的都给你整出问题，我前一个姑娘眼睁睁的被你忽悠去做mect，真的是，临近考试还做，一点都不考虑患者感受吗，我都说了我和我家里人说过了，去了北京上海医生也经过评估说我可以手术。还在那边说我不行，你用劝我的语气我也不会这么生气，上来就是“我们这边不承认任何地方的诊断”加上“我觉得你做出的决定没有法律效力”，那我这么些年跑过的医院都是野鸡医院是吧，真tm服了，本来我早上忘吃丙戊酸钠就有点亢奋，被他一席话搞得我直接想一头撞死\n真是听君一席话少活三十年\n捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气死我了，真nm服了，天津安定这医生听说我有幻听跟他妈天神下凡拯救人间一样，我就不该提我跨性别的事情，嘴真他妈贱。那医生一副过来人的样子和我说他妈我这样不行，做出的决定不理智，直接给我妈打电话说我不适合srs，去他妈的。我都说我从初中开始就不舒服，这些年也很难受，在北京也开出来诊断了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 994,
+          "like_count": 30449,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 3581
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-12T11:46:21.000Z",
+        "description": "想和大家做朋友!/一只有点不太像INFJ的INFJ-T猫猫/全国乱跑/过期(?)jk/我是你的赛博小猫罐头",
+        "id": "995268939994165248",
+        "location": "Far away from stars",
+        "name": "神楽愛理🍥",
+        "pinned_tweet_id": "1813057468626530802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829025477136396289/dpVRfuzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 372,
+          "like_count": 5611,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 2113
+        },
+        "username": "KaguraAiri_QWQ",
+        "verified": true
+      }
+    ]
+  }
+}

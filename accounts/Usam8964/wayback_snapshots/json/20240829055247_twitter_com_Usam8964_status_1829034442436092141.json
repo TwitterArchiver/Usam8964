@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1829029119541293262",
+    "created_at": "2024-08-29T05:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T06:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829034442436092141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130781616274468864",
+          "start": 0,
+          "username": "SHIGURE_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829034442436092141",
+    "in_reply_to_user_id": "1130781616274468864",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829029119541293262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHIGURE_QAQ 我去wws"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1829029119541293262",
+        "created_at": "2024-08-29T05:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T06:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829034442436092141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SHIGURE_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829034442436092141",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829029119541293262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIGURE_QAQ 我去wws"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829029113417609217",
+            "3_1829029113384054784",
+            "3_1829029113392439296"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "1829029119541293262",
+        "created_at": "2024-08-29T05:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T06:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829029119541293262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2rpqj6up7",
+              "end": 35,
+              "expanded_url": "https://twitter.com/SHIGURE_QAQ/status/1829029119541293262/photo/1",
+              "media_key": "3_1829029113417609217",
+              "start": 12,
+              "url": "https://t.co/K2RPQj6UP7"
+            },
+            {
+              "display_url": "pic.x.com/k2rpqj6up7",
+              "end": 35,
+              "expanded_url": "https://twitter.com/SHIGURE_QAQ/status/1829029119541293262/photo/1",
+              "media_key": "3_1829029113384054784",
+              "start": 12,
+              "url": "https://t.co/K2RPQj6UP7"
+            },
+            {
+              "display_url": "pic.x.com/k2rpqj6up7",
+              "end": 35,
+              "expanded_url": "https://twitter.com/SHIGURE_QAQ/status/1829029119541293262/photo/1",
+              "media_key": "3_1829029113392439296",
+              "start": 12,
+              "url": "https://t.co/K2RPQj6UP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829029119541293262",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再 战 青 年 旅 舍 https://t.co/K2RPQj6UP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 817,
+          "like_count": 22021,
+          "listed_count": 2,
+          "tweet_count": 2762
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "在杭州丨性少数友好丨🏹丨🐈丨🚴丨🔫丨 ⚠️警告：图片有隐写，随意转载可能导致封禁⚠️",
+        "id": "1130781616274468864",
+        "location": "开普勒-452b,KOI-7016.01",
+        "name": "时雨",
+        "pinned_tweet_id": "1810609226974470453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823998867135934464/5SoJ0_o8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56671,
+          "following_count": 2142,
+          "like_count": 48036,
+          "listed_count": 81,
+          "tweet_count": 5036
+        },
+        "username": "SHIGURE_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

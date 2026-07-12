@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1825351266345906343",
+    "created_at": "2024-08-19T15:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T16:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825561197208650011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680886638585741312",
+          "start": 0,
+          "username": "xijinpingSBgr3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825561197208650011",
+    "in_reply_to_user_id": "1680886638585741312",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825351266345906343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinpingSBgr3t 洋五毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1825351266345906343",
+        "created_at": "2024-08-19T15:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T16:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825561197208650011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680886638585741312",
+              "start": 0,
+              "username": "xijinpingSBgr3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825561197208650011",
+        "in_reply_to_user_id": "1680886638585741312",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825351266345906343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinpingSBgr3t 洋五毛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825351000892551168"
+          ]
+        },
+        "author_id": "1680886638585741312",
+        "conversation_id": "1825351266345906343",
+        "created_at": "2024-08-19T01:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T02:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825351266345906343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xck1lvugke",
+              "end": 41,
+              "expanded_url": "https://twitter.com/xijinpingSBgr3t/status/1825351266345906343/photo/1",
+              "media_key": "3_1825351000892551168",
+              "start": 18,
+              "url": "https://t.co/xCK1LVuGKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825351266345906343",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5357,
+          "like_count": 98,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个美国贱畜一天不被屠我一天难受。 https://t.co/xCK1LVuGKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 780,
+          "like_count": 18472,
+          "listed_count": 2,
+          "tweet_count": 2596
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T10:26:30.000Z",
+        "description": "支持社会自由主义，反共反独裁，有轻度民族主义倾向。中国的主要矛盾是独裁政府及其走狗和中国人民的矛盾，其余的都是次要矛盾。坚决支持中国人民的反独裁抗争和乌克兰人民的反侵略抗争！",
+        "id": "1680886638585741312",
+        "location": "民主中国",
+        "name": "极权独裁必亡🇨🇳🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761965445081677824/-LbV-izs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 31,
+          "like_count": 5908,
+          "listed_count": 2,
+          "tweet_count": 1094
+        },
+        "username": "xijinpingSBgr3t",
+        "verified": false
+      }
+    ]
+  }
+}

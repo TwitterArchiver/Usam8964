@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2036006261154857413",
+    "created_at": "2026-03-23T09:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T10:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036010700594917872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1418794908257824768",
+          "start": 0,
+          "username": "AnkitaG2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036010700594917872",
+    "in_reply_to_user_id": "1418794908257824768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036006261154857413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnkitaG2013 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2036006261154857413",
+        "created_at": "2026-03-23T09:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036010700594917872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1418794908257824768",
+              "start": 0,
+              "username": "AnkitaG2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036010700594917872",
+        "in_reply_to_user_id": "1418794908257824768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036006261154857413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnkitaG2013 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418794908257824768",
+        "conversation_id": "2036006261154857413",
+        "created_at": "2026-03-23T09:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036006261154857413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036006261154857413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想死啊，为什么事情就不能如我的意？？？？？？我到底怎么你们了，我到底怎么这个世界了？？？？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 1134,
+          "like_count": 43609,
+          "listed_count": 9,
+          "media_count": 428,
+          "tweet_count": 5604
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T04:47:45.000Z",
+        "description": "我需要更多的互关和朋友/含🍥友跨顺女//ip安徽淮南or河南平顶山/好姐姐@lainoffial36641",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "lainoffial36641"
+              }
+            ]
+          }
+        },
+        "id": "1418794908257824768",
+        "location": "风都鸣海事务所",
+        "name": "蛆酱香香喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022891155202113536/sva1N03G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 51,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 160
+        },
+        "username": "AnkitaG2013",
+        "verified": false
+      }
+    ]
+  }
+}

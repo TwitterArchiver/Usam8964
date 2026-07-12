@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1847845384502333851",
+    "created_at": "2024-10-20T05:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T06:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847880031491809563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "jidu00488470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847880031491809563",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847845384502333851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jidu00488470 2+sqrt（3）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1847845384502333851",
+        "created_at": "2024-10-20T05:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T06:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847880031491809563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "jidu00488470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847880031491809563",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847845384502333851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jidu00488470 2+sqrt（3）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847845381679566848"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "1847845384502333851",
+        "created_at": "2024-10-20T03:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T04:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847845384502333851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCXc4T9sR8",
+              "end": 35,
+              "expanded_url": "https://x.com/jidu00488470/status/1847845384502333851/photo/1",
+              "media_key": "3_1847845381679566848",
+              "start": 12,
+              "url": "https://t.co/MCXc4T9sR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847845384502333851",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日一题预防老年痴呆w https://t.co/MCXc4T9sR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 922,
+          "like_count": 26822,
+          "listed_count": 4,
+          "tweet_count": 3233
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "君居尘世如晨露，听闻山岚悬念深|超大一只 183cm 80kg|07高中牲|不涩涩 不od 不割手|社民壬|东亚文化|好姐姐 @xingjue8096 |爱好是数码 摄影 历史 社科 军事 医药|喜欢玩MC wows 战地五|欢迎来找我玩🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "xingjue8096"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "location": "浙江",
+        "name": "Yujiudu_千江風月",
+        "pinned_tweet_id": "1830652496785846528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817227584469618688/9KiVxnpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 2609,
+          "like_count": 13775,
+          "listed_count": 1,
+          "tweet_count": 2947
+        },
+        "username": "jidu00488470",
+        "verified": false
+      }
+    ]
+  }
+}

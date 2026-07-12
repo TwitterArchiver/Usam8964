@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1860277604122538485",
+    "created_at": "2024-11-24T12:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T13:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860660190573650245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1830546768779755520",
+          "start": 0,
+          "username": "c25vdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860660190573650245",
+    "in_reply_to_user_id": "1830546768779755520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860277604122538485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c25vdw 太棒了咚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1860277604122538485",
+        "created_at": "2024-11-24T12:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T13:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860660190573650245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1830546768779755520",
+              "start": 0,
+              "username": "c25vdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860660190573650245",
+        "in_reply_to_user_id": "1830546768779755520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860277604122538485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c25vdw 太棒了咚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860277588163190784"
+          ]
+        },
+        "author_id": "1830546768779755520",
+        "conversation_id": "1860277604122538485",
+        "created_at": "2024-11-23T11:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T12:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860277604122538485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUcKFUbiWO",
+              "end": 23,
+              "expanded_url": "https://x.com/c25vdw/status/1860277604122538485/photo/1",
+              "media_key": "3_1860277588163190784",
+              "start": 0,
+              "url": "https://t.co/HUcKFUbiWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860277604122538485",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2515,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HUcKFUbiWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 978,
+          "like_count": 29217,
+          "listed_count": 4,
+          "tweet_count": 3506
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T10:02:57.000Z",
+        "description": "「ともに奏でよう、奇跡の歌を」\n警告：本帳戶下的推文會定期清空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8lysvr21ofbqb7v",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8lysvr21ofbqb7v",
+                "start": 0,
+                "url": "https://t.co/tGDCp8Ygi0"
+              }
+            ]
+          }
+        },
+        "id": "1830546768779755520",
+        "location": "チュウニズムの前",
+        "name": "正在閉關的阿雪(真顏代管中)",
+        "pinned_tweet_id": "1856631972917043587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860477818389291008/MQR8OQJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 67,
+          "like_count": 2683,
+          "listed_count": 0,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/tGDCp8Ygi0",
+        "username": "c25vdw",
+        "verified": false
+      }
+    ]
+  }
+}

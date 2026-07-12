@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1840938428734554228",
+    "created_at": "2024-10-01T14:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T15:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841116968193311106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1660343948945006593",
+          "start": 0,
+          "username": "qiand33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841116968193311106",
+    "in_reply_to_user_id": "1660343948945006593",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840938428734554228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiand33 泡面 香菜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1840938428734554228",
+        "created_at": "2024-10-01T14:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T15:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841116968193311106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1660343948945006593",
+              "start": 0,
+              "username": "qiand33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841116968193311106",
+        "in_reply_to_user_id": "1660343948945006593",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840938428734554228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiand33 泡面 香菜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840938426687688705"
+          ]
+        },
+        "author_id": "1660343948945006593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1840938428734554228",
+        "created_at": "2024-10-01T02:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T03:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840938428734554228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVnWC7zpLR",
+              "end": 38,
+              "expanded_url": "https://x.com/qiand33/status/1840938428734554228/photo/1",
+              "media_key": "3_1840938426687688705",
+              "start": 15,
+              "url": "https://t.co/zVnWC7zpLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840938428734554228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 27135,
+          "like_count": 276,
+          "quote_count": 18,
+          "reply_count": 177,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "请问你们选哪个？我选可乐饺子 https://t.co/zVnWC7zpLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 896,
+          "like_count": 25346,
+          "listed_count": 3,
+          "tweet_count": 3064
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T17:57:15.000Z",
+        "description": "14歲/infp 愿生活如清泉, 永流不息 希望生活能更甜一些, 苦涩消逝愿關係如同在星轨上的星星,愿我們永远在一起 永远爱与相信@ShaDow_0528 @EDU1991US\n來自香港, 小学中文水平, 星粉(三星愛好者)永遠的三星主義者 中推第一三星正星旗星粉 背景 @tabo127238 taboo老师画的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "ShaDow_0528"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "EDU1991US"
+              },
+              {
+                "end": 147,
+                "start": 136,
+                "username": "tabo127238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/qianqing33",
+                "end": 23,
+                "expanded_url": "https://lit.link/qianqing33",
+                "start": 0,
+                "url": "https://t.co/ClGHe88pyW"
+              }
+            ]
+          }
+        },
+        "id": "1660343948945006593",
+        "location": "永遠陪在你身邊",
+        "name": "千晴🇭🇰",
+        "pinned_tweet_id": "1801467490318344532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824679384550158336/Oj7NV8zs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4380,
+          "following_count": 157,
+          "like_count": 24699,
+          "listed_count": 10,
+          "tweet_count": 15080
+        },
+        "url": "https://t.co/ClGHe88pyW",
+        "username": "qiand33",
+        "verified": true
+      }
+    ]
+  }
+}

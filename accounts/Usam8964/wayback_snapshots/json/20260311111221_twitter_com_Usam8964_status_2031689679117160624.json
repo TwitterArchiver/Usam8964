@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2031666981565612541",
+    "created_at": "2026-03-11T11:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T12:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031689679117160624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1579169513761026048",
+          "start": 0,
+          "username": "sucrosodium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031689679117160624",
+    "in_reply_to_user_id": "1579169513761026048",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031666981565612541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sucrosodium me tot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2031666976142315521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHuWb7a0AE3M4N.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2031666981565612541",
+        "created_at": "2026-03-11T11:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031689679117160624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1579169513761026048",
+              "start": 0,
+              "username": "sucrosodium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031689679117160624",
+        "in_reply_to_user_id": "1579169513761026048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031666981565612541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sucrosodium me tot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031666976142315521"
+          ]
+        },
+        "author_id": "1579169513761026048",
+        "conversation_id": "2031666981565612541",
+        "created_at": "2026-03-11T09:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031666981565612541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMytdOy3EB",
+              "end": 23,
+              "expanded_url": "https://x.com/sucrosodium/status/2031666981565612541/photo/1",
+              "media_key": "3_2031666976142315521",
+              "start": 0,
+              "url": "https://t.co/bMytdOy3EB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031666981565612541",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 113,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bMytdOy3EB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 1080,
+          "like_count": 36681,
+          "listed_count": 8,
+          "media_count": 358,
+          "tweet_count": 4628
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-09T17:58:59.000Z",
+        "description": "한,Eng🆗 / ハピミュ 東京 6.20~23 · 大阪 8.12~14 · 福岡 9.12 / トップ画 : @mangack_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "mangack_"
+              }
+            ]
+          }
+        },
+        "id": "1579169513761026048",
+        "location": "ディアホメーズ1408号室",
+        "name": "一途埋川 すくろ",
+        "pinned_tweet_id": "2025920921895387376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948422084272488451/xpGGxx5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 286,
+          "like_count": 8079,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 4255
+        },
+        "username": "sucrosodium",
+        "verified": false
+      }
+    ]
+  }
+}

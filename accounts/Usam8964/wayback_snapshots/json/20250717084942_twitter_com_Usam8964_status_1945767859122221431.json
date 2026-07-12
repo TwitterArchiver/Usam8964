@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945767855636570112"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1945767859122221431",
+    "created_at": "2025-07-17T08:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T09:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945767859122221431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IX94txrtHr",
+          "end": 23,
+          "expanded_url": "https://x.com/Usam8964/status/1945767859122221431/photo/1",
+          "media_key": "3_1945767855636570112",
+          "start": 0,
+          "url": "https://t.co/IX94txrtHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945767859122221431",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/IX94txrtHr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1945767855636570112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDBjjqXYAAiHJL.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945767855636570112"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1945767859122221431",
+        "created_at": "2025-07-17T08:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T09:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945767859122221431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IX94txrtHr",
+              "end": 23,
+              "expanded_url": "https://x.com/Usam8964/status/1945767859122221431/photo/1",
+              "media_key": "3_1945767855636570112",
+              "start": 0,
+              "url": "https://t.co/IX94txrtHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945767859122221431",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IX94txrtHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3026,
+          "following_count": 1031,
+          "like_count": 33891,
+          "listed_count": 8,
+          "media_count": 453,
+          "tweet_count": 3907
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

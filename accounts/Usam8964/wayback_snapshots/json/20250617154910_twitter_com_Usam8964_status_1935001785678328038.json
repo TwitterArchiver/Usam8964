@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1934925540978512216",
+    "created_at": "2025-06-17T15:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T16:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935001785678328038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443444056701370371",
+          "start": 0,
+          "username": "tina63991073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935001785678328038",
+    "in_reply_to_user_id": "1443444056701370371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934925540978512216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tina63991073 武汉第一怨种"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1934925534179491840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gto8hYuaAAAogbq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1439,
+        "media_key": "3_1934925534179532801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gto8hYuaoAE0qQm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1934925540978512216",
+        "created_at": "2025-06-17T15:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935001785678328038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443444056701370371",
+              "start": 0,
+              "username": "tina63991073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935001785678328038",
+        "in_reply_to_user_id": "1443444056701370371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934925540978512216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tina63991073 武汉第一怨种"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934925534179491840",
+            "3_1934925534179532801"
+          ]
+        },
+        "author_id": "1443444056701370371",
+        "conversation_id": "1934925540978512216",
+        "created_at": "2025-06-17T10:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T11:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934925540978512216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qp5C7Q6ji",
+              "end": 33,
+              "expanded_url": "https://x.com/tina63991073/status/1934925540978512216/photo/1",
+              "media_key": "3_1934925534179491840",
+              "start": 10,
+              "url": "https://t.co/4qp5C7Q6ji"
+            },
+            {
+              "display_url": "pic.x.com/4qp5C7Q6ji",
+              "end": 33,
+              "expanded_url": "https://x.com/tina63991073/status/1934925540978512216/photo/1",
+              "media_key": "3_1934925534179532801",
+              "start": 10,
+              "url": "https://t.co/4qp5C7Q6ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934925540978512216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3708,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生活不易，女仆叹气 https://t.co/4qp5C7Q6ji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2931,
+          "following_count": 1034,
+          "like_count": 33524,
+          "listed_count": 8,
+          "media_count": 446,
+          "tweet_count": 3838
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T05:14:23.000Z",
+        "description": "只做自己喜欢的事。不接推广！上海/男娘，",
+        "id": "1443444056701370371",
+        "location": "🚪188（好友位  接半绿",
+        "name": "富江",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934806806020435968/Y1OfUqIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74576,
+          "following_count": 560,
+          "like_count": 8118,
+          "listed_count": 201,
+          "media_count": 679,
+          "tweet_count": 6333
+        },
+        "username": "tina63991073",
+        "verified": false
+      }
+    ]
+  }
+}

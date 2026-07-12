@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2023238052332843361",
+    "created_at": "2026-02-17T21:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T22:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023865950614024213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819944260239851520",
+          "start": 0,
+          "username": "Alice14_88"
+        },
+        {
+          "end": 26,
+          "id": "1624393872037265413",
+          "start": 12,
+          "username": "CassiusKassik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023865950614024213",
+    "in_reply_to_user_id": "1819944260239851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023238052332843361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice14_88 @CassiusKassik 求这个gif图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "16_2023238036201603072",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBP8RjvbAAA0zke.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBP8RjvbAAA0zke.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2023238052332843361",
+        "created_at": "2026-02-17T21:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023865950614024213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819944260239851520",
+              "start": 0,
+              "username": "Alice14_88"
+            },
+            {
+              "end": 26,
+              "id": "1624393872037265413",
+              "start": 12,
+              "username": "CassiusKassik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023865950614024213",
+        "in_reply_to_user_id": "1819944260239851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023238052332843361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice14_88 @CassiusKassik 求这个gif图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023238036201603072"
+          ]
+        },
+        "author_id": "1819944260239851520",
+        "conversation_id": "2023238052332843361",
+        "created_at": "2026-02-16T03:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023238052332843361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yx8YixFY0q",
+              "end": 32,
+              "expanded_url": "https://x.com/Alice14_88/status/2023238052332843361/photo/1",
+              "media_key": "16_2023238036201603072",
+              "start": 9,
+              "url": "https://t.co/Yx8YixFY0q"
+            },
+            {
+              "display_url": "x.com/zhinaqingchu/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/zhinaqingchu/status/2023073245310980588",
+              "start": 33,
+              "url": "https://t.co/aOc6moSad3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023238052332843361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4312,
+          "like_count": 62,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023073245310980588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "木柜子闹麻，，， https://t.co/Yx8YixFY0q https://t.co/aOc6moSad3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3546,
+          "following_count": 1065,
+          "like_count": 34141,
+          "listed_count": 8,
+          "media_count": 314,
+          "tweet_count": 4167
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T03:51:46.000Z",
+        "description": "Ne les laisse pas me voler mon ame",
+        "id": "1819944260239851520",
+        "location": "Caelum deva",
+        "name": "⸸𝔄𝔩𝔦𝔠𝔢⸸",
+        "pinned_tweet_id": "2023426925738520928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022663284365889539/6sZvnLc9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 2659,
+          "like_count": 38415,
+          "listed_count": 2,
+          "media_count": 1349,
+          "tweet_count": 17042
+        },
+        "username": "Alice14_88",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "无所属，我不太喜欢说话",
+        "id": "1624393872037265413",
+        "name": "但是……我的眼泪",
+        "pinned_tweet_id": "2019516477494505572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011150029218852864/mrHMp1KQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 801,
+          "like_count": 12421,
+          "listed_count": 3,
+          "media_count": 2595,
+          "tweet_count": 16442
+        },
+        "username": "CassiusKassik",
+        "verified": false
+      }
+    ]
+  }
+}

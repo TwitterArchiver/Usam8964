@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1817575196490162177",
+        "3_1817575206044700674",
+        "3_1817575240387710976",
+        "7_1817575673898397696"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1817575826696871939",
+    "created_at": "2024-07-28T15:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T16:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817575826696871939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/PsoEkwbare",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Usam8964/status/1817575826696871939/video/1",
+          "media_key": "3_1817575196490162177",
+          "start": 37,
+          "url": "https://t.co/PsoEkwbare"
+        },
+        {
+          "display_url": "pic.twitter.com/PsoEkwbare",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Usam8964/status/1817575826696871939/video/1",
+          "media_key": "3_1817575206044700674",
+          "start": 37,
+          "url": "https://t.co/PsoEkwbare"
+        },
+        {
+          "display_url": "pic.twitter.com/PsoEkwbare",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Usam8964/status/1817575826696871939/video/1",
+          "media_key": "3_1817575240387710976",
+          "start": 37,
+          "url": "https://t.co/PsoEkwbare"
+        },
+        {
+          "display_url": "pic.twitter.com/PsoEkwbare",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Usam8964/status/1817575826696871939/video/1",
+          "media_key": "7_1817575673898397696",
+          "start": 37,
+          "url": "https://t.co/PsoEkwbare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817575826696871939",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈从河南（你没听错）回来给我一顿讲什么儒释道和三拜九叩的，还给我发了： https://t.co/PsoEkwbare"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1817575196490162177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTlTAuNbYAEwJeO.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1276,
+        "media_key": "3_1817575206044700674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTlTBRzaEAIEfxB.jpg",
+        "width": 1702
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1817575240387710976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTlTDRva0AAzcRF.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 60766,
+        "height": 960,
+        "media_key": "7_1817575673898397696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1817575673898397696/pu/img/ybgzjg38Nouac3GS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817575673898397696/pu/vid/avc1/320x564/ZDzfMntWPUB6Pc2h.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817575673898397696/pu/vid/avc1/480x846/9KPp_R8EyvefLCxG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817575673898397696/pu/vid/avc1/544x960/sduOgO3i635twqb0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1817575673898397696/pu/pl/e57YqFMWcW0IxprP.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817575196490162177",
+            "3_1817575206044700674",
+            "3_1817575240387710976",
+            "7_1817575673898397696"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1817575826696871939",
+        "created_at": "2024-07-28T15:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T16:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817575826696871939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PsoEkwbare",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Usam8964/status/1817575826696871939/video/1",
+              "media_key": "3_1817575196490162177",
+              "start": 37,
+              "url": "https://t.co/PsoEkwbare"
+            },
+            {
+              "display_url": "pic.twitter.com/PsoEkwbare",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Usam8964/status/1817575826696871939/video/1",
+              "media_key": "3_1817575206044700674",
+              "start": 37,
+              "url": "https://t.co/PsoEkwbare"
+            },
+            {
+              "display_url": "pic.twitter.com/PsoEkwbare",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Usam8964/status/1817575826696871939/video/1",
+              "media_key": "3_1817575240387710976",
+              "start": 37,
+              "url": "https://t.co/PsoEkwbare"
+            },
+            {
+              "display_url": "pic.twitter.com/PsoEkwbare",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Usam8964/status/1817575826696871939/video/1",
+              "media_key": "7_1817575673898397696",
+              "start": 37,
+              "url": "https://t.co/PsoEkwbare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817575826696871939",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈从河南（你没听错）回来给我一顿讲什么儒释道和三拜九叩的，还给我发了： https://t.co/PsoEkwbare"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 744,
+          "like_count": 15558,
+          "listed_count": 2,
+          "tweet_count": 2454
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

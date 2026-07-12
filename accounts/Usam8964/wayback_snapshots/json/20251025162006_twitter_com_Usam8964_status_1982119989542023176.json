@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982119976396812288"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1982119989542023176",
+    "created_at": "2025-10-25T16:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T17:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982119989542023176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4trVhrGR15",
+          "end": 23,
+          "expanded_url": "https://x.com/Usam8964/status/1982119989542023176/photo/1",
+          "media_key": "3_1982119976396812288",
+          "start": 0,
+          "url": "https://t.co/4trVhrGR15"
+        },
+        {
+          "display_url": "x.com/DDzhanshou5150…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/DDzhanshou5150/status/1977780664964694296",
+          "start": 24,
+          "url": "https://t.co/TWhHKqB8fK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982119989542023176",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977780664964694296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/4trVhrGR15 https://t.co/TWhHKqB8fK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1982119976396812288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HnnedWcAALABb.png",
+        "width": 640
+      },
+      {
+        "height": 547,
+        "media_key": "3_1977780567145115650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3J88nRa8AITbmO.png",
+        "width": 542
+      },
+      {
+        "height": 587,
+        "media_key": "3_1977780589580488704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3J8962bkAAFnEf.png",
+        "width": 582
+      },
+      {
+        "height": 640,
+        "media_key": "3_1977780615857811456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3J8_cvbsAAcz7T.png",
+        "width": 640
+      },
+      {
+        "height": 640,
+        "media_key": "3_1977780643020058624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3J9BB7asAAZb42.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982119976396812288"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1982119989542023176",
+        "created_at": "2025-10-25T16:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982119989542023176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4trVhrGR15",
+              "end": 23,
+              "expanded_url": "https://x.com/Usam8964/status/1982119989542023176/photo/1",
+              "media_key": "3_1982119976396812288",
+              "start": 0,
+              "url": "https://t.co/4trVhrGR15"
+            },
+            {
+              "display_url": "x.com/DDzhanshou5150…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/DDzhanshou5150/status/1977780664964694296",
+              "start": 24,
+              "url": "https://t.co/TWhHKqB8fK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982119989542023176",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977780664964694296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4trVhrGR15 https://t.co/TWhHKqB8fK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977780567145115650",
+            "3_1977780589580488704",
+            "3_1977780615857811456",
+            "3_1977780643020058624"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977780664964694296",
+        "created_at": "2025-10-13T16:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977780664964694296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0org11SI62",
+              "end": 27,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1977780664964694296/photo/1",
+              "media_key": "3_1977780567145115650",
+              "start": 4,
+              "url": "https://t.co/0org11SI62"
+            },
+            {
+              "display_url": "pic.x.com/0org11SI62",
+              "end": 27,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1977780664964694296/photo/1",
+              "media_key": "3_1977780589580488704",
+              "start": 4,
+              "url": "https://t.co/0org11SI62"
+            },
+            {
+              "display_url": "pic.x.com/0org11SI62",
+              "end": 27,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1977780664964694296/photo/1",
+              "media_key": "3_1977780615857811456",
+              "start": 4,
+              "url": "https://t.co/0org11SI62"
+            },
+            {
+              "display_url": "pic.x.com/0org11SI62",
+              "end": 27,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1977780664964694296/photo/1",
+              "media_key": "3_1977780643020058624",
+              "start": 4,
+              "url": "https://t.co/0org11SI62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977780664964694296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 77337,
+          "like_count": 992,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "我要吃 https://t.co/0org11SI62"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3452,
+          "following_count": 1027,
+          "like_count": 33102,
+          "listed_count": 9,
+          "media_count": 459,
+          "tweet_count": 4080
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8285,
+          "following_count": 7244,
+          "like_count": 25851,
+          "listed_count": 15,
+          "media_count": 5760,
+          "tweet_count": 38284
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

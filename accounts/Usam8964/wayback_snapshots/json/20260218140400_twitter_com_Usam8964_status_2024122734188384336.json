@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2024122734188384336",
+    "created_at": "2026-02-18T14:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024122734188384336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Goldwater8964/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Goldwater8964/status/2024122230205002143",
+          "start": 5,
+          "url": "https://t.co/atVjAdzsPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024122734188384336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024122230205002143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "引以为戒 https://t.co/atVjAdzsPV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2024122734188384336",
+        "created_at": "2026-02-18T14:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024122734188384336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Goldwater8964/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Goldwater8964/status/2024122230205002143",
+              "start": 5,
+              "url": "https://t.co/atVjAdzsPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024122734188384336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024122230205002143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "引以为戒 https://t.co/atVjAdzsPV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916817753635426304",
+        "conversation_id": "2024122230205002143",
+        "created_at": "2026-02-18T14:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:00:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024121751626813842",
+          "2024122230205002143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1855690027034128384",
+              "start": 13,
+              "username": "tingxialaibai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024122230205002143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026年2月14日，推友@tingxialaibai 于浙江省过量服用八颗阿普挫仑以及24颗普瑞巴林，饮用了200ml酒精度数为96%的生命之水伏特加，死于呕吐物堵塞气管造成的窒息，愿广大网友引以为戒，自重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3547,
+          "following_count": 1065,
+          "like_count": 34187,
+          "listed_count": 8,
+          "media_count": 316,
+          "tweet_count": 4187
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 全网最自由的space—上麦判断政治立场/成分/学历/家境/圈子 🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2020453742424789167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 544,
+          "like_count": 2771,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 487
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

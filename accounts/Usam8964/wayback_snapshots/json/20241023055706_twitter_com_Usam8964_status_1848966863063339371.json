@@ -1,0 +1,131 @@
+{
+  "data": {
+    "author_id": "1643490407094030338",
+    "conversation_id": "1848957459454423289",
+    "created_at": "2024-10-23T05:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-23T06:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848966863063339371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1217507777293111297",
+          "start": 0,
+          "username": "ayayyyyy777777"
+        }
+      ]
+    },
+    "id": "1848966863063339371",
+    "in_reply_to_user_id": "1217507777293111297",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 18,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848966493788422210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayayyyyy777777 遇事不决就挂b站贴吧，符合我对国男的印象捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1643490407094030338",
+        "conversation_id": "1848957459454423289",
+        "created_at": "2024-10-23T05:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-23T06:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848966863063339371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1217507777293111297",
+              "start": 0,
+              "username": "ayayyyyy777777"
+            }
+          ]
+        },
+        "id": "1848966863063339371",
+        "in_reply_to_user_id": "1217507777293111297",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848966493788422210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayayyyyy777777 遇事不决就挂b站贴吧，符合我对国男的印象捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 981,
+          "like_count": 29400,
+          "listed_count": 4,
+          "media_count": 401,
+          "tweet_count": 3523
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-15T18:04:37.000Z",
+        "description": "喜欢看傻逼、和傻逼的发言，希望知道这世界上的傻逼到底能有多傻逼.我不喜欢的某类群体最好别出现在我的首页里，我骂你必然是因为你是我置顶里说的那批人，我必怼你。",
+        "id": "1217507777293111297",
+        "name": "抽皮筋打你家玻璃窗",
+        "pinned_tweet_id": "1834159934872977854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455041992157585408/cGSXn_n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 456,
+          "like_count": 3575,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 587
+        },
+        "username": "ayayyyyy777777",
+        "verified": false
+      }
+    ]
+  }
+}

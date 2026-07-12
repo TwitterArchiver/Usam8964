@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1893480829386662318",
+    "created_at": "2025-02-24T16:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T17:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894058282722996389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816371642211393537",
+          "start": 0,
+          "username": "huoqinge8964"
+        },
+        {
+          "end": 24,
+          "id": "1226850561057624064",
+          "start": 14,
+          "username": "hatadanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894058282722996389",
+    "in_reply_to_user_id": "1816371642211393537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893631862678991059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huoqinge8964 @hatadanna 抱你上床，我回沙发睡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1893480829386662318",
+        "created_at": "2025-02-24T16:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T17:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894058282722996389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816371642211393537",
+              "start": 0,
+              "username": "huoqinge8964"
+            },
+            {
+              "end": 24,
+              "id": "1226850561057624064",
+              "start": 14,
+              "username": "hatadanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894058282722996389",
+        "in_reply_to_user_id": "1816371642211393537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893631862678991059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huoqinge8964 @hatadanna 抱你上床，我回沙发睡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816371642211393537",
+        "conversation_id": "1893480829386662318",
+        "created_at": "2025-02-23T11:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893631862678991059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1226850561057624064",
+              "start": 0,
+              "username": "hatadanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893631862678991059",
+        "in_reply_to_user_id": "1226850561057624064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1493,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893480829386662318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatadanna 不许发这图，因为我没有过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 1016,
+          "like_count": 31738,
+          "listed_count": 6,
+          "media_count": 430,
+          "tweet_count": 3680
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T07:15:52.000Z",
+        "description": "查成分互fo极端仇富🚪8964 疯子/尸体/穷蛆/反人类  里推@huoqinge_nn    狗奴隶@silverbird18841",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "huoqinge_nn"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "silverbird18841"
+              }
+            ]
+          }
+        },
+        "id": "1816371642211393537",
+        "name": "霍青娥",
+        "pinned_tweet_id": "1877330904550375732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816372320845586434/2hGEv4gu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 146,
+          "like_count": 11463,
+          "listed_count": 5,
+          "media_count": 344,
+          "tweet_count": 5978
+        },
+        "username": "huoqinge8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:49:13.000Z",
+        "description": "生活太累 刷会推乐呵一下吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/hatadanna",
+                "end": 23,
+                "expanded_url": "http://bento.me/hatadanna",
+                "start": 0,
+                "url": "https://t.co/y4ubULnlbw"
+              }
+            ]
+          }
+        },
+        "id": "1226850561057624064",
+        "location": "梦里",
+        "name": "旗田安奈🍵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691374845140082688/f2RPoY8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28335,
+          "following_count": 3222,
+          "like_count": 11566,
+          "listed_count": 99,
+          "media_count": 4284,
+          "tweet_count": 7635
+        },
+        "url": "https://t.co/y4ubULnlbw",
+        "username": "hatadanna",
+        "verified": true
+      }
+    ]
+  }
+}

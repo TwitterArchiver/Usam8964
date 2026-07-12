@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036019569266143232"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2036019571308773683",
+    "created_at": "2026-03-23T09:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T10:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036019571308773683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j4XZ6quKfj",
+          "end": 25,
+          "expanded_url": "https://x.com/Usam8964/status/2036019571308773683/photo/1",
+          "media_key": "3_2036019569266143232",
+          "start": 2,
+          "url": "https://t.co/j4XZ6quKfj"
+        },
+        {
+          "display_url": "x.com/Chloris923/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Chloris923/status/2000018830379421932",
+          "start": 26,
+          "url": "https://t.co/uoo5Q9boRj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036019571308773683",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000018830379421932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/j4XZ6quKfj https://t.co/uoo5Q9boRj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2036019569266143232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFlAs3aMAApbH_.jpg",
+        "width": 679
+      },
+      {
+        "height": 570,
+        "media_key": "3_2000018807314927616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8F-gjobUAAT-bC.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036019569266143232"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2036019571308773683",
+        "created_at": "2026-03-23T09:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036019571308773683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4XZ6quKfj",
+              "end": 25,
+              "expanded_url": "https://x.com/Usam8964/status/2036019571308773683/photo/1",
+              "media_key": "3_2036019569266143232",
+              "start": 2,
+              "url": "https://t.co/j4XZ6quKfj"
+            },
+            {
+              "display_url": "x.com/Chloris923/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Chloris923/status/2000018830379421932",
+              "start": 26,
+              "url": "https://t.co/uoo5Q9boRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036019571308773683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000018830379421932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/j4XZ6quKfj https://t.co/uoo5Q9boRj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000018807314927616"
+          ]
+        },
+        "author_id": "1765825463103139840",
+        "conversation_id": "1999337794498625573",
+        "created_at": "2025-12-14T01:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T02:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000018830379421932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705339628826324992",
+              "start": 0,
+              "username": "Arisakajunko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LvPIx31EGk",
+              "end": 37,
+              "expanded_url": "https://x.com/Chloris923/status/2000018830379421932/photo/1",
+              "media_key": "3_2000018807314927616",
+              "start": 14,
+              "url": "https://t.co/LvPIx31EGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000018830379421932",
+        "in_reply_to_user_id": "1705339628826324992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999998060420894767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arisakajunko https://t.co/LvPIx31EGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 1134,
+          "like_count": 43633,
+          "listed_count": 9,
+          "media_count": 430,
+          "tweet_count": 5611
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "不如原神-@pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "pamnc2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chloris923.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://chloris923.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/pyjXlDnHlj"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "blog网页：",
+        "name": "⚜️",
+        "pinned_tweet_id": "2031330661903335873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028136498181316608/VLSPjO7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 263,
+          "like_count": 29235,
+          "listed_count": 5,
+          "media_count": 560,
+          "tweet_count": 16308
+        },
+        "url": "https://t.co/pyjXlDnHlj",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

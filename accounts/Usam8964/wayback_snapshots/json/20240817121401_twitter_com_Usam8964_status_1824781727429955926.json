@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1824772003523379703",
+    "created_at": "2024-08-17T12:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T13:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824781727429955926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quitee123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824781727429955926",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824772003523379703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quitee123 可爱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1824772003523379703",
+        "created_at": "2024-08-17T12:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T13:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824781727429955926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quitee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824781727429955926",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824772003523379703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quitee123 可爱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824771982254346241",
+            "3_1824771982250110976",
+            "3_1824771982258470912",
+            "3_1824771982493454336"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Shiba Inu",
+              "id": "857601204154638336",
+              "name": "Shiba Inu"
+            }
+          }
+        ],
+        "conversation_id": "1824772003523379703",
+        "created_at": "2024-08-17T11:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T12:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824772003523379703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw7vzaxxme",
+              "end": 64,
+              "expanded_url": "https://twitter.com/quitee123/status/1824772003523379703/photo/1",
+              "media_key": "3_1824771982254346241",
+              "start": 41,
+              "url": "https://t.co/UW7vzAxXme"
+            },
+            {
+              "display_url": "pic.x.com/uw7vzaxxme",
+              "end": 64,
+              "expanded_url": "https://twitter.com/quitee123/status/1824772003523379703/photo/1",
+              "media_key": "3_1824771982250110976",
+              "start": 41,
+              "url": "https://t.co/UW7vzAxXme"
+            },
+            {
+              "display_url": "pic.x.com/uw7vzaxxme",
+              "end": 64,
+              "expanded_url": "https://twitter.com/quitee123/status/1824772003523379703/photo/1",
+              "media_key": "3_1824771982258470912",
+              "start": 41,
+              "url": "https://t.co/UW7vzAxXme"
+            },
+            {
+              "display_url": "pic.x.com/uw7vzaxxme",
+              "end": 64,
+              "expanded_url": "https://twitter.com/quitee123/status/1824772003523379703/photo/1",
+              "media_key": "3_1824771982493454336",
+              "start": 41,
+              "url": "https://t.co/UW7vzAxXme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824772003523379703",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布，布偶是最乖的哈基米！\n\nP3是投降哈基汪\nP4是失去梦想的肥橘狗（柴犬） https://t.co/UW7vzAxXme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 779,
+          "like_count": 18156,
+          "listed_count": 2,
+          "tweet_count": 2579
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 持证含糖家长党🏳️‍⚧️/经济学/管理学/只要不是三无小号就会互fo 双相障碍 Steam/OW2/板绘/剪辑/航拍 “死亡是最好的归宿吗？” bestie @foudingjingling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "foudingjingling"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱",
+        "pinned_tweet_id": "1817830660125655079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808784612799434755/usZJwzL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 1214,
+          "like_count": 13635,
+          "listed_count": 7,
+          "tweet_count": 5161
+        },
+        "username": "quitee123",
+        "verified": false
+      }
+    ]
+  }
+}

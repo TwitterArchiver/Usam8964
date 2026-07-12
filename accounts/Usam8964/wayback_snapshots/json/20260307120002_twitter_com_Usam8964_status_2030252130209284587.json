@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2030252126501588992"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2030201960578830360",
+    "created_at": "2026-03-07T12:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T13:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030252130209284587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lZB4oA2iJY",
+          "end": 37,
+          "expanded_url": "https://x.com/Usam8964/status/2030252130209284587/photo/1",
+          "media_key": "16_2030252126501588992",
+          "start": 14,
+          "url": "https://t.co/lZB4oA2iJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030252130209284587",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030249740475220125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 同意 https://t.co/lZB4oA2iJY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 268,
+        "media_key": "16_2030252126501588992",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCznjWSb0AA-7YD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCznjWSb0AA-7YD.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2030252126501588992"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2030201960578830360",
+        "created_at": "2026-03-07T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030252130209284587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZB4oA2iJY",
+              "end": 37,
+              "expanded_url": "https://x.com/Usam8964/status/2030252130209284587/photo/1",
+              "media_key": "16_2030252126501588992",
+              "start": 14,
+              "url": "https://t.co/lZB4oA2iJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030252130209284587",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030249740475220125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 同意 https://t.co/lZB4oA2iJY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2030201960578830360",
+        "created_at": "2026-03-07T11:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030249740475220125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030249740475220125",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030248718189081017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 我尊重任何饮食习惯 我就是不尊重这个胎里素 这个胎里素和那种少数民族逼着女的十几岁就结婚生孩子 或者带头巾有啥区别 这些信仰都是强加到别人身上的 根本不是自己选择的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3579,
+          "following_count": 1066,
+          "like_count": 35758,
+          "listed_count": 8,
+          "media_count": 348,
+          "tweet_count": 4501
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "生理心理均为女\n碎碎念 有负能量\n聊骚的滚蛋 别跟我聊骚 我求你 别跟我聊骚\n对不起！发了一大堆负能量的东西\n顺顺顺 我的生活一定会顺利下去的！希望你也是！^^",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2014379217585418653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 117,
+          "like_count": 23054,
+          "listed_count": 1,
+          "media_count": 1155,
+          "tweet_count": 9829
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

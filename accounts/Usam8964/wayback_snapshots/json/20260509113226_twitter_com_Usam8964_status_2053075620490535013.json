@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2053037484133822625",
+    "created_at": "2026-05-09T11:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053075620490535013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        },
+        {
+          "end": 24,
+          "id": "1217855766167556096",
+          "start": 13,
+          "username": "SummerTwT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053075620490535013",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053037484133822625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ @SummerTwT9 wow这个好像是超天酱联动"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053030596579069952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3Ucz4akAAokJ2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053037469244030976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3as2jbgAAZ4-c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2053037484133822625",
+        "created_at": "2026-05-09T11:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053075620490535013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            },
+            {
+              "end": 24,
+              "id": "1217855766167556096",
+              "start": 13,
+              "username": "SummerTwT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053075620490535013",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053037484133822625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ @SummerTwT9 wow这个好像是超天酱联动"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053030596579069952",
+            "3_2053037469244030976"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "conversation_id": "2053037484133822625",
+        "created_at": "2026-05-09T09:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:33:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053030608025338314",
+          "2053037484133822625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1217855766167556096",
+              "start": 10,
+              "username": "SummerTwT9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogIMdhNLlo",
+              "end": 45,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2053037484133822625/photo/1",
+              "media_key": "3_2053030596579069952",
+              "start": 22,
+              "url": "https://t.co/ogIMdhNLlo"
+            },
+            {
+              "display_url": "pic.x.com/ogIMdhNLlo",
+              "end": 45,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2053037484133822625/photo/1",
+              "media_key": "3_2053037469244030976",
+              "start": 22,
+              "url": "https://t.co/ogIMdhNLlo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053037484133822625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢老大馈赠orz @SummerTwT9 https://t.co/ogIMdhNLlo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 1220,
+          "like_count": 57526,
+          "listed_count": 6,
+          "media_count": 500,
+          "tweet_count": 7005
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / フォロバをご希望の方はDMお願いします ❤️@MoeQike 🚪30 接外烟代购🚬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2045490367257276664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3085,
+          "following_count": 757,
+          "like_count": 14909,
+          "listed_count": 10,
+          "media_count": 1631,
+          "tweet_count": 7432
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-16T17:07:03.000Z",
+        "description": "于风雨之中绽放的蓝蔷薇\n無休止直至死去\n因为你太柔软@Akinoyo_desu\n路的尽头是海的入口@noth1nghere14\n丢失了地图的少年旅行家@q72248442",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "q72248442"
+              }
+            ]
+          }
+        },
+        "id": "1217855766167556096",
+        "location": "地靈殿",
+        "name": "村雨",
+        "pinned_tweet_id": "2043958461323698567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043636900381237248/_ViH72iv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 106,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 439
+        },
+        "username": "SummerTwT9",
+        "verified": false
+      }
+    ]
+  }
+}

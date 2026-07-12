@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2028874577988972968",
+    "created_at": "2026-03-03T18:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T19:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028907780858626113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "NWA12302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028907780858626113",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028874577988972968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NWA12302 不味。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2028874575615053824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgCrVVbUAAsl1p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2028874577988972968",
+        "created_at": "2026-03-03T18:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028907780858626113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "NWA12302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028907780858626113",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028874577988972968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NWA12302 不味。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028874575615053824"
+          ]
+        },
+        "author_id": "1627301480440164352",
+        "conversation_id": "2028874577988972968",
+        "created_at": "2026-03-03T16:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028874577988972968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZXbME7pBE",
+              "end": 53,
+              "expanded_url": "https://x.com/NWA12302/status/2028874577988972968/photo/1",
+              "media_key": "3_2028874575615053824",
+              "start": 30,
+              "url": "https://t.co/KZXbME7pBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028874577988972968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被摇曳露营种草了这个咖喱面\n买了两包尝尝咸淡\n是合味道的（ https://t.co/KZXbME7pBE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 1066,
+          "like_count": 35347,
+          "listed_count": 8,
+          "media_count": 341,
+          "tweet_count": 4506
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜我永远喜欢蜜莓、黍、嵯峨、玉藻十字、艾蕾｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜芦毛偏爱｜做个好玩的人\n｜我推@hatunagi_yuzuki｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA特雷森糖浆专卖🐱",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014726895527723008/MWsn_rtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 1415,
+          "like_count": 136541,
+          "listed_count": 7,
+          "media_count": 2032,
+          "tweet_count": 10229
+        },
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

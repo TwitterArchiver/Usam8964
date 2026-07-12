@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1869353266188005561",
+    "created_at": "2024-12-19T09:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T10:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869669051955548511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1668917712851181568",
+          "start": 0,
+          "username": "Astdeitee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869669051955548511",
+    "in_reply_to_user_id": "1668917712851181568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869353266188005561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astdeitee 草，好恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1869353266188005561",
+        "created_at": "2024-12-19T09:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T10:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869669051955548511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1668917712851181568",
+              "start": 0,
+              "username": "Astdeitee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869669051955548511",
+        "in_reply_to_user_id": "1668917712851181568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869353266188005561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astdeitee 草，好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668917712851181568",
+        "conversation_id": "1869353266188005561",
+        "created_at": "2024-12-18T12:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T13:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869353266188005561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869353266188005561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 577,
+          "impression_count": 1186151,
+          "like_count": 4457,
+          "quote_count": 126,
+          "reply_count": 765,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "破案了，学校的工人把化粪池和净水机的管子接反了。\n学校好多送医院的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 1008,
+          "like_count": 30755,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3599
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "苏联T-95坦克sinoque版的现代化改型，其设计工作由苏联乌拉尔坦克城于2003年展开，并于2011年正式投入量产。",
+        "id": "1668917712851181568",
+        "name": "T-95SM",
+        "pinned_tweet_id": "1867618608739934362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 518,
+          "like_count": 30177,
+          "listed_count": 5,
+          "media_count": 658,
+          "tweet_count": 14746
+        },
+        "username": "Astdeitee",
+        "verified": false
+      }
+    ]
+  }
+}

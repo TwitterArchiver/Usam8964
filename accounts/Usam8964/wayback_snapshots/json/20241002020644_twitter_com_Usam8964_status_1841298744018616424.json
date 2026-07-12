@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1841030570446635134",
+    "created_at": "2024-10-02T02:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T03:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841298744018616424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1567505290026958848",
+          "start": 0,
+          "username": "woshiami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841298744018616424",
+    "in_reply_to_user_id": "1567505290026958848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841030570446635134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiami 还有就是，墙外粉红或者岁静的生态位很少，因为这些人普遍在墙内，不会在墙外发视频，导致反贼、毛左等等建政人士的生态位一家独大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1841030570446635134",
+        "created_at": "2024-10-02T02:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T03:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841298744018616424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1567505290026958848",
+              "start": 0,
+              "username": "woshiami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841298744018616424",
+        "in_reply_to_user_id": "1567505290026958848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841030570446635134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiami 还有就是，墙外粉红或者岁静的生态位很少，因为这些人普遍在墙内，不会在墙外发视频，导致反贼、毛左等等建政人士的生态位一家独大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567505290026958848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1841030570446635134",
+        "created_at": "2024-10-01T08:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T09:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841030570446635134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841030570446635134",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4524,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特是不是跟youtube一样的推送机制？\n我点了一万个不感兴趣，只要我是中国ip就一直给我推反共的，负面的，上推感觉负面情绪都要爆表了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 898,
+          "like_count": 25346,
+          "listed_count": 3,
+          "tweet_count": 3071
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T13:29:57.000Z",
+        "description": "阿mi形态出击中！\n\n喜欢打牌!喜欢画画!/请和阿mi做好朋友/中度双向抑郁/成分复杂/\n超级无敌可爱的猫猫/谢谢你看我的主页，爱你！！",
+        "id": "1567505290026958848",
+        "location": "未知领域",
+        "name": "阿mi",
+        "pinned_tweet_id": "1824817925469229483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839742942598311936/3S75PQGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1553,
+          "like_count": 42848,
+          "listed_count": 1,
+          "tweet_count": 3123
+        },
+        "username": "woshiami",
+        "verified": false
+      }
+    ]
+  }
+}

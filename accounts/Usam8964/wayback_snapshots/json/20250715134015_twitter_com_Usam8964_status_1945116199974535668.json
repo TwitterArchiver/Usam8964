@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1945105838848279020",
+    "created_at": "2025-07-15T13:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T14:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945116199974535668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664859019830517760",
+          "start": 0,
+          "username": "kagurazakachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945116199974535668",
+    "in_reply_to_user_id": "1664859019830517760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945115982634115555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakachiyo 熟人介绍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1945105838848279020",
+        "created_at": "2025-07-15T13:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T14:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945116199974535668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664859019830517760",
+              "start": 0,
+              "username": "kagurazakachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945116199974535668",
+        "in_reply_to_user_id": "1664859019830517760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945115982634115555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakachiyo 熟人介绍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664859019830517760",
+        "conversation_id": "1945105838848279020",
+        "created_at": "2025-07-15T13:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T14:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945115982634115555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945115982634115555",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945105838848279020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 怎么找到工作的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 1032,
+          "like_count": 33868,
+          "listed_count": 8,
+          "media_count": 451,
+          "tweet_count": 3904
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T04:58:45.000Z",
+        "description": "🥺",
+        "id": "1664859019830517760",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915057104655900672/y-wLPyZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 2023,
+          "like_count": 27281,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2665
+        },
+        "username": "kagurazakachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

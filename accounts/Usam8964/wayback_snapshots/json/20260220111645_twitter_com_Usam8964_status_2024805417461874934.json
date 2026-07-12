@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2024700824426094647",
+    "created_at": "2026-02-20T11:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024805417461874934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "715081797734825984",
+          "start": 0,
+          "username": "keslaoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024805417461874934",
+    "in_reply_to_user_id": "715081797734825984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024803338676765083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keslaoto 拐中东人只是烟雾弹，看到拐个南亚就知道说这话的是什么成分了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2024700824426094647",
+        "created_at": "2026-02-20T11:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024805417461874934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "715081797734825984",
+              "start": 0,
+              "username": "keslaoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024805417461874934",
+        "in_reply_to_user_id": "715081797734825984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024803338676765083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keslaoto 拐中东人只是烟雾弹，看到拐个南亚就知道说这话的是什么成分了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "715081797734825984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2024700824426094647",
+        "created_at": "2026-02-20T11:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024803338676765083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024803338676765083",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024700824426094647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 难道那些老白男的maga言论都是他们装的，有一个在中国和白女情侣下面说：说白人怎么会跟眯眯眼黄人在一起，恶心，然后说最次也是跟中东、南亚人血缘亲近，把我恶心了几天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3551,
+          "following_count": 1066,
+          "like_count": 34390,
+          "listed_count": 8,
+          "media_count": 320,
+          "tweet_count": 4242
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-30T07:42:40.000Z",
+        "description": "探索技术驱动创造的未来\nFocused on Economics | DeFi Tech | AI | Quant Strategies.  ENTJ\n把话说轻三分，切勿把话说重。",
+        "id": "715081797734825984",
+        "name": "Charile",
+        "pinned_tweet_id": "1928882574404858060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982375913552551936/bVUraCTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 831,
+          "like_count": 6761,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 6162
+        },
+        "username": "keslaoto",
+        "verified": false
+      }
+    ]
+  }
+}

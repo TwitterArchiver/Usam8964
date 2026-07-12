@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1897941181817827819",
+    "created_at": "2025-03-07T12:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T13:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897987591347257535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767868938657169408",
+          "start": 0,
+          "username": "shana_yowaino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897987591347257535",
+    "in_reply_to_user_id": "1767868938657169408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897973203194302811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shana_yowaino 阔以阔以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897973192729542659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glb0kBnbwAMotuk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1897941181817827819",
+        "created_at": "2025-03-07T12:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897987591347257535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767868938657169408",
+              "start": 0,
+              "username": "shana_yowaino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897987591347257535",
+        "in_reply_to_user_id": "1767868938657169408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897973203194302811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shana_yowaino 阔以阔以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897973192729542659"
+          ]
+        },
+        "author_id": "1767868938657169408",
+        "conversation_id": "1897941181817827819",
+        "created_at": "2025-03-07T11:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T12:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897973203194302811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1fUIK01vi",
+              "end": 37,
+              "expanded_url": "https://x.com/shana_yowaino/status/1897973203194302811/photo/1",
+              "media_key": "3_1897973192729542659",
+              "start": 14,
+              "url": "https://t.co/s1fUIK01vi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897973203194302811",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897941181817827819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 同款诶 https://t.co/s1fUIK01vi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 1023,
+          "like_count": 32091,
+          "listed_count": 6,
+          "media_count": 434,
+          "tweet_count": 3721
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T11:03:17.000Z",
+        "description": "シャナちゃん出击！/文学少女版/03可爱女孩子/infp-t/是个穷鬼（也是个酒鬼）/24.4.26小证/算是个大姐姐，欢迎来找我倾诉🥰/有链接，欢迎提问/最爱的妹@SAKURA09389828\n可爱的小老婆 @SaskuraMiku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "SAKURA09389828"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "SaskuraMiku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shana_yowaino",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shana_yowaino",
+                "start": 0,
+                "url": "https://t.co/E90wC7OQa1"
+              }
+            ]
+          }
+        },
+        "id": "1767868938657169408",
+        "location": "酒馆",
+        "name": "shana🖊️🪶📚📖🍺🚬",
+        "pinned_tweet_id": "1897668478535962936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885755463402438656/YwgiN1sE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 176,
+          "like_count": 1815,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/E90wC7OQa1",
+        "username": "shana_yowaino",
+        "verified": false
+      }
+    ]
+  }
+}

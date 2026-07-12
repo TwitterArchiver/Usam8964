@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1826078283563483636",
+    "created_at": "2024-08-21T04:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T05:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826119004001325307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1073549510352093191",
+          "start": 0,
+          "username": "a69507877"
+        },
+        {
+          "end": 25,
+          "id": "1663066129923981312",
+          "start": 11,
+          "username": "Akirameru_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826119004001325307",
+    "in_reply_to_user_id": "1073549510352093191",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826118615739019757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a69507877 @Akirameru_QwQ 经典急眼，有证据不会找吗，yaming那么多推文你有关注过吗？你没有，你只是在这里装假中立讨骂🤣👉🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1826078283563483636",
+        "created_at": "2024-08-21T04:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T05:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826119004001325307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1073549510352093191",
+              "start": 0,
+              "username": "a69507877"
+            },
+            {
+              "end": 25,
+              "id": "1663066129923981312",
+              "start": 11,
+              "username": "Akirameru_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826119004001325307",
+        "in_reply_to_user_id": "1073549510352093191",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826118615739019757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a69507877 @Akirameru_QwQ 经典急眼，有证据不会找吗，yaming那么多推文你有关注过吗？你没有，你只是在这里装假中立讨骂🤣👉🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1073549510352093191",
+        "conversation_id": "1826078283563483636",
+        "created_at": "2024-08-21T04:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T05:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826118615739019757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 24,
+              "id": "1663066129923981312",
+              "start": 10,
+              "username": "Akirameru_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826118615739019757",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826115758557925706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @Akirameru_QwQ 这就急眼了？就这种级别还来挑事情？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 789,
+          "like_count": 19161,
+          "listed_count": 2,
+          "tweet_count": 2643
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T12:05:23.000Z",
+        "description": "",
+        "id": "1073549510352093191",
+        "location": "无",
+        "name": "十年减六年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821261732851142656/CxEcHtVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 128,
+          "listed_count": 0,
+          "tweet_count": 394
+        },
+        "username": "a69507877",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "Every morning tell yourself that you are getting better and better.\nLC_MESSAGES=zh_CN(正常)/zh_TW(心酸/想哭)/en_US\n想和頭像一樣可愛//喜歡電腦技術//愛大家♥️//互fo是好文明！",
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "永不言棄🥺♥️（貼貼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817164041938223105/KiWCGCWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 452,
+          "like_count": 58512,
+          "listed_count": 3,
+          "tweet_count": 2052
+        },
+        "username": "Akirameru_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

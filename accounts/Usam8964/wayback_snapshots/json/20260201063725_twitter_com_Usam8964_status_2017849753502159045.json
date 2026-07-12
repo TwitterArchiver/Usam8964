@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2017849753502159045",
+    "created_at": "2026-02-01T06:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T07:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017849753502159045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chihorishizuku…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/chihorishizuku/status/2017834776934420522",
+          "start": 142,
+          "url": "https://t.co/s7GxJo9iTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017849753502159045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017834776934420522",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的，先长成我这样再说吧，我也统计过了，现在叫的最欢跟我最较劲的一批人，90%没有爆照，所以真相其实是他们这些丑逼看到一个不在乎自己容貌焦虑，还能自信爆照的我，之后纷纷破防了。他们心里难受竟然有人不靠颜值，靠着才华和心性活的相当滋润。我很同情他们这些，又丑，又活的像蛆一样心理阴暗的 https://t.co/s7GxJo9iTd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2017849753502159045",
+        "created_at": "2026-02-01T06:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017849753502159045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chihorishizuku…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/chihorishizuku/status/2017834776934420522",
+              "start": 142,
+              "url": "https://t.co/s7GxJo9iTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017849753502159045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017834776934420522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，先长成我这样再说吧，我也统计过了，现在叫的最欢跟我最较劲的一批人，90%没有爆照，所以真相其实是他们这些丑逼看到一个不在乎自己容貌焦虑，还能自信爆照的我，之后纷纷破防了。他们心里难受竟然有人不靠颜值，靠着才华和心性活的相当滋润。我很同情他们这些，又丑，又活的像蛆一样心理阴暗的 https://t.co/s7GxJo9iTd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485158225167413248",
+        "conversation_id": "2017834776934420522",
+        "created_at": "2026-02-01T05:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017834776934420522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hua_lang32626/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/hua_lang32626/status/2017628321018753245",
+              "start": 142,
+              "url": "https://t.co/WKHPD45qP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017834776934420522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017628321018753245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，先长成我这样再说吧，我也统计过了，现在叫的最欢跟我最较劲的一批人，90%没有爆照，所以真相其实是他们这些丑逼看到一个不在乎自己容貌焦虑，还能自信爆照的我，之后纷纷破防了。他们心里难受竟然有人不靠颜值，靠着才华和心性活的相当滋润。我很同情他们这些，又丑，又活的像蛆一样心理阴暗的 https://t.co/WKHPD45qP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998373924263153664/RfLfOjEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3439,
+          "following_count": 1014,
+          "like_count": 32520,
+          "listed_count": 8,
+          "media_count": 470,
+          "tweet_count": 4116
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP｜LGBTQ+｜06｜ASD｜BPD｜ADHD｜管人痴🥕｜sub已有主｜直fo查成分回｜岁静日常推｜婉拒品客｜推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推！🔗：https://t.co/4vU1YBRvNm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 112,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=H0wBxWpB",
+                "start": 89,
+                "url": "https://t.co/4vU1YBRvNm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shoumanori",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shoumanori",
+                "start": 0,
+                "url": "https://t.co/7ApZglqYBr"
+              }
+            ]
+          }
+        },
+        "id": "1485158225167413248",
+        "location": "匿名问答→",
+        "name": "游吟诗人Sirelia🍥",
+        "pinned_tweet_id": "2009856515856027902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013973066188292096/u4D8d_Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3414,
+          "following_count": 642,
+          "like_count": 23660,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 4706
+        },
+        "url": "https://t.co/7ApZglqYBr",
+        "username": "chihorishizuku",
+        "verified": false
+      }
+    ]
+  }
+}

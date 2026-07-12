@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862124839290490880"
+      ],
+      "media_source_tweet_id": [
+        "1862124849822679307"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1862369247462400498",
+    "created_at": "2024-11-29T05:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T06:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862369247462400498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821521036967600128",
+          "start": 3,
+          "username": "Y86668Rr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gzb2BbaElH",
+          "end": 58,
+          "expanded_url": "https://x.com/Y86668Rr/status/1862124849822679307/photo/1",
+          "media_key": "3_1862124839290490880",
+          "start": 35,
+          "url": "https://t.co/gzb2BbaElH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862369247462400498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862124849822679307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y86668Rr: 当我发现一个从未有过互动的推主屏蔽了我： https://t.co/gzb2BbaElH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_1862124839290490880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdeYrOVXUAAe8VW.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862124839290490880"
+          ],
+          "media_source_tweet_id": [
+            "1862124849822679307"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1862369247462400498",
+        "created_at": "2024-11-29T05:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T06:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862369247462400498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821521036967600128",
+              "start": 3,
+              "username": "Y86668Rr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzb2BbaElH",
+              "end": 58,
+              "expanded_url": "https://x.com/Y86668Rr/status/1862124849822679307/photo/1",
+              "media_key": "3_1862124839290490880",
+              "start": 35,
+              "url": "https://t.co/gzb2BbaElH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862369247462400498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862124849822679307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y86668Rr: 当我发现一个从未有过互动的推主屏蔽了我： https://t.co/gzb2BbaElH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862124839290490880"
+          ]
+        },
+        "author_id": "1821521036967600128",
+        "conversation_id": "1862124849822679307",
+        "created_at": "2024-11-28T13:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T14:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862124849822679307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzb2BbaElH",
+              "end": 44,
+              "expanded_url": "https://x.com/Y86668Rr/status/1862124849822679307/photo/1",
+              "media_key": "3_1862124839290490880",
+              "start": 21,
+              "url": "https://t.co/gzb2BbaElH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862124849822679307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 52329,
+          "like_count": 568,
+          "quote_count": 5,
+          "reply_count": 40,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "当我发现一个从未有过互动的推主屏蔽了我： https://t.co/gzb2BbaElH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 981,
+          "like_count": 29446,
+          "listed_count": 4,
+          "media_count": 402,
+          "tweet_count": 3528
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-08T12:17:23.000Z",
+        "description": "ENFP｜｜switch｜174/75｜很吵一女的｜有🚪 好友位纯绿188 私信只回互关/入门口令｜⚡️⚡️推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%82%B2%E4%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%82%B2%E4%BC%A4%E5%A4%A7%E5%90%97%E5%96%BD",
+                "start": 0,
+                "url": "https://t.co/iYtpl3c8KP"
+              }
+            ]
+          }
+        },
+        "id": "1821521036967600128",
+        "name": "悲伤大吗喽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825573802002292736/nwRL4P3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3031,
+          "following_count": 125,
+          "like_count": 2470,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/iYtpl3c8KP",
+        "username": "Y86668Rr",
+        "verified": false
+      }
+    ]
+  }
+}

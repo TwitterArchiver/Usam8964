@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1837014070731612507",
+    "created_at": "2024-09-20T12:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T13:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837099749406826737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "894527973839192064",
+          "start": 0,
+          "username": "KokodayoCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837099749406826737",
+    "in_reply_to_user_id": "894527973839192064",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837014070731612507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KokodayoCN 参考面筋哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1837014070731612507",
+        "created_at": "2024-09-20T12:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T13:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837099749406826737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "894527973839192064",
+              "start": 0,
+              "username": "KokodayoCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837099749406826737",
+        "in_reply_to_user_id": "894527973839192064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837014070731612507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KokodayoCN 参考面筋哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "894527973839192064",
+        "conversation_id": "1837014070731612507",
+        "created_at": "2024-09-20T06:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T07:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837014070731612507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837014070731612507",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7238,
+          "like_count": 101,
+          "quote_count": 3,
+          "reply_count": 77,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么才能留长发但是同时显得不像女生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 888,
+          "like_count": 24732,
+          "listed_count": 3,
+          "tweet_count": 2979
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-07T11:57:43.000Z",
+        "description": "⚑ Canada state-affiliated personnel\nUndergraduate at UofT(St George)\nRegistered as Liberal\n友跨顺男(不可能翻车)。旅行者。死打游戏的。我老婆🩷@maopao_hfqy/@maopao_tabby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 117,
+                "username": "maopao_hfqy"
+              },
+              {
+                "end": 143,
+                "start": 130,
+                "username": "maopao_tabby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "prson-srpel.apps.cic.gc.ca/fr",
+                "end": 23,
+                "expanded_url": "https://prson-srpel.apps.cic.gc.ca/fr",
+                "start": 0,
+                "url": "https://t.co/6MoMPrTE4l"
+              }
+            ]
+          }
+        },
+        "id": "894527973839192064",
+        "location": "University of Toronto",
+        "name": "Kokodayo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682500711865516033/gudXVvOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4650,
+          "following_count": 412,
+          "like_count": 33065,
+          "listed_count": 12,
+          "tweet_count": 16782
+        },
+        "url": "https://t.co/6MoMPrTE4l",
+        "username": "KokodayoCN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1907669027574399136",
+    "created_at": "2025-04-03T05:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T06:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907670721859551319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827009216047153152",
+          "start": 0,
+          "username": "yuan_wu33078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907670721859551319",
+    "in_reply_to_user_id": "1827009216047153152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907670390119477575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan_wu33078 不强啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1907669027574399136",
+        "created_at": "2025-04-03T05:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907670721859551319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827009216047153152",
+              "start": 0,
+              "username": "yuan_wu33078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907670721859551319",
+        "in_reply_to_user_id": "1827009216047153152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907670390119477575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan_wu33078 不强啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827009216047153152",
+        "conversation_id": "1907669027574399136",
+        "created_at": "2025-04-03T05:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907670390119477575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907670390119477575",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907669027574399136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 伪音好强喵!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 1026,
+          "like_count": 32277,
+          "listed_count": 7,
+          "media_count": 436,
+          "tweet_count": 3758
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:45:39.000Z",
+        "description": "苑猫猫在此♪\n中国人~是猫猫高中生/INFP/高三休学/ftx/微负能/键政哒咩/米游三坑玩家/粥粥博士/鸣潮漂泊者/想要学习cs/喵~欢迎互fo\n匿名提问:https://t.co/lO8rhcfepS\n头像一定会画完的喵!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuan_wu33078",
+                "end": 102,
+                "expanded_url": "https://ngl.link/yuan_wu33078",
+                "start": 79,
+                "url": "https://t.co/lO8rhcfepS"
+              }
+            ]
+          }
+        },
+        "id": "1827009216047153152",
+        "location": "往世乐土♪",
+        "name": "苑云鹜",
+        "pinned_tweet_id": "1885747950430917061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907379675539849217/TPB3ZP53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 493,
+          "like_count": 4361,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 423
+        },
+        "username": "yuan_wu33078",
+        "verified": false
+      }
+    ]
+  }
+}

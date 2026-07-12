@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2021225952903086143",
+    "created_at": "2026-02-10T14:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T15:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021233574083539008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803048962133483520",
+          "start": 0,
+          "username": "baixixi0712"
+        },
+        {
+          "end": 29,
+          "id": "1169174984389885952",
+          "start": 13,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021233574083539008",
+    "in_reply_to_user_id": "1803048962133483520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021232318199840906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baixixi0712 @Angel_SaveUsAll 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2021225952903086143",
+        "created_at": "2026-02-10T14:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021233574083539008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803048962133483520",
+              "start": 0,
+              "username": "baixixi0712"
+            },
+            {
+              "end": 29,
+              "id": "1169174984389885952",
+              "start": 13,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021233574083539008",
+        "in_reply_to_user_id": "1803048962133483520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021232318199840906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baixixi0712 @Angel_SaveUsAll 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803048962133483520",
+        "conversation_id": "2021225952903086143",
+        "created_at": "2026-02-10T14:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021232318199840906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169174984389885952",
+              "start": 0,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021232318199840906",
+        "in_reply_to_user_id": "1169174984389885952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021226627347120507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel_SaveUsAll 我好崩溃😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3504,
+          "following_count": 1048,
+          "like_count": 33184,
+          "listed_count": 8,
+          "media_count": 293,
+          "tweet_count": 3908
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T12:55:53.000Z",
+        "description": "07，双相，同类互fo会补赞👀，想要有好多好朋友，想要o到天昏地暗😋，割手爽😋，想只活在互联网上，想永远爱你们\n不参与任何争论和键政，不惹我我也不会惹你，我发我的看我不爽直接屏蔽就好\n还有就是求求你们不要再给我发几把照了",
+        "id": "1803048962133483520",
+        "name": "白汐🔪🩸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902841317132255232/kHWEIPI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 94,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 286
+        },
+        "username": "baixixi0712",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "新人画师，阴湿蕾蕾 只是会吃神秘小药片噶手手 情绪不稳定/容易崩溃/焦虑症 不怎么用twitter EN&CN OK 日本語苦手     欢迎同类找我聊天贴贴",
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "靜滯立場重度依賴✟升天✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961716234724036608/pQ-MrTXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 267,
+          "like_count": 3833,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 1532
+        },
+        "username": "Angel_SaveUsAll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1842482325961277588",
+    "created_at": "2024-10-05T11:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T12:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842526682387001376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "995268939994165248",
+          "start": 0,
+          "username": "KaguraAiri_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842526682387001376",
+    "in_reply_to_user_id": "995268939994165248",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842525022419824750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraAiri_QWQ 你也是特别特别萌的美少女🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1842482325961277588",
+        "created_at": "2024-10-05T11:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T12:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842526682387001376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "995268939994165248",
+              "start": 0,
+              "username": "KaguraAiri_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842526682387001376",
+        "in_reply_to_user_id": "995268939994165248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842525022419824750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraAiri_QWQ 你也是特别特别萌的美少女🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "995268939994165248",
+        "conversation_id": "1842482325961277588",
+        "created_at": "2024-10-05T11:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T12:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842525022419824750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842525022419824750",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842482325961277588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 能认识您这样的美少女真是我三生有幸呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 894,
+          "like_count": 25415,
+          "listed_count": 4,
+          "tweet_count": 3090
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T11:46:21.000Z",
+        "description": "想和大家做朋友!/一只有点不太像INFJ的INFJ-T猫猫/全国乱跑/mtf/我家给我摄影后期搭衣服化妆的全能宝宝@123___jump",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "123___jump"
+              }
+            ]
+          }
+        },
+        "id": "995268939994165248",
+        "location": "Far away from stars",
+        "name": "神楽愛理🍥",
+        "pinned_tweet_id": "1813057468626530802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829025477136396289/dpVRfuzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 304,
+          "like_count": 4077,
+          "listed_count": 1,
+          "tweet_count": 1431
+        },
+        "username": "KaguraAiri_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

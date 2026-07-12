@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2029285891324166454",
+    "created_at": "2026-03-04T20:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T21:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029291098544443546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778600109154172928",
+          "start": 0,
+          "username": "KMS_PzEUGIN_III"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029291098544443546",
+    "in_reply_to_user_id": "1778600109154172928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029285891324166454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMS_PzEUGIN_III 神父还挺博学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029285891324166454",
+        "created_at": "2026-03-04T20:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T21:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029291098544443546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778600109154172928",
+              "start": 0,
+              "username": "KMS_PzEUGIN_III"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029291098544443546",
+        "in_reply_to_user_id": "1778600109154172928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029285891324166454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMS_PzEUGIN_III 神父还挺博学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778600109154172928",
+        "conversation_id": "2029285891324166454",
+        "created_at": "2026-03-04T20:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T21:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029285891324166454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029285891324166454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被新教徒神父拉到路边传教了\n我先说我是无神论他说上帝是第四第五dimension的高级存在\n我又说我是多神论他说亚伯拉罕一神教才是对的，我又扯我信真主，他说那其实就是上帝\n服了最后还是把电话号码给过去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 1066,
+          "like_count": 35403,
+          "listed_count": 8,
+          "media_count": 344,
+          "tweet_count": 4532
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T01:44:56.000Z",
+        "description": "屎踢姆账号：482729448/跑路小账@lappydaisuki/ 像垃圾袋这样实用的东西有时候也装满了风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "lappydaisuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kms_pzeugin_iii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kms_pzeugin_iii",
+                "start": 0,
+                "url": "https://t.co/NKw2JIeEm8"
+              }
+            ]
+          }
+        },
+        "id": "1778600109154172928",
+        "location": "8°45′9.49″N 167°40′59.60″E",
+        "name": "KMS-PrinzEugin",
+        "pinned_tweet_id": "2027800915588063316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790573689211346944/mT4Zy9tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 3445,
+          "like_count": 41837,
+          "listed_count": 5,
+          "media_count": 905,
+          "tweet_count": 11681
+        },
+        "url": "https://t.co/NKw2JIeEm8",
+        "username": "KMS_PzEUGIN_III",
+        "verified": true
+      }
+    ]
+  }
+}

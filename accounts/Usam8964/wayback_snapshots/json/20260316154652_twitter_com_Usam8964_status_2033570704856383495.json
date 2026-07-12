@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033392808766447618"
+      ],
+      "media_source_tweet_id": [
+        "2033392811152920988"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033570704856383495",
+    "created_at": "2026-03-16T15:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033570704856383495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1972062352070922244",
+          "start": 3,
+          "username": "x__x915"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mshSnA8MGh",
+          "end": 40,
+          "expanded_url": "https://x.com/x__x915/status/2033392811152920988/photo/1",
+          "media_key": "3_2033392808766447618",
+          "start": 17,
+          "url": "https://t.co/mshSnA8MGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033570704856383495",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033392811152920988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x__x915: 💫💫💫 https://t.co/mshSnA8MGh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2113,
+        "media_key": "3_2033392808766447618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgP_HdboAI1jzr.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033392808766447618"
+          ],
+          "media_source_tweet_id": [
+            "2033392811152920988"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033570704856383495",
+        "created_at": "2026-03-16T15:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033570704856383495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972062352070922244",
+              "start": 3,
+              "username": "x__x915"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mshSnA8MGh",
+              "end": 40,
+              "expanded_url": "https://x.com/x__x915/status/2033392811152920988/photo/1",
+              "media_key": "3_2033392808766447618",
+              "start": 17,
+              "url": "https://t.co/mshSnA8MGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033570704856383495",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033392811152920988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x__x915: 💫💫💫 https://t.co/mshSnA8MGh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033392808766447618"
+          ]
+        },
+        "author_id": "1972062352070922244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033392811152920988",
+        "created_at": "2026-03-16T03:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T04:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033392811152920988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mshSnA8MGh",
+              "end": 27,
+              "expanded_url": "https://x.com/x__x915/status/2033392811152920988/photo/1",
+              "media_key": "3_2033392808766447618",
+              "start": 4,
+              "url": "https://t.co/mshSnA8MGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033392811152920988",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 15988,
+          "like_count": 1621,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "💫💫💫 https://t.co/mshSnA8MGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 1126,
+          "like_count": 39558,
+          "listed_count": 9,
+          "media_count": 409,
+          "tweet_count": 5196
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T22:14:47.000Z",
+        "description": "rt 많음 / 동방 위주로 여러가지 좋아해요 / 🔄🪡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xx915.…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/xx915.bsky.social",
+                "start": 0,
+                "url": "https://t.co/lJtQTspCpN"
+              }
+            ]
+          }
+        },
+        "id": "1972062352070922244",
+        "location": "휘침성 다다미 위",
+        "name": "kiwi",
+        "pinned_tweet_id": "2012078674070396974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972949263979286528/TTZQ3m5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 199,
+          "like_count": 6769,
+          "listed_count": 5,
+          "media_count": 65,
+          "tweet_count": 4441
+        },
+        "url": "https://t.co/lJtQTspCpN",
+        "username": "x__x915",
+        "verified": false
+      }
+    ]
+  }
+}

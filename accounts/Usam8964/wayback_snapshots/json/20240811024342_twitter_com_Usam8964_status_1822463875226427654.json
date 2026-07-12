@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1822463873364250862",
+    "created_at": "2024-08-11T02:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T03:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822463875226427654"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1822463875226427654",
+    "in_reply_to_user_id": "1643490407094030338",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822463873364250862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二是，群星里作为人联领导人然后去亲外星球造访，然后回来发现被偷家了，于是我回档发现是在某个时候有个海星大臣向我招手，我无视了，导致几乎我所有星环基地都被35k的异星阿米巴原虫灭了，然后这时候的亲外国家被宣了，我在的星环基地被攻击了，从太空站掉下来被恒星烫死了（2/2）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1822463873364250862",
+        "created_at": "2024-08-11T02:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T03:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822463875226427654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822463875226427654",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822463873364250862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二是，群星里作为人联领导人然后去亲外星球造访，然后回来发现被偷家了，于是我回档发现是在某个时候有个海星大臣向我招手，我无视了，导致几乎我所有星环基地都被35k的异星阿米巴原虫灭了，然后这时候的亲外国家被宣了，我在的星环基地被攻击了，从太空站掉下来被恒星烫死了（2/2）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1822463873364250862",
+        "created_at": "2024-08-11T02:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T03:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822463873364250862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822463873364250862",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6:23左右~8:23左右做了两条梦：第一是，梦到我妈早上起来和我说她学了巫术所以导致我睡不着，然后那群巫术教徒把镇上所有人杀了然后让我做一种各种乱七八糟的草料混在锅里一起煮的液体，说涂上就能变成吸血鬼，永生不死。摸完全身后，还真变了（1/2）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 764,
+          "like_count": 17106,
+          "listed_count": 2,
+          "tweet_count": 2508
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

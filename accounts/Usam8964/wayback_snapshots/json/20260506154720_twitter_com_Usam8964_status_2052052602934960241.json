@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2052020656842420314",
+    "created_at": "2026-05-06T15:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052052602934960241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751595389562822657",
+          "start": 0,
+          "username": "ijia522218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052052602934960241",
+    "in_reply_to_user_id": "1751595389562822657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052020656842420314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ijia522218 抱抱🫂🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2052020656842420314",
+        "created_at": "2026-05-06T15:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052052602934960241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751595389562822657",
+              "start": 0,
+              "username": "ijia522218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052052602934960241",
+        "in_reply_to_user_id": "1751595389562822657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052020656842420314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ijia522218 抱抱🫂🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751595389562822657",
+        "conversation_id": "2052020656842420314",
+        "created_at": "2026-05-06T13:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052020656842420314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052020656842420314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 1209,
+          "like_count": 57390,
+          "listed_count": 6,
+          "media_count": 496,
+          "tweet_count": 6939
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T13:17:46.000Z",
+        "description": "于世赠大家一场雨🌸\n我是里奈/小女孩 跨性别 可爱的小男孩请与我互fo吧🥺（h男跟我说话暴毙）/日本語がとても下手です/点赞就是想和你互动/非常好脾气~/药物安全非专业人士全是亲身体验，想戒断麻烦可以一直翻我的帖子和评论会看到很多戒断建议/不要学我的用药剂量我是炼丹炉体质学我会出事",
+        "id": "1751595389562822657",
+        "name": "里奈🌸",
+        "pinned_tweet_id": "2049625244994830441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049316824324677632/QpNGCt_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 201,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 620
+        },
+        "username": "ijia522218",
+        "verified": false
+      }
+    ]
+  }
+}

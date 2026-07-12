@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2039728841057591611",
+    "created_at": "2026-04-02T22:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T23:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039826154438451343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1228546301572173825",
+          "start": 0,
+          "username": "AAAAAMTxT"
+        },
+        {
+          "end": 23,
+          "id": "2001821328584929280",
+          "start": 11,
+          "username": "cwmgdnn0305"
+        },
+        {
+          "end": 39,
+          "id": "928568796662587393",
+          "start": 24,
+          "username": "berkerleyliu13"
+        },
+        {
+          "end": 56,
+          "id": "2014098182184009728",
+          "start": 40,
+          "username": "HuffmanAlm86735"
+        },
+        {
+          "end": 73,
+          "id": "1431905550678167553",
+          "start": 57,
+          "username": "lLhPUVCO4RuaNKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039826154438451343",
+    "in_reply_to_user_id": "1228546301572173825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039728841057591611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAAAAMTxT @cwmgdnn0305 @berkerleyliu13 @HuffmanAlm86735 @lLhPUVCO4RuaNKd 妈咪！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2039728838109007872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6SkkGbkAAlOse.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2039728841057591611",
+        "created_at": "2026-04-02T22:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039826154438451343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1228546301572173825",
+              "start": 0,
+              "username": "AAAAAMTxT"
+            },
+            {
+              "end": 23,
+              "id": "2001821328584929280",
+              "start": 11,
+              "username": "cwmgdnn0305"
+            },
+            {
+              "end": 39,
+              "id": "928568796662587393",
+              "start": 24,
+              "username": "berkerleyliu13"
+            },
+            {
+              "end": 56,
+              "id": "2014098182184009728",
+              "start": 40,
+              "username": "HuffmanAlm86735"
+            },
+            {
+              "end": 73,
+              "id": "1431905550678167553",
+              "start": 57,
+              "username": "lLhPUVCO4RuaNKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039826154438451343",
+        "in_reply_to_user_id": "1228546301572173825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039728841057591611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAAAAMTxT @cwmgdnn0305 @berkerleyliu13 @HuffmanAlm86735 @lLhPUVCO4RuaNKd 妈咪！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039728838109007872"
+          ]
+        },
+        "author_id": "1228546301572173825",
+        "conversation_id": "2039728841057591611",
+        "created_at": "2026-04-02T15:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039728841057591611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "2001821328584929280",
+              "start": 22,
+              "username": "cwmgdnn0305"
+            },
+            {
+              "end": 50,
+              "id": "928568796662587393",
+              "start": 35,
+              "username": "berkerleyliu13"
+            },
+            {
+              "end": 73,
+              "id": "2014098182184009728",
+              "start": 57,
+              "username": "HuffmanAlm86735"
+            },
+            {
+              "end": 89,
+              "id": "1643490407094030338",
+              "start": 80,
+              "username": "Usam8964"
+            },
+            {
+              "end": 106,
+              "id": "1431905550678167553",
+              "start": 90,
+              "username": "lLhPUVCO4RuaNKd"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 134,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2039126085452046336/gVYkyw19?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039126085452046336/gVYkyw19?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/qZQi6J7vi7"
+            },
+            {
+              "display_url": "pic.x.com/afjID35JPn",
+              "end": 158,
+              "expanded_url": "https://x.com/AAAAAMTxT/status/2039728841057591611/photo/1",
+              "media_key": "3_2039728838109007872",
+              "start": 135,
+              "url": "https://t.co/afjID35JPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039728841057591611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @cwmgdnn0305 @berkerleyliu13\n👰 配偶: @HuffmanAlm86735\n👶 孩子: @Usam8964 @lLhPUVCO4RuaNKd\n\n➡️ https://t.co/qZQi6J7vi7 https://t.co/afjID35JPn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 1150,
+          "like_count": 49403,
+          "listed_count": 6,
+          "media_count": 458,
+          "tweet_count": 6281
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/无性别主义/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝/出厂日期04.7/主坑prsk/+墙内需过🚪59r/过🚪可同城约见面一起玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（互联网的堕落天使）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034974104538030089/YeDmGLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 808,
+          "like_count": 31086,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 6057
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T01:06:51.000Z",
+        "description": "餐券女   日常是一个非常温良的妹子可以随便找我倾诉哦   可以称呼我为楠楠   od💊割手手  查成分互fo   直fo就是喜欢你 喜欢右美   感康（虽然很难受不过它给我的幻觉是难以想象的，喜欢）白兔（超级温柔的药），pr80（比较喜欢的，好幸福）你喜欢我＝我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cwmgdnn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cwmgdnn",
+                "start": 0,
+                "url": "https://t.co/jtBG6h7WY2"
+              }
+            ]
+          }
+        },
+        "id": "2001821328584929280",
+        "location": "Tokyo-to, Japan",
+        "name": "…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039171823590629376/Z_wwMudM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 257,
+          "like_count": 2422,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/jtBG6h7WY2",
+        "username": "cwmgdnn0305",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-09T10:23:47.000Z",
+        "description": "",
+        "id": "928568796662587393",
+        "name": "困",
+        "pinned_tweet_id": "2036036740281176181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964873423638908928/F03_otNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 174,
+          "like_count": 9343,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 502
+        },
+        "username": "berkerleyliu13",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:10:25.000Z",
+        "description": "小愿/愿酱|互fo|生产日期2010 10.14/国内联系方式只给生理心理女生\nod 自残 恋舒服的痛 我打pjsk 无畏契约（思考） 现实很社恐 \n每天都在想好想在夏天自杀/好想当地雷女/好想割手割腿/好想打唇钉/好想od好想pr ym 舒服！😇 只对健全人刻薄 傻逼健全人",
+        "id": "2014098182184009728",
+        "location": "天天天国地狱国",
+        "name": "スパイダーブレード",
+        "pinned_tweet_id": "2039415723278373213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035762485735940096/AxOkMmGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 234,
+          "like_count": 4689,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 812
+        },
+        "username": "HuffmanAlm86735",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T09:04:46.000Z",
+        "description": "下次见面，就是十二万亿年之后啦",
+        "id": "1431905550678167553",
+        "name": "了却云归",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431907747822379011/SoAmlY1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 87,
+          "like_count": 5916,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 3826
+        },
+        "username": "lLhPUVCO4RuaNKd",
+        "verified": false
+      }
+    ]
+  }
+}

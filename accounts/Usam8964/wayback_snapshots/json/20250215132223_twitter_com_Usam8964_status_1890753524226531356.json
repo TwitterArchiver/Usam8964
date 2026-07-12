@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890753463086419968",
+        "3_1890753464013307904",
+        "3_1890753463853920256",
+        "3_1890753474566160384"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1890753524226531356",
+    "created_at": "2025-02-15T13:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T14:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890753524226531356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aVScMpgKRp",
+          "end": 27,
+          "expanded_url": "https://x.com/Usam8964/status/1890753524226531356/photo/1",
+          "media_key": "3_1890753463086419968",
+          "start": 4,
+          "url": "https://t.co/aVScMpgKRp"
+        },
+        {
+          "display_url": "pic.x.com/aVScMpgKRp",
+          "end": 27,
+          "expanded_url": "https://x.com/Usam8964/status/1890753524226531356/photo/1",
+          "media_key": "3_1890753464013307904",
+          "start": 4,
+          "url": "https://t.co/aVScMpgKRp"
+        },
+        {
+          "display_url": "pic.x.com/aVScMpgKRp",
+          "end": 27,
+          "expanded_url": "https://x.com/Usam8964/status/1890753524226531356/photo/1",
+          "media_key": "3_1890753463853920256",
+          "start": 4,
+          "url": "https://t.co/aVScMpgKRp"
+        },
+        {
+          "display_url": "pic.x.com/aVScMpgKRp",
+          "end": 27,
+          "expanded_url": "https://x.com/Usam8964/status/1890753524226531356/photo/1",
+          "media_key": "3_1890753474566160384",
+          "start": 4,
+          "url": "https://t.co/aVScMpgKRp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890753524226531356",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "静安寺 https://t.co/aVScMpgKRp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1890753463086419968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1OQc0bEAALXne.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1890753464013307904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1OQgRaQAAQ6vC.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1890753463853920256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1OQfraMAAYx1I.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1890753474566160384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1ORHlaAAAfNCD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890753463086419968",
+            "3_1890753464013307904",
+            "3_1890753463853920256",
+            "3_1890753474566160384"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1890753524226531356",
+        "created_at": "2025-02-15T13:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T14:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890753524226531356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVScMpgKRp",
+              "end": 27,
+              "expanded_url": "https://x.com/Usam8964/status/1890753524226531356/photo/1",
+              "media_key": "3_1890753463086419968",
+              "start": 4,
+              "url": "https://t.co/aVScMpgKRp"
+            },
+            {
+              "display_url": "pic.x.com/aVScMpgKRp",
+              "end": 27,
+              "expanded_url": "https://x.com/Usam8964/status/1890753524226531356/photo/1",
+              "media_key": "3_1890753464013307904",
+              "start": 4,
+              "url": "https://t.co/aVScMpgKRp"
+            },
+            {
+              "display_url": "pic.x.com/aVScMpgKRp",
+              "end": 27,
+              "expanded_url": "https://x.com/Usam8964/status/1890753524226531356/photo/1",
+              "media_key": "3_1890753463853920256",
+              "start": 4,
+              "url": "https://t.co/aVScMpgKRp"
+            },
+            {
+              "display_url": "pic.x.com/aVScMpgKRp",
+              "end": 27,
+              "expanded_url": "https://x.com/Usam8964/status/1890753524226531356/photo/1",
+              "media_key": "3_1890753474566160384",
+              "start": 4,
+              "url": "https://t.co/aVScMpgKRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890753524226531356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "静安寺 https://t.co/aVScMpgKRp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 1013,
+          "like_count": 31587,
+          "listed_count": 7,
+          "media_count": 425,
+          "tweet_count": 3659
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

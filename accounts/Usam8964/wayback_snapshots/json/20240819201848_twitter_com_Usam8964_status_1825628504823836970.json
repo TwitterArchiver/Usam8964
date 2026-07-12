@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1825109262437118167",
+    "created_at": "2024-08-19T20:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T21:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825628504823836970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825628504823836970",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825109262437118167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 拥邓不是威权左吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1825109262437118167",
+        "created_at": "2024-08-19T20:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T21:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825628504823836970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825628504823836970",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825109262437118167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 拥邓不是威权左吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825109257664000000"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1825109262437118167",
+        "created_at": "2024-08-18T09:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T10:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825109262437118167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l796ytknet",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Kenntnis22/status/1825109262437118167/photo/1",
+              "media_key": "3_1825109257664000000",
+              "start": 38,
+              "url": "https://t.co/L796YtkNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825109262437118167",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 24630,
+          "like_count": 212,
+          "quote_count": 5,
+          "reply_count": 72,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "“右翼民族主义”也热带共产党，信仰马列主义、毛泽东、邓小平、习近平思想吗？ https://t.co/L796YtkNET"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 785,
+          "like_count": 18682,
+          "listed_count": 2,
+          "tweet_count": 2609
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14728,
+          "following_count": 211,
+          "like_count": 9410,
+          "listed_count": 63,
+          "tweet_count": 3031
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

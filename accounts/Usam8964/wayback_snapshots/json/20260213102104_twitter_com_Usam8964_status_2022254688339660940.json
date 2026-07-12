@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022208700132601856",
+        "3_2022208700014882816"
+      ],
+      "media_source_tweet_id": [
+        "2022208733133320205",
+        "2022208733133320205"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2022254688339660940",
+    "created_at": "2026-02-13T10:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022254688339660940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900779585832210432",
+          "start": 3,
+          "username": "77771Yyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8i2i7exa3p",
+          "end": 107,
+          "expanded_url": "https://x.com/77771Yyy/status/2022208733133320205/photo/1",
+          "media_key": "3_2022208700132601856",
+          "start": 84,
+          "url": "https://t.co/8i2i7exa3p"
+        },
+        {
+          "display_url": "pic.x.com/8i2i7exa3p",
+          "end": 107,
+          "expanded_url": "https://x.com/77771Yyy/status/2022208733133320205/photo/1",
+          "media_key": "3_2022208700014882816",
+          "start": 84,
+          "url": "https://t.co/8i2i7exa3p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022254688339660940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022208733133320205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77771Yyy: 求投喂呀 欢迎妹宝来互fo互转\n我恋爱了所以不收别的门槛了 额虽然本来也没有吧！喜欢我就给我点钱支持我吧！。门槛不会退过门之前请先考虑清楚 https://t.co/8i2i7exa3p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2022208700132601856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBUGUEbsAA4vqW.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022208700014882816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBUGToXcAAK_Ma.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022208700132601856",
+            "3_2022208700014882816"
+          ],
+          "media_source_tweet_id": [
+            "2022208733133320205",
+            "2022208733133320205"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2022254688339660940",
+        "created_at": "2026-02-13T10:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022254688339660940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900779585832210432",
+              "start": 3,
+              "username": "77771Yyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8i2i7exa3p",
+              "end": 107,
+              "expanded_url": "https://x.com/77771Yyy/status/2022208733133320205/photo/1",
+              "media_key": "3_2022208700132601856",
+              "start": 84,
+              "url": "https://t.co/8i2i7exa3p"
+            },
+            {
+              "display_url": "pic.x.com/8i2i7exa3p",
+              "end": 107,
+              "expanded_url": "https://x.com/77771Yyy/status/2022208733133320205/photo/1",
+              "media_key": "3_2022208700014882816",
+              "start": 84,
+              "url": "https://t.co/8i2i7exa3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022254688339660940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022208733133320205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77771Yyy: 求投喂呀 欢迎妹宝来互fo互转\n我恋爱了所以不收别的门槛了 额虽然本来也没有吧！喜欢我就给我点钱支持我吧！。门槛不会退过门之前请先考虑清楚 https://t.co/8i2i7exa3p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022208700132601856",
+            "3_2022208700014882816"
+          ]
+        },
+        "author_id": "1900779585832210432",
+        "conversation_id": "2022208733133320205",
+        "created_at": "2026-02-13T07:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022208733133320205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8i2i7exa3p",
+              "end": 93,
+              "expanded_url": "https://x.com/77771Yyy/status/2022208733133320205/photo/1",
+              "media_key": "3_2022208700132601856",
+              "start": 70,
+              "url": "https://t.co/8i2i7exa3p"
+            },
+            {
+              "display_url": "pic.x.com/8i2i7exa3p",
+              "end": 93,
+              "expanded_url": "https://x.com/77771Yyy/status/2022208733133320205/photo/1",
+              "media_key": "3_2022208700014882816",
+              "start": 70,
+              "url": "https://t.co/8i2i7exa3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022208733133320205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "求投喂呀 欢迎妹宝来互fo互转\n我恋爱了所以不收别的门槛了 额虽然本来也没有吧！喜欢我就给我点钱支持我吧！。门槛不会退过门之前请先考虑清楚 https://t.co/8i2i7exa3p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3539,
+          "following_count": 1065,
+          "like_count": 33828,
+          "listed_count": 8,
+          "media_count": 311,
+          "tweet_count": 4093
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪52/88/坐标10｜只对部分人感兴趣｜od负能自伤｜神人婊子餐券妹门槛妹来互fo吧 我很好相处 漏了可以私信虽然私信有时候也看不到…我喜欢有礼貌的人",
+        "id": "1900779585832210432",
+        "name": "71",
+        "pinned_tweet_id": "2022208733133320205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 181,
+          "like_count": 2066,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 786
+        },
+        "username": "77771Yyy",
+        "verified": false
+      }
+    ]
+  }
+}

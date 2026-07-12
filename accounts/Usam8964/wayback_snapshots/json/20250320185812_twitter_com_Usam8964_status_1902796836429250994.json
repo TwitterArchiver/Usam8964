@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1902675559991427380",
+    "created_at": "2025-03-20T18:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T19:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902796836429250994"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Twitter",
+          "probability": 0.7247,
+          "start": 13,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "405353604",
+          "start": 0,
+          "username": "azusa_banjo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902796836429250994",
+    "in_reply_to_user_id": "405353604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902675559991427380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azusa_banjo Twitterであなたに会えるこの日を待っていました"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1327,
+        "media_key": "3_1902675465556606976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmepQU9aQAAgPEp.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1902675559991427380",
+        "created_at": "2025-03-20T18:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T19:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902796836429250994"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Twitter",
+              "probability": 0.7247,
+              "start": 13,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "405353604",
+              "start": 0,
+              "username": "azusa_banjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902796836429250994",
+        "in_reply_to_user_id": "405353604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902675559991427380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azusa_banjo Twitterであなたに会えるこの日を待っていました"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902675465556606976"
+          ]
+        },
+        "author_id": "405353604",
+        "conversation_id": "1902675559991427380",
+        "created_at": "2025-03-20T10:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T11:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902675559991427380"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "おとつく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7P21EZiSu",
+              "end": 34,
+              "expanded_url": "https://x.com/azusa_banjo/status/1902675559991427380/photo/1",
+              "media_key": "3_1902675465556606976",
+              "start": 11,
+              "url": "https://t.co/l7P21EZiSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902675559991427380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 36675,
+          "like_count": 3794,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 619
+        },
+        "reply_settings": "everyone",
+        "text": "さくら🌸　#おとつく https://t.co/l7P21EZiSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 1027,
+          "like_count": 32473,
+          "listed_count": 7,
+          "media_count": 435,
+          "tweet_count": 3743
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-05T06:04:30.000Z",
+        "description": "漫画家◆主人公(♂)のことが好きすぎる男の娘(おとこのこ)の漫画を描いてます◆comicPOOL『恋する（おとめ）の作り方』隔週金曜▶https://t.co/KI74JdgIC1 ◆既刊紹介・お問い合わせ・その他すべてのリンクはこちら▶https://t.co/27yaP4hmHz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic.pixiv.net/works/6403",
+                "end": 90,
+                "expanded_url": "http://comic.pixiv.net/works/6403",
+                "start": 67,
+                "url": "https://t.co/KI74JdgIC1"
+              },
+              {
+                "display_url": "lit.link/azusabanjo",
+                "end": 142,
+                "expanded_url": "https://lit.link/azusabanjo",
+                "start": 119,
+                "url": "https://t.co/27yaP4hmHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=5279612",
+                "start": 0,
+                "url": "https://t.co/68EbQiqVxd"
+              }
+            ]
+          }
+        },
+        "id": "405353604",
+        "location": "リプライ全て見てます、いつもありがとうございます！",
+        "name": "万丈梓",
+        "pinned_tweet_id": "1885283683982336173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520691095159541762/0x5eAcvI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262296,
+          "following_count": 429,
+          "like_count": 29320,
+          "listed_count": 1500,
+          "media_count": 2093,
+          "tweet_count": 14877
+        },
+        "url": "https://t.co/68EbQiqVxd",
+        "username": "azusa_banjo",
+        "verified": true
+      }
+    ]
+  }
+}

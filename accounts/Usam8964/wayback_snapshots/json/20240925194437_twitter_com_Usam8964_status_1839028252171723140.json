@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1838941841913463168",
+    "created_at": "2024-09-25T19:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T20:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839028252171723140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797882215747158016",
+          "start": 0,
+          "username": "sharingurself"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839028252171723140",
+    "in_reply_to_user_id": "1797882215747158016",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838941841913463168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharingurself 其实我是秦始皇🥸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1838941841913463168",
+        "created_at": "2024-09-25T19:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T20:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839028252171723140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797882215747158016",
+              "start": 0,
+              "username": "sharingurself"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839028252171723140",
+        "in_reply_to_user_id": "1797882215747158016",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838941841913463168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharingurself 其实我是秦始皇🥸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838941834221162496"
+          ]
+        },
+        "author_id": "1797882215747158016",
+        "conversation_id": "1838941841913463168",
+        "created_at": "2024-09-25T14:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T15:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838941841913463168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxxxpgrlhx",
+              "end": 87,
+              "expanded_url": "https://twitter.com/sharingurself/status/1838941841913463168/photo/1",
+              "media_key": "3_1838941834221162496",
+              "start": 64,
+              "url": "https://t.co/pXxxpGrLHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838941841913463168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 46869,
+          "like_count": 250,
+          "quote_count": 3,
+          "reply_count": 56,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "很多女的就是看这种帖子脑子看坏的 \n以为拍拍照片就能挣快钱没有风险\n没说原帖不好\n但就是不要相信什么好事都会轻松发生到自己身上 https://t.co/pXxxpGrLHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 889,
+          "like_count": 25102,
+          "listed_count": 3,
+          "tweet_count": 3028
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T06:45:17.000Z",
+        "description": "",
+        "id": "1797882215747158016",
+        "name": "再来个圣代吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797940531433189376/nwh971sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 35,
+          "like_count": 858,
+          "listed_count": 13,
+          "tweet_count": 1118
+        },
+        "username": "sharingurself",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1858477818222719324",
+    "created_at": "2024-11-18T14:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T15:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858515566233030707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "Victoria__Nagi"
+        },
+        {
+          "end": 31,
+          "id": "995268939994165248",
+          "start": 16,
+          "username": "KaguraAiri_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858515566233030707",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858509274000818267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victoria__Nagi @KaguraAiri_QWQ 来长沙吃（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1858477818222719324",
+        "created_at": "2024-11-18T14:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T15:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858515566233030707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "Victoria__Nagi"
+            },
+            {
+              "end": 31,
+              "id": "995268939994165248",
+              "start": 16,
+              "username": "KaguraAiri_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858515566233030707",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858509274000818267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victoria__Nagi @KaguraAiri_QWQ 来长沙吃（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1858477818222719324",
+        "created_at": "2024-11-18T13:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T14:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858509274000818267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 25,
+              "id": "995268939994165248",
+              "start": 10,
+              "username": "KaguraAiri_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858509274000818267",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858477818222719324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @KaguraAiri_QWQ 想你了，什么时候一起来吃🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2156,
+          "following_count": 961,
+          "like_count": 28995,
+          "listed_count": 4,
+          "tweet_count": 3495
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 底层跨 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "维多利亚线🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1851827913668067351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794154626050048000/fQ3d7tf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 477,
+          "like_count": 6623,
+          "listed_count": 2,
+          "tweet_count": 6601
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "Victoria__Nagi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T11:46:21.000Z",
+        "description": "想和大家做朋友!/一只有点不太像INFJ的INFJ-T猫猫/全国乱跑/过期(?)jk/我家给我摄影后期搭衣服化妆的全能宝宝@123___jump",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "123___jump"
+              }
+            ]
+          }
+        },
+        "id": "995268939994165248",
+        "location": "Far away from stars",
+        "name": "神楽愛理🍥",
+        "pinned_tweet_id": "1813057468626530802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829025477136396289/dpVRfuzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 353,
+          "like_count": 5187,
+          "listed_count": 1,
+          "tweet_count": 1934
+        },
+        "username": "KaguraAiri_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

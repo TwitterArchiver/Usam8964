@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2037831708364677279",
+    "created_at": "2026-03-28T12:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T13:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037865947013468522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037865947013468522",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037831708364677279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord 我真的喜欢吃黄瓜会带水果黄瓜到学校当零食吃😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2037831700080975872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfVImNbYAAT8uA.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2037831708364677279",
+        "created_at": "2026-03-28T12:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037865947013468522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037865947013468522",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037831708364677279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 我真的喜欢吃黄瓜会带水果黄瓜到学校当零食吃😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037831700080975872"
+          ]
+        },
+        "author_id": "2011405521245634560",
+        "conversation_id": "2037831708364677279",
+        "created_at": "2026-03-28T09:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037831708364677279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PJ2kWKzIR2",
+              "end": 149,
+              "expanded_url": "https://x.com/Rimea_Chord/status/2037831708364677279/photo/1",
+              "media_key": "3_2037831700080975872",
+              "start": 126,
+              "url": "https://t.co/PJ2kWKzIR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037831708364677279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好尼玛震惊啊，当时我还是寸头模样走读恶臭男走读生，他们几个男的强迫翻我的书包，找吃的 ，我防不住，嗯，他们直接来硬的，然后立马摸出来一根黄瓜，因为我家里没什么好吃的了，我只带了一根黄瓜，下午吃，结果有一个傻逼男的问我说黄瓜是不是用来自慰的😓😓😓 https://t.co/PJ2kWKzIR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3650,
+          "following_count": 1145,
+          "like_count": 46906,
+          "listed_count": 8,
+          "media_count": 442,
+          "tweet_count": 5946
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ FTX ｜ 注射睾酮中 ｜ ～ ｜ 记录我的恶臭声音 ｜ 声控 ｜喜欢微甜 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "一道清流",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027813347610316800/xhM7DQHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 55,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 606
+        },
+        "username": "Rimea_Chord",
+        "verified": false
+      }
+    ]
+  }
+}

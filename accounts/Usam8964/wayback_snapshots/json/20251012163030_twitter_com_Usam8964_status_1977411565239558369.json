@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1977215517955178505",
+    "created_at": "2025-10-12T16:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977411565239558369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1361240414309605379",
+          "start": 0,
+          "username": "sloushu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977411565239558369",
+    "in_reply_to_user_id": "1361240414309605379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977215517955178505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sloushu 紫苑チップです"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_1977215482072907776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3B7AVVbwAAyTYE.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1977215517955178505",
+        "created_at": "2025-10-12T16:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977411565239558369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1361240414309605379",
+              "start": 0,
+              "username": "sloushu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977411565239558369",
+        "in_reply_to_user_id": "1361240414309605379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977215517955178505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sloushu 紫苑チップです"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977215482072907776"
+          ]
+        },
+        "author_id": "1361240414309605379",
+        "conversation_id": "1977215517955178505",
+        "created_at": "2025-10-12T03:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T04:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977215517955178505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0dOrWvyzJH",
+              "end": 65,
+              "expanded_url": "https://x.com/sloushu/status/1977215517955178505/photo/1",
+              "media_key": "3_1977215482072907776",
+              "start": 42,
+              "url": "https://t.co/0dOrWvyzJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977215517955178505",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 11915,
+          "like_count": 1342,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "im not interesting when im happy and fine https://t.co/0dOrWvyzJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3445,
+          "following_count": 1029,
+          "like_count": 33227,
+          "listed_count": 9,
+          "media_count": 454,
+          "tweet_count": 4066
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-15T09:06:26.000Z",
+        "description": "insane perverted evil girl reposter\nfeed the neet: https://t.co/emLqS6g3Ic\nfollow ≠ endorsement\ndni sh ed\ndms rarely answered",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/sloush",
+                "end": 74,
+                "expanded_url": "https://ko-fi.com/sloush",
+                "start": 51,
+                "url": "https://t.co/emLqS6g3Ic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/jfxVPdSDyV",
+                "end": 23,
+                "expanded_url": "https://discord.gg/jfxVPdSDyV",
+                "start": 0,
+                "url": "https://t.co/AY1eah4npm"
+              }
+            ]
+          }
+        },
+        "id": "1361240414309605379",
+        "location": "posts made with hatred",
+        "name": "sloush ☆",
+        "pinned_tweet_id": "1884072537497428299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854424409580417024/82en_Th6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78855,
+          "following_count": 505,
+          "like_count": 46464,
+          "listed_count": 137,
+          "media_count": 9539,
+          "tweet_count": 23675
+        },
+        "url": "https://t.co/AY1eah4npm",
+        "username": "sloushu",
+        "verified": false
+      }
+    ]
+  }
+}

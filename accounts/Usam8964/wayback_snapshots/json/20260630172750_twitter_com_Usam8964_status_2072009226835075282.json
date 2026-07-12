@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072008087440089088"
+      ],
+      "media_source_tweet_id": [
+        "2072008089914794177"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2072009226835075282",
+    "created_at": "2026-06-30T17:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072009226835075282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1880803334405435393",
+          "start": 3,
+          "username": "tiantmaoshenshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TgSEq6Egc8",
+          "end": 56,
+          "expanded_url": "https://x.com/tiantmaoshenshi/status/2072008089914794177/photo/1",
+          "media_key": "3_2072008087440089088",
+          "start": 33,
+          "url": "https://t.co/TgSEq6Egc8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072009226835075282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072008089914794177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiantmaoshenshi: 我下海了，请多多支持我 https://t.co/TgSEq6Egc8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2072008087440089088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFAYKeaYAAsQu4.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072008087440089088"
+          ],
+          "media_source_tweet_id": [
+            "2072008089914794177"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2072009226835075282",
+        "created_at": "2026-06-30T17:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072009226835075282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1880803334405435393",
+              "start": 3,
+              "username": "tiantmaoshenshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgSEq6Egc8",
+              "end": 56,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2072008089914794177/photo/1",
+              "media_key": "3_2072008087440089088",
+              "start": 33,
+              "url": "https://t.co/TgSEq6Egc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072009226835075282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072008089914794177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiantmaoshenshi: 我下海了，请多多支持我 https://t.co/TgSEq6Egc8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072008087440089088"
+          ]
+        },
+        "author_id": "1880803334405435393",
+        "conversation_id": "2072008089914794177",
+        "created_at": "2026-06-30T17:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072008089914794177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgSEq6Egc8",
+              "end": 35,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2072008089914794177/photo/1",
+              "media_key": "3_2072008087440089088",
+              "start": 12,
+              "url": "https://t.co/TgSEq6Egc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072008089914794177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我下海了，请多多支持我 https://t.co/TgSEq6Egc8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4039,
+          "following_count": 1322,
+          "like_count": 74023,
+          "listed_count": 6,
+          "media_count": 578,
+          "tweet_count": 7935
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子     \n负能量警告⚠️     \n2.3次元人     \n不是好人     \n双相精分犯抽的时候会很烦，对不起，请蔽我     \n不发推就是在现生/思考/浮起     \n来和我交朋友互fo吧(`･ω･´)ゞ",
+        "id": "1880803334405435393",
+        "location": "中北海 🚪44",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2062000701300244929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 846,
+          "like_count": 11059,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 6336
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

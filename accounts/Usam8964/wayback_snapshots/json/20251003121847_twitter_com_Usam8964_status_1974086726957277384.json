@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1973743211760996819",
+    "created_at": "2025-10-03T12:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T13:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974086726957277384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1568763275655135233",
+          "start": 0,
+          "username": "imigina1107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974086726957277384",
+    "in_reply_to_user_id": "1568763275655135233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973743211760996819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imigina1107 Oh my god, 天使さま😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1038,
+        "media_key": "3_1973743206509821952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Qk_S3bwAA_Mk9.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1973743211760996819",
+        "created_at": "2025-10-03T12:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974086726957277384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1568763275655135233",
+              "start": 0,
+              "username": "imigina1107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974086726957277384",
+        "in_reply_to_user_id": "1568763275655135233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973743211760996819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imigina1107 Oh my god, 天使さま😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973743206509821952"
+          ]
+        },
+        "author_id": "1568763275655135233",
+        "conversation_id": "1973743211760996819",
+        "created_at": "2025-10-02T13:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T14:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973743211760996819"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "アキ天",
+              "probability": 0.7316,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3ydgqdkLN",
+              "end": 27,
+              "expanded_url": "https://x.com/imigina1107/status/1973743211760996819/photo/1",
+              "media_key": "3_1973743206509821952",
+              "start": 4,
+              "url": "https://t.co/I3ydgqdkLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973743211760996819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 537,
+          "impression_count": 60951,
+          "like_count": 8535,
+          "quote_count": 13,
+          "reply_count": 2,
+          "retweet_count": 646
+        },
+        "reply_settings": "everyone",
+        "text": "アキ天 https://t.co/I3ydgqdkLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 1028,
+          "like_count": 33317,
+          "listed_count": 10,
+          "media_count": 453,
+          "tweet_count": 4057
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T00:48:54.000Z",
+        "description": "お題箱 https://t.co/auwK2OX4Ud /FAタグ #いみぎなの創作っ子描いた",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 34,
+                "tag": "いみぎなの創作っ子描いた"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/imigina_odai…",
+                "end": 27,
+                "expanded_url": "https://odaibako.net/u/imigina_odaibako",
+                "start": 4,
+                "url": "https://t.co/auwK2OX4Ud"
+              }
+            ]
+          }
+        },
+        "id": "1568763275655135233",
+        "location": "ほぼらくがき",
+        "name": "いみぎな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827625150193528836/_YeP30q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 11,
+          "like_count": 527,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 550
+        },
+        "username": "imigina1107",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1875513492058599758",
+    "created_at": "2025-01-04T13:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T14:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875542533549519341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 29,
+          "id": "995268939994165248",
+          "start": 14,
+          "username": "KaguraAiri_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875542533549519341",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875539137018917044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria @KaguraAiri_QWQ 莫得钱钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1875513492058599758",
+        "created_at": "2025-01-04T13:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T14:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875542533549519341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 29,
+              "id": "995268939994165248",
+              "start": 14,
+              "username": "KaguraAiri_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875542533549519341",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875539137018917044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @KaguraAiri_QWQ 莫得钱钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1875513492058599758",
+        "created_at": "2025-01-04T13:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T14:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875539137018917044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 25,
+              "id": "995268939994165248",
+              "start": 10,
+              "username": "KaguraAiri_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875539137018917044",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875537225691361321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @KaguraAiri_QWQ 可以送我一台嘛🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 1014,
+          "like_count": 31229,
+          "listed_count": 4,
+          "media_count": 420,
+          "tweet_count": 3626
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 厦门人 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExU9xd"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "冰棍好大喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1869199024374661397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869586825230372864/WAgebx9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 614,
+          "like_count": 9149,
+          "listed_count": 4,
+          "media_count": 1192,
+          "tweet_count": 9061
+        },
+        "url": "https://t.co/xPejExU9xd",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T11:46:21.000Z",
+        "description": "想和大家做朋友!/一只有点不太像INFJ的INFJ-T猫猫/全国乱跑/过期(?)jk/我是你的赛博小猫罐头",
+        "id": "995268939994165248",
+        "location": "Far away from stars",
+        "name": "神楽愛理🍥",
+        "pinned_tweet_id": "1813057468626530802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829025477136396289/dpVRfuzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 375,
+          "like_count": 5783,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 2192
+        },
+        "username": "KaguraAiri_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

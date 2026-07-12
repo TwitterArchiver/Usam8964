@@ -1,0 +1,131 @@
+{
+  "data": {
+    "author_id": "1643490407094030338",
+    "conversation_id": "1848668016516731185",
+    "created_at": "2024-10-22T12:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-22T13:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848707618380144749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665019483474530311",
+          "start": 0,
+          "username": "yuwwqk1229"
+        }
+      ]
+    },
+    "id": "1848707618380144749",
+    "in_reply_to_user_id": "1665019483474530311",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 83,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848668016516731185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuwwqk1229 好熟悉的标，初中的时候打谱还发过B站"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1643490407094030338",
+        "conversation_id": "1848668016516731185",
+        "created_at": "2024-10-22T12:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T13:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848707618380144749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665019483474530311",
+              "start": 0,
+              "username": "yuwwqk1229"
+            }
+          ]
+        },
+        "id": "1848707618380144749",
+        "in_reply_to_user_id": "1665019483474530311",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848668016516731185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuwwqk1229 好熟悉的标，初中的时候打谱还发过B站"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 985,
+          "like_count": 29921,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 3553
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T15:36:06.000Z",
+        "description": "涩猫 // 極度自厭負能量爆炸100%地雷系請小心靠近 // BD6IBL // 我是小B登欢迎短波通联 // bool haveVitalSigns = 🍥.refill () ;",
+        "id": "1665019483474530311",
+        "name": "~Void_Neko_Shio()",
+        "pinned_tweet_id": "1847451332070035771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858587870313037824/Z0u5KQI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 792,
+          "like_count": 5357,
+          "listed_count": 2,
+          "media_count": 645,
+          "tweet_count": 4507
+        },
+        "username": "yuwwqk1229",
+        "verified": false
+      }
+    ]
+  }
+}

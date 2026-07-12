@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1968306353346388394",
+    "created_at": "2025-09-18T11:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T12:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968640623822434787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968640623822434787",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968622955975360998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 诶，倒是有规定每90分钟要续一杯饮料，但我在店内待了两个小时也没有人提醒我要续饮料，所以可能并没有强制消费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1968306353346388394",
+        "created_at": "2025-09-18T11:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T12:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968640623822434787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968640623822434787",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968622955975360998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 诶，倒是有规定每90分钟要续一杯饮料，但我在店内待了两个小时也没有人提醒我要续饮料，所以可能并没有强制消费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882671462210998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          }
+        ],
+        "conversation_id": "1968306353346388394",
+        "created_at": "2025-09-18T10:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968622955975360998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968622955975360998",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968306353346388394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 我聽說メイド喫茶店有強制消費的情況，這是真的喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接\n老婆：@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3400,
+          "following_count": 1028,
+          "like_count": 33279,
+          "listed_count": 10,
+          "media_count": 467,
+          "tweet_count": 4044
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "我想大聲說點甚麼，最後還是把嘴閉了回去。因為我知道我除了安慰甚麼也做不到 /已知50%反對黨、預計是100%反對黨/暫未含糖/日本留學準備中/半出櫃/Discord: https://t.co/ccn1U72HVa Website: https://t.co/uduZ2kuRiC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 107,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 84,
+                "url": "https://t.co/ccn1U72HVa"
+              },
+              {
+                "display_url": "hsnej.fun",
+                "end": 140,
+                "expanded_url": "https://www.hsnej.fun",
+                "start": 117,
+                "url": "https://t.co/uduZ2kuRiC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hsnej.fun",
+                "end": 23,
+                "expanded_url": "http://www.hsnej.fun",
+                "start": 0,
+                "url": "https://t.co/IsnYmbhijH"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "Taito-ku, Tokyo",
+        "name": "𝙷𝚘𝚜𝚒𝚗𝚘𝙴𝙹🏳️‍⚧️🍥 - 東京留学準備中（お互いフォローでき）",
+        "pinned_tweet_id": "1966197392417710268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944072754229391363/Ez0-Gdww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 354,
+          "like_count": 2194,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/IsnYmbhijH",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019732761762996224"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2019732764539691436",
+    "created_at": "2026-02-06T11:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T12:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019732764539691436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1701555310006308864",
+          "start": 22,
+          "username": "Eternal1uv9"
+        },
+        {
+          "end": 44,
+          "id": "1636179138276098048",
+          "start": 35,
+          "username": "ericclbr"
+        },
+        {
+          "end": 62,
+          "id": "1480902038884130819",
+          "start": 51,
+          "username": "AyatamaNya"
+        },
+        {
+          "end": 83,
+          "id": "1916817753635426304",
+          "start": 69,
+          "username": "Goldwater8964"
+        },
+        {
+          "end": 99,
+          "id": "1798684142722281473",
+          "start": 84,
+          "username": "shiguangji2019"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 127,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/ALTUzBOpNS"
+        },
+        {
+          "display_url": "pic.x.com/r4hsvy9ZM3",
+          "end": 151,
+          "expanded_url": "https://x.com/Usam8964/status/2019732764539691436/photo/1",
+          "media_key": "3_2019732761762996224",
+          "start": 128,
+          "url": "https://t.co/r4hsvy9ZM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019732764539691436",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Eternal1uv9 @ericclbr\n👰 配偶: @AyatamaNya\n👶 孩子: @Goldwater8964 @shiguangji2019\n\n➡️ https://t.co/ALTUzBOpNS https://t.co/r4hsvy9ZM3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2019732761762996224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAeIPu4aIAAfNLA.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019732761762996224"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2019732764539691436",
+        "created_at": "2026-02-06T11:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019732764539691436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1701555310006308864",
+              "start": 22,
+              "username": "Eternal1uv9"
+            },
+            {
+              "end": 44,
+              "id": "1636179138276098048",
+              "start": 35,
+              "username": "ericclbr"
+            },
+            {
+              "end": 62,
+              "id": "1480902038884130819",
+              "start": 51,
+              "username": "AyatamaNya"
+            },
+            {
+              "end": 83,
+              "id": "1916817753635426304",
+              "start": 69,
+              "username": "Goldwater8964"
+            },
+            {
+              "end": 99,
+              "id": "1798684142722281473",
+              "start": 84,
+              "username": "shiguangji2019"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 127,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/ALTUzBOpNS"
+            },
+            {
+              "display_url": "pic.x.com/r4hsvy9ZM3",
+              "end": 151,
+              "expanded_url": "https://x.com/Usam8964/status/2019732764539691436/photo/1",
+              "media_key": "3_2019732761762996224",
+              "start": 128,
+              "url": "https://t.co/r4hsvy9ZM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019732764539691436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Eternal1uv9 @ericclbr\n👰 配偶: @AyatamaNya\n👶 孩子: @Goldwater8964 @shiguangji2019\n\n➡️ https://t.co/ALTUzBOpNS https://t.co/r4hsvy9ZM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3447,
+          "following_count": 1024,
+          "like_count": 32602,
+          "listed_count": 8,
+          "media_count": 475,
+          "tweet_count": 4151
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "如果你觉得逼死一个14岁双向情感障碍+重度抑郁＋手臂满是伤疤＋喜欢晚睡＋爱听网易云+敏感多疑胡思乱想+日日以泪洗面的infp蝴蝶小孩很好玩的话那你们可以继续",
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2008882687399100687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014338019982184449/xKE1wxP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 179,
+          "like_count": 672,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 1711
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T01:34:50.000Z",
+        "description": "",
+        "id": "1636179138276098048",
+        "location": "Santiago, Chile",
+        "name": "EricInCL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015475034354028544/10OmJa1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 272,
+          "like_count": 7081,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 3790
+        },
+        "username": "ericclbr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T14:02:08.000Z",
+        "description": "我是绫玉/是个笨蛋/INFP/永远17岁/虽然b人很多但我友好善良/单推沙月/萝莉控/猫控/喜欢一切可爱的东西/互动有概率掉落回fo",
+        "id": "1480902038884130819",
+        "location": "绝缘栅双极晶体管  调制传递函数",
+        "name": "绫玉今天吃什么🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995773937133723648/W_k6utd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 465,
+          "like_count": 37761,
+          "listed_count": 2,
+          "media_count": 963,
+          "tweet_count": 5809
+        },
+        "username": "AyatamaNya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "玩网只为博君一笑 悉尼之鼠🦘",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2018552923828240414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 488,
+          "like_count": 2407,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 569
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T11:51:39.000Z",
+        "description": "00年，mtf，在\n。。。犯病中，脑子好乱。。不知道活下去了",
+        "id": "1798684142722281473",
+        "location": "香港。。",
+        "name": "时光鸡",
+        "pinned_tweet_id": "1819651891170553990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798685588549246977/mQkHNPoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1978,
+          "like_count": 83941,
+          "listed_count": 1,
+          "media_count": 517,
+          "tweet_count": 4431
+        },
+        "username": "shiguangji2019",
+        "verified": false
+      }
+    ]
+  }
+}

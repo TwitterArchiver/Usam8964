@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823740433106915328"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1823740930958004489",
+    "created_at": "2024-08-14T15:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T16:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823740930958004489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/meiwrg6c5g",
+          "end": 98,
+          "expanded_url": "https://twitter.com/Usam8964/status/1823740930958004489/photo/1",
+          "media_key": "3_1823740433106915328",
+          "start": 75,
+          "url": "https://t.co/MEIWRg6C5g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823740930958004489",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想做合成终端——需要ME控制器，想做ME控制器——需要基片——想做基片——需要加压反应室和乙烯——想做乙烯需要生物柴油——想做生物柴油需要化学氧化机 https://t.co/MEIWRg6C5g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 927,
+        "media_key": "3_1823740433106915328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU86QuXa0AAxznG.jpg",
+        "width": 1604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823740433106915328"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1823740930958004489",
+        "created_at": "2024-08-14T15:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T16:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823740930958004489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/meiwrg6c5g",
+              "end": 98,
+              "expanded_url": "https://twitter.com/Usam8964/status/1823740930958004489/photo/1",
+              "media_key": "3_1823740433106915328",
+              "start": 75,
+              "url": "https://t.co/MEIWRg6C5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823740930958004489",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想做合成终端——需要ME控制器，想做ME控制器——需要基片——想做基片——需要加压反应室和乙烯——想做乙烯需要生物柴油——想做生物柴油需要化学氧化机 https://t.co/MEIWRg6C5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 773,
+          "like_count": 17323,
+          "listed_count": 2,
+          "tweet_count": 2527
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

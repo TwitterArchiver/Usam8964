@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2045122528079995014",
+    "created_at": "2026-04-17T14:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045142864334848237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        },
+        {
+          "end": 27,
+          "id": "1223415775278428160",
+          "start": 16,
+          "username": "sophhhsama"
+        },
+        {
+          "end": 36,
+          "id": "1835724410902265856",
+          "start": 28,
+          "username": "Xxs8964"
+        },
+        {
+          "end": 52,
+          "id": "1818731995310309376",
+          "start": 37,
+          "username": "MoLerenskyrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045142864334848237",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045122528079995014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn @sophhhsama @Xxs8964 @MoLerenskyrain 我去我的操蛋大人！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2045122478994026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG8DyKa8AAztEg.jpg",
+        "width": 599
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2045122480701067265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG8D4haUAEi2ip.jpg",
+        "width": 601
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2045122482252951552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG8D-TaMAAB4Sy.jpg",
+        "width": 593
+      },
+      {
+        "height": 2179,
+        "media_key": "3_2045121006776561664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG6uFubMAAY_tR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2045122528079995014",
+        "created_at": "2026-04-17T14:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045142864334848237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            },
+            {
+              "end": 27,
+              "id": "1223415775278428160",
+              "start": 16,
+              "username": "sophhhsama"
+            },
+            {
+              "end": 36,
+              "id": "1835724410902265856",
+              "start": 28,
+              "username": "Xxs8964"
+            },
+            {
+              "end": 52,
+              "id": "1818731995310309376",
+              "start": 37,
+              "username": "MoLerenskyrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045142864334848237",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045122528079995014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn @sophhhsama @Xxs8964 @MoLerenskyrain 我去我的操蛋大人！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045122478994026496",
+            "3_2045122480701067265",
+            "3_2045122482252951552",
+            "3_2045121006776561664"
+          ]
+        },
+        "author_id": "2014723682548224000",
+        "conversation_id": "2045122528079995014",
+        "created_at": "2026-04-17T12:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:44:52.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045121315859022008",
+          "2045122120087491045",
+          "2045122528079995014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1223415775278428160",
+              "start": 17,
+              "username": "sophhhsama"
+            },
+            {
+              "end": 38,
+              "id": "1835724410902265856",
+              "start": 30,
+              "username": "Xxs8964"
+            },
+            {
+              "end": 55,
+              "id": "1818731995310309376",
+              "start": 40,
+              "username": "MoLerenskyrain"
+            },
+            {
+              "end": 66,
+              "id": "1643490407094030338",
+              "start": 57,
+              "username": "Usam8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjXjbaVcXM",
+              "end": 90,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2045122528079995014/photo/1",
+              "media_key": "3_2045122478994026496",
+              "start": 67,
+              "url": "https://t.co/TjXjbaVcXM"
+            },
+            {
+              "display_url": "pic.x.com/TjXjbaVcXM",
+              "end": 90,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2045122528079995014/photo/1",
+              "media_key": "3_2045122480701067265",
+              "start": 67,
+              "url": "https://t.co/TjXjbaVcXM"
+            },
+            {
+              "display_url": "pic.x.com/TjXjbaVcXM",
+              "end": 90,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2045122528079995014/photo/1",
+              "media_key": "3_2045122482252951552",
+              "start": 67,
+              "url": "https://t.co/TjXjbaVcXM"
+            },
+            {
+              "display_url": "pic.x.com/TjXjbaVcXM",
+              "end": 90,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2045122528079995014/photo/1",
+              "media_key": "3_2045121006776561664",
+              "start": 67,
+              "url": "https://t.co/TjXjbaVcXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045122528079995014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋簽名（第二彈（\n受害者名單：\n@sophhhsama \n@Xxs8964 \n@MoLerenskyrain \n@usam8964 https://t.co/TjXjbaVcXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3626,
+          "following_count": 1165,
+          "like_count": 53403,
+          "listed_count": 6,
+          "media_count": 472,
+          "tweet_count": 6597
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 順女  LGBTQ全友好   查成分 藍v互關 會亂追人（？）\n彼女 @puppysub0816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "puppysub0816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/UWYWscoHis"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2027179646979334157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 690,
+          "like_count": 9467,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3287
+        },
+        "url": "https://t.co/UWYWscoHis",
+        "username": "FanQie_CaoDamn",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 331,
+          "like_count": 11956,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T16:56:48.000Z",
+        "description": "｜可以互fo ww｜08\nlgbtq友好\n小粉红fuckoff\n不要把我帖子转墙内!",
+        "id": "1835724410902265856",
+        "name": "高性能小学生之戒酒",
+        "pinned_tweet_id": "2024729265384935459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043033223580770304/MS6TYyRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 871,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1403
+        },
+        "username": "Xxs8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "@Unstable46599 @XldscX 我的两个姐姐 @Rokumi_desu 酒鬼，我喜欢你@kukukumik0 妈妈 @freequan2025 小妹妹可爱捏 @aoim33 我的老师@LazyCataww小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Unstable46599"
+              },
+              {
+                "end": 22,
+                "start": 15,
+                "username": "XldscX"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Rokumi_desu"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "kukukumik0"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "freequan2025"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "username": "aoim33"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "LazyCataww"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "天雨",
+        "pinned_tweet_id": "2034993004277375173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034993213942243328/rYl4diXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 2726,
+          "like_count": 176541,
+          "listed_count": 12,
+          "media_count": 1695,
+          "tweet_count": 33770
+        },
+        "username": "MoLerenskyrain",
+        "verified": false
+      }
+    ]
+  }
+}

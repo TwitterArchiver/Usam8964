@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1838836849621467527",
+    "created_at": "2024-09-25T19:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T20:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839022801933709633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767868938657169408",
+          "start": 0,
+          "username": "shana_yowaino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839022801933709633",
+    "in_reply_to_user_id": "1767868938657169408",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838836849621467527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shana_yowaino 红薯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1838836849621467527",
+        "created_at": "2024-09-25T19:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T20:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839022801933709633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767868938657169408",
+              "start": 0,
+              "username": "shana_yowaino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839022801933709633",
+        "in_reply_to_user_id": "1767868938657169408",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838836849621467527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shana_yowaino 红薯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838836846199214080"
+          ]
+        },
+        "author_id": "1767868938657169408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1838836849621467527",
+        "created_at": "2024-09-25T07:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T08:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838836849621467527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqt1aztmwv",
+              "end": 112,
+              "expanded_url": "https://twitter.com/shana_yowaino/status/1838836849621467527/photo/1",
+              "media_key": "3_1838836846199214080",
+              "start": 89,
+              "url": "https://t.co/Xqt1aztmWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838836849621467527",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1589,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把西药停了让我吃中药，但是中药需要忌口，不能吃酸辣，不能吃葱姜蒜调味料，不能吃肉蛋奶，老实说我想不到有什么东西可以配粥喝了连个煎蛋都不能吃，万能的推油帮我想想我可以吃什么搭白粥 https://t.co/Xqt1aztmWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 889,
+          "like_count": 25081,
+          "listed_count": 3,
+          "tweet_count": 3026
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T11:03:17.000Z",
+        "description": "シャナちゃん（家庭主妇版）出击！/萌新求互fo🥺/03可爱女孩子/infp-t/是个穷鬼（也是个酒鬼）/24.4.26小证/算是个大姐姐，欢迎来找我倾诉🥰/q2238356739/GudupaoSpark成员（销售员）欢迎各位光临我们的工作室@GudupaoSpark/\n最爱的妹妹@SAKURA09389828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "GudupaoSpark"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "SAKURA09389828"
+              }
+            ]
+          }
+        },
+        "id": "1767868938657169408",
+        "location": "1.7km",
+        "name": "shana吃不停🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1808427743899763152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803477629867315200/ummgBAba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 147,
+          "like_count": 1364,
+          "listed_count": 0,
+          "tweet_count": 1623
+        },
+        "username": "shana_yowaino",
+        "verified": false
+      }
+    ]
+  }
+}

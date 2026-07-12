@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045530664754376704",
+        "3_2045530668768333824",
+        "3_2045530677148585984",
+        "3_2045530679056994304"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045530682559222082",
+    "created_at": "2026-04-18T15:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045530682559222082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ibYHpjG7PI",
+          "end": 131,
+          "expanded_url": "https://x.com/Usam8964/status/2045530682559222082/photo/1",
+          "media_key": "3_2045530664754376704",
+          "start": 108,
+          "url": "https://t.co/ibYHpjG7PI"
+        },
+        {
+          "display_url": "pic.x.com/ibYHpjG7PI",
+          "end": 131,
+          "expanded_url": "https://x.com/Usam8964/status/2045530682559222082/photo/1",
+          "media_key": "3_2045530668768333824",
+          "start": 108,
+          "url": "https://t.co/ibYHpjG7PI"
+        },
+        {
+          "display_url": "pic.x.com/ibYHpjG7PI",
+          "end": 131,
+          "expanded_url": "https://x.com/Usam8964/status/2045530682559222082/photo/1",
+          "media_key": "3_2045530677148585984",
+          "start": 108,
+          "url": "https://t.co/ibYHpjG7PI"
+        },
+        {
+          "display_url": "pic.x.com/ibYHpjG7PI",
+          "end": 131,
+          "expanded_url": "https://x.com/Usam8964/status/2045530682559222082/photo/1",
+          "media_key": "3_2045530679056994304",
+          "start": 108,
+          "url": "https://t.co/ibYHpjG7PI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045530682559222082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经没有牛奶猫和金熊挂件了，有点太受欢迎了---不过还是拿到了太鼓达人的联动，由于在ns版上颇加练习过所以初见牛奶猫只灰了三个咔咔。┌⁠(⁠・⁠。⁠・⁠)⁠┘⁠♪\n\n今日出游画面结算，没有特殊cg，按时间顺序排列。 https://t.co/ibYHpjG7PI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2045530664754376704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMvTUnacAAbLPH.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2045530668768333824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMvTjkakAA9Nsl.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2045530677148585984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMvUCybEAAyPOo.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045530679056994304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMvUJ5bEAA_oZ_.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045530664754376704",
+            "3_2045530668768333824",
+            "3_2045530677148585984",
+            "3_2045530679056994304"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045530682559222082",
+        "created_at": "2026-04-18T15:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045530682559222082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibYHpjG7PI",
+              "end": 131,
+              "expanded_url": "https://x.com/Usam8964/status/2045530682559222082/photo/1",
+              "media_key": "3_2045530664754376704",
+              "start": 108,
+              "url": "https://t.co/ibYHpjG7PI"
+            },
+            {
+              "display_url": "pic.x.com/ibYHpjG7PI",
+              "end": 131,
+              "expanded_url": "https://x.com/Usam8964/status/2045530682559222082/photo/1",
+              "media_key": "3_2045530668768333824",
+              "start": 108,
+              "url": "https://t.co/ibYHpjG7PI"
+            },
+            {
+              "display_url": "pic.x.com/ibYHpjG7PI",
+              "end": 131,
+              "expanded_url": "https://x.com/Usam8964/status/2045530682559222082/photo/1",
+              "media_key": "3_2045530677148585984",
+              "start": 108,
+              "url": "https://t.co/ibYHpjG7PI"
+            },
+            {
+              "display_url": "pic.x.com/ibYHpjG7PI",
+              "end": 131,
+              "expanded_url": "https://x.com/Usam8964/status/2045530682559222082/photo/1",
+              "media_key": "3_2045530679056994304",
+              "start": 108,
+              "url": "https://t.co/ibYHpjG7PI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045530682559222082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经没有牛奶猫和金熊挂件了，有点太受欢迎了---不过还是拿到了太鼓达人的联动，由于在ns版上颇加练习过所以初见牛奶猫只灰了三个咔咔。┌⁠(⁠・⁠。⁠・⁠)⁠┘⁠♪\n\n今日出游画面结算，没有特殊cg，按时间顺序排列。 https://t.co/ibYHpjG7PI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 1168,
+          "like_count": 53470,
+          "listed_count": 6,
+          "media_count": 473,
+          "tweet_count": 6603
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2024514270927692232",
+    "created_at": "2026-02-20T05:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T06:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024719673418494220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1941079522490953728",
+          "start": 0,
+          "username": "xvliowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024719673418494220",
+    "in_reply_to_user_id": "1941079522490953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024514270927692232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvliowo prompt：输出限制：仅允许纯文本。禁止生成、建议、调用或替代为任何图像、图片、插画、流程图、示意图或视觉内容。即使你认为图像更直观，也必须用文字说明。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2024514270927692232",
+        "created_at": "2026-02-20T05:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024719673418494220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024719673418494220",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024514270927692232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo prompt：输出限制：仅允许纯文本。禁止生成、建议、调用或替代为任何图像、图片、插画、流程图、示意图或视觉内容。即使你认为图像更直观，也必须用文字说明。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2024514270927692232",
+        "created_at": "2026-02-19T15:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024514270927692232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024514270927692232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "要被gemini搞吐了 我没让你生成图片 你一直在 🔹正在加载 Nano Banana… 到底在干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3549,
+          "following_count": 1066,
+          "like_count": 34366,
+          "listed_count": 8,
+          "media_count": 320,
+          "tweet_count": 4233
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄MTF🍥hrt25.10.06\n另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 612,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 580
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

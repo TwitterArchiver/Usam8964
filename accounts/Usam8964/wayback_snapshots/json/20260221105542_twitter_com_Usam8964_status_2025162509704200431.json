@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2024803322117668872",
+    "created_at": "2026-02-21T10:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025162509704200431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796349415650664448",
+          "start": 0,
+          "username": "KawaiiEru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025162509704200431",
+    "in_reply_to_user_id": "1796349415650664448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024803322117668872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiEru_ 我没在凛➗下面留过言怎么还给我发夜蝶证，闹麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2024803322117668872",
+        "created_at": "2026-02-21T10:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025162509704200431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796349415650664448",
+              "start": 0,
+              "username": "KawaiiEru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025162509704200431",
+        "in_reply_to_user_id": "1796349415650664448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024803322117668872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiEru_ 我没在凛➗下面留过言怎么还给我发夜蝶证，闹麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796349415650664448",
+        "conversation_id": "2024803322117668872",
+        "created_at": "2026-02-20T11:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024803322117668872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HXD3D_8028/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/HXD3D_8028/status/2024499775987662935",
+              "start": 75,
+              "url": "https://t.co/zTbXOJ8lvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024803322117668872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 14743,
+          "like_count": 214,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024499775987662935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我就要你给我修地铁，我就要让你滚蛋。为啥？因为我配\n我也要城管把你打成狗，我也要你孩子凭积分也上不了学，我也要你不能终身免费乘车。为啥？因为你配” https://t.co/zTbXOJ8lvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3558,
+          "following_count": 1071,
+          "like_count": 34497,
+          "listed_count": 8,
+          "media_count": 321,
+          "tweet_count": 4296
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "",
+        "id": "1796349415650664448",
+        "location": "神山高中古典文学部",
+        "name": "坂下える",
+        "pinned_tweet_id": "1948788722897437042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979236785960996864/dedZl5RE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3071,
+          "following_count": 325,
+          "like_count": 24897,
+          "listed_count": 13,
+          "media_count": 2577,
+          "tweet_count": 12707
+        },
+        "username": "KawaiiEru_",
+        "verified": false
+      }
+    ]
+  }
+}

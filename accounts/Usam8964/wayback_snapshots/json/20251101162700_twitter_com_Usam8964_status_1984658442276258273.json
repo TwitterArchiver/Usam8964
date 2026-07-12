@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1984561526339170803",
+    "created_at": "2025-11-01T16:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T17:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984658442276258273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717598895549947904",
+          "start": 0,
+          "username": "Iyuru_kuroneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984658442276258273",
+    "in_reply_to_user_id": "1717598895549947904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984561526339170803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iyuru_kuroneko 苦しい🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_1984561423004155904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qUGX0bQAAOlA5.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1984561526339170803",
+        "created_at": "2025-11-01T16:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984658442276258273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717598895549947904",
+              "start": 0,
+              "username": "Iyuru_kuroneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984658442276258273",
+        "in_reply_to_user_id": "1717598895549947904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984561526339170803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iyuru_kuroneko 苦しい🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984561423004155904"
+          ]
+        },
+        "author_id": "1717598895549947904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984561526339170803",
+        "created_at": "2025-11-01T10:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984561526339170803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdfaXV3Fjt",
+              "end": 29,
+              "expanded_url": "https://x.com/Iyuru_kuroneko/status/1984561526339170803/photo/1",
+              "media_key": "3_1984561423004155904",
+              "start": 6,
+              "url": "https://t.co/FdfaXV3Fjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984561526339170803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2626,
+          "impression_count": 282804,
+          "like_count": 30482,
+          "quote_count": 54,
+          "reply_count": 18,
+          "retweet_count": 1983
+        },
+        "reply_settings": "everyone",
+        "text": "いかないで https://t.co/FdfaXV3Fjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3482,
+          "following_count": 1029,
+          "like_count": 33066,
+          "listed_count": 9,
+          "media_count": 463,
+          "tweet_count": 4090
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T17:48:08.000Z",
+        "description": "lllustration│ドット絵垢▶@Iyuru_pixelart   Skeb▶https://t.co/MgzCt6wwWB 版権🆖【停止中】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Iyuru_pixelart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Iyuru_kuroneko",
+                "end": 65,
+                "expanded_url": "https://skeb.jp/@Iyuru_kuroneko",
+                "start": 42,
+                "url": "https://t.co/MgzCt6wwWB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/iyurukuroneko",
+                "end": 23,
+                "expanded_url": "https://lit.link/iyurukuroneko",
+                "start": 0,
+                "url": "https://t.co/IXRbpAth70"
+              }
+            ]
+          }
+        },
+        "id": "1717598895549947904",
+        "name": "いゆる",
+        "pinned_tweet_id": "1862798695324098820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806657848354668544/3vRhDcwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3984,
+          "following_count": 138,
+          "like_count": 6464,
+          "listed_count": 50,
+          "media_count": 28,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/IXRbpAth70",
+        "username": "Iyuru_kuroneko",
+        "verified": false
+      }
+    ]
+  }
+}

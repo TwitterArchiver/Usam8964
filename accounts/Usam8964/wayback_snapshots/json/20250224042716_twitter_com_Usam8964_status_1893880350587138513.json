@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1893533187772686389",
+    "created_at": "2025-02-24T04:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T05:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893880350587138513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596652915959078913",
+          "start": 0,
+          "username": "nanami5513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893880350587138513",
+    "in_reply_to_user_id": "1596652915959078913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893533187772686389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami5513 吃瓜🤯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_1893533155703037955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkcuX2waoAM5YNp.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1893533155682066434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkcuX2raoAIjiwT.jpg",
+        "width": 847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1893533187772686389",
+        "created_at": "2025-02-24T04:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893880350587138513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596652915959078913",
+              "start": 0,
+              "username": "nanami5513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893880350587138513",
+        "in_reply_to_user_id": "1596652915959078913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893533187772686389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami5513 吃瓜🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893533155703037955",
+            "3_1893533155682066434"
+          ]
+        },
+        "author_id": "1596652915959078913",
+        "conversation_id": "1893533187772686389",
+        "created_at": "2025-02-23T05:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T06:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893533187772686389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0y5Zc4AU3c",
+              "end": 158,
+              "expanded_url": "https://x.com/nanami5513/status/1893533187772686389/photo/1",
+              "media_key": "3_1893533155703037955",
+              "start": 135,
+              "url": "https://t.co/0y5Zc4AU3c"
+            },
+            {
+              "display_url": "pic.x.com/0y5Zc4AU3c",
+              "end": 158,
+              "expanded_url": "https://x.com/nanami5513/status/1893533187772686389/photo/1",
+              "media_key": "3_1893533155682066434",
+              "start": 135,
+              "url": "https://t.co/0y5Zc4AU3c"
+            },
+            {
+              "display_url": "x.com/baizhouzi520/s…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/baizhouzi520/status/1893465400400334975",
+              "start": 159,
+              "url": "https://t.co/zGco4mMsad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893533187772686389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你自己都知道是炒作啊？\n\n从知道hrt就开始吃糖，吃不了几天就出柜，而在这之前完全没有gd。现在4天就完成深柜出柜家暴党家长党了？\n\n我不得不承认白粥真的很会写字，非常能煽动情绪，乍一看完全会被带进去，把事实歪曲成他想表达的，也能显得自己的状态和情绪非常糟糕远超事实\n\n但是实际上，明明是喝醉了和家里人互殴，说出来像是单方面被打；家里没有说任何要送去扭转的想法，家长报警是别人给你打走私的药物；说着只能用一个小时的手机，被关在家里，实际上从早到晚发推，还能跑出去打日雌，吃麦当劳？跟家长出柜的时候还录了音到处发，我也听了，感觉你妈都比你更想死\n\n再来往以前算，以前一叫一个的然然姐，就是被你逼到自杀的，吞药了八小时才被别人报警送医院，那个时候你在干什么？她刚出院，在抢救的时候弄的伤没好，你就要跑到东北去找她蹭吃蹭喝蹭住，好意思吗？之前叫得那么起劲现在怎么这么快姐姐就换人了？\n\n更别提在你自己的群里有人过量用药，你说没事的，然后真出事了你就直接把群散了，我们到现在都不知道ta怎么样了，一点责任感都没有\n\n白粥24年11月注册的账号，注册没几天就吞药了，吞了点啥？8片快克（感冒药），半个小时就去医院了，不知道的还以为洗胃很好玩。你再看看你自己的病例，看起来跟闹着玩一样，最后就给了个焦虑状态的诊断，还拒绝吃药（对外宣称妈妈不让吃），你是真有病假有病，要是真有病还不吃药？不复诊？接着就光速休学了，很难不让人怀疑就是为了休学才去搞的病例（病例照片的水印是12月2日）\n\n现在马上就要变成家长党了，开心吗？\n\n装可怜博同情好玩吗？\n\n社群的关心和资源就是这样用来浪费的吗？\n\n炒作够了吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 32863,
+          "like_count": 187,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893465400400334975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你自己都知道是炒作啊？\n\n从知道hrt就开始吃糖，吃不了几天就出柜，而在这之前完全没有gd。现在4天就完成深柜出柜家暴党家长党了？\n\n我不得不承认白粥真的很会写字，非常能煽动情绪，乍一看完全会被带进去，把事实歪曲成他想表达的，也能显得自己的状态和情绪非常糟糕远超事实… https://t.co/0y5Zc4AU3c https://t.co/zGco4mMsad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 1013,
+          "like_count": 31693,
+          "listed_count": 6,
+          "media_count": 429,
+          "tweet_count": 3671
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T23:51:38.000Z",
+        "description": "是主人的猫猫～mcew～ /ixxx(混沌)/05年MtF/大证/天残家长吓坏党/HRT 2024.9.9/七海最喜欢的/最爱最爱的/独占的/要一直陪七海的/对象/主人@mcew_233 /捞七海回来的人@miya051223 /然然@shenyuebanran /C&P在读/以后可能考408（大一试图跑路中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "mcew_233"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "miya051223"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "shenyuebanran"
+              }
+            ]
+          }
+        },
+        "id": "1596652915959078913",
+        "location": "主人衣服里",
+        "name": "四悸🍥",
+        "pinned_tweet_id": "1877875953948414387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832845344121712640/7e-GXeYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 349,
+          "like_count": 6440,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 1691
+        },
+        "username": "nanami5513",
+        "verified": true
+      }
+    ]
+  }
+}

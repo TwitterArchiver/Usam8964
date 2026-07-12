@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1955535568202567812",
+    "created_at": "2025-08-13T13:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T14:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955620496596521053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955620496596521053",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955535568202567812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 发型很可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1955535565367156736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyN1PF9aIAAySbf.jpg",
+        "width": 1617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1955535568202567812",
+        "created_at": "2025-08-13T13:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955620496596521053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955620496596521053",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955535568202567812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 发型很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955535565367156736"
+          ]
+        },
+        "author_id": "1668037836996771840",
+        "conversation_id": "1955535568202567812",
+        "created_at": "2025-08-13T07:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955535568202567812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvbSgukriR",
+              "end": 39,
+              "expanded_url": "https://x.com/cha_li_jin/status/1955535568202567812/photo/1",
+              "media_key": "3_1955535565367156736",
+              "start": 16,
+              "url": "https://t.co/KvbSgukriR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955535568202567812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 832,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是发这张吧，创造力枯竭了已经 https://t.co/KvbSgukriR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 1033,
+          "like_count": 33484,
+          "listed_count": 9,
+          "media_count": 458,
+          "tweet_count": 3979
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "阴湿开朗系长发男，人类观测日记，逃避现实树洞，亲密关系回避型，我发癫请别当真，梦想成为技术全能型丨个人照片请戳“媒体”丨常驻广州，网安在读丨最爱的： @heinai6丨一切与敏感色图相关的会逐步移植到 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "heinai6"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "username": "tashigan_"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "距你114m",
+        "name": "天才少女察里津",
+        "pinned_tweet_id": "1940983556492435942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937802250342322176/YVx9onB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3857,
+          "following_count": 731,
+          "like_count": 8705,
+          "listed_count": 11,
+          "media_count": 195,
+          "tweet_count": 1575
+        },
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

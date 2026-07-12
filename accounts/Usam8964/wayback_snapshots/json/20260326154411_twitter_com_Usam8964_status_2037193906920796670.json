@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2037163312748847240",
+    "created_at": "2026-03-26T15:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037193906920796670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766084836572172288",
+          "start": 0,
+          "username": "Smertkakput12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037193906920796670",
+    "in_reply_to_user_id": "1766084836572172288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037163312748847240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smertkakput12 デ・ビルっぽいな"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037163259552555012",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV1MPMbYAQdDdS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037163259581915136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV1MPTbYAAFhmN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2037163312748847240",
+        "created_at": "2026-03-26T15:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037193906920796670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766084836572172288",
+              "start": 0,
+              "username": "Smertkakput12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037193906920796670",
+        "in_reply_to_user_id": "1766084836572172288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037163312748847240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smertkakput12 デ・ビルっぽいな"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037163259552555012",
+            "3_2037163259581915136"
+          ]
+        },
+        "author_id": "1766084836572172288",
+        "conversation_id": "2037163312748847240",
+        "created_at": "2026-03-26T13:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037163312748847240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vW0wm7uzAU",
+              "end": 26,
+              "expanded_url": "https://x.com/Smertkakput12/status/2037163312748847240/photo/1",
+              "media_key": "3_2037163259552555012",
+              "start": 3,
+              "url": "https://t.co/vW0wm7uzAU"
+            },
+            {
+              "display_url": "pic.x.com/vW0wm7uzAU",
+              "end": 26,
+              "expanded_url": "https://x.com/Smertkakput12/status/2037163312748847240/photo/1",
+              "media_key": "3_2037163259581915136",
+              "start": 3,
+              "url": "https://t.co/vW0wm7uzAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037163312748847240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☠️ https://t.co/vW0wm7uzAU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 1143,
+          "like_count": 45219,
+          "listed_count": 9,
+          "media_count": 436,
+          "tweet_count": 5784
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T12:53:44.000Z",
+        "description": "林鴿｜mha gbc oc｜18歲休學中…在更新負能血圖貓狗自拍和女友姐日常、想互fo我就會直接關注🥺拒绝拒绝男的/建政，没有回的请私信我回fo！",
+        "id": "1766084836572172288",
+        "name": "活到冇瘾TTttt（互fo版",
+        "pinned_tweet_id": "2027639613045739521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029163126839754752/qrVxto-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 669,
+          "like_count": 1248,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1015
+        },
+        "username": "Smertkakput12",
+        "verified": false
+      }
+    ]
+  }
+}

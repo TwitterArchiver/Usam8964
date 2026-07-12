@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1916388241818952082",
+    "created_at": "2025-04-28T09:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T10:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916791974029656431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "995268939994165248",
+          "start": 0,
+          "username": "KaguraAiri_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916791974029656431",
+    "in_reply_to_user_id": "995268939994165248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916388241818952082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraAiri_QWQ 好有实力！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916388221338193921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gphg7xCbEAEFdO1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1916388241818952082",
+        "created_at": "2025-04-28T09:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T10:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916791974029656431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "995268939994165248",
+              "start": 0,
+              "username": "KaguraAiri_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916791974029656431",
+        "in_reply_to_user_id": "995268939994165248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916388241818952082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraAiri_QWQ 好有实力！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916388221338193921"
+          ]
+        },
+        "author_id": "995268939994165248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1916388241818952082",
+        "created_at": "2025-04-27T07:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T08:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916388241818952082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NX9lVre3Jx",
+              "end": 61,
+              "expanded_url": "https://x.com/KaguraAiri_QWQ/status/1916388241818952082/photo/1",
+              "media_key": "3_1916388221338193921",
+              "start": 38,
+              "url": "https://t.co/NX9lVre3Jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916388241818952082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了新电脑\n旧电脑cpu挂掉了，凑合用了一周多，彻底坏掉了…\n只能买新的了 https://t.co/NX9lVre3Jx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2818,
+          "following_count": 1035,
+          "like_count": 32934,
+          "listed_count": 7,
+          "media_count": 439,
+          "tweet_count": 3781
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T11:46:21.000Z",
+        "description": "想和大家做朋友!/一只有点不太像INFJ的INFJ-T猫猫/全国乱跑/过期(?)jk/我是你的赛博小猫罐头",
+        "id": "995268939994165248",
+        "location": "Far away from stars",
+        "name": "神楽愛理🍥",
+        "pinned_tweet_id": "1813057468626530802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829025477136396289/dpVRfuzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 377,
+          "like_count": 5991,
+          "listed_count": 3,
+          "media_count": 467,
+          "tweet_count": 2374
+        },
+        "username": "KaguraAiri_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2026257178181693946",
+    "created_at": "2026-02-24T12:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026267261527539901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711065980959698944",
+          "start": 0,
+          "username": "gngcichfny25600"
+        },
+        {
+          "end": 29,
+          "id": "1977747770044973056",
+          "start": 17,
+          "username": "Mao20105Zhi"
+        },
+        {
+          "end": 43,
+          "id": "2026174483082645504",
+          "start": 30,
+          "username": "Ning9303Meng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026267261527539901",
+    "in_reply_to_user_id": "1711065980959698944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026257178181693946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gngcichfny25600 @Mao20105Zhi @Ning9303Meng 绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026257170766127104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB62KUcaYAAU8sQ.jpg",
+        "width": 187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2026257178181693946",
+        "created_at": "2026-02-24T12:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026267261527539901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711065980959698944",
+              "start": 0,
+              "username": "gngcichfny25600"
+            },
+            {
+              "end": 29,
+              "id": "1977747770044973056",
+              "start": 17,
+              "username": "Mao20105Zhi"
+            },
+            {
+              "end": 43,
+              "id": "2026174483082645504",
+              "start": 30,
+              "username": "Ning9303Meng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026267261527539901",
+        "in_reply_to_user_id": "1711065980959698944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026257178181693946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gngcichfny25600 @Mao20105Zhi @Ning9303Meng 绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026257170766127104"
+          ]
+        },
+        "author_id": "1711065980959698944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026257178181693946",
+        "created_at": "2026-02-24T11:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026257178181693946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1977747770044973056",
+              "start": 0,
+              "username": "Mao20105Zhi"
+            },
+            {
+              "end": 26,
+              "id": "2026174483082645504",
+              "start": 13,
+              "username": "Ning9303Meng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OiuZWe2e7V",
+              "end": 103,
+              "expanded_url": "https://x.com/gngcichfny25600/status/2026257178181693946/photo/1",
+              "media_key": "3_2026257170766127104",
+              "start": 80,
+              "url": "https://t.co/OiuZWe2e7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026257178181693946",
+        "in_reply_to_user_id": "1977747770044973056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Mao20105Zhi @Ning9303Meng 一对奇怪的*皮下男团队*存疑。话说怎么还不拉黑我，就这么喜欢拖延吗。给大家分享一下吧，我觉得挺有意思的。 https://t.co/OiuZWe2e7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3566,
+          "following_count": 1063,
+          "like_count": 34831,
+          "listed_count": 8,
+          "media_count": 329,
+          "tweet_count": 4373
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T17:08:37.000Z",
+        "description": "被分割开的天空 潮湿不堪的水泥地 零散的垃圾 不合时宜的雨\n在无人理会的地方，我死去了。",
+        "id": "1711065980959698944",
+        "location": "距离你1.8公里",
+        "name": "在无人理会的地方我死去了（互fo",
+        "pinned_tweet_id": "2025225294710522174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016158814202990593/OOhHmG_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 1555,
+          "like_count": 8528,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 2204
+        },
+        "username": "gngcichfny25600",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T14:46:50.000Z",
+        "description": "哈喽！我是喵喵 08 年小萝莉一枚 🚪52 正常聊天 100 送全套加一个萌萌的我！入了你就是我爸爸 嘿嘿 闺蜜小柠檬🍋：@ning9303meng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "ning9303meng"
+              }
+            ]
+          }
+        },
+        "id": "1977747770044973056",
+        "location": "Tokyo-to, Japan",
+        "name": "猫之（求入🚪）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024190633255297024/lhx41u02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 55,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 96
+        },
+        "username": "Mao20105Zhi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T05:57:11.000Z",
+        "description": "哥哥好呀嘿嘿，我是柠柠，一只08年小萝莉，性瘾小m，🚪52/解锁甜蜜聊天🚪102/全套图包视频，可以连麦或视频一次，内容无限制❤🚪520/你就是我永远的爸爸啦，小狗爱你，可线下，线上每天都可以视频❤❤❤。入了🚪都是我的好爸爸。",
+        "id": "2026174483082645504",
+        "name": "小柠檬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026174685046779904/t_CJZxgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "Ning9303Meng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1843663983053812221",
+    "created_at": "2024-10-08T15:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T16:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843681267449258091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1527308255927492609",
+          "start": 0,
+          "username": "love1027w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843681267449258091",
+    "in_reply_to_user_id": "1527308255927492609",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843663983053812221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love1027w 师出同门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1843663983053812221",
+        "created_at": "2024-10-08T15:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T16:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843681267449258091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1527308255927492609",
+              "start": 0,
+              "username": "love1027w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843681267449258091",
+        "in_reply_to_user_id": "1527308255927492609",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843663983053812221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love1027w 师出同门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527308255927492609",
+        "conversation_id": "1843663983053812221",
+        "created_at": "2024-10-08T14:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T15:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843663983053812221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843663983053812221",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然发现霸王茶姬的logo长的好像国潮来袭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 909,
+          "like_count": 25748,
+          "listed_count": 4,
+          "tweet_count": 3129
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "⚠️‼️无敏感血图/OD/负能量/阴毛，注意避雷，善用屏蔽，谨慎关注，被误b可联系@Yuzumi0211 ⚠️NSFW 🏳️‍⚧️Non-binary（they/he/she）🌈pan | grey-aro #shtwt #od",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 104,
+                "tag": "shtwt"
+              },
+              {
+                "end": 114,
+                "start": 111,
+                "tag": "od"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Yuzumi0211"
+              }
+            ]
+          }
+        },
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1843579952266129437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765012568337432576/CKVTZuPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11527,
+          "following_count": 468,
+          "like_count": 39499,
+          "listed_count": 15,
+          "tweet_count": 21918
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

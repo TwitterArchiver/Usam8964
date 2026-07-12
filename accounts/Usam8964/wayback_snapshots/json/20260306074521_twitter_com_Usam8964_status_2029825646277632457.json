@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2029825646277632457",
+    "created_at": "2026-03-06T07:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029825646277632457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643490407094030338",
+          "start": 3,
+          "username": "Usam8964"
+        },
+        {
+          "end": 30,
+          "id": "1845424166264336385",
+          "start": 14,
+          "username": "dreamunader1982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029825646277632457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029825609510347095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Usam8964: @dreamunader1982 傻逼营销号从小丧父没得到过父爱导致在地铁上气急败坏但又碍于自己太弱智窝囊怕被这位父亲一拳打在肚子上揍出了因为阴暗自闭而便秘憋了一个月的屎不得不偷偷录下视频发到网上狠狠蛐蛐以解自己无父之痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029825646277632457",
+        "created_at": "2026-03-06T07:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029825646277632457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643490407094030338",
+              "start": 3,
+              "username": "Usam8964"
+            },
+            {
+              "end": 30,
+              "id": "1845424166264336385",
+              "start": 14,
+              "username": "dreamunader1982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029825646277632457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029825609510347095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Usam8964: @dreamunader1982 傻逼营销号从小丧父没得到过父爱导致在地铁上气急败坏但又碍于自己太弱智窝囊怕被这位父亲一拳打在肚子上揍出了因为阴暗自闭而便秘憋了一个月的屎不得不偷偷录下视频发到网上狠狠蛐蛐以解自己无父之痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029372425927045550",
+        "created_at": "2026-03-06T07:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029825609510347095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845424166264336385",
+              "start": 0,
+              "username": "dreamunader1982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029825609510347095",
+        "in_reply_to_user_id": "1845424166264336385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029372425927045550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamunader1982 傻逼营销号从小丧父没得到过父爱导致在地铁上气急败坏但又碍于自己太弱智窝囊怕被这位父亲一拳打在肚子上揍出了因为阴暗自闭而便秘憋了一个月的屎不得不偷偷录下视频发到网上狠狠蛐蛐以解自己无父之痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3577,
+          "following_count": 1067,
+          "like_count": 35592,
+          "listed_count": 8,
+          "media_count": 342,
+          "tweet_count": 4462
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T11:19:51.000Z",
+        "description": "忘れたくない黒歴史を投稿します。情報はDMまで📩",
+        "id": "1845424166264336385",
+        "name": "忘れたくない黒歴史bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022145341051772928/bYvDSmOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5785,
+          "following_count": 1583,
+          "like_count": 3,
+          "listed_count": 7,
+          "media_count": 158,
+          "tweet_count": 750
+        },
+        "username": "dreamunader1982",
+        "verified": true
+      }
+    ]
+  }
+}

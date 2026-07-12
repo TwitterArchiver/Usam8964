@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050616173717504000"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2050616176703918149",
+    "created_at": "2026-05-02T16:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050616176703918149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t70t77Xc3r",
+          "end": 28,
+          "expanded_url": "https://x.com/Usam8964/status/2050616176703918149/photo/1",
+          "media_key": "3_2050616173717504000",
+          "start": 5,
+          "url": "https://t.co/t70t77Xc3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050616176703918149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人出镜 https://t.co/t70t77Xc3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2050616173717504000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVAi50aQAAWzib.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050616173717504000"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2050616176703918149",
+        "created_at": "2026-05-02T16:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050616176703918149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t70t77Xc3r",
+              "end": 28,
+              "expanded_url": "https://x.com/Usam8964/status/2050616176703918149/photo/1",
+              "media_key": "3_2050616173717504000",
+              "start": 5,
+              "url": "https://t.co/t70t77Xc3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050616176703918149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人出镜 https://t.co/t70t77Xc3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3698,
+          "following_count": 1197,
+          "like_count": 55633,
+          "listed_count": 6,
+          "media_count": 490,
+          "tweet_count": 6807
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

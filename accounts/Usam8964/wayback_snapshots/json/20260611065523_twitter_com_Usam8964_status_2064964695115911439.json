@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2064950910355464250",
+    "created_at": "2026-06-11T06:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064964695115911439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1437724402293018625",
+          "start": 0,
+          "username": "2Pikus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064964695115911439",
+    "in_reply_to_user_id": "1437724402293018625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064950910355464250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Pikus 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2064950910355464250",
+        "created_at": "2026-06-11T06:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064964695115911439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1437724402293018625",
+              "start": 0,
+              "username": "2Pikus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064964695115911439",
+        "in_reply_to_user_id": "1437724402293018625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064950910355464250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Pikus 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437724402293018625",
+        "conversation_id": "2064950910355464250",
+        "created_at": "2026-06-11T06:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064950910355464250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064950910355464250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "账号终于解封了。。猫妈妈叫我补下抽奖活动🤤\n🐈。。。。。\n一等奖🐱所有产品任选一个包邮\n二等奖🐱是霜尘买1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖🤩转关评喵！🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "location": "RenkoUsami8964@proton.me",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3824,
+          "following_count": 1282,
+          "like_count": 65785,
+          "listed_count": 6,
+          "media_count": 538,
+          "tweet_count": 7623
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T10:26:35.000Z",
+        "description": "这里只有一条棉签...【寻回互fo】\n幽灵ban的僵尸。不卖药，不吸毒\n此号不接收私信请找@BhawnaniSamit\n平等溺爱所有猫咪🐱\n双生子@BhawnaniSamit💊\n猫零食tg：@LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "BhawnaniSamit"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "BhawnaniSamit"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "LIhua1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/LSeSQhkVT5"
+              }
+            ]
+          }
+        },
+        "id": "1437724402293018625",
+        "location": "猫粮→",
+        "name": "vivie（此号不接收私信请找@BhawnaniSamit）",
+        "pinned_tweet_id": "2064957272087011467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064324176748695552/Avikgr1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 47,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/LSeSQhkVT5",
+        "username": "2Pikus",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1827715808317100323",
+    "created_at": "2024-08-25T15:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T16:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827728755030462488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1691334965458604032",
+          "start": 0,
+          "username": "siyan_xiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827728755030462488",
+    "in_reply_to_user_id": "1691334965458604032",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827715808317100323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siyan_xiao 姐姐好漂酿！！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1827715808317100323].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1827715808317100323",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1827715808317100323"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1827715808317100323",
+        "created_at": "2024-08-25T15:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T16:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827728755030462488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1691334965458604032",
+              "start": 0,
+              "username": "siyan_xiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827728755030462488",
+        "in_reply_to_user_id": "1691334965458604032",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827715808317100323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyan_xiao 姐姐好漂酿！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 797,
+          "like_count": 20724,
+          "listed_count": 2,
+          "tweet_count": 2683
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T06:24:34.000Z",
+        "description": "ENTJ｜Undergrad in UOE｜Trans Female 🏳️‍⚧️｜无性恋｜果粉 ｜Citywalk 爱好者｜《冰与火之歌》及其相关系列的爱好者｜UMA和灵异事件爱好者｜是只可爱的海豹宝宝，咱的豹妈妈：@amegumi666｜分享些日常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "amegumi666"
+              }
+            ]
+          }
+        },
+        "id": "1691334965458604032",
+        "location": "Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇬🇧",
+        "name": "思言",
+        "pinned_tweet_id": "1823248918236557792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795740402592743424/aS5D5tGy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 1271,
+          "like_count": 22331,
+          "listed_count": 3,
+          "tweet_count": 6675
+        },
+        "username": "siyan_xiao",
+        "verified": false
+      }
+    ]
+  }
+}

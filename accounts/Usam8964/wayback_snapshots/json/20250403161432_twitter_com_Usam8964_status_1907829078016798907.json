@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1907744038150619433",
+    "created_at": "2025-04-03T16:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T17:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907829078016798907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907829078016798907",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907744038150619433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_7593 有这样的朋友我只会羡慕（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_1907744035097432064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnmrF55aUAATxNN.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1907744038150619433",
+        "created_at": "2025-04-03T16:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T17:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907829078016798907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907829078016798907",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907744038150619433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 有这样的朋友我只会羡慕（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907744035097432064"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "conversation_id": "1907744038150619433",
+        "created_at": "2025-04-03T10:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T11:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907744038150619433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7THdZeVpb",
+              "end": 95,
+              "expanded_url": "https://x.com/Cypress_7593/status/1907744038150619433/photo/1",
+              "media_key": "3_1907744035097432064",
+              "start": 72,
+              "url": "https://t.co/r7THdZeVpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907744038150619433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我这个同学真的社牛，我好长时间没去学校也没当我死了，朋友那么多还记得给我发消息，我是该感动呢还是该尴尬呢……主要是我不知道怎么回啊，有点🥲🥲 https://t.co/r7THdZeVpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 1028,
+          "like_count": 32299,
+          "listed_count": 7,
+          "media_count": 436,
+          "tweet_count": 3759
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "你好我是柏树|号被炸了无数个了|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性障碍&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性别&无性恋，双性浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "theDarkCypress"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "pinned_tweet_id": "1905961517897728452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 423,
+          "like_count": 3806,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1257
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

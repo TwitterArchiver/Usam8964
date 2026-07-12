@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858477668834148353",
+        "3_1858477668406370306",
+        "3_1858477668892880896",
+        "3_1858477669270405120"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1858477672554479853",
+    "created_at": "2024-11-18T11:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T12:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858477672554479853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbrR7O3qnS",
+          "end": 46,
+          "expanded_url": "https://x.com/Usam8964/status/1858477672554479853/photo/1",
+          "media_key": "3_1858477668834148353",
+          "start": 23,
+          "url": "https://t.co/TbrR7O3qnS"
+        },
+        {
+          "display_url": "pic.x.com/TbrR7O3qnS",
+          "end": 46,
+          "expanded_url": "https://x.com/Usam8964/status/1858477672554479853/photo/1",
+          "media_key": "3_1858477668406370306",
+          "start": 23,
+          "url": "https://t.co/TbrR7O3qnS"
+        },
+        {
+          "display_url": "pic.x.com/TbrR7O3qnS",
+          "end": 46,
+          "expanded_url": "https://x.com/Usam8964/status/1858477672554479853/photo/1",
+          "media_key": "3_1858477668892880896",
+          "start": 23,
+          "url": "https://t.co/TbrR7O3qnS"
+        },
+        {
+          "display_url": "pic.x.com/TbrR7O3qnS",
+          "end": 46,
+          "expanded_url": "https://x.com/Usam8964/status/1858477672554479853/photo/1",
+          "media_key": "3_1858477669270405120",
+          "start": 23,
+          "url": "https://t.co/TbrR7O3qnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858477672554479853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "达美乐with@KaguraAiri_QWQ https://t.co/TbrR7O3qnS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1858477668834148353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcqjl9nbAAE_uP5.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1858477668406370306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcqjl8BboAI1bGF.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1858477668892880896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcqjl91bMAABNmG.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1858477669270405120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcqjl_PbwAAyI5b.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858477668834148353",
+            "3_1858477668406370306",
+            "3_1858477668892880896",
+            "3_1858477669270405120"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1858477672554479853",
+        "created_at": "2024-11-18T11:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T12:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858477672554479853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbrR7O3qnS",
+              "end": 46,
+              "expanded_url": "https://x.com/Usam8964/status/1858477672554479853/photo/1",
+              "media_key": "3_1858477668834148353",
+              "start": 23,
+              "url": "https://t.co/TbrR7O3qnS"
+            },
+            {
+              "display_url": "pic.x.com/TbrR7O3qnS",
+              "end": 46,
+              "expanded_url": "https://x.com/Usam8964/status/1858477672554479853/photo/1",
+              "media_key": "3_1858477668406370306",
+              "start": 23,
+              "url": "https://t.co/TbrR7O3qnS"
+            },
+            {
+              "display_url": "pic.x.com/TbrR7O3qnS",
+              "end": 46,
+              "expanded_url": "https://x.com/Usam8964/status/1858477672554479853/photo/1",
+              "media_key": "3_1858477668892880896",
+              "start": 23,
+              "url": "https://t.co/TbrR7O3qnS"
+            },
+            {
+              "display_url": "pic.x.com/TbrR7O3qnS",
+              "end": 46,
+              "expanded_url": "https://x.com/Usam8964/status/1858477672554479853/photo/1",
+              "media_key": "3_1858477669270405120",
+              "start": 23,
+              "url": "https://t.co/TbrR7O3qnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858477672554479853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "达美乐with@KaguraAiri_QWQ https://t.co/TbrR7O3qnS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 962,
+          "like_count": 28987,
+          "listed_count": 4,
+          "tweet_count": 3491
+        },
+        "username": "Usam8964",
+        "verified": true
+      }
+    ]
+  }
+}

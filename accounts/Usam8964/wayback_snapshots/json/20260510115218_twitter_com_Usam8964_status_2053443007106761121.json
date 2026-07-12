@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2053362994202222650",
+    "created_at": "2026-05-10T11:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053443007106761121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930348223283290112",
+          "start": 0,
+          "username": "nvn0207"
+        },
+        {
+          "end": 24,
+          "id": "2043952988557803520",
+          "start": 9,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053443007106761121",
+    "in_reply_to_user_id": "1930348223283290112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053442440707928075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvn0207 @tngxngxng13171 我手上白色红色的都有，白色瘢痕最早能追溯到我高中，感觉我的左臂已经变得敏感了，我用牙签划都有红印。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2053362994202222650",
+        "created_at": "2026-05-10T11:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053443007106761121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930348223283290112",
+              "start": 0,
+              "username": "nvn0207"
+            },
+            {
+              "end": 24,
+              "id": "2043952988557803520",
+              "start": 9,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053443007106761121",
+        "in_reply_to_user_id": "1930348223283290112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053442440707928075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvn0207 @tngxngxng13171 我手上白色红色的都有，白色瘢痕最早能追溯到我高中，感觉我的左臂已经变得敏感了，我用牙签划都有红印。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930348223283290112",
+        "conversation_id": "2053362994202222650",
+        "created_at": "2026-05-10T11:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053442440707928075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 25,
+              "id": "2043952988557803520",
+              "start": 10,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053442440707928075",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053375131922440220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @tngxngxng13171 不后悔自残只后悔有几次割太深就下白色的裂缝疤呃呃呃。。。不但影响我之后工作什么的还老有傻逼看到了还要来问“哎呀你的手怎么了呀”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 1220,
+          "like_count": 57852,
+          "listed_count": 6,
+          "media_count": 504,
+          "tweet_count": 7040
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T19:38:22.000Z",
+        "description": "05女170cm55kg/istp天秤/有对象/无不良嗜好/重焦不郁/睡眠障碍/托鲁地文拉80mg,阿普唑仑0.4mg,po,qd/不爱说话/不od不自残不吸烟不饮酒/备考28研学英语ing/",
+        "id": "1930348223283290112",
+        "location": "自习室",
+        "name": "雨滴落",
+        "pinned_tweet_id": "1943251086288261565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052373551513284608/SOv4MC5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 87,
+          "like_count": 2014,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 113
+        },
+        "username": "nvn0207",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "互联网的堕天使/白骑士综合征/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念@AAAAAMTxT /❤️@ayameeii/互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "ayameeii"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "星雫瑞星",
+        "pinned_tweet_id": "2049221796327838000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 174,
+          "like_count": 2679,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 329
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

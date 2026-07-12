@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2019110994098975128",
+    "created_at": "2026-02-04T18:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T19:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019110994098975128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916817753635426304",
+          "start": 3,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019110994098975128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018724520887210392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goldwater8964: 【膜爱+膜春】爱德华的随波逐流（2026春诞祭单品）「人力VOCALOID」\n“原曲来自薄熙来的随波逐流，此为三次创作，本人不od，一切素材和梗取自网络”\n稳坐在红船中央\n但却毫不慌张\nodwiki的爆破\n不过虚惊一场\n手术灯下我再回忆起那…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2019110994098975128",
+        "created_at": "2026-02-04T18:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019110994098975128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916817753635426304",
+              "start": 3,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019110994098975128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018724520887210392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goldwater8964: 【膜爱+膜春】爱德华的随波逐流（2026春诞祭单品）「人力VOCALOID」\n“原曲来自薄熙来的随波逐流，此为三次创作，本人不od，一切素材和梗取自网络”\n稳坐在红船中央\n但却毫不慌张\nodwiki的爆破\n不过虚惊一场\n手术灯下我再回忆起那…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916817753635426304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2018724520887210392",
+        "created_at": "2026-02-03T16:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018724520887210392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Goldwater8964/…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/Goldwater8964/status/2018357899827818722",
+              "start": 149,
+              "url": "https://t.co/y119srlhyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018724520887210392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【膜爱+膜春】爱德华的随波逐流（2026春诞祭单品）「人力VOCALOID」\n“原曲来自薄熙来的随波逐流，此为三次创作，本人不od，一切素材和梗取自网络”\n稳坐在红船中央\n但却毫不慌张\nodwiki的爆破\n不过虚惊一场\n手术灯下我再回忆起那峥嵘时光\n恍惚间，又看见，曾经的犬儒万丈（爱德华举普瑞）\n十年间努力摆烂做个做题小将（背景中国高中）\n却不想进入推特学习玩网一场\n听床师傅不吝当小博主 默默无闻\n谁知晓 今发家一方\n人生命运难测 推特风云让人难以把握（北京春风鼓掌）\n不可捉摸\n看我小小资历\n一步步如何\n变成那豪迈od王\n阿片一争高下（爱德华镜音握手）\n我就是\n南 湖 之 虎 爱 德 华（爱德华举国旗）\n小 三 女 友 镜 老 音（镜音被皮带抽）\n来自广西豪迈老哥春风侍卫长（剧烈变形）\n嘉兴南湖当市长\n维基科里做部长\n中推特里叱咤风云霸一方\n我就要 和那阿片争高下 不向鸡哥让寸分\n打后除鸡让那吴语万里山河唱\n一派护眼斥作者（他当年在space因为我支持澳洲禁毒骂我）\n横眉冷对后藤哥（高原战争）\n大刀阔斧编写向前做市长\n手术灯下闭目养神\n思考人生理想\n曾和你的推友（我）毕竟网友一场\n一步步登上那网络巅峰 走进千fo\n再回首 依然是 仍不忘 豪迈万丈\n正主小三大战却非 我的本意\n南湖船通红映衬我心得意\n却不料 和镜音家里传来 惊天消息\n春风哥 想要测试至边疆\n网海潮起又潮落 流量浮沉 又几经波折\n再遇困惑\n悼念之声回荡 往日荣光不在\n前途又在何方\n寸分不向后藤让！\n我就是南湖之虎爱德华\n维基之父他鸡哥\n南湖高级三甲院的院长爱德华\n有人去世 我背锅\nod无罪我有过\n打后除鸡 大步向前 却惹祸\n我就要\n阿片抑制一起O\n玩网皇帝当市长\n贯彻落实就要扩散\n绝不经商\n玩网炒作不失败\n网右作者搞下台\n送了 救了 死了\n依然精神！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018357899827818722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【膜爱+膜春】爱德华的随波逐流（2026春诞祭单品）「人力VOCALOID」\n“原曲来自薄熙来的随波逐流，此为三次创作，本人不od，一切素材和梗取自网络”\n稳坐在红船中央\n但却毫不慌张\nodwiki的爆破\n不过虚惊一场\n手术灯下我再回忆起那峥嵘时光\n恍惚间，又看见，曾经的犬儒万丈（爱德华举普瑞） https://t.co/y119srlhyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 1018,
+          "like_count": 32549,
+          "listed_count": 8,
+          "media_count": 471,
+          "tweet_count": 4138
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "玩网只为博君一笑 MTF🏳️‍⚧️ od💊 悉尼之虎🦘",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2018552923828240414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 425,
+          "like_count": 2277,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 476
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

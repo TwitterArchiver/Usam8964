@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1935594950999052769",
+    "created_at": "2025-06-19T09:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T10:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935624645061054473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1568791831978323969",
+          "start": 0,
+          "username": "maopao_hfqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935624645061054473",
+    "in_reply_to_user_id": "1568791831978323969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935594950999052769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maopao_hfqy 从事爱尔兰到契丹......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_1935594948960661504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtydWdHXMAAvM6v.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1935594950999052769",
+        "created_at": "2025-06-19T09:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T10:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935624645061054473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1568791831978323969",
+              "start": 0,
+              "username": "maopao_hfqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935624645061054473",
+        "in_reply_to_user_id": "1568791831978323969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935594950999052769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maopao_hfqy 从事爱尔兰到契丹......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935594948960661504"
+          ]
+        },
+        "author_id": "1568791831978323969",
+        "conversation_id": "1935594950999052769",
+        "created_at": "2025-06-19T07:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T08:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935594950999052769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEGUuRIKNk",
+              "end": 55,
+              "expanded_url": "https://x.com/maopao_hfqy/status/1935594950999052769/photo/1",
+              "media_key": "3_1935594948960661504",
+              "start": 32,
+              "url": "https://t.co/lEGUuRIKNk"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3797791ff9c0e4c6"
+        },
+        "id": "1935594950999052769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就考期末考了，大半夜的在和也没睡觉的老师有一搭没一搭的聊天 https://t.co/lEGUuRIKNk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2947,
+          "following_count": 1034,
+          "like_count": 33574,
+          "listed_count": 8,
+          "media_count": 447,
+          "tweet_count": 3848
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T02:41:43.000Z",
+        "description": "豹豹泥好呀, 我素东野奈兔, 我来扩列了, INFP 雁三次南, 蝻勿扰,有玉玉症 空间会有负能和雪兔, 平时看蕾厕评蕾厕 雷:原神,贴吧,建人\n（呃啊。。。我只是在语c不要当真啊啊啊）😌🫰🏻 @sai1136527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "sai1136527"
+              }
+            ]
+          }
+        },
+        "id": "1568791831978323969",
+        "location": "Toronto, Ontario",
+        "name": "东野奈兔",
+        "pinned_tweet_id": "1841149386270584968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806535551035609088/eDccGaZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10250,
+          "following_count": 1378,
+          "like_count": 40998,
+          "listed_count": 25,
+          "media_count": 1744,
+          "tweet_count": 9079
+        },
+        "username": "maopao_hfqy",
+        "verified": false
+      }
+    ]
+  }
+}

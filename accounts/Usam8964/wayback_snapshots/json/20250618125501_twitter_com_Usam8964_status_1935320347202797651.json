@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1935166032446095838",
+    "created_at": "2025-06-18T12:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T13:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935320347202797651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935320347202797651",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935166032446095838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_7593 1或2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1935166029677871106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtsXQERaQAIVzK4.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1935166032446095838",
+        "created_at": "2025-06-18T12:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T13:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935320347202797651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935320347202797651",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935166032446095838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 1或2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935166029677871106"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "conversation_id": "1935166032446095838",
+        "created_at": "2025-06-18T02:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T03:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935166032446095838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwCuuU6rq4",
+              "end": 27,
+              "expanded_url": "https://x.com/Cypress_7593/status/1935166032446095838/photo/1",
+              "media_key": "3_1935166029677871106",
+              "start": 4,
+              "url": "https://t.co/TwCuuU6rq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935166032446095838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 481,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求评价 https://t.co/TwCuuU6rq4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2937,
+          "following_count": 1033,
+          "like_count": 33530,
+          "listed_count": 8,
+          "media_count": 447,
+          "tweet_count": 3846
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "你好我是柏树|号被炸了无数个了|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性障碍&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性别无性恋泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 126,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树",
+        "pinned_tweet_id": "1928275531356852498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 786,
+          "like_count": 14488,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 3874
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

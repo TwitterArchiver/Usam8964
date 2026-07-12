@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2020032831624474694",
+    "created_at": "2026-02-07T07:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T08:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020032997211402540"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020032997211402540",
+    "in_reply_to_user_id": "1643490407094030338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020032831624474694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么不磕伊拉克和伊朗的CP，怎么不磕马穆鲁克和奥斯曼的CP，怎么不磕威尼斯尊贵共和国和拜占庭的CP，怎么不磕法国与教宗国的CP，怎么不磕德国和奥匈帝国的CP，怎么不磕丹麦卡尔马联盟的CP，是不想吗，原来是受众是小初中生不知道啊\n（2/2）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2020032831624474694",
+        "created_at": "2026-02-07T07:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020032997211402540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020032997211402540",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020032831624474694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么不磕伊拉克和伊朗的CP，怎么不磕马穆鲁克和奥斯曼的CP，怎么不磕威尼斯尊贵共和国和拜占庭的CP，怎么不磕法国与教宗国的CP，怎么不磕德国和奥匈帝国的CP，怎么不磕丹麦卡尔马联盟的CP，是不想吗，原来是受众是小初中生不知道啊\n（2/2）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2020032831624474694",
+        "created_at": "2026-02-07T07:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020032831624474694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020032831624474694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国拟圈怎么不磕奥斯曼和法兰西的CP，怎么不磕奥斯曼和拜占庭的CP，怎么不磕波兰与德国俄罗斯奥地利的CP，怎么不磕奥地利和匈牙利的CP，怎么不磕勃兰登堡选帝侯国和条顿骑士团的CP，怎么不磕法国和美国的CP\n（1/2）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3449,
+          "following_count": 1029,
+          "like_count": 32667,
+          "listed_count": 8,
+          "media_count": 281,
+          "tweet_count": 3739
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

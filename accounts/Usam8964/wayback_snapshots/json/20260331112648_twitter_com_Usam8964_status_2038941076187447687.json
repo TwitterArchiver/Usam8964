@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2038893311063437699",
+    "created_at": "2026-03-31T11:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038941076187447687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "McFlurry_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038941076187447687",
+    "in_reply_to_user_id": "1378376814389694468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038893311063437699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McFlurry_2001 这人一直在操弄虚假两难的逻辑陷阱，看一眼就觉得味大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2038893311063437699",
+        "created_at": "2026-03-31T11:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038941076187447687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038941076187447687",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038893311063437699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McFlurry_2001 这人一直在操弄虚假两难的逻辑陷阱，看一眼就觉得味大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378376814389694468",
+        "conversation_id": "2038893311063437699",
+        "created_at": "2026-03-31T08:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038893311063437699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/McFlurry_2001/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/McFlurry_2001/status/2038891990155477480",
+              "start": 45,
+              "url": "https://t.co/c4x6rQYhVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038893311063437699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038891990155477480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你不是什么青天大老爷，你都做公益救助了还图回报如果你是带着这种想法呃……最好还是尽早转行 https://t.co/c4x6rQYhVz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3656,
+          "following_count": 1151,
+          "like_count": 48729,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 6156
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "🍉🇵🇸/最喜欢的动物是捷克狼犬",
+        "id": "1378376814389694468",
+        "name": "β Cygni🏳️‍🌈",
+        "pinned_tweet_id": "2037871588549500973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036160430503231488/lb99aN1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 7356,
+          "like_count": 147788,
+          "listed_count": 3,
+          "media_count": 864,
+          "tweet_count": 25050
+        },
+        "username": "McFlurry_2001",
+        "verified": false
+      }
+    ]
+  }
+}

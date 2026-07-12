@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1842151837538947391",
+    "created_at": "2024-10-05T08:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T09:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842483349220430273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1540640706674315264",
+          "start": 0,
+          "username": "Michelle_Z2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842483349220430273",
+    "in_reply_to_user_id": "1540640706674315264",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842151837538947391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michelle_Z2023 叫介姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1842151837538947391",
+        "created_at": "2024-10-05T08:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T09:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842483349220430273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1540640706674315264",
+              "start": 0,
+              "username": "Michelle_Z2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842483349220430273",
+        "in_reply_to_user_id": "1540640706674315264",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842151837538947391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michelle_Z2023 叫介姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540640706674315264",
+        "conversation_id": "1842151837538947391",
+        "created_at": "2024-10-04T10:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T11:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842151837538947391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rochell1148926…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Rochell11489263/status/1842113037823836633",
+              "start": 21,
+              "url": "https://t.co/5rlSOqldWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842151837538947391",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17267,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842113037823836633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好奇，中国男人是不是不知道女人有名字 https://t.co/5rlSOqldWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 894,
+          "like_count": 25384,
+          "listed_count": 4,
+          "tweet_count": 3084
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T10:19:19.000Z",
+        "description": "铁infp-t | 女的/pan | MtF (Marxist to Feminist) , 女夭主义 | 厌男🖕 | queering ethnicity | 社群主义(?), anti-state | Solidarity(?) | 拒键政，永不沾 | 什么惊天变革力量，全都孕育在日常中",
+        "id": "1540640706674315264",
+        "location": "莱茵河畔自由城市联合体",
+        "name": "Michelle🎀🌹🌈",
+        "pinned_tweet_id": "1814464267422228906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814439074016473090/HhXxAeBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 609,
+          "like_count": 25148,
+          "listed_count": 4,
+          "tweet_count": 6642
+        },
+        "username": "Michelle_Z2023",
+        "verified": false
+      }
+    ]
+  }
+}

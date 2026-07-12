@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1971607633099640988",
+    "created_at": "2025-09-27T06:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T07:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971824571545469005"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "修君",
+          "probability": 0.6638,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971824571545469005",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971607633099640988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 修君的秘制橙色小药片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_1971607569790840832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yOo4HasAAXn6-.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1971607633099640988",
+        "created_at": "2025-09-27T06:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T07:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971824571545469005"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "修君",
+              "probability": 0.6638,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971824571545469005",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971607633099640988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 修君的秘制橙色小药片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971607569790840832"
+          ]
+        },
+        "author_id": "1946598569747894273",
+        "conversation_id": "1971607633099640988",
+        "created_at": "2025-09-26T16:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971607633099640988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WC113QXhe5",
+              "end": 23,
+              "expanded_url": "https://x.com/xmin240286/status/1971607633099640988/photo/1",
+              "media_key": "3_1971607569790840832",
+              "start": 0,
+              "url": "https://t.co/WC113QXhe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971607633099640988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2800,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WC113QXhe5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3441,
+          "following_count": 1029,
+          "like_count": 33272,
+          "listed_count": 10,
+          "media_count": 469,
+          "tweet_count": 4051
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "中国劳动党中央委员会总书记｜含糖MtF｜INFP-T｜社会化程度极低的AS｜重度BPD｜重度抑郁｜C-PTSD｜多意识体｜病娇｜缺爱｜天残党｜家暴党｜无性恋｜性冷淡｜躺平摆烂无业｜精神药理学｜五年C#开发经验｜Telegram https://t.co/fUGMj5xj0K 我一直在",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 137,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 114,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1963077291875172543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962693560345731072/TE63EXWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 188,
+          "like_count": 2614,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2115
+        },
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

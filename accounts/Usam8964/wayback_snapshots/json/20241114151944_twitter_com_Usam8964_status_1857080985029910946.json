@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1856891883198583036",
+    "created_at": "2024-11-14T15:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T16:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857080985029910946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1213287267181027328",
+          "start": 0,
+          "username": "dahaoSho8931919"
+        },
+        {
+          "end": 25,
+          "id": "1433678976564662273",
+          "start": 17,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857080985029910946",
+    "in_reply_to_user_id": "1213287267181027328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857080802959368628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dahaoSho8931919 @hsn8086 换az上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1856891883198583036",
+        "created_at": "2024-11-14T15:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T16:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857080985029910946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1213287267181027328",
+              "start": 0,
+              "username": "dahaoSho8931919"
+            },
+            {
+              "end": 25,
+              "id": "1433678976564662273",
+              "start": 17,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857080985029910946",
+        "in_reply_to_user_id": "1213287267181027328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857080802959368628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dahaoSho8931919 @hsn8086 换az上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213287267181027328",
+        "conversation_id": "1856891883198583036",
+        "created_at": "2024-11-14T15:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T16:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857080802959368628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 18,
+              "id": "1433678976564662273",
+              "start": 10,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857080802959368628",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856922131235574270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @hsn8086 第一层就是妈腿怎么玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 955,
+          "like_count": 28761,
+          "listed_count": 4,
+          "tweet_count": 3466
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-04T02:33:32.000Z",
+        "description": "参考@Sho1919893 大号（复活失败中...）\n小小号：@ShoBeiYong 防止失联",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Sho1919893"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "ShoBeiYong"
+              }
+            ]
+          }
+        },
+        "id": "1213287267181027328",
+        "location": "下北沢　野獣邸",
+        "name": "Sho魈✟ ❂☭ 饮冰室主人🇨🇳🇨🇦 绝赞复活中",
+        "pinned_tweet_id": "1841910058424410470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823582488209580033/lP5DFS6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 211,
+          "like_count": 4804,
+          "listed_count": 13,
+          "tweet_count": 4160
+        },
+        "username": "dahaoSho8931919",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 内: @hsn8086k | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "hsn8086k"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12930,
+          "following_count": 886,
+          "like_count": 36080,
+          "listed_count": 38,
+          "tweet_count": 7259
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1838481970994856240",
+    "created_at": "2024-09-24T11:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T12:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838535874281377887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838535874281377887",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838481970994856240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 学校刷脸支付。。去年有段时间一直验证不通过导致买单的时候很尴尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1838481970994856240",
+        "created_at": "2024-09-24T11:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T12:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838535874281377887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838535874281377887",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838481970994856240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 学校刷脸支付。。去年有段时间一直验证不通过导致买单的时候很尴尬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838481968453029889"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "conversation_id": "1838481970994856240",
+        "created_at": "2024-09-24T07:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T08:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838481970994856240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9z0twewfky",
+              "end": 34,
+              "expanded_url": "https://twitter.com/xue_zhi2008/status/1838481970994856240/photo/1",
+              "media_key": "3_1838481968453029889",
+              "start": 11,
+              "url": "https://t.co/9Z0twEWfKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838481970994856240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种事情也是轮到我了 https://t.co/9Z0twEWfKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 892,
+          "like_count": 24977,
+          "listed_count": 3,
+          "tweet_count": 3005
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "永远长不大的傻孩子x｜持证20.11.11含糖MtF/08/CChOer（等待退役）/高二/持“证”ADHD&ASD｜｜❤️麻麻@toukorina🥰｜｜女儿@Allenium114 @charge_rif｜｜呱呱 是可爱的青蛙\n喵喵 有时候会是猫猫x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "toukorina"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "Allenium114"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "charge_rif"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "⚠️距离您已不足1pm",
+        "name": "雪织🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1836615117393531256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757371809710907392/xCYUa4m8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 394,
+          "like_count": 1517,
+          "listed_count": 2,
+          "tweet_count": 868
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

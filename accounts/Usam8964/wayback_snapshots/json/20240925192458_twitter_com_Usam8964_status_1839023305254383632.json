@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1838939168262517015",
+    "created_at": "2024-09-25T19:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T20:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839023305254383632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Akirameru_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839023305254383632",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838939168262517015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akirameru_QAQ 还好我是+1的🤌"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1838939168262517015].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1838939168262517015",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1838939168262517015"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1838939168262517015",
+        "created_at": "2024-09-25T19:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T20:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839023305254383632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Akirameru_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839023305254383632",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838939168262517015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akirameru_QAQ 还好我是+1的🤌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 889,
+          "like_count": 25085,
+          "listed_count": 3,
+          "tweet_count": 3027
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺 || Hug wanted || 互fo😘\n物理硬件是男性，阿弃是女孩子，我不想有性别了\n喜欢推友们，有你们在就不会孤独\n分身@mkc_Cute\nfo们要好好的哦，不要单取我好吗，不然会被我挂出来的！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ColdWindBlow",
+                "end": 23,
+                "expanded_url": "https://t.me/ColdWindBlow",
+                "start": 0,
+                "url": "https://t.co/alOpMQlDat"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "冷風吹（阿棄）🥺♥️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817164041938223105/KiWCGCWA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 626,
+          "like_count": 73606,
+          "listed_count": 3,
+          "tweet_count": 2665
+        },
+        "url": "https://t.co/alOpMQlDat",
+        "username": "Akirameru_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

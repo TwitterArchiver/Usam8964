@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2029726787207581915",
+    "created_at": "2026-03-06T07:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029816509250556034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "331651596",
+          "start": 0,
+          "username": "LightCavalryCZ"
+        },
+        {
+          "end": 32,
+          "id": "875709617480753154",
+          "start": 16,
+          "username": "ni_bingbing_jie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029816509250556034",
+    "in_reply_to_user_id": "331651596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029789495818895715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightCavalryCZ @ni_bingbing_jie 依旧「一见短袖子，立刻想到白胳膊，立刻想到全裸体，立刻想到生殖器，立刻想到性交， 立刻想到杂交，立刻想到私生子。中国人的想象惟在这一层能够如此跃进。」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029726787207581915",
+        "created_at": "2026-03-06T07:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029816509250556034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "331651596",
+              "start": 0,
+              "username": "LightCavalryCZ"
+            },
+            {
+              "end": 32,
+              "id": "875709617480753154",
+              "start": 16,
+              "username": "ni_bingbing_jie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029816509250556034",
+        "in_reply_to_user_id": "331651596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029789495818895715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightCavalryCZ @ni_bingbing_jie 依旧「一见短袖子，立刻想到白胳膊，立刻想到全裸体，立刻想到生殖器，立刻想到性交， 立刻想到杂交，立刻想到私生子。中国人的想象惟在这一层能够如此跃进。」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "331651596",
+        "conversation_id": "2029726787207581915",
+        "created_at": "2026-03-06T05:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029789495818895715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "875709617480753154",
+              "start": 0,
+              "username": "ni_bingbing_jie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029789495818895715",
+        "in_reply_to_user_id": "875709617480753154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2037,
+          "like_count": 235,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029726787207581915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ni_bingbing_jie 就这样，愚蠢的校服、严格限制的发型、啤酒瓶底一般的眼镜、半永久的黑眼圈、严重缺乏的睡眠时间和洗漱时间……这一切突然好像有了理由。\n青春期对美的任何正常追求在这里只会换来一句话——「打扮那么漂亮是想出去卖么？」\n粉红们终究成为了自己年轻时最讨厌的那种人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3577,
+          "following_count": 1067,
+          "like_count": 35586,
+          "listed_count": 8,
+          "media_count": 342,
+          "tweet_count": 4457
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-08T14:20:08.000Z",
+        "description": "",
+        "id": "331651596",
+        "location": "Tianjin",
+        "name": "曹哲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351507883058360321/g94--rth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22286,
+          "following_count": 58,
+          "like_count": 452,
+          "listed_count": 113,
+          "media_count": 442,
+          "tweet_count": 3033
+        },
+        "username": "LightCavalryCZ",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-16T13:40:17.000Z",
+        "description": "氷氷美人党幹事長、㈱中国スリムパラダイスアジア太平洋地区総代理\n山西省洪洞县大槐树后人\n✧₊⁎❝᷀ົཽ≀ˍ̮ ❝᷀ົཽ⁎⁺˳✧༚ᠲᠠᠪᠤᠨ ᠡᠰᠢᠲᠦ ᠨᠠᠮ ᠤᠨ ᠲᠡᠷᠢᠭᠦᠯᠡᠭᠴᠢ\n✨清水ともみのデマ反対✨邓为的梦中情人，窦骁也很迷🎶鍵垢のフォロワーをブロックするから悪しからず🎶wordle日課🎶",
+        "id": "875709617480753154",
+        "location": "霓虹",
+        "name": "【HENTAI】🌈東北照氷氷🇵🇸楕円機減量中",
+        "pinned_tweet_id": "2002679797785432314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766684316611043328/BnfnkqiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5722,
+          "following_count": 828,
+          "like_count": 174788,
+          "listed_count": 75,
+          "media_count": 5318,
+          "tweet_count": 62791
+        },
+        "username": "ni_bingbing_jie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1914520209043624112",
+    "created_at": "2025-04-22T14:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T15:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914690898132373528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1473159080143376385",
+          "start": 0,
+          "username": "Jacque1ineWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914690898132373528",
+    "in_reply_to_user_id": "1473159080143376385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914520209043624112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jacque1ineWong 身上的裤子就是优衣库的，真的很棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1914520209043624112",
+        "created_at": "2025-04-22T14:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T15:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914690898132373528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1473159080143376385",
+              "start": 0,
+              "username": "Jacque1ineWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914690898132373528",
+        "in_reply_to_user_id": "1473159080143376385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914520209043624112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jacque1ineWong 身上的裤子就是优衣库的，真的很棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473159080143376385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "GU (ジーユー)",
+              "id": "1034896292722311169",
+              "name": "GU"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "ideas for outfits to wear.",
+              "id": "1255971854306562048",
+              "name": "Everyday style"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "GU (ジーユー)",
+              "id": "1034896292722311169",
+              "name": "GU"
+            }
+          }
+        ],
+        "conversation_id": "1914520209043624112",
+        "created_at": "2025-04-22T03:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914520209043624112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jacque1inewong…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/jacque1inewong/status/1914308152922914830",
+              "start": 128,
+              "url": "https://t.co/Dg1bnuBapO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914520209043624112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6948,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914308152922914830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是真的很推荐跨妹去优衣库 GU 迪卡侬 还有一堆一堆很平价的服装品牌里逛逛 找到自己心仪的衣服的\n\n因为我说句难听的\n\n直男审美真的很难看。\n\n是那种路边聚众抽烟邋邋遢遢但非要往自己身上戴个链子还非得穿个假aj浑身散发着廉价香烟二手烟味道的那种恶心感。 https://t.co/Dg1bnuBapO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 1035,
+          "like_count": 32854,
+          "listed_count": 7,
+          "media_count": 438,
+          "tweet_count": 3778
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:11:17.000Z",
+        "description": "🍃我于春风起舞正盛时下凡🏳️‍⚧️ 我的未婚夫@l39672886 很高兴与你共命运 -🏠小缘的护肤品小店-💅修护面膜与懒人美容液❗️-私信找我变美🥰（详见置顶）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "l39672886"
+              }
+            ]
+          }
+        },
+        "id": "1473159080143376385",
+        "location": "Sendai-shi Taihaku, Miyagi",
+        "name": "黄奕缘（讨厌异地恋版）",
+        "pinned_tweet_id": "1903787989412741267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867107601047228416/4VAHWxes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 382,
+          "like_count": 23616,
+          "listed_count": 6,
+          "media_count": 536,
+          "tweet_count": 9023
+        },
+        "username": "Jacque1ineWong",
+        "verified": true
+      }
+    ]
+  }
+}

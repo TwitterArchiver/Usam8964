@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038149634808483840"
+      ],
+      "media_source_tweet_id": [
+        "2038149726810575284"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2038175089041301794",
+    "created_at": "2026-03-29T08:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038175089041301794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "879564093987758080",
+          "start": 3,
+          "username": "aji_no_suke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6RMnmlYV3T",
+          "end": 51,
+          "expanded_url": "https://x.com/aji_no_suke/status/2038149726810575284/photo/1",
+          "media_key": "3_2038149634808483840",
+          "start": 28,
+          "url": "https://t.co/6RMnmlYV3T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038175089041301794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1400
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038149726810575284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aji_no_suke: つまりこういうこと。 https://t.co/6RMnmlYV3T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_2038149634808483840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEj2S1XaEAA2dKP.png",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038149634808483840"
+          ],
+          "media_source_tweet_id": [
+            "2038149726810575284"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2038175089041301794",
+        "created_at": "2026-03-29T08:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038175089041301794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "879564093987758080",
+              "start": 3,
+              "username": "aji_no_suke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RMnmlYV3T",
+              "end": 51,
+              "expanded_url": "https://x.com/aji_no_suke/status/2038149726810575284/photo/1",
+              "media_key": "3_2038149634808483840",
+              "start": 28,
+              "url": "https://t.co/6RMnmlYV3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038175089041301794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038149726810575284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aji_no_suke: つまりこういうこと。 https://t.co/6RMnmlYV3T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038149634808483840"
+          ]
+        },
+        "author_id": "879564093987758080",
+        "conversation_id": "2038149726810575284",
+        "created_at": "2026-03-29T07:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038149726810575284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RMnmlYV3T",
+              "end": 34,
+              "expanded_url": "https://x.com/aji_no_suke/status/2038149726810575284/photo/1",
+              "media_key": "3_2038149634808483840",
+              "start": 11,
+              "url": "https://t.co/6RMnmlYV3T"
+            },
+            {
+              "display_url": "x.com/aji_no_suke/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/aji_no_suke/status/2037812716245758222",
+              "start": 35,
+              "url": "https://t.co/N7JRBirz66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038149726810575284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 615,
+          "impression_count": 265937,
+          "like_count": 5977,
+          "quote_count": 20,
+          "reply_count": 21,
+          "retweet_count": 1400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037812716245758222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "つまりこういうこと。 https://t.co/6RMnmlYV3T https://t.co/N7JRBirz66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 1149,
+          "like_count": 47537,
+          "listed_count": 8,
+          "media_count": 444,
+          "tweet_count": 6034
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-27T04:56:36.000Z",
+        "description": "はじめに神は弾丸と火薬とを創造された\nhttps://t.co/Lxq8IEHnIS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ajinosuke.tumblr.com",
+                "end": 42,
+                "expanded_url": "https://ajinosuke.tumblr.com/",
+                "start": 19,
+                "url": "https://t.co/Lxq8IEHnIS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ajiposo2000.main.jp/hole.html",
+                "end": 23,
+                "expanded_url": "https://ajiposo2000.main.jp/hole.html",
+                "start": 0,
+                "url": "https://t.co/lfGsiJzdv3"
+              }
+            ]
+          }
+        },
+        "id": "879564093987758080",
+        "location": "somewhere in nevada",
+        "name": "味之介",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/879571179350106112/YbJQ0Zqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11367,
+          "following_count": 117,
+          "like_count": 2151,
+          "listed_count": 70,
+          "media_count": 2894,
+          "tweet_count": 8125
+        },
+        "url": "https://t.co/lfGsiJzdv3",
+        "username": "aji_no_suke",
+        "verified": false
+      }
+    ]
+  }
+}

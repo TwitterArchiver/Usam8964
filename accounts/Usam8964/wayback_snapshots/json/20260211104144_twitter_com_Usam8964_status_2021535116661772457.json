@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2021535116661772457",
+    "created_at": "2026-02-11T10:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T11:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021535116661772457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021535116661772457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021221048755363942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 永远不要在谈话中自贬，你怎样说自己，别人就会怎样看待你，自贬就是在给一些看你笑话的人提供情绪价值，这是一种极为严重的破窗效应，要时刻告诉自己你很棒，很优秀，不要和别人一起欺负自己，要坚定的做自己的拥护者。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2021535116661772457",
+        "created_at": "2026-02-11T10:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021535116661772457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021535116661772457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021221048755363942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 永远不要在谈话中自贬，你怎样说自己，别人就会怎样看待你，自贬就是在给一些看你笑话的人提供情绪价值，这是一种极为严重的破窗效应，要时刻告诉自己你很棒，很优秀，不要和别人一起欺负自己，要坚定的做自己的拥护者。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2021221048755363942",
+        "created_at": "2026-02-10T13:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021221048755363942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021221048755363942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 16295,
+          "like_count": 472,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "永远不要在谈话中自贬，你怎样说自己，别人就会怎样看待你，自贬就是在给一些看你笑话的人提供情绪价值，这是一种极为严重的破窗效应，要时刻告诉自己你很棒，很优秀，不要和别人一起欺负自己，要坚定的做自己的拥护者。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 1053,
+          "like_count": 33461,
+          "listed_count": 8,
+          "media_count": 298,
+          "tweet_count": 3997
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6885,
+          "following_count": 5,
+          "like_count": 938,
+          "listed_count": 17,
+          "media_count": 72,
+          "tweet_count": 1338
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

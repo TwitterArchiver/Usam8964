@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1808715470939566396",
+    "created_at": "2024-07-04T22:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T23:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808998817330848121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1687307776073297921",
+          "start": 0,
+          "username": "Pragevich2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808998817330848121",
+    "in_reply_to_user_id": "1687307776073297921",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808715470939566396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pragevich2 羡慕奈子大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1808715470939566396",
+        "created_at": "2024-07-04T22:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T23:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808998817330848121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1687307776073297921",
+              "start": 0,
+              "username": "Pragevich2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808998817330848121",
+        "in_reply_to_user_id": "1687307776073297921",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808715470939566396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pragevich2 羡慕奈子大"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808715468968189952"
+          ]
+        },
+        "author_id": "1687307776073297921",
+        "conversation_id": "1808715470939566396",
+        "created_at": "2024-07-04T04:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T05:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808715470939566396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/45YXIWKyn8",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Pragevich2/status/1808715470939566396/photo/1",
+              "media_key": "3_1808715468968189952",
+              "start": 38,
+              "url": "https://t.co/45YXIWKyn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808715470939566396",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5568,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈非要我咱假期回家，咱一句“你不嫌我奈子大，我就回去”，直接给她干沉默了 https://t.co/45YXIWKyn8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 708,
+          "like_count": 13346,
+          "listed_count": 2,
+          "tweet_count": 2357
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T03:41:45.000Z",
+        "description": "trans_xyn_pansexuality_live in a virtual world_really want company_love you all",
+        "id": "1687307776073297921",
+        "location": "Guangzhou, China",
+        "name": "alchemist",
+        "pinned_tweet_id": "1771072763005911323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756846101553168384/7MMtf2WW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4828,
+          "following_count": 288,
+          "like_count": 30660,
+          "listed_count": 7,
+          "tweet_count": 16963
+        },
+        "username": "Pragevich2",
+        "verified": false
+      }
+    ]
+  }
+}

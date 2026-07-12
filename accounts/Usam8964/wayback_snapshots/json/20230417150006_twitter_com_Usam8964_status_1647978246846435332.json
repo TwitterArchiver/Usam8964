@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1647964720589045766",
+    "created_at": "2023-04-17T15:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-17T15:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1647978246846435332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521011247931551744",
+          "start": 0,
+          "username": "KumaNikuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1647978246846435332",
+    "in_reply_to_user_id": "1521011247931551744",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1647978164176527363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KumaNikuko 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1647964720589045766",
+        "created_at": "2023-04-17T15:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-17T15:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1647978246846435332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521011247931551744",
+              "start": 0,
+              "username": "KumaNikuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1647978246846435332",
+        "in_reply_to_user_id": "1521011247931551744",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1647978164176527363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KumaNikuko 嗯嗯"
+      },
+      {
+        "attachments": {},
+        "author_id": "1521011247931551744",
+        "conversation_id": "1647964720589045766",
+        "created_at": "2023-04-17T14:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-17T15:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1647978164176527363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1647978164176527363",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1647976668882161666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 那妈妈想帮你买乳贴的想法我觉得是对的，毕竟正面看，乳贴的颜色是不太会透出来的～但是如果现在小兔子不显的话，用“长胖”了这个理由搪塞下应该也能应付一段时间～啥都不用也成～🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\n不知道写什么好了，可能是战犯（）\nTg: https://t.co/HKffFbQmwb\nDiscord: イレンナ🍥🍥🍥#8408",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/usamiryanko8964",
+                "end": 117,
+                "expanded_url": "http://t.me/usamiryanko8964",
+                "start": 94,
+                "url": "https://t.co/HKffFbQmwb"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜🇹🇼🇬🇧🏳️‍⚧️",
+        "pinned_tweet_id": "1643958701576044547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 121,
+          "listed_count": 0,
+          "tweet_count": 410
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T06:19:03.000Z",
+        "description": "INFP-T👩‍👩‍👦無證含糖AG（14🌛）🍬 超大齡（88🧓🏻）超大只（179🧌）有點社恐🫧編程小能手🧑‍💻：We're all small and stupid.",
+        "id": "1521011247931551744",
+        "name": "Kumanikuko🍥",
+        "pinned_tweet_id": "1645448817079357451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645367548807118851/cNnTUU9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 884,
+          "listed_count": 0,
+          "tweet_count": 1064
+        },
+        "username": "KumaNikuko",
+        "verified": false
+      }
+    ]
+  }
+}

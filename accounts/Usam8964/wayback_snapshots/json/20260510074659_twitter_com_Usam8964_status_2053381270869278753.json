@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2053325453675696357",
+    "created_at": "2026-05-10T07:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053381270869278753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514545830493044736",
+          "start": 0,
+          "username": "Miwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053381270869278753",
+    "in_reply_to_user_id": "1514545830493044736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053325453675696357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miwu0721 lisa妈妈节日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2053325374860431360",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HH7gjKjaEAANj9A.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HH7gjKjaEAANj9A.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2053325453675696357",
+        "created_at": "2026-05-10T07:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053381270869278753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514545830493044736",
+              "start": 0,
+              "username": "Miwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053381270869278753",
+        "in_reply_to_user_id": "1514545830493044736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053325453675696357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miwu0721 lisa妈妈节日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2053325374860431360"
+          ]
+        },
+        "author_id": "1514545830493044736",
+        "conversation_id": "2053325453675696357",
+        "created_at": "2026-05-10T04:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053325453675696357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kylN1wuQ5g",
+              "end": 163,
+              "expanded_url": "https://x.com/Miwu0721/status/2053325453675696357/photo/1",
+              "media_key": "16_2053325374860431360",
+              "start": 140,
+              "url": "https://t.co/kylN1wuQ5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053325453675696357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是母亲节，别忘了给自己的妈妈说一声母亲节快乐，是生你养你的那个，不是市谷有咲，也不是今井莉莎，也不是奥泽美咲，也不是上原绯玛丽，也不是大和麻弥，也不是和奏瑞依，也不是八潮琉唯，也不是长崎素世，也不是樱井桃华，也不是橘爱丽丝，也不是森亚露露卡，更不是打瓦认识的那个。更不是我。 https://t.co/kylN1wuQ5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 1221,
+          "like_count": 57746,
+          "listed_count": 6,
+          "media_count": 502,
+          "tweet_count": 7030
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:07:35.000Z",
+        "description": "你好！我是米坞(Miwu/ミウ)\n碧蓝航线/星露谷物语/CS2/战争雷霆玩家、全推最尊重菠萝油的主播、本质好女孩、国家一级退堂鼓表演艺术家、日本語は勉強する、よろしくお願いします。\n涩涩里推：@Miuu0721、⭐😡：@emilia_yuni_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "Miuu0721"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "emilia_yuni_"
+              }
+            ]
+          }
+        },
+        "id": "1514545830493044736",
+        "location": "皇后大道東",
+        "name": "ミウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044300060884922368/zAjplHfc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 446,
+          "like_count": 89646,
+          "listed_count": 5,
+          "media_count": 748,
+          "tweet_count": 3739
+        },
+        "username": "Miwu0721",
+        "verified": false
+      }
+    ]
+  }
+}

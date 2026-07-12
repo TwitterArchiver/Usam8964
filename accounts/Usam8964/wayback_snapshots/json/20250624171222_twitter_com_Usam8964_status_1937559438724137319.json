@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1937178571241664726",
+    "created_at": "2025-06-24T17:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T18:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937559438724137319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847616109408915456",
+          "start": 0,
+          "username": "jiajia040121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937559438724137319",
+    "in_reply_to_user_id": "1847616109408915456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937178571241664726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajia040121 可以一起玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1937178571241664726",
+        "created_at": "2025-06-24T17:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T18:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937559438724137319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847616109408915456",
+              "start": 0,
+              "username": "jiajia040121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937559438724137319",
+        "in_reply_to_user_id": "1847616109408915456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937178571241664726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia040121 可以一起玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847616109408915456",
+        "conversation_id": "1937178571241664726",
+        "created_at": "2025-06-23T15:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T16:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937178571241664726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937178571241664726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6025,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7月中旬要陪父母去湖南长沙，大概待个10几天，爸爸妈妈都说可以女装一起跟着去，女装陪他们去医院也可以耶！\n  谁懂啊，真的好开心，好幸福啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 1033,
+          "like_count": 33491,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 3855
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T12:29:55.000Z",
+        "description": "持证含糖 mtf🏳️‍⚧️ 在校大学生 家长党 无天赋 抑郁症治疗中  攒钱手术中（求求救援妹妹一下，呜呜！） 游戏玩家 无畏契约 王者荣耀 火影忍者 金铲铲 原神 （白嫖勿扰！！！）  找主人ing 过🚪线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jiajia040121",
+                "end": 23,
+                "expanded_url": "http://t.me/jiajia040121",
+                "start": 0,
+                "url": "https://t.co/42CSj95WGy"
+              }
+            ]
+          }
+        },
+        "id": "1847616109408915456",
+        "location": "成都市 🚪58/131.4/520",
+        "name": "嘉嘉🏳️‍⚧️（攒钱手术ing）",
+        "pinned_tweet_id": "1929698604203040811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895482822844417/ZJ2i8_ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 521,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/42CSj95WGy",
+        "username": "jiajia040121",
+        "verified": false
+      }
+    ]
+  }
+}

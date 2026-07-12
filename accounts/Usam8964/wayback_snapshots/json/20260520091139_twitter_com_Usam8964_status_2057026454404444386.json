@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2057018758699561383",
+    "created_at": "2026-05-20T09:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057026454404444386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921107120768118785",
+          "start": 0,
+          "username": "SaotomeShimeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057026454404444386",
+    "in_reply_to_user_id": "1921107120768118785",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057018758699561383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaotomeShimeri enfj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16766,
+        "height": 1280,
+        "media_key": "13_2057018658736713728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057018658736713728/img/DaCNbdYSAtdp95LC.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057018658736713728/vid/avc1/320x568/es7xwS8cXnO2Im1e.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057018658736713728/vid/avc1/480x852/hPn5qmi--x9KaESd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057018658736713728/vid/avc1/720x1280/O_IUdblhwvLU9VEv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057018658736713728/pl/HjsCOSCG0ItuduKd.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057018658577342465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv_kkjaYAEoeyl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2057018758699561383",
+        "created_at": "2026-05-20T09:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057026454404444386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921107120768118785",
+              "start": 0,
+              "username": "SaotomeShimeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057026454404444386",
+        "in_reply_to_user_id": "1921107120768118785",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057018758699561383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaotomeShimeri enfj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057018658736713728",
+            "3_2057018658577342465"
+          ]
+        },
+        "author_id": "1921107120768118785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2057018758699561383",
+        "created_at": "2026-05-20T08:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057018758699561383"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "cm"
+            },
+            {
+              "end": 85,
+              "start": 74,
+              "tag": "commission"
+            },
+            {
+              "end": 99,
+              "start": 87,
+              "tag": "絵描きさんと繋がりたい"
+            },
+            {
+              "end": 115,
+              "start": 100,
+              "tag": "春の創作クラスタフォロー祭り"
+            },
+            {
+              "end": 134,
+              "start": 116,
+              "tag": "絵柄が好みって人にフォローされたい"
+            },
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "イラスト"
+            },
+            {
+              "end": 154,
+              "start": 141,
+              "tag": "illustration"
+            },
+            {
+              "end": 160,
+              "start": 155,
+              "tag": "有償依頼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRMUL9gKLD",
+              "end": 184,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2057018758699561383/video/1",
+              "media_key": "13_2057018658736713728",
+              "start": 161,
+              "url": "https://t.co/WRMUL9gKLD"
+            },
+            {
+              "display_url": "pic.x.com/WRMUL9gKLD",
+              "end": 184,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2057018758699561383/video/1",
+              "media_key": "3_2057018658577342465",
+              "start": 161,
+              "url": "https://t.co/WRMUL9gKLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057018758699561383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "520有奖竞猜time！\n猜猜死目莉是什么mbti吧~😈\n\n奖品是一张我的摸鱼页~（右边是两张摸鱼页拼起来的效果哦 奖品是单张）\n#雰囲気 #cm #commission \n#絵描きさんと繋がりたい\n#春の創作クラスタフォロー祭り\n#絵柄が好みって人にフォローされたい\n#イラスト\n#illustration\n#有償依頼 https://t.co/WRMUL9gKLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "location": "RenkoUsami8964@proton.me",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3765,
+          "following_count": 1243,
+          "like_count": 60463,
+          "listed_count": 6,
+          "media_count": 517,
+          "tweet_count": 7280
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T07:36:59.000Z",
+        "description": "＝死目莉\n🚫ai/双相/adhd/💊/🎨/🔪🩸/\n当朋友圈发，大量日常/废话/负能黑泥\n稿件相关请私讯",
+        "id": "1921107120768118785",
+        "name": "早乙女死目莉",
+        "pinned_tweet_id": "2056325769236746555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 99,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 266
+        },
+        "username": "SaotomeShimeri",
+        "verified": false
+      }
+    ]
+  }
+}

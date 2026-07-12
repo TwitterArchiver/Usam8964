@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2038272767511212505",
+    "created_at": "2026-03-29T15:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038279544030015847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696520356050444288",
+          "start": 0,
+          "username": "For_the_AIR"
+        },
+        {
+          "end": 23,
+          "id": "1920704053031694336",
+          "start": 13,
+          "username": "Abel_akun"
+        },
+        {
+          "end": 34,
+          "id": "1920704053031694336",
+          "start": 24,
+          "username": "Abel_akun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038279544030015847",
+    "in_reply_to_user_id": "1696520356050444288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038272767511212505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@For_the_AIR @Abel_akun @Abel_akun 宝子你咋这么受欢迎，我吃醋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2038272764432564225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElmR69bQAETf-F.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2038272767511212505",
+        "created_at": "2026-03-29T15:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038279544030015847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696520356050444288",
+              "start": 0,
+              "username": "For_the_AIR"
+            },
+            {
+              "end": 23,
+              "id": "1920704053031694336",
+              "start": 13,
+              "username": "Abel_akun"
+            },
+            {
+              "end": 34,
+              "id": "1920704053031694336",
+              "start": 24,
+              "username": "Abel_akun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038279544030015847",
+        "in_reply_to_user_id": "1696520356050444288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038272767511212505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@For_the_AIR @Abel_akun @Abel_akun 宝子你咋这么受欢迎，我吃醋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038272764432564225"
+          ]
+        },
+        "author_id": "1696520356050444288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2038272767511212505",
+        "created_at": "2026-03-29T15:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038272767511212505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1920704053031694336",
+              "start": 16,
+              "username": "Abel_akun"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 54,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "start": 31,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/VcqIpVwHwP"
+            },
+            {
+              "display_url": "pic.x.com/ddmXn84taF",
+              "end": 78,
+              "expanded_url": "https://x.com/For_the_AIR/status/2038272767511212505/photo/1",
+              "media_key": "3_2038272764432564225",
+              "start": 55,
+              "url": "https://t.co/ddmXn84taF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038272767511212505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @Abel_akun\n\n➡️ https://t.co/VcqIpVwHwP https://t.co/ddmXn84taF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3654,
+          "following_count": 1149,
+          "like_count": 47850,
+          "listed_count": 8,
+          "media_count": 444,
+          "tweet_count": 6066
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T13:49:28.000Z",
+        "description": "Looking in everywhere（\n眠るのが好き…",
+        "id": "1696520356050444288",
+        "name": "A",
+        "pinned_tweet_id": "1948795855458500898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739851588515291136/sun8z21A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 143,
+          "like_count": 3815,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 67
+        },
+        "username": "For_the_AIR",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆 不会弹吉他",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036754267475001344/NfBkbSmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 190,
+          "like_count": 2950,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1730
+        },
+        "username": "Abel_akun",
+        "verified": false
+      }
+    ]
+  }
+}

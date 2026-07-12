@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1826078283563483636",
+    "created_at": "2024-08-21T06:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T07:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826141922035118175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1073549510352093191",
+          "start": 0,
+          "username": "a69507877"
+        },
+        {
+          "end": 25,
+          "id": "1663066129923981312",
+          "start": 11,
+          "username": "Akirameru_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826141922035118175",
+    "in_reply_to_user_id": "1073549510352093191",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826140077153775842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a69507877 @Akirameru_QwQ 换言之，你都不承认这个是违法的我还有什么和你好谈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1826078283563483636",
+        "created_at": "2024-08-21T06:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T07:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826141922035118175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1073549510352093191",
+              "start": 0,
+              "username": "a69507877"
+            },
+            {
+              "end": 25,
+              "id": "1663066129923981312",
+              "start": 11,
+              "username": "Akirameru_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826141922035118175",
+        "in_reply_to_user_id": "1073549510352093191",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826140077153775842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a69507877 @Akirameru_QwQ 换言之，你都不承认这个是违法的我还有什么和你好谈的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1073549510352093191",
+        "conversation_id": "1826078283563483636",
+        "created_at": "2024-08-21T06:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T07:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826140077153775842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 24,
+              "id": "1663066129923981312",
+              "start": 10,
+              "username": "Akirameru_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826140077153775842",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826137466019172383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @Akirameru_QwQ 由于我无法对几种可能性下决定，所以我才不站队，我也只是呼吁看到的人理性思考，等爆了实质证据再确定，没想到不站队就变成了你们的敌人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 790,
+          "like_count": 19202,
+          "listed_count": 2,
+          "tweet_count": 2651
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T12:05:23.000Z",
+        "description": "",
+        "id": "1073549510352093191",
+        "location": "无",
+        "name": "十年减六年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821261732851142656/CxEcHtVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 128,
+          "listed_count": 0,
+          "tweet_count": 408
+        },
+        "username": "a69507877",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "Every morning tell yourself that you are getting better and better.\nLC_MESSAGES=zh_CN(正常)/zh_TW(心酸/想哭)/en_US\n想和頭像一樣可愛//喜歡電腦技術//愛大家♥️//互fo是好文明！",
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "永不言棄🥺♥️（貼貼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817164041938223105/KiWCGCWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 455,
+          "like_count": 58558,
+          "listed_count": 3,
+          "tweet_count": 2054
+        },
+        "username": "Akirameru_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

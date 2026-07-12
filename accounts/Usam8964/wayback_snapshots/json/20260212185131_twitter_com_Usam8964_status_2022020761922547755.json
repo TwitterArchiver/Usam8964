@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022020758642540544"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2021595174531400026",
+    "created_at": "2026-02-12T18:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T19:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022020761922547755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8D59rlfpOq",
+          "end": 37,
+          "expanded_url": "https://x.com/Usam8964/status/2022020761922547755/photo/1",
+          "media_key": "3_2022020758642540544",
+          "start": 14,
+          "url": "https://t.co/8D59rlfpOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022020761922547755",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021595174531400026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ https://t.co/8D59rlfpOq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_2022020758642540544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-pKrdawAABCjw.jpg",
+        "width": 1601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022020758642540544"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2021595174531400026",
+        "created_at": "2026-02-12T18:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022020761922547755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8D59rlfpOq",
+              "end": 37,
+              "expanded_url": "https://x.com/Usam8964/status/2022020761922547755/photo/1",
+              "media_key": "3_2022020758642540544",
+              "start": 14,
+              "url": "https://t.co/8D59rlfpOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022020761922547755",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021595174531400026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ https://t.co/8D59rlfpOq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769078117052854272",
+        "conversation_id": "2021595174531400026",
+        "created_at": "2026-02-11T14:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021595174531400026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Usam8964/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Usam8964/status/2020859115732348992",
+              "start": 11,
+              "url": "https://t.co/O50781ivQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021595174531400026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 537,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020859115732348992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看不懂但我大受震撼 https://t.co/O50781ivQQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3538,
+          "following_count": 1066,
+          "like_count": 33787,
+          "listed_count": 8,
+          "media_count": 310,
+          "tweet_count": 4081
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2021655285744685098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6872,
+          "following_count": 3604,
+          "like_count": 97612,
+          "listed_count": 18,
+          "media_count": 6572,
+          "tweet_count": 88459
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

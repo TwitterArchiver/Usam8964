@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2057396771580694788",
+    "created_at": "2026-05-21T09:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057396771580694788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057363646423117824",
+          "start": 3,
+          "username": "12sygdsbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057396771580694788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057366686211428663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @12sygdsbi: 自介/嗯对我的号又炸了\n12 黄家盛（安）[我爹说我可能压不住这个名字，改名ing]/叫我12或者小黄~阿盛/小安/目前在干烟袋，需要问我^有点缺钱/。\n双相，可能带点阴性精神分裂。\n没有什么爱好，之前喜欢看大陆哲学。（这个海洋哲学中的智力太低下了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057366675889258496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F2EbAAAaws7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057366676568674304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F4maEAAjhkB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057366677038514177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F6WbQAEEidL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2057366677994749952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F96aQAASxjD.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2057396771580694788",
+        "created_at": "2026-05-21T09:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057396771580694788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057363646423117824",
+              "start": 3,
+              "username": "12sygdsbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057396771580694788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057366686211428663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @12sygdsbi: 自介/嗯对我的号又炸了\n12 黄家盛（安）[我爹说我可能压不住这个名字，改名ing]/叫我12或者小黄~阿盛/小安/目前在干烟袋，需要问我^有点缺钱/。\n双相，可能带点阴性精神分裂。\n没有什么爱好，之前喜欢看大陆哲学。（这个海洋哲学中的智力太低下了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057366675889258496",
+            "3_2057366676568674304",
+            "3_2057366677038514177",
+            "3_2057366677994749952"
+          ]
+        },
+        "author_id": "2057363646423117824",
+        "conversation_id": "2057366686211428663",
+        "created_at": "2026-05-21T07:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057366686211428663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366675889258496",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            },
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366676568674304",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            },
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366677038514177",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            },
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366677994749952",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057366686211428663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3276,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "自介/嗯对我的号又炸了\n12 黄家盛（安）[我爹说我可能压不住这个名字，改名ing]/叫我12或者小黄~阿盛/小安/目前在干烟袋，需要问我^有点缺钱/。\n双相，可能带点阴性精神分裂。\n没有什么爱好，之前喜欢看大陆哲学。（这个海洋哲学中的智力太低下了🥵）\n刚洗完澡拍出来好看点 讨个口子先 https://t.co/MvVYdlV5zJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "location": "RenkoUsami8964@proton.me",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3771,
+          "following_count": 1249,
+          "like_count": 60607,
+          "listed_count": 6,
+          "media_count": 517,
+          "tweet_count": 7300
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:32:40.000Z",
+        "description": "mtm/mua/mao/神秘烟男",
+        "id": "2057363646423117824",
+        "name": "12",
+        "pinned_tweet_id": "2057366686211428663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057374664301907968/Tggw9B0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 32,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "12sygdsbi",
+        "verified": false
+      }
+    ]
+  }
+}

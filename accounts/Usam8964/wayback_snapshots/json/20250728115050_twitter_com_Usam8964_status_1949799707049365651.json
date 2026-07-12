@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1949504008483447024",
+    "created_at": "2025-07-28T11:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T12:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949799707049365651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1427572752358141956",
+          "start": 0,
+          "username": "RedteaCattleya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949799707049365651",
+    "in_reply_to_user_id": "1427572752358141956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949504008483447024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RedteaCattleya 跟他们爆了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1949504008483447024",
+        "created_at": "2025-07-28T11:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T12:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949799707049365651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1427572752358141956",
+              "start": 0,
+              "username": "RedteaCattleya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949799707049365651",
+        "in_reply_to_user_id": "1427572752358141956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949504008483447024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RedteaCattleya 跟他们爆了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427572752358141956",
+        "conversation_id": "1949504008483447024",
+        "created_at": "2025-07-27T16:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949504008483447024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949504008483447024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13308,
+          "like_count": 172,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "被问性别+1，还是个在酒吧乱喝酒的未成年。\n我说你觉得是什么就是什么还不罢休\n非得问出来我在吃糖才满意\n一共被这么问过两次，上一次是个十三四岁的地雷女\n你们傻逼未成年都这样是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3069,
+          "following_count": 1032,
+          "like_count": 33965,
+          "listed_count": 8,
+          "media_count": 455,
+          "tweet_count": 3938
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T10:07:31.000Z",
+        "description": "Sunlight @Meowneko_Mio & 最好的恋人@datadelete_4444 | 不配做EE/CS | 明日十時にホームで待ち合わせとかしよう@JR_YamanoteE235 | 姐姐@Shenyuebanran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "Meowneko_Mio"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "datadelete_4444"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "Shenyuebanran"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HongCha_Cattle…",
+                "end": 23,
+                "expanded_url": "http://t.me/HongCha_Cattleya",
+                "start": 0,
+                "url": "https://t.co/UGVRraa39D"
+              }
+            ]
+          }
+        },
+        "id": "1427572752358141956",
+        "name": "紅茶",
+        "pinned_tweet_id": "1929506564077224005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942238172215197696/_BHOzpUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 1632,
+          "like_count": 34891,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 5397
+        },
+        "url": "https://t.co/UGVRraa39D",
+        "username": "RedteaCattleya",
+        "verified": false
+      }
+    ]
+  }
+}

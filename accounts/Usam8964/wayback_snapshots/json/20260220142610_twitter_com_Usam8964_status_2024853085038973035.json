@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024853082304348160"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2024853085038973035",
+    "created_at": "2026-02-20T14:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024853085038973035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vM4Ajp2SOn",
+          "end": 41,
+          "expanded_url": "https://x.com/Usam8964/status/2024853085038973035/photo/1",
+          "media_key": "3_2024853082304348160",
+          "start": 18,
+          "url": "https://t.co/vM4Ajp2SOn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024853085038973035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就说福清西站可以拍到冬季大三角吧 https://t.co/vM4Ajp2SOn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2024853082304348160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBm5JnUbAAAafyL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024853082304348160"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2024853085038973035",
+        "created_at": "2026-02-20T14:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024853085038973035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vM4Ajp2SOn",
+              "end": 41,
+              "expanded_url": "https://x.com/Usam8964/status/2024853085038973035/photo/1",
+              "media_key": "3_2024853082304348160",
+              "start": 18,
+              "url": "https://t.co/vM4Ajp2SOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024853085038973035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就说福清西站可以拍到冬季大三角吧 https://t.co/vM4Ajp2SOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3552,
+          "following_count": 1066,
+          "like_count": 34402,
+          "listed_count": 8,
+          "media_count": 321,
+          "tweet_count": 4246
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2046613624937140323",
+    "created_at": "2026-04-21T16:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046626939491033367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1527652153392701442",
+          "start": 0,
+          "username": "ctf7zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046626939491033367",
+    "in_reply_to_user_id": "1527652153392701442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046613624937140323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctf7zi 想し"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2046613624937140323",
+        "created_at": "2026-04-21T16:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046626939491033367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1527652153392701442",
+              "start": 0,
+              "username": "ctf7zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046626939491033367",
+        "in_reply_to_user_id": "1527652153392701442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046613624937140323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctf7zi 想し"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527652153392701442",
+        "conversation_id": "2046613624937140323",
+        "created_at": "2026-04-21T15:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046613624937140323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ctf7zi/status/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/ctf7zi/status/2046609520844308633",
+              "start": 41,
+              "url": "https://t.co/8dEhIakqVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046613624937140323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046609520844308633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日文打多了输入“吸”的时候打成了“shi”在词库里翻了好一会才反应过来打错了、、 https://t.co/8dEhIakqVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3640,
+          "following_count": 1167,
+          "like_count": 53854,
+          "listed_count": 6,
+          "media_count": 476,
+          "tweet_count": 6627
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T14:07:21.000Z",
+        "description": "自伤/od/跨女/一些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ctf7zi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ctf7zi",
+                "start": 0,
+                "url": "https://t.co/N1lw2XkF1m"
+              }
+            ]
+          }
+        },
+        "id": "1527652153392701442",
+        "name": "玔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785403185932455936/UTl4_iZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 497,
+          "like_count": 23725,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 7756
+        },
+        "url": "https://t.co/N1lw2XkF1m",
+        "username": "ctf7zi",
+        "verified": false
+      }
+    ]
+  }
+}

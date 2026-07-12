@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890754179721007104",
+        "3_1890754177246408704",
+        "3_1890754174952120320",
+        "3_1890754177623879680"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1890754184284143770",
+    "created_at": "2025-02-15T13:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T14:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890754184284143770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "995268939994165248",
+          "start": 4,
+          "username": "KaguraAiri_QWQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SFpk6JzW4D",
+          "end": 43,
+          "expanded_url": "https://x.com/Usam8964/status/1890754184284143770/photo/1",
+          "media_key": "3_1890754179721007104",
+          "start": 20,
+          "url": "https://t.co/SFpk6JzW4D"
+        },
+        {
+          "display_url": "pic.x.com/SFpk6JzW4D",
+          "end": 43,
+          "expanded_url": "https://x.com/Usam8964/status/1890754184284143770/photo/1",
+          "media_key": "3_1890754177246408704",
+          "start": 20,
+          "url": "https://t.co/SFpk6JzW4D"
+        },
+        {
+          "display_url": "pic.x.com/SFpk6JzW4D",
+          "end": 43,
+          "expanded_url": "https://x.com/Usam8964/status/1890754184284143770/photo/1",
+          "media_key": "3_1890754174952120320",
+          "start": 20,
+          "url": "https://t.co/SFpk6JzW4D"
+        },
+        {
+          "display_url": "pic.x.com/SFpk6JzW4D",
+          "end": 43,
+          "expanded_url": "https://x.com/Usam8964/status/1890754184284143770/photo/1",
+          "media_key": "3_1890754177623879680",
+          "start": 20,
+          "url": "https://t.co/SFpk6JzW4D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890754184284143770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "静安寺 @KaguraAiri_QWQ https://t.co/SFpk6JzW4D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1890754179721007104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1O6KfbEAAbaUP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1890754177246408704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1O6BRbsAAMROn.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1890754174952120320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1O54uboAA_0l2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1890754177623879680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1O6CrbcAAR086.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890754179721007104",
+            "3_1890754177246408704",
+            "3_1890754174952120320",
+            "3_1890754177623879680"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1890754184284143770",
+        "created_at": "2025-02-15T13:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T14:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890754184284143770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "995268939994165248",
+              "start": 4,
+              "username": "KaguraAiri_QWQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFpk6JzW4D",
+              "end": 43,
+              "expanded_url": "https://x.com/Usam8964/status/1890754184284143770/photo/1",
+              "media_key": "3_1890754179721007104",
+              "start": 20,
+              "url": "https://t.co/SFpk6JzW4D"
+            },
+            {
+              "display_url": "pic.x.com/SFpk6JzW4D",
+              "end": 43,
+              "expanded_url": "https://x.com/Usam8964/status/1890754184284143770/photo/1",
+              "media_key": "3_1890754177246408704",
+              "start": 20,
+              "url": "https://t.co/SFpk6JzW4D"
+            },
+            {
+              "display_url": "pic.x.com/SFpk6JzW4D",
+              "end": 43,
+              "expanded_url": "https://x.com/Usam8964/status/1890754184284143770/photo/1",
+              "media_key": "3_1890754174952120320",
+              "start": 20,
+              "url": "https://t.co/SFpk6JzW4D"
+            },
+            {
+              "display_url": "pic.x.com/SFpk6JzW4D",
+              "end": 43,
+              "expanded_url": "https://x.com/Usam8964/status/1890754184284143770/photo/1",
+              "media_key": "3_1890754177623879680",
+              "start": 20,
+              "url": "https://t.co/SFpk6JzW4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890754184284143770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "静安寺 @KaguraAiri_QWQ https://t.co/SFpk6JzW4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 1013,
+          "like_count": 31587,
+          "listed_count": 7,
+          "media_count": 425,
+          "tweet_count": 3659
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T11:46:21.000Z",
+        "description": "想和大家做朋友!/一只有点不太像INFJ的INFJ-T猫猫/全国乱跑/过期(?)jk/我是你的赛博小猫罐头",
+        "id": "995268939994165248",
+        "location": "Far away from stars",
+        "name": "神楽愛理🍥",
+        "pinned_tweet_id": "1813057468626530802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829025477136396289/dpVRfuzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 375,
+          "like_count": 5778,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 2244
+        },
+        "username": "KaguraAiri_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

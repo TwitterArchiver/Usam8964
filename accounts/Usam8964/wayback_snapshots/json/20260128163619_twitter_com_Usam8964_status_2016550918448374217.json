@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2016390971051950519",
+    "created_at": "2026-01-28T16:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T17:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016550918448374217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016550918448374217",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016390971051950519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 女真的崛起\n\n中间忘了\n总之扣50天命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2016390961329537025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uo5WJbAAEdMod.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2016390971051950519",
+        "created_at": "2026-01-28T16:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016550918448374217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016550918448374217",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016390971051950519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 女真的崛起\n\n中间忘了\n总之扣50天命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016390961329537025"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016390971051950519",
+        "created_at": "2026-01-28T06:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016390971051950519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETCgl5Rrs5",
+              "end": 155,
+              "expanded_url": "https://x.com/Goldwater8964/status/2016390971051950519/photo/1",
+              "media_key": "3_2016390961329537025",
+              "start": 132,
+              "url": "https://t.co/ETCgl5Rrs5"
+            },
+            {
+              "display_url": "x.com/leon16440319/s…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/leon16440319/status/2016321650162303323",
+              "start": 156,
+              "url": "https://t.co/uWmp92N9pW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016390971051950519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 346,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016321650162303323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们汉人能不能冷静一点，没有人想打中国，将来澳大利亚新西兰也不会莫名其妙打到中国境内搞个新新南威尔士和新南澳大利亚，你们能不能去找个反贼去狗叫意淫，不要恶心你有加分的满爹，建议和链条老哥学学粉红的自我修养，不要做皇汉蛆，你们汉人应该自己家开一个社交媒体而不是用x https://t.co/ETCgl5Rrs5 https://t.co/uWmp92N9pW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998373924263153664/RfLfOjEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3437,
+          "following_count": 1009,
+          "like_count": 32515,
+          "listed_count": 8,
+          "media_count": 469,
+          "tweet_count": 4103
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "Kiwi/Aucklander/Male/libertarianist/Young ACT/Anglican 澳新人士 圣公会基督徒 自由意志主义者 户晨风提督 俄伊哈巴粉最严厉的父亲 行动党青年翼",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿",
+        "pinned_tweet_id": "2004278447347212497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956483759584489472/GTymbWhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 396,
+          "like_count": 2044,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 414
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

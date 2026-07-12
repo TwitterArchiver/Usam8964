@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024693449438744576"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2024664743798362352",
+    "created_at": "2026-02-20T03:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024693452190208144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1485158225167413248",
+          "start": 0,
+          "username": "chihorishizuku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4jGv255Z2H",
+          "end": 39,
+          "expanded_url": "https://x.com/Usam8964/status/2024693452190208144/photo/1",
+          "media_key": "3_2024693449438744576",
+          "start": 16,
+          "url": "https://t.co/4jGv255Z2H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024693452190208144",
+    "in_reply_to_user_id": "1485158225167413248",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024664743798362352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chihorishizuku https://t.co/4jGv255Z2H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 443,
+        "media_key": "3_2024693449438744576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkn9wjbUAAao9-.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024693449438744576"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2024664743798362352",
+        "created_at": "2026-02-20T03:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024693452190208144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1485158225167413248",
+              "start": 0,
+              "username": "chihorishizuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jGv255Z2H",
+              "end": 39,
+              "expanded_url": "https://x.com/Usam8964/status/2024693452190208144/photo/1",
+              "media_key": "3_2024693449438744576",
+              "start": 16,
+              "url": "https://t.co/4jGv255Z2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024693452190208144",
+        "in_reply_to_user_id": "1485158225167413248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024664743798362352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chihorishizuku https://t.co/4jGv255Z2H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485158225167413248",
+        "conversation_id": "2024664743798362352",
+        "created_at": "2026-02-20T01:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024664743798362352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024664743798362352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我什么时候能绝经"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3549,
+          "following_count": 1066,
+          "like_count": 34326,
+          "listed_count": 8,
+          "media_count": 318,
+          "tweet_count": 4221
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP｜LGBTQ+｜06｜ASD｜BPD｜ADHD｜管人痴🥕｜直fo查成分回｜岁静日常推｜婉拒品客｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shoumanori",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shoumanori",
+                "start": 0,
+                "url": "https://t.co/7ApZglqYBr"
+              }
+            ]
+          }
+        },
+        "id": "1485158225167413248",
+        "location": "匿名问答→",
+        "name": "游吟诗人Sirelia🎐",
+        "pinned_tweet_id": "2020038370509091038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022843815997116418/ebQkW6uv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4087,
+          "following_count": 678,
+          "like_count": 25974,
+          "listed_count": 9,
+          "media_count": 498,
+          "tweet_count": 5152
+        },
+        "url": "https://t.co/7ApZglqYBr",
+        "username": "chihorishizuku",
+        "verified": true
+      }
+    ]
+  }
+}

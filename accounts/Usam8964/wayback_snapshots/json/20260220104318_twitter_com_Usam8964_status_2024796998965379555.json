@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2024794554520732024",
+    "created_at": "2026-02-20T10:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024796998965379555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024796998965379555",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024794554520732024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ 舞萌神人多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024794546740379648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmD6ZWbwAArtsm.jpg",
+        "width": 946
+      },
+      {
+        "height": 762,
+        "media_key": "3_2024794546748731392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmD6ZYbMAAB-a6.jpg",
+        "width": 720
+      },
+      {
+        "height": 1441,
+        "media_key": "3_2024794546736091136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmD6ZVaUAAYV5h.jpg",
+        "width": 720
+      },
+      {
+        "height": 1866,
+        "media_key": "3_2024794546731921408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmD6ZUasAAs5sB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2024794554520732024",
+        "created_at": "2026-02-20T10:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024796998965379555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024796998965379555",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024794554520732024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 舞萌神人多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024794546740379648",
+            "3_2024794546748731392",
+            "3_2024794546736091136",
+            "3_2024794546731921408"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024794554520732024",
+        "created_at": "2026-02-20T10:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024794554520732024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qk04OuPqu4",
+              "end": 161,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2024794554520732024/photo/1",
+              "media_key": "3_2024794546740379648",
+              "start": 138,
+              "url": "https://t.co/qk04OuPqu4"
+            },
+            {
+              "display_url": "pic.x.com/qk04OuPqu4",
+              "end": 161,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2024794554520732024/photo/1",
+              "media_key": "3_2024794546748731392",
+              "start": 138,
+              "url": "https://t.co/qk04OuPqu4"
+            },
+            {
+              "display_url": "pic.x.com/qk04OuPqu4",
+              "end": 161,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2024794554520732024/photo/1",
+              "media_key": "3_2024794546736091136",
+              "start": 138,
+              "url": "https://t.co/qk04OuPqu4"
+            },
+            {
+              "display_url": "pic.x.com/qk04OuPqu4",
+              "end": 161,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2024794554520732024/photo/1",
+              "media_key": "3_2024794546731921408",
+              "start": 138,
+              "url": "https://t.co/qk04OuPqu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024794554520732024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【转载】\n《震惊！南昌某神秘机厅惊现17岁xyy男子对13岁女孩进行性骚扰！》\n省流:\n你圈舞萌17岁性压抑w6男骚扰13岁女孩？！（甚至惯犯）\n瓜主信息（p1p2)\n在我们了解事情想去找他之后苦主的好友被删了，现在暂时没有他的微信……\n（QQ设置了QQ号无法搜索）\n内容:\n2026年2月19日大概18点40分时，苦主前往机厅打舞萌遇到瓜主，瓜主询问苦主可不可以加好友，然后在微信上询问是否可以贴贴\n然后瓜主就开始线下性骚扰苦主，后面瓜主就开始捏苦主的胸，甚至掀衣服，苦主反抗\n但是瓜主变本加厉，甚至摸了苦主下体\n（在上图第一句话后瓜主线下对苦主打了一句“喜欢色色的”后删除）\n于是苦主开始推脱，但瓜主抱紧苦主不然苦主离开，最后苦主以玩太晚为由离开机厅，瓜主甚至还想送苦主回家。。。\n苦主回家后，瓜主通过微信对苦主进行性骚扰。。。\n直到后面被苦主朋友发现去骂瓜主，事情才告一段落（大概23点后）\n瓜主甚至还是惯犯！\n总结:\n希望各位舞萌痴在外都要多多注意个人隐私安全！同时我们也希望瓜主可以得到他应有的惩罚！\n（以上为瓜主与苦主的聊天记录）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【转载】\n《震惊！南昌某神秘机厅惊现17岁xyy男子对13岁女孩进行性骚扰！》\n省流:\n你圈舞萌17岁性压抑w6男骚扰13岁女孩？！（甚至惯犯）\n瓜主信息（p1p2)\n在我们了解事情想去找他之后苦主的好友被删了，现在暂时没有他的微信……\n（QQ设置了QQ号无法搜索）\n内容: https://t.co/qk04OuPqu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3551,
+          "following_count": 1066,
+          "like_count": 34383,
+          "listed_count": 8,
+          "media_count": 320,
+          "tweet_count": 4238
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします ❤️@MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kona.icu",
+                "end": 23,
+                "expanded_url": "https://kona.icu",
+                "start": 0,
+                "url": "https://t.co/71HeCHYqFm"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2016101454386495711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2967,
+          "following_count": 790,
+          "like_count": 14025,
+          "listed_count": 10,
+          "media_count": 1528,
+          "tweet_count": 6967
+        },
+        "url": "https://t.co/71HeCHYqFm",
+        "username": "komacyan_zZ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1828613132996276347",
+    "created_at": "2024-08-28T03:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T04:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828640704652026335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1489807738410450945",
+          "start": 0,
+          "username": "kite52154243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828640704652026335",
+    "in_reply_to_user_id": "1489807738410450945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828613132996276347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kite52154243 内圈贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1828613132996276347",
+        "created_at": "2024-08-28T03:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T04:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828640704652026335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1489807738410450945",
+              "start": 0,
+              "username": "kite52154243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828640704652026335",
+        "in_reply_to_user_id": "1489807738410450945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828613132996276347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kite52154243 内圈贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828613130374836225"
+          ]
+        },
+        "author_id": "1489807738410450945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1828613132996276347",
+        "created_at": "2024-08-28T01:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T02:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828613132996276347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1826647634574278657/QaLpUpqj?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1826647634574278657/QaLpUpqj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/q1aoFR4DL1"
+            },
+            {
+              "display_url": "pic.x.com/jfmy0t80mu",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kite52154243/status/1828613132996276347/photo/1",
+              "media_key": "3_1828613130374836225",
+              "start": 41,
+              "url": "https://t.co/JFMy0T80mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828613132996276347",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 108,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/q1aoFR4DL1 https://t.co/JFMy0T80mu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 814,
+          "like_count": 21557,
+          "listed_count": 2,
+          "tweet_count": 2749
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T03:47:10.000Z",
+        "description": "鲨鱼公主/恐虐冠军勇士/傻卵二次元/xyn互fo/家长党天赋党术后党/烘焙少女/日常游荡长沙/🚪80/出原味",
+        "id": "1489807738410450945",
+        "location": "长沙",
+        "name": "翼儿🇹🇼",
+        "pinned_tweet_id": "1825093722784305261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826643739319959554/IY_2kyLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3492,
+          "following_count": 689,
+          "like_count": 6930,
+          "listed_count": 9,
+          "tweet_count": 3167
+        },
+        "username": "kite52154243",
+        "verified": false
+      }
+    ]
+  }
+}

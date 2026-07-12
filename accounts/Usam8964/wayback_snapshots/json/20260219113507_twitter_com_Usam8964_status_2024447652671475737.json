@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2024161845423088080",
+    "created_at": "2026-02-19T11:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024447652671475737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798770460752297984",
+          "start": 0,
+          "username": "AtlasLGBT"
+        },
+        {
+          "end": 19,
+          "id": "961832160377282560",
+          "start": 11,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024447652671475737",
+    "in_reply_to_user_id": "1798770460752297984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024161845423088080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AtlasLGBT @iMoeAya 突厥蛮子挂个星月旗穿个紫袍就以为自己是罗马传统信仰守护者了？别招笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2024161845423088080",
+        "created_at": "2026-02-19T11:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024447652671475737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798770460752297984",
+              "start": 0,
+              "username": "AtlasLGBT"
+            },
+            {
+              "end": 19,
+              "id": "961832160377282560",
+              "start": 11,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024447652671475737",
+        "in_reply_to_user_id": "1798770460752297984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024161845423088080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AtlasLGBT @iMoeAya 突厥蛮子挂个星月旗穿个紫袍就以为自己是罗马传统信仰守护者了？别招笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798770460752297984",
+        "conversation_id": "2024161845423088080",
+        "created_at": "2026-02-18T16:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024161845423088080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anatolialia/st…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/anatolialia/status/2023803632530190656",
+              "start": 107,
+              "url": "https://t.co/CToBIbVbeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024161845423088080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 66599,
+          "like_count": 1987,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023803632530190656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各国基本盘简直长了同一个脑袋。\n把对于LGBT的基本人权保护 ，\n转译为西方意识形态入侵。\n如果保护 LGBT是西方的意识形态，那可以理解为：\n你们的文化是残忍、压迫和排斥少数群体的吗?\n这么爱抹黑自己的文化吗？ https://t.co/CToBIbVbeG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3550,
+          "following_count": 1066,
+          "like_count": 34288,
+          "listed_count": 8,
+          "media_count": 317,
+          "tweet_count": 4212
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T17:34:52.000Z",
+        "description": "不断发声，声音才不会被淹没。\nHomophobia is a cognitive disorder，Love is the only cure.🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "the-cure-for-bigotry.edu",
+                "end": 23,
+                "expanded_url": "http://the-cure-for-bigotry.edu",
+                "start": 0,
+                "url": "https://t.co/GY2dDeMlwZ"
+              }
+            ]
+          }
+        },
+        "id": "1798770460752297984",
+        "location": "A Sick World",
+        "name": "Atlas",
+        "pinned_tweet_id": "2020139305407004771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013196101730312192/4ayc920J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 143,
+          "like_count": 1297,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/GY2dDeMlwZ",
+        "username": "AtlasLGBT",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40529,
+          "following_count": 4834,
+          "like_count": 176576,
+          "listed_count": 152,
+          "media_count": 1160,
+          "tweet_count": 35548
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

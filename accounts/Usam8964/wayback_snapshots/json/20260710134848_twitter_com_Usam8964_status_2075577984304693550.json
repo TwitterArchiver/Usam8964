@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2075552076659306541",
+    "created_at": "2026-07-10T13:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075577984304693550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700512333100126208",
+          "start": 0,
+          "username": "5pr1ng6rIdge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075577984304693550",
+    "in_reply_to_user_id": "1700512333100126208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075552076659306541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5pr1ng6rIdge 教我aic"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075552059945041921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Xmg3awAE8Wnz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2075552076659306541",
+        "created_at": "2026-07-10T13:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075577984304693550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700512333100126208",
+              "start": 0,
+              "username": "5pr1ng6rIdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075577984304693550",
+        "in_reply_to_user_id": "1700512333100126208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075552076659306541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5pr1ng6rIdge 教我aic"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075552059945041921"
+          ]
+        },
+        "author_id": "1700512333100126208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075552076659306541",
+        "created_at": "2026-07-10T12:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075552076659306541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VAwzd96TaR",
+              "end": 50,
+              "expanded_url": "https://x.com/5pr1ng6rIdge/status/2075552076659306541/photo/1",
+              "media_key": "3_2075552059945041921",
+              "start": 27,
+              "url": "https://t.co/VAwzd96TaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075552076659306541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想成为扫比啊。。。就是那种很会打扫键的扫人。。（） https://t.co/VAwzd96TaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 1354,
+          "like_count": 77674,
+          "listed_count": 6,
+          "media_count": 596,
+          "tweet_count": 8108
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-09T14:12:46.000Z",
+        "description": "I Love The World And Everything In It.\n@In_faPasDeFutur ALL=(ALL)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "In_faPasDeFutur"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssdfz.sh.cn",
+                "end": 23,
+                "expanded_url": "http://ssdfz.sh.cn",
+                "start": 0,
+                "url": "https://t.co/Y9zFSv4FHe"
+              }
+            ]
+          }
+        },
+        "id": "1700512333100126208",
+        "location": "fwarinben",
+        "name": "_idge🐱❔☂️🏴",
+        "pinned_tweet_id": "2060752247336935725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037752173073981440/-UM7ouVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 942,
+          "like_count": 23897,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1632
+        },
+        "url": "https://t.co/Y9zFSv4FHe",
+        "username": "5pr1ng6rIdge",
+        "verified": false
+      }
+    ]
+  }
+}

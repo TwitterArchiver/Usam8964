@@ -1,0 +1,155 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1809023453712036328",
+    "created_at": "2024-07-09T14:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T15:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810689457689170336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1595034091161796609",
+          "start": 0,
+          "username": "zerinf42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810689457689170336",
+    "in_reply_to_user_id": "1595034091161796609",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810689055405048171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerinf42 2333，还行吧不会写mod就只能做一些低端的魔改orz"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1810689055405048171].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1810689055405048171",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1810689055405048171"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1809023453712036328",
+        "created_at": "2024-07-09T14:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T15:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810689457689170336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1595034091161796609",
+              "start": 0,
+              "username": "zerinf42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810689457689170336",
+        "in_reply_to_user_id": "1595034091161796609",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810689055405048171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerinf42 2333，还行吧不会写mod就只能做一些低端的魔改orz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 721,
+          "like_count": 13861,
+          "listed_count": 2,
+          "tweet_count": 2393
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T12:39:53.000Z",
+        "description": "she/her｜PhD in Instrument Science and Technology｜INTP｜Sweet-heart @carafutaba ｜Ruri & Anzu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "carafutaba"
+              }
+            ]
+          }
+        },
+        "id": "1595034091161796609",
+        "name": "双葉瑠璃🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637324992970096640/T5bpUonL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 101,
+          "like_count": 617,
+          "listed_count": 3,
+          "tweet_count": 286
+        },
+        "username": "zerinf42",
+        "verified": false
+      }
+    ]
+  }
+}

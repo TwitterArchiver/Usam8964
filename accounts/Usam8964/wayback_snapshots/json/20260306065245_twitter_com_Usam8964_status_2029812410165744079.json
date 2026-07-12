@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2029812410165744079",
+    "created_at": "2026-03-06T06:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T07:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029812410165744079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1863238745182572544",
+          "start": 3,
+          "username": "Serika_Kuromi1"
+        },
+        {
+          "end": 33,
+          "id": "1646013705874976768",
+          "start": 20,
+          "username": "girlsbandcry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029812410165744079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029587054095671732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Serika_Kuromi1: @girlsbandcry 我不想管那么多狗屁政治问题，我就想安安静静在没有傻B台巴子的平台看一部优质的番难道这是什么很过分的愿望么，我的车都是桃香和仁菜的痛车，你们这样真的对得起这么喜欢你们IP的粉丝们么？换做是仁菜来的话绝对不会让她粉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029812410165744079",
+        "created_at": "2026-03-06T06:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029812410165744079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1863238745182572544",
+              "start": 3,
+              "username": "Serika_Kuromi1"
+            },
+            {
+              "end": 33,
+              "id": "1646013705874976768",
+              "start": 20,
+              "username": "girlsbandcry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029812410165744079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029587054095671732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Serika_Kuromi1: @girlsbandcry 我不想管那么多狗屁政治问题，我就想安安静静在没有傻B台巴子的平台看一部优质的番难道这是什么很过分的愿望么，我的车都是桃香和仁菜的痛车，你们这样真的对得起这么喜欢你们IP的粉丝们么？换做是仁菜来的话绝对不会让她粉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863238745182572544",
+        "conversation_id": "2029527347788238997",
+        "created_at": "2026-03-05T15:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029587054095671732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1646013705874976768",
+              "start": 0,
+              "username": "girlsbandcry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029587054095671732",
+        "in_reply_to_user_id": "1646013705874976768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2057,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029527347788238997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@girlsbandcry 我不想管那么多狗屁政治问题，我就想安安静静在没有傻B台巴子的平台看一部优质的番难道这是什么很过分的愿望么，我的车都是桃香和仁菜的痛车，你们这样真的对得起这么喜欢你们IP的粉丝们么？换做是仁菜来的话绝对不会让她粉丝难过成这样。\n台巴子别来这条评论下边刷存在感，发一句我删一句加拉黑，恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 1067,
+          "like_count": 35578,
+          "listed_count": 8,
+          "media_count": 342,
+          "tweet_count": 4455
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T15:08:38.000Z",
+        "description": "一个臭雷批/War Thunder Player\n海峰郡警局局长/Sea Creast County Police\n肯塔基超人/Project Zomboid Enjoyer\n操你妈的数学/FKU math\n跨畜滚出去/No LGBTQ\n傻B台巴子有多远死多远/FK TWnese",
+        "id": "1863238745182572544",
+        "location": "Rosewood,K.Y",
+        "name": "海峰郡交警大队长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867545264032296962/u_vlrbu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 90,
+          "like_count": 2598,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 861
+        },
+        "username": "Serika_Kuromi1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルアニメ『ガールズバンドクライ』公式アカウント\n各サービスにて全話配信中！劇場版総集編 前編・後編 製作決定！\n前編：10月3日(金)、後編：11月14日(金)公開！\n推奨ハッシュタグ： #ガルクラ #トゲナシトゲアリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1970458122259972378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248817,
+          "following_count": 32,
+          "like_count": 3261,
+          "listed_count": 914,
+          "media_count": 2446,
+          "tweet_count": 5944
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

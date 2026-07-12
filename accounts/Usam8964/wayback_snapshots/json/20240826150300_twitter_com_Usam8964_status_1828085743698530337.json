@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1828078840868176346",
+    "created_at": "2024-08-26T15:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T16:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828085743698530337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644328501980561409",
+          "start": 0,
+          "username": "LitangHospital2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828085743698530337",
+    "in_reply_to_user_id": "1644328501980561409",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828078840868176346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitangHospital2 swallow♂my♂ass"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1828078840868176346",
+        "created_at": "2024-08-26T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828085743698530337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828085743698530337",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828078840868176346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 swallow♂my♂ass"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644328501980561409",
+        "conversation_id": "1828078840868176346",
+        "created_at": "2024-08-26T14:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T15:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828078840868176346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828078840868176346",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吼吼吼吼♂全给党"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 808,
+          "like_count": 21246,
+          "listed_count": 2,
+          "tweet_count": 2734
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "回归纯真",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "丁师傅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824110270576508928/rWsybOCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10722,
+          "following_count": 2702,
+          "like_count": 35673,
+          "listed_count": 38,
+          "tweet_count": 8760
+        },
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

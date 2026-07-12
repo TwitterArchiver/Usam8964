@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2032145881089392961",
+    "created_at": "2026-03-12T17:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032145881089392961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998947335213350912",
+          "start": 3,
+          "username": "mmtzjsj_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032145881089392961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025958237116543198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmtzjsj_: 一些女人的玩推困境：\n有🚪：🐔\n没🚪：🐔都不如\n骂人：太妹\n讲道理：理中客\n不露脸：丑逼\n脸奶同框：骚逼\n大众：土货\n小众：装货\n跟男的玩：媚男\n不跟男的玩：女拳\n朋友多：小团体\n没朋友：人品问题\n低学历：文盲\n高学历：你很牛吗\n     以上欢迎评…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2032145881089392961",
+        "created_at": "2026-03-12T17:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032145881089392961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998947335213350912",
+              "start": 3,
+              "username": "mmtzjsj_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032145881089392961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025958237116543198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmtzjsj_: 一些女人的玩推困境：\n有🚪：🐔\n没🚪：🐔都不如\n骂人：太妹\n讲道理：理中客\n不露脸：丑逼\n脸奶同框：骚逼\n大众：土货\n小众：装货\n跟男的玩：媚男\n不跟男的玩：女拳\n朋友多：小团体\n没朋友：人品问题\n低学历：文盲\n高学历：你很牛吗\n     以上欢迎评…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998947335213350912",
+        "conversation_id": "2025958237116543198",
+        "created_at": "2026-02-23T15:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025958237116543198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025958237116543198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 226823,
+          "like_count": 2017,
+          "quote_count": 14,
+          "reply_count": 87,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "一些女人的玩推困境：\n有🚪：🐔\n没🚪：🐔都不如\n骂人：太妹\n讲道理：理中客\n不露脸：丑逼\n脸奶同框：骚逼\n大众：土货\n小众：装货\n跟男的玩：媚男\n不跟男的玩：女拳\n朋友多：小团体\n没朋友：人品问题\n低学历：文盲\n高学历：你很牛吗\n     以上欢迎评论区补充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3602,
+          "following_count": 1099,
+          "like_count": 37212,
+          "listed_count": 9,
+          "media_count": 377,
+          "tweet_count": 4783
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T02:46:10.000Z",
+        "description": "你听我在说什么，你不要猜我是谁｜02｜172｜58kg｜infp｜匿名提问https://t.co/UOtiAG6Sox",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mmtzjsj",
+                "end": 60,
+                "expanded_url": "https://ngl.link/mmtzjsj",
+                "start": 37,
+                "url": "https://t.co/UOtiAG6Sox"
+              }
+            ]
+          }
+        },
+        "id": "1998947335213350912",
+        "location": "🚪233/520",
+        "name": "猫猫头拯救世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009860936933502976/XAoS4tZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 128,
+          "like_count": 552,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1243
+        },
+        "username": "mmtzjsj_",
+        "verified": false
+      }
+    ]
+  }
+}

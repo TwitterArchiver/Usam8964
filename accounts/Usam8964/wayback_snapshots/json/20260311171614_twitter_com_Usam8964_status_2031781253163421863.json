@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2031775616685793765",
+    "created_at": "2026-03-11T17:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T18:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031781253163421863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1495305183030497286",
+          "start": 0,
+          "username": "youdanmeiyouyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031781253163421863",
+    "in_reply_to_user_id": "1495305183030497286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031778972900716844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youdanmeiyouyou 大変助かりました！制服すごくかわいいですね、ほんと。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2031775616685793765",
+        "created_at": "2026-03-11T17:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031781253163421863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1495305183030497286",
+              "start": 0,
+              "username": "youdanmeiyouyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031781253163421863",
+        "in_reply_to_user_id": "1495305183030497286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031778972900716844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youdanmeiyouyou 大変助かりました！制服すごくかわいいですね、ほんと。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495305183030497286",
+        "conversation_id": "2031775616685793765",
+        "created_at": "2026-03-11T17:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031778972900716844"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "品川",
+              "probability": 0.5328,
+              "start": 26,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031778972900716844",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031778265250341137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 学生生活楽そうな女子校なら品女(品川女子)の方が結構そういうイメージがある\nちな、制服かわいいっす"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 1081,
+          "like_count": 36797,
+          "listed_count": 8,
+          "media_count": 362,
+          "tweet_count": 4657
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T07:52:04.000Z",
+        "description": "学校擬人化/東京師範と慶應と🍵激推し/女子枠、指定校入試批判/高等教育 学校指定校推薦入試改革/オリキャラ、制服、教育、語学勉強のこと呟く/子供十七人いるシングルファザー/世界女子校聖地巡礼中/慶應の誇りを取り戻す/国立大学授業料値上げ支持/縮小@yuukikagi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "yuukikagi2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9e10ma96mw3uj7…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9e10ma96mw3uj7o?t=QG4fNE&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FTIyv7tjgd"
+              }
+            ]
+          }
+        },
+        "id": "1495305183030497286",
+        "location": "慶應義塾大学（羽沢横浜国大キャンパス）🤡",
+        "name": "ゆうき　生まれたから慶應推しデス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880275215458136065/-cRY-lNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1643,
+          "like_count": 42477,
+          "listed_count": 7,
+          "media_count": 1476,
+          "tweet_count": 14032
+        },
+        "url": "https://t.co/FTIyv7tjgd",
+        "username": "youdanmeiyouyou",
+        "verified": false
+      }
+    ]
+  }
+}

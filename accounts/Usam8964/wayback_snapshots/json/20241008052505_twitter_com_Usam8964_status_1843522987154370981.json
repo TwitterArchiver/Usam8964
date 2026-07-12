@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1843522984109322248"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1843522987154370981",
+    "created_at": "2024-10-08T05:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T06:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843522987154370981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i4KeSnHFhe",
+          "end": 32,
+          "expanded_url": "https://x.com/Usam8964/status/1843522987154370981/photo/1",
+          "media_key": "3_1843522984109322248",
+          "start": 9,
+          "url": "https://t.co/i4KeSnHFhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843522987154370981",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "藏着黑猫的土豆子 https://t.co/i4KeSnHFhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_1843522984109322248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZWCYvsasAgWN6D.jpg",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843522984109322248"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1843522987154370981",
+        "created_at": "2024-10-08T05:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T06:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843522987154370981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4KeSnHFhe",
+              "end": 32,
+              "expanded_url": "https://x.com/Usam8964/status/1843522987154370981/photo/1",
+              "media_key": "3_1843522984109322248",
+              "start": 9,
+              "url": "https://t.co/i4KeSnHFhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843522987154370981",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "藏着黑猫的土豆子 https://t.co/i4KeSnHFhe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 908,
+          "like_count": 25675,
+          "listed_count": 4,
+          "tweet_count": 3110
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

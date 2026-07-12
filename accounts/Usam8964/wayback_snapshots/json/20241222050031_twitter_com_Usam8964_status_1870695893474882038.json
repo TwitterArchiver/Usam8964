@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870695889087627264",
+        "3_1870695888634703873"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1870695893474882038",
+    "created_at": "2024-12-22T05:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T06:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870695893474882038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m6gdNciBf2",
+          "end": 60,
+          "expanded_url": "https://x.com/Usam8964/status/1870695893474882038/photo/1",
+          "media_key": "3_1870695889087627264",
+          "start": 37,
+          "url": "https://t.co/m6gdNciBf2"
+        },
+        {
+          "display_url": "pic.x.com/m6gdNciBf2",
+          "end": 60,
+          "expanded_url": "https://x.com/Usam8964/status/1870695893474882038/photo/1",
+          "media_key": "3_1870695888634703873",
+          "start": 37,
+          "url": "https://t.co/m6gdNciBf2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870695893474882038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在国金中心吃Grande A'moo\n面包很酥脆，意面肉酱的香味非常浓郁 https://t.co/m6gdNciBf2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1886,
+        "media_key": "3_1870695889087627264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfYL_-_aAAAnmWD.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1340,
+        "media_key": "3_1870695888634703873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfYL_9Ta8AEDRR5.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870695889087627264",
+            "3_1870695888634703873"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1870695893474882038",
+        "created_at": "2024-12-22T05:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T06:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870695893474882038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6gdNciBf2",
+              "end": 60,
+              "expanded_url": "https://x.com/Usam8964/status/1870695893474882038/photo/1",
+              "media_key": "3_1870695889087627264",
+              "start": 37,
+              "url": "https://t.co/m6gdNciBf2"
+            },
+            {
+              "display_url": "pic.x.com/m6gdNciBf2",
+              "end": 60,
+              "expanded_url": "https://x.com/Usam8964/status/1870695893474882038/photo/1",
+              "media_key": "3_1870695888634703873",
+              "start": 37,
+              "url": "https://t.co/m6gdNciBf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870695893474882038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在国金中心吃Grande A'moo\n面包很酥脆，意面肉酱的香味非常浓郁 https://t.co/m6gdNciBf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 1009,
+          "like_count": 30860,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 3610
+        },
+        "username": "Usam8964",
+        "verified": true
+      }
+    ]
+  }
+}

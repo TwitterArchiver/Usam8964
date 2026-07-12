@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1910720352717856887",
+    "created_at": "2025-04-11T15:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T16:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910720352717856887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 3,
+          "username": "Xinyi_ADHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910720352717856887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910487454840144257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xinyi_ADHD: 这里是心漪/Nagi\n一个集创造力和审美力为一体的灵魂\n喜欢全新的人生体验\n\n喜欢做菜（但是不喜欢收拾\n更喜欢尝试开发各种新口味（但是经常翻车\n喜欢与各种年龄各种风格的人交流\n为了迸发出更多的灵感火花\n经常有天马行空的想法\n而且常常付诸实践\n会做…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910487447504347137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoNqNhhW4AEAN3h.jpg",
+        "width": 944
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1910487448368435200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoNqNkvX0AAFiOC.jpg",
+        "width": 583
+      },
+      {
+        "height": 944,
+        "media_key": "3_1910487447466655744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoNqNhYXwAA2xjk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1910487448326459392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoNqNklXUAAkadK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1910720352717856887",
+        "created_at": "2025-04-11T15:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T16:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910720352717856887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 3,
+              "username": "Xinyi_ADHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910720352717856887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910487454840144257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xinyi_ADHD: 这里是心漪/Nagi\n一个集创造力和审美力为一体的灵魂\n喜欢全新的人生体验\n\n喜欢做菜（但是不喜欢收拾\n更喜欢尝试开发各种新口味（但是经常翻车\n喜欢与各种年龄各种风格的人交流\n为了迸发出更多的灵感火花\n经常有天马行空的想法\n而且常常付诸实践\n会做…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910487447504347137",
+            "3_1910487448368435200",
+            "3_1910487447466655744",
+            "3_1910487448326459392"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "1910487454840144257",
+        "created_at": "2025-04-11T00:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T01:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910487454840144257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bw8tnUY41",
+              "end": 171,
+              "expanded_url": "https://x.com/Xinyi_ADHD/status/1910487454840144257/photo/1",
+              "media_key": "3_1910487447504347137",
+              "start": 148,
+              "url": "https://t.co/2bw8tnUY41"
+            },
+            {
+              "display_url": "pic.x.com/2bw8tnUY41",
+              "end": 171,
+              "expanded_url": "https://x.com/Xinyi_ADHD/status/1910487454840144257/photo/1",
+              "media_key": "3_1910487448368435200",
+              "start": 148,
+              "url": "https://t.co/2bw8tnUY41"
+            },
+            {
+              "display_url": "pic.x.com/2bw8tnUY41",
+              "end": 171,
+              "expanded_url": "https://x.com/Xinyi_ADHD/status/1910487454840144257/photo/1",
+              "media_key": "3_1910487447466655744",
+              "start": 148,
+              "url": "https://t.co/2bw8tnUY41"
+            },
+            {
+              "display_url": "pic.x.com/2bw8tnUY41",
+              "end": 171,
+              "expanded_url": "https://x.com/Xinyi_ADHD/status/1910487454840144257/photo/1",
+              "media_key": "3_1910487448326459392",
+              "start": 148,
+              "url": "https://t.co/2bw8tnUY41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910487454840144257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这里是心漪/Nagi\n一个集创造力和审美力为一体的灵魂\n喜欢全新的人生体验\n\n喜欢做菜（但是不喜欢收拾\n更喜欢尝试开发各种新口味（但是经常翻车\n喜欢与各种年龄各种风格的人交流\n为了迸发出更多的灵感火花\n经常有天马行空的想法\n而且常常付诸实践\n会做出前无古人后无来者的事情\n\n喜欢凹角度凹造型自拍\np2是自豪之作🥺\n经常去低价服装店淘金\n喜欢摄影 尤其是拍天际线\n审美不算独特但是有点刁\n是颜控➕手控\n也会被有个性的人吸引\n\n我不像传统定义中的艺术家那样不食人间烟火\n而是在不同的城市中\n品味不同的生活气息\n品鉴不同的地方文化\n品尝不同的小吃美食（p4是我的口味\n带着土土（朴实）的艺术气息\n游走在大街小巷和早市夜市\n看高楼大厦和古典建筑\n或许我应该被称为“生活家”\n\n感谢你看到这里\n送你一段话吧\n“如果你处在冲动 焦躁 消极的情绪中，请驻足注视一下以前从未在意的事物吧。无论是天空的云朵，还是咸咸的海味。去一座新的城市，见一见新的人，说走就走的旅行也是很棒的。记得热爱生活哦”\n4月11日凌晨\n20岁的Nagi"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2484,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "这里是心漪/Nagi\n一个集创造力和审美力为一体的灵魂\n喜欢全新的人生体验\n\n喜欢做菜（但是不喜欢收拾\n更喜欢尝试开发各种新口味（但是经常翻车\n喜欢与各种年龄各种风格的人交流\n为了迸发出更多的灵感火花\n经常有天马行空的想法\n而且常常付诸实践\n会做出前无古人后无来者的事情\n\n喜欢凹角度凹造型自拍 https://t.co/2bw8tnUY41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 1031,
+          "like_count": 32497,
+          "listed_count": 7,
+          "media_count": 437,
+          "tweet_count": 3767
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "我并非在追求什么特别伟大的理想，只是想把每天过得更有感觉一点。你知道的，那种‘好像只有我会注意到’的感觉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "也是一种独特的人生体验嘛",
+        "name": "辞鸢婉心漪🦈✨",
+        "pinned_tweet_id": "1910487454840144257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906843104918769664/5Uc-gZdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 1522,
+          "like_count": 6051,
+          "listed_count": 6,
+          "media_count": 330,
+          "tweet_count": 3205
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "Xinyi_ADHD",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053964046",
+          "name": "殺戮の天使"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2031678988838637674",
+    "created_at": "2026-03-11T10:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T11:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031678988838637674"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 77,
+          "normalized_text": "殺戮の天使",
+          "probability": 0.8354,
+          "start": 73,
+          "type": "Other"
+        },
+        {
+          "end": 130,
+          "normalized_text": "エディ",
+          "probability": 0.8395,
+          "start": 128,
+          "type": "Person"
+        },
+        {
+          "end": 135,
+          "normalized_text": "キャシー",
+          "probability": 0.715,
+          "start": 132,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4573560492",
+          "start": 3,
+          "username": "strk_tenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031678988838637674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031671550169227427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strk_tenshi: 🕊━━━━━━━━━\n殺戮の天使文庫本2巻\n　　23日発売決定\n━━━━━━━━━🕊\n1巻が大好評の小説版『殺戮の天使』、ついに2巻の発売が決定！\n\nB2フロアに到着し試練に立ち向かう、あのレイが描かれます。\nさらに、エディとキャシーの過去短編…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2054,
+        "media_key": "3_2031671545442254848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHygZ5awAAe7Tn.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053964046",
+              "name": "殺戮の天使"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2031678988838637674",
+        "created_at": "2026-03-11T10:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031678988838637674"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 77,
+              "normalized_text": "殺戮の天使",
+              "probability": 0.8354,
+              "start": 73,
+              "type": "Other"
+            },
+            {
+              "end": 130,
+              "normalized_text": "エディ",
+              "probability": 0.8395,
+              "start": 128,
+              "type": "Person"
+            },
+            {
+              "end": 135,
+              "normalized_text": "キャシー",
+              "probability": 0.715,
+              "start": 132,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4573560492",
+              "start": 3,
+              "username": "strk_tenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031678988838637674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031671550169227427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strk_tenshi: 🕊━━━━━━━━━\n殺戮の天使文庫本2巻\n　　23日発売決定\n━━━━━━━━━🕊\n1巻が大好評の小説版『殺戮の天使』、ついに2巻の発売が決定！\n\nB2フロアに到着し試練に立ち向かう、あのレイが描かれます。\nさらに、エディとキャシーの過去短編…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031671545442254848"
+          ]
+        },
+        "author_id": "4573560492",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2031671550169227427",
+        "created_at": "2026-03-11T10:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031671550169227427"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "殺戮の天使",
+              "probability": 0.8387,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "エディ",
+              "probability": 0.7935,
+              "start": 111,
+              "type": "Person"
+            },
+            {
+              "end": 118,
+              "normalized_text": "キャシー",
+              "probability": 0.6304,
+              "start": 115,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "大ヒットサイコホラーADV、『殺天』ノベライズ第2弾! 見知らぬビルの最下層で目覚めた少女・レイは、殺人鬼のザックとおかしな契約を交わし、協力して危険なビルからの脱出を試みる。待ち受けていた断罪人の攻撃により、ザックが瀕死状態におちいってしまった。救助のためにB2フロアにたどり着くと、大聖堂のような空間で神父を名乗る威圧的な男が待ち構えていた。レイに「試練」を与えると言うが……。ホラー史に燦然と輝く大ヒットホラーゲームのノベライズ完全版、第二弾!",
+              "display_url": "amazon.co.jp/dp/4041167620/",
+              "end": 160,
+              "expanded_url": "https://www.amazon.co.jp/dp/4041167620/",
+              "start": 137,
+              "status": 200,
+              "title": "殺戮の天使 2 BLESSING IN DISGUISE (角川ホラー文庫)",
+              "unwound_url": "https://www.amazon.co.jp/dp/4041167620/",
+              "url": "https://t.co/ekmaJMqC2m"
+            },
+            {
+              "display_url": "pic.x.com/G6l3qOzxEh",
+              "end": 184,
+              "expanded_url": "https://x.com/strk_tenshi/status/2031671550169227427/photo/1",
+              "media_key": "3_2031671545442254848",
+              "start": 161,
+              "url": "https://t.co/G6l3qOzxEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031671550169227427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 4844,
+          "like_count": 274,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "🕊━━━━━━━━━\n殺戮の天使文庫本2巻\n　　23日発売決定\n━━━━━━━━━🕊\n1巻が大好評の小説版『殺戮の天使』、ついに2巻の発売が決定！\n\nB2フロアに到着し試練に立ち向かう、あのレイが描かれます。\nさらに、エディとキャシーの過去短編も収録✨\n\n▼予約はこちら🕊\nhttps://t.co/ekmaJMqC2m https://t.co/G6l3qOzxEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 1080,
+          "like_count": 36673,
+          "listed_count": 8,
+          "media_count": 358,
+          "tweet_count": 4625
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-16T08:52:52.000Z",
+        "description": "『殺戮の天使』公式Twitterアカウント。 『殺戮の天使』の最新情報をつぶやきます。@negiyan11さんによる公式4コマも連載中！ TVアニメ「殺戮の天使」公式サイトhttps://t.co/0zxMO1zOOJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "negiyan11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "satsuriku.com",
+                "end": 109,
+                "expanded_url": "http://satsuriku.com",
+                "start": 86,
+                "url": "https://t.co/0zxMO1zOOJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gamemaga.jp/satsuriku/",
+                "end": 23,
+                "expanded_url": "https://www.gamemaga.jp/satsuriku/",
+                "start": 0,
+                "url": "https://t.co/ehD5tybZ7H"
+              }
+            ]
+          }
+        },
+        "id": "4573560492",
+        "name": "殺戮の天使🪽公式アカウント",
+        "pinned_tweet_id": "2019391055922414037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/677049411445264384/lJhImkzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140970,
+          "following_count": 23,
+          "like_count": 1975,
+          "listed_count": 606,
+          "media_count": 3632,
+          "tweet_count": 8487
+        },
+        "url": "https://t.co/ehD5tybZ7H",
+        "username": "strk_tenshi",
+        "verified": true
+      }
+    ]
+  }
+}

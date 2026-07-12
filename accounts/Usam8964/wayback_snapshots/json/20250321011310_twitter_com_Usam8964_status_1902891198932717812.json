@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1902449338217066911",
+    "created_at": "2025-03-21T01:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T02:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902891198932717812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quitee123"
+        },
+        {
+          "end": 23,
+          "id": "1727018936326336512",
+          "start": 11,
+          "username": "XueNai10130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902891198932717812",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902883380183904586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quitee123 @XueNai10130 我也想吐槽，不过不太好🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1902449338217066911",
+        "created_at": "2025-03-21T01:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T02:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902891198932717812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quitee123"
+            },
+            {
+              "end": 23,
+              "id": "1727018936326336512",
+              "start": 11,
+              "username": "XueNai10130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902891198932717812",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902883380183904586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quitee123 @XueNai10130 我也想吐槽，不过不太好🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1902449338217066911",
+        "created_at": "2025-03-21T00:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T01:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902883380183904586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727018936326336512",
+              "start": 0,
+              "username": "XueNai10130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902883380183904586",
+        "in_reply_to_user_id": "1727018936326336512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902449338217066911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XueNai10130 这是怎么做到的，兑水喝也要有好几升，能做到不吐吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2651,
+          "following_count": 1028,
+          "like_count": 32544,
+          "listed_count": 7,
+          "media_count": 435,
+          "tweet_count": 3751
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @larva7501 @dominnicchina 可爱妹妹@OVO_futa ⭐️@CnHpaHky SRS记录：https://t.co/jVttn2YeBF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "larva7501"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "OVO_futa"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "CnHpaHky"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 138,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 115,
+                "url": "https://t.co/jVttn2YeBF"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱（SRS恢复中ing）",
+        "pinned_tweet_id": "1887176415617163394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897659266326020096/YUzUza1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7195,
+          "following_count": 2309,
+          "like_count": 23079,
+          "listed_count": 17,
+          "media_count": 560,
+          "tweet_count": 10791
+        },
+        "username": "quitee123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T17:39:51.000Z",
+        "description": "Skracat",
+        "id": "1727018936326336512",
+        "location": "天堂",
+        "name": "雪奈",
+        "pinned_tweet_id": "1902432366624436479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874013853471928320/_tgD_a5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3008,
+          "following_count": 346,
+          "like_count": 594,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 493
+        },
+        "username": "XueNai10130",
+        "verified": false
+      }
+    ]
+  }
+}

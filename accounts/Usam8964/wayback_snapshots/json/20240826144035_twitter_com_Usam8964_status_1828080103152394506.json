@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1827909554803482652",
+    "created_at": "2024-08-26T14:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T15:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828080103152394506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617419399572643840",
+          "start": 0,
+          "username": "jingqngrng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828080103152394506",
+    "in_reply_to_user_id": "1617419399572643840",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828079497511600318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingqngrng1 宝宝你是一个特别特别温柔善良的人，鼓起勇气求夸夸的羞涩样子非常滴阔爱٩(๑&gt;◡&lt;๑)۶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1827909554803482652",
+        "created_at": "2024-08-26T14:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T15:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828080103152394506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617419399572643840",
+              "start": 0,
+              "username": "jingqngrng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828080103152394506",
+        "in_reply_to_user_id": "1617419399572643840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828079497511600318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngrng1 宝宝你是一个特别特别温柔善良的人，鼓起勇气求夸夸的羞涩样子非常滴阔爱٩(๑&gt;◡&lt;๑)۶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617419399572643840",
+        "conversation_id": "1827909554803482652",
+        "created_at": "2024-08-26T14:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T15:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828079497511600318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828079497511600318",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827909554803482652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 求夸夸🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 808,
+          "like_count": 21236,
+          "listed_count": 2,
+          "tweet_count": 2730
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T07:10:21.000Z",
+        "description": "民俗文化/手工藝/畫畫/古今語言/很難學會事情的幼稚推主/阿斯人/\n迴避政治/元来名: 杉原衣 (Sugihara Koromo);晴融.\n邮箱:  hanamiwosuru@gmail.com\njingqngrng1@outlook.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/benxnqueut",
+                "end": 23,
+                "expanded_url": "http://t.me/benxnqueut",
+                "start": 0,
+                "url": "https://t.co/5NB3MZvRml"
+              }
+            ]
+          }
+        },
+        "id": "1617419399572643840",
+        "location": "Middangeard",
+        "name": "比嘉 清吉子 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621041822020833280/DyxgA4Ui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 1658,
+          "like_count": 188612,
+          "listed_count": 2,
+          "tweet_count": 4433
+        },
+        "url": "https://t.co/5NB3MZvRml",
+        "username": "jingqngrng1",
+        "verified": false
+      }
+    ]
+  }
+}

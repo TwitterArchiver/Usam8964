@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915774045699866624"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1915774049759953278",
+    "created_at": "2025-04-25T14:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T15:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915774049759953278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1489807738410450945",
+          "start": 3,
+          "username": "kite52154243"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LApB11d6JY",
+          "end": 42,
+          "expanded_url": "https://x.com/Usam8964/status/1915774049759953278/photo/1",
+          "media_key": "3_1915774045699866624",
+          "start": 19,
+          "url": "https://t.co/LApB11d6JY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915774049759953278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和翼儿@kite52154243喝酒 https://t.co/LApB11d6JY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1915774045699866624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYyWCfagAASPRy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915774045699866624"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1915774049759953278",
+        "created_at": "2025-04-25T14:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915774049759953278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1489807738410450945",
+              "start": 3,
+              "username": "kite52154243"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LApB11d6JY",
+              "end": 42,
+              "expanded_url": "https://x.com/Usam8964/status/1915774049759953278/photo/1",
+              "media_key": "3_1915774045699866624",
+              "start": 19,
+              "url": "https://t.co/LApB11d6JY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915774049759953278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和翼儿@kite52154243喝酒 https://t.co/LApB11d6JY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 1036,
+          "like_count": 32865,
+          "listed_count": 7,
+          "media_count": 439,
+          "tweet_count": 3779
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T03:47:10.000Z",
+        "description": "法学佬/enfp/鲨鱼公主/恐虐冠军勇士/傻卵二次元/xyn互fo/家长党天赋党术后党/烘焙少女/日常游荡长沙//老婆是@POARISS1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "POARISS1"
+              }
+            ]
+          }
+        },
+        "id": "1489807738410450945",
+        "location": "0.1m",
+        "name": "翼儿🇹🇼（鲨鱼公主版）",
+        "pinned_tweet_id": "1839322804279541923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830241436140494848/ArTF9698_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 773,
+          "like_count": 7736,
+          "listed_count": 9,
+          "media_count": 258,
+          "tweet_count": 3864
+        },
+        "username": "kite52154243",
+        "verified": false
+      }
+    ]
+  }
+}

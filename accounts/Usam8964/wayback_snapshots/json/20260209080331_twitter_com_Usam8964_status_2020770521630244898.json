@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2020677962102866053",
+    "created_at": "2026-02-09T08:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T09:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020770521630244898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1485158225167413248",
+          "start": 0,
+          "username": "chihorishizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020770521630244898",
+    "in_reply_to_user_id": "1485158225167413248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020677962102866053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chihorishizuku 我也想被爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2020677962102866053",
+        "created_at": "2026-02-09T08:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020770521630244898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1485158225167413248",
+              "start": 0,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020770521630244898",
+        "in_reply_to_user_id": "1485158225167413248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020677962102866053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chihorishizuku 我也想被爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485158225167413248",
+        "conversation_id": "2020677962102866053",
+        "created_at": "2026-02-09T01:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020677962102866053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020677962102866053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1472,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果做爱能够等同于被爱就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 1043,
+          "like_count": 32973,
+          "listed_count": 8,
+          "media_count": 282,
+          "tweet_count": 3825
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP｜LGBTQ+｜06｜ASD｜BPD｜ADHD｜管人痴🥕｜直fo查成分回｜岁静日常推｜婉拒品客｜推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推！🔗：https://t.co/4vU1YBRvNm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 105,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=H0wBxWpB",
+                "start": 82,
+                "url": "https://t.co/4vU1YBRvNm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shoumanori",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shoumanori",
+                "start": 0,
+                "url": "https://t.co/7ApZglqYBr"
+              }
+            ]
+          }
+        },
+        "id": "1485158225167413248",
+        "location": "匿名问答→",
+        "name": "游吟诗人Sirelia🍥",
+        "pinned_tweet_id": "2020038370509091038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013973066188292096/u4D8d_Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 660,
+          "like_count": 24884,
+          "listed_count": 9,
+          "media_count": 470,
+          "tweet_count": 4907
+        },
+        "url": "https://t.co/7ApZglqYBr",
+        "username": "chihorishizuku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2024123397060305001",
+    "created_at": "2026-02-18T14:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024123397060305001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643490407094030338",
+          "start": 3,
+          "username": "Usam8964"
+        },
+        {
+          "end": 30,
+          "id": "1138842105856573445",
+          "start": 14,
+          "username": "NoContextHumans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024123397060305001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024123351753441559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Usam8964: @NoContextHumans 在闷热夏天腌了11.9个小时的产生无数亚硝酸盐的kebab健康在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024123397060305001",
+        "created_at": "2026-02-18T14:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024123397060305001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643490407094030338",
+              "start": 3,
+              "username": "Usam8964"
+            },
+            {
+              "end": 30,
+              "id": "1138842105856573445",
+              "start": 14,
+              "username": "NoContextHumans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024123397060305001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024123351753441559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Usam8964: @NoContextHumans 在闷热夏天腌了11.9个小时的产生无数亚硝酸盐的kebab健康在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024091530622038521",
+        "created_at": "2026-02-18T14:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024123351753441559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1138842105856573445",
+              "start": 0,
+              "username": "NoContextHumans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024123351753441559",
+        "in_reply_to_user_id": "1138842105856573445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024091530622038521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoContextHumans 在闷热夏天腌了11.9个小时的产生无数亚硝酸盐的kebab健康在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3547,
+          "following_count": 1065,
+          "like_count": 34187,
+          "listed_count": 8,
+          "media_count": 316,
+          "tweet_count": 4189
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-12T16:14:51.000Z",
+        "description": "The ORIGINAL Out of Context Human Race page! Subscribe to us for $1!↗️ No Copyright intended.",
+        "id": "1138842105856573445",
+        "name": "Out of Context Human Race",
+        "pinned_tweet_id": "2024023184505287118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207636309508014081/hfA24vWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4286904,
+          "following_count": 301,
+          "like_count": 99,
+          "listed_count": 9728,
+          "media_count": 43169,
+          "tweet_count": 50026
+        },
+        "username": "NoContextHumans",
+        "verified": true
+      }
+    ]
+  }
+}

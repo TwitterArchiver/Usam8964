@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1973687875163357558",
+    "created_at": "2025-10-03T09:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T10:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974039649187471820"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "萃香",
+          "probability": 0.4324,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1524372721630531589",
+          "start": 0,
+          "username": "MisumiYusei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974039649187471820",
+    "in_reply_to_user_id": "1524372721630531589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973687875163357558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisumiYusei 萃香とアリス欲しい"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973687838681272320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PyodobEAAea7k.jpg",
+        "width": 1429
+      },
+      {
+        "height": 986,
+        "media_key": "3_1973687838693793792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PyodraIAAbIvX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973687838672838656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PyodmaYAA2wss.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1973687875163357558",
+        "created_at": "2025-10-03T09:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974039649187471820"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "萃香",
+              "probability": 0.4324,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1524372721630531589",
+              "start": 0,
+              "username": "MisumiYusei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974039649187471820",
+        "in_reply_to_user_id": "1524372721630531589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973687875163357558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisumiYusei 萃香とアリス欲しい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973687838681272320",
+            "3_1973687838693793792",
+            "3_1973687838672838656"
+          ]
+        },
+        "author_id": "1524372721630531589",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973687875163357558",
+        "created_at": "2025-10-02T09:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T10:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973687875163357558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ax2T7uLhxt",
+              "end": 60,
+              "expanded_url": "https://x.com/MisumiYusei/status/1973687875163357558/photo/1",
+              "media_key": "3_1973687838681272320",
+              "start": 37,
+              "url": "https://t.co/ax2T7uLhxt"
+            },
+            {
+              "display_url": "pic.x.com/ax2T7uLhxt",
+              "end": 60,
+              "expanded_url": "https://x.com/MisumiYusei/status/1973687875163357558/photo/1",
+              "media_key": "3_1973687838693793792",
+              "start": 37,
+              "url": "https://t.co/ax2T7uLhxt"
+            },
+            {
+              "display_url": "pic.x.com/ax2T7uLhxt",
+              "end": 60,
+              "expanded_url": "https://x.com/MisumiYusei/status/1973687875163357558/photo/1",
+              "media_key": "3_1973687838672838656",
+              "start": 37,
+              "url": "https://t.co/ax2T7uLhxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973687875163357558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 23466,
+          "like_count": 606,
+          "quote_count": 27,
+          "reply_count": 13,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりにアキバホビー来たらめっちゃふもふも天国で笑った。ちょー可愛い🩷 https://t.co/ax2T7uLhxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 1028,
+          "like_count": 33291,
+          "listed_count": 10,
+          "media_count": 450,
+          "tweet_count": 4048
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T12:56:17.000Z",
+        "description": "なんとか絵を描いてます。東方と鬼滅と特撮が好き。DMはご依頼やサークル関係者様のみ。飼い猫→ﾃﾞｨｽﾄﾋﾟｱ太郎 色々関係ないです、ｵﾌﾚｺで。埴輪軍団の巨漢です。　BOOTH : https://t.co/EffERLGyf6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "misumiyusei.booth.pm",
+                "end": 114,
+                "expanded_url": "https://misumiyusei.booth.pm/",
+                "start": 91,
+                "url": "https://t.co/EffERLGyf6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13437258",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/13437258",
+                "start": 0,
+                "url": "https://t.co/FAVKxLJ70o"
+              }
+            ]
+          }
+        },
+        "id": "1524372721630531589",
+        "location": "連絡【yuseimisumi⭐︎gmail.com】⭐︎→@",
+        "name": "美住有生@秋例き23b",
+        "pinned_tweet_id": "1968234720329961679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943307788207177728/4wfsvuSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 197,
+          "like_count": 14732,
+          "listed_count": 1,
+          "media_count": 981,
+          "tweet_count": 5626
+        },
+        "url": "https://t.co/FAVKxLJ70o",
+        "username": "MisumiYusei",
+        "verified": false
+      }
+    ]
+  }
+}

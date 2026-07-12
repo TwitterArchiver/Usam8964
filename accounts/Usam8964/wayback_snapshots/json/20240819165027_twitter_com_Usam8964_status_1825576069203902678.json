@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1825571024131498494",
+    "created_at": "2024-08-19T16:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T17:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825576069203902678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1431306628683366401",
+          "start": 0,
+          "username": "zhileiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825576069203902678",
+    "in_reply_to_user_id": "1431306628683366401",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825571024131498494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhileiqwq 好真实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1825571024131498494",
+        "created_at": "2024-08-19T16:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T17:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825576069203902678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1431306628683366401",
+              "start": 0,
+              "username": "zhileiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825576069203902678",
+        "in_reply_to_user_id": "1431306628683366401",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825571024131498494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhileiqwq 好真实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825570999670292480"
+          ]
+        },
+        "author_id": "1431306628683366401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1825571024131498494",
+        "created_at": "2024-08-19T16:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T17:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825571024131498494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wg8sdmiyfa",
+              "end": 32,
+              "expanded_url": "https://twitter.com/zhileiqwq/status/1825571024131498494/photo/1",
+              "media_key": "3_1825570999670292480",
+              "start": 9,
+              "url": "https://t.co/Wg8sDmIyFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825571024131498494",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿了一天的小皮鞋 https://t.co/Wg8sDmIyFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 780,
+          "like_count": 18528,
+          "listed_count": 2,
+          "tweet_count": 2601
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T17:24:33.000Z",
+        "description": "持证含糖小男娘🏳️‍⚧️ ～/ 161cm50kg / 性取向是可爱 / 看到脚脚走不动道 /\n原味80，可定制 / 门槛35R\n          推荐梯子https://t.co/YkW8tv72nO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fanqiev2.top/auth/register?…",
+                "end": 102,
+                "expanded_url": "https://fanqiev2.top/auth/register?code=M8YM",
+                "start": 79,
+                "url": "https://t.co/YkW8tv72nO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zhileiqwq",
+                "end": 23,
+                "expanded_url": "https://t.me/zhileiqwq",
+                "start": 0,
+                "url": "https://t.co/gtT5mykbnf"
+              }
+            ]
+          }
+        },
+        "id": "1431306628683366401",
+        "location": "喵星",
+        "name": "芷蕾qwq🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1823725541381562888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718252730719092737/KPSiNpqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5807,
+          "following_count": 827,
+          "like_count": 3883,
+          "listed_count": 21,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/gtT5mykbnf",
+        "username": "zhileiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

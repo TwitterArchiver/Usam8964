@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020432164220022784"
+      ],
+      "media_source_tweet_id": [
+        "2020432176643440727"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2020442590080889149",
+    "created_at": "2026-02-08T10:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T11:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020442590080889149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916817753635426304",
+          "start": 3,
+          "username": "Goldwater8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JOSYHl16a6",
+          "end": 54,
+          "expanded_url": "https://x.com/Goldwater8964/status/2020432176643440727/photo/1",
+          "media_key": "3_2020432164220022784",
+          "start": 31,
+          "url": "https://t.co/JOSYHl16a6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020442590080889149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020432176643440727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goldwater8964: 请看这样一组难得的镜头 https://t.co/JOSYHl16a6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020432164220022784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoEWUEbsAAaIY3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020432164220022784"
+          ],
+          "media_source_tweet_id": [
+            "2020432176643440727"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2020442590080889149",
+        "created_at": "2026-02-08T10:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020442590080889149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916817753635426304",
+              "start": 3,
+              "username": "Goldwater8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOSYHl16a6",
+              "end": 54,
+              "expanded_url": "https://x.com/Goldwater8964/status/2020432176643440727/photo/1",
+              "media_key": "3_2020432164220022784",
+              "start": 31,
+              "url": "https://t.co/JOSYHl16a6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020442590080889149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020432176643440727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goldwater8964: 请看这样一组难得的镜头 https://t.co/JOSYHl16a6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020432164220022784"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2020432176643440727",
+        "created_at": "2026-02-08T09:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020432176643440727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOSYHl16a6",
+              "end": 35,
+              "expanded_url": "https://x.com/Goldwater8964/status/2020432176643440727/photo/1",
+              "media_key": "3_2020432164220022784",
+              "start": 12,
+              "url": "https://t.co/JOSYHl16a6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020432176643440727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请看这样一组难得的镜头 https://t.co/JOSYHl16a6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3463,
+          "following_count": 1038,
+          "like_count": 32862,
+          "listed_count": 8,
+          "media_count": 287,
+          "tweet_count": 3797
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "玩网只为博君一笑 悉尼之鼠🦘",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2018552923828240414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 512,
+          "like_count": 2499,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 606
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1869737236218208411",
+    "created_at": "2024-12-19T14:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T15:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869755503670387094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818107582117994496",
+          "start": 0,
+          "username": "CypressAlbert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869755503670387094",
+    "in_reply_to_user_id": "1818107582117994496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869737236218208411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert 他也骂我，换了几个号，好多次，我都没理他🤯今天才知道zyn全名"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1869737236218208411",
+        "created_at": "2024-12-19T14:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T15:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869755503670387094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818107582117994496",
+              "start": 0,
+              "username": "CypressAlbert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869755503670387094",
+        "in_reply_to_user_id": "1818107582117994496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869737236218208411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert 他也骂我，换了几个号，好多次，我都没理他🤯今天才知道zyn全名"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818107582117994496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1869737236218208411",
+        "created_at": "2024-12-19T13:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T14:30:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869736949948596702",
+          "1869737236218208411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CypressAlbert/…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/CypressAlbert/status/1869731714085626077",
+              "start": 166,
+              "url": "https://t.co/MLxpEECV1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869737236218208411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/CypressAlbert/…",
+                "end": 238,
+                "expanded_url": "https://x.com/CypressAlbert/status/1866403262162952218",
+                "start": 215,
+                "url": "https://t.co/eAWuu9y6Ei"
+              }
+            ]
+          },
+          "text": "由于本人信息已被假冒，现在公布zyn所有事迹及全家户籍\n省流：这人中推圈老狗皮膏药了，以仿冒别人的账户并辱骂他人为乐（完整版见回复）\n张钰宁 140105200806220091 山西省太原市小店区体育路351号 学生\n张静 140105197507065031 13934045879 北方自动控制技术研究所  研究员\n任秉慧 140105200806220091 13934514716 中国人民解放军第6904工厂  文员\nhttps://t.co/eAWuu9y6Ei"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 448,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869731714085626077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于本人信息已被假冒，现在公布zyn所有事迹及全家户籍\n省流：这人中推圈老狗皮膏药了，以仿冒别人的账户并辱骂他人为乐（完整版见回复）\n张钰宁 140105200806220091 山西省太原市小店区体育路351号 学生\n张静 140105197507065031 13934045879 北方自动控制技术研究所  研究员\n任秉慧… https://t.co/MLxpEECV1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 1009,
+          "like_count": 30809,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3603
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "你好我是柏树/Albert|精神状态是量子叠加态|成分复杂|分裂情感性障碍|INFJ-T 5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫|查成分回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论|攻击我的死全家哈|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 141,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cypressalbert1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cypressalbert1",
+                "start": 0,
+                "url": "https://t.co/iBEVtehwcv"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "pinned_tweet_id": "1869043923282440681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 677,
+          "like_count": 9499,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/iBEVtehwcv",
+        "username": "CypressAlbert",
+        "verified": true
+      }
+    ]
+  }
+}

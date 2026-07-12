@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1891176793467502735",
+    "created_at": "2025-02-17T04:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T05:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891350489989795992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756860831814352896",
+          "start": 0,
+          "username": "nyasia11385"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891350489989795992",
+    "in_reply_to_user_id": "1756860831814352896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891349638352937248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyasia11385 嗯，新dlc帝国坟场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1891176793467502735",
+        "created_at": "2025-02-17T04:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T05:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891350489989795992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756860831814352896",
+              "start": 0,
+              "username": "nyasia11385"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891350489989795992",
+        "in_reply_to_user_id": "1756860831814352896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891349638352937248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyasia11385 嗯，新dlc帝国坟场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756860831814352896",
+        "conversation_id": "1891176793467502735",
+        "created_at": "2025-02-17T04:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T05:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891349638352937248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891349638352937248",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891349040949850301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 钢铁雄心又又又出DLC了吗···  我记得奇迹武器好像还没多久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 1013,
+          "like_count": 31644,
+          "listed_count": 7,
+          "media_count": 427,
+          "tweet_count": 3665
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T02:00:55.000Z",
+        "description": "喜欢看动漫/是个程序员/JAVA/P社战犯",
+        "id": "1756860831814352896",
+        "location": "武汉",
+        "name": "二次元小白菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888030762018160641/1uQBFcyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "nyasia11385",
+        "verified": false
+      }
+    ]
+  }
+}

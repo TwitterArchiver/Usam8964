@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1941382149078405268",
+    "created_at": "2025-07-05T13:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941490857716351459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quitee123"
+        },
+        {
+          "end": 24,
+          "id": "1823621442766036994",
+          "start": 11,
+          "username": "Hijiwaaaaagh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941490857716351459",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941415925846339761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quitee123 @Hijiwaaaaagh 嗷嗷哭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1941382149078405268",
+        "created_at": "2025-07-05T13:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941490857716351459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quitee123"
+            },
+            {
+              "end": 24,
+              "id": "1823621442766036994",
+              "start": 11,
+              "username": "Hijiwaaaaagh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941490857716351459",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941415925846339761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quitee123 @Hijiwaaaaagh 嗷嗷哭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1941382149078405268",
+        "created_at": "2025-07-05T08:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T09:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941415925846339761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1823621442766036994",
+              "start": 0,
+              "username": "Hijiwaaaaagh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941415925846339761",
+        "in_reply_to_user_id": "1823621442766036994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941382149078405268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hijiwaaaaagh 嗷嗷哭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 1031,
+          "like_count": 33605,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 3869
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 \n想要得到更多的喜欢和爱\n可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina tg：@hajvmi SRS记录：https://t.co/jVttn2YeBF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "hajvmi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 113,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 90,
+                "url": "https://t.co/jVttn2YeBF"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9403,
+          "following_count": 2800,
+          "like_count": 29401,
+          "listed_count": 23,
+          "media_count": 655,
+          "tweet_count": 13192
+        },
+        "username": "quitee123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T07:23:38.000Z",
+        "description": "友跨顺狗🐕🍥，汪～",
+        "id": "1823621442766036994",
+        "name": "哈基汪！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911001060690321409/Q2ouMqdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 36,
+          "like_count": 685,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 475
+        },
+        "username": "Hijiwaaaaagh",
+        "verified": false
+      }
+    ]
+  }
+}

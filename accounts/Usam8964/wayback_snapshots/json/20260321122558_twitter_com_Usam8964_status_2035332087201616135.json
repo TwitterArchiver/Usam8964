@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035332084278210560"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2035241359213576643",
+    "created_at": "2026-03-21T12:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T13:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035332087201616135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3223848367",
+          "start": 0,
+          "username": "NarcissuChannel"
+        },
+        {
+          "end": 33,
+          "id": "1788485889225834496",
+          "start": 17,
+          "username": "YesterdayOrange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K5apXRqT1P",
+          "end": 57,
+          "expanded_url": "https://x.com/Usam8964/status/2035332087201616135/photo/1",
+          "media_key": "3_2035332084278210560",
+          "start": 34,
+          "url": "https://t.co/K5apXRqT1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035332087201616135",
+    "in_reply_to_user_id": "3223848367",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035331381065343076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NarcissuChannel @YesterdayOrange https://t.co/K5apXRqT1P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2035332084278210560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7zvztbsAANn8Y.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035332084278210560"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035241359213576643",
+        "created_at": "2026-03-21T12:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035332087201616135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3223848367",
+              "start": 0,
+              "username": "NarcissuChannel"
+            },
+            {
+              "end": 33,
+              "id": "1788485889225834496",
+              "start": 17,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5apXRqT1P",
+              "end": 57,
+              "expanded_url": "https://x.com/Usam8964/status/2035332087201616135/photo/1",
+              "media_key": "3_2035332084278210560",
+              "start": 34,
+              "url": "https://t.co/K5apXRqT1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035332087201616135",
+        "in_reply_to_user_id": "3223848367",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035331381065343076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NarcissuChannel @YesterdayOrange https://t.co/K5apXRqT1P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3223848367",
+        "conversation_id": "2035241359213576643",
+        "created_at": "2026-03-21T12:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035331381065343076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            },
+            {
+              "end": 32,
+              "id": "1643490407094030338",
+              "start": 23,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035331381065343076",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035241359213576643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 完全にあたし@Usam8964"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3633,
+          "following_count": 1131,
+          "like_count": 42088,
+          "listed_count": 9,
+          "media_count": 415,
+          "tweet_count": 5409
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-23T02:19:22.000Z",
+        "description": "",
+        "id": "3223848367",
+        "location": "甘城ブリリアントパーク",
+        "name": "ナルキッソス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999470739079200769/DUx5MraC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 166,
+          "like_count": 163,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 106
+        },
+        "username": "NarcissuChannel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2034816663066222935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11331,
+          "following_count": 4697,
+          "like_count": 83337,
+          "listed_count": 20,
+          "media_count": 1976,
+          "tweet_count": 18504
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

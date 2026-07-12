@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1980599693450039729",
+    "created_at": "2025-10-21T13:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980629281891053880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "914028453174796293",
+          "start": 0,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980629281891053880",
+    "in_reply_to_user_id": "914028453174796293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980599693450039729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajisai1207_ 我去欧陆风云，再写100杜卡特的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 412,
+        "media_key": "3_1980599473794347008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yAuk3WcAAkpVq.png",
+        "width": 371
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1980599693450039729",
+        "created_at": "2025-10-21T13:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980629281891053880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "914028453174796293",
+              "start": 0,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980629281891053880",
+        "in_reply_to_user_id": "914028453174796293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980599693450039729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajisai1207_ 我去欧陆风云，再写100杜卡特的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980599473794347008"
+          ]
+        },
+        "author_id": "914028453174796293",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980599693450039729",
+        "created_at": "2025-10-21T11:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980599693450039729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CC6eARyFXc",
+              "end": 154,
+              "expanded_url": "https://x.com/Ajisai1207_/status/1980599693450039729/photo/1",
+              "media_key": "3_1980599473794347008",
+              "start": 131,
+              "url": "https://t.co/CC6eARyFXc"
+            },
+            {
+              "display_url": "x.com/BaoZheFanQie/s…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/BaoZheFanQie/status/1980561676966809910",
+              "start": 155,
+              "url": "https://t.co/RT6mJFaiF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980599693450039729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980561676966809910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在本次《推特风云》更新中，对原本解锁“性别研究”科技即可成立的tag“跨性别与女权二元君主国”，增加了必须对“跨性别运动”和“女权运动”控制同时在10%以上的要求。\n不满足该要求会引发合法性危机，导致跨圈皇帝和女权皇帝头衔被剥夺，读取旧版本存档的玩家应该注意。 https://t.co/CC6eARyFXc https://t.co/RT6mJFaiF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3453,
+          "following_count": 1027,
+          "like_count": 33107,
+          "listed_count": 9,
+          "media_count": 457,
+          "tweet_count": 4078
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 911,
+          "like_count": 11978,
+          "listed_count": 14,
+          "media_count": 491,
+          "tweet_count": 5641
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

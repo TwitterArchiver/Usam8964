@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2038532671002025997",
+    "created_at": "2026-03-30T08:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038534003192738001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935582910217912320",
+          "start": 0,
+          "username": "ameyorui"
+        },
+        {
+          "end": 21,
+          "id": "1999504877337395200",
+          "start": 10,
+          "username": "chuan_0123"
+        },
+        {
+          "end": 35,
+          "id": "2030832351656493056",
+          "start": 22,
+          "username": "Suintouhea2t"
+        },
+        {
+          "end": 52,
+          "id": "1964607990259965952",
+          "start": 36,
+          "username": "moxinfanyingdui"
+        },
+        {
+          "end": 67,
+          "id": "1797970383477645312",
+          "start": 53,
+          "username": "lilizln350765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038534003192738001",
+    "in_reply_to_user_id": "1935582910217912320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038532671002025997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameyorui @chuan_0123 @Suintouhea2t @moxinfanyingdui @lilizln350765 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2038532666686148608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpSqOTbkAAEpiy.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2038532671002025997",
+        "created_at": "2026-03-30T08:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038534003192738001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935582910217912320",
+              "start": 0,
+              "username": "ameyorui"
+            },
+            {
+              "end": 21,
+              "id": "1999504877337395200",
+              "start": 10,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 35,
+              "id": "2030832351656493056",
+              "start": 22,
+              "username": "Suintouhea2t"
+            },
+            {
+              "end": 52,
+              "id": "1964607990259965952",
+              "start": 36,
+              "username": "moxinfanyingdui"
+            },
+            {
+              "end": 67,
+              "id": "1797970383477645312",
+              "start": 53,
+              "username": "lilizln350765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038534003192738001",
+        "in_reply_to_user_id": "1935582910217912320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038532671002025997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameyorui @chuan_0123 @Suintouhea2t @moxinfanyingdui @lilizln350765 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038532666686148608"
+          ]
+        },
+        "author_id": "1935582910217912320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2038532671002025997",
+        "created_at": "2026-03-30T08:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038532671002025997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1999504877337395200",
+              "start": 38,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 63,
+              "id": "2030832351656493056",
+              "start": 50,
+              "username": "Suintouhea2t"
+            },
+            {
+              "end": 83,
+              "id": "1643490407094030338",
+              "start": 74,
+              "username": "Usam8964"
+            },
+            {
+              "end": 112,
+              "id": "1964607990259965952",
+              "start": 96,
+              "username": "moxinfanyingdui"
+            },
+            {
+              "end": 127,
+              "id": "1797970383477645312",
+              "start": 113,
+              "username": "lilizln350765"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree",
+              "end": 155,
+              "expanded_url": "https://infinitetweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038530960627736577/7ApyYepO?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038530960627736577/7ApyYepO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 132,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree",
+              "url": "https://t.co/EDQd61PNJQ"
+            },
+            {
+              "display_url": "pic.x.com/AlEtSkncSs",
+              "end": 179,
+              "expanded_url": "https://x.com/ameyorui/status/2038532671002025997/photo/1",
+              "media_key": "3_2038532666686148608",
+              "start": 156,
+              "url": "https://t.co/AlEtSkncSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038532671002025997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 My Twitter Family:\n👫 Parents: @chuan_0123 @Suintouhea2t\n👰 Spouse: @Usam8964\n👶 Children: @moxinfanyingdui @lilizln350765\n\n➡️ https://t.co/EDQd61PNJQ https://t.co/AlEtSkncSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 1148,
+          "like_count": 48191,
+          "listed_count": 8,
+          "media_count": 447,
+          "tweet_count": 6105
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T06:19:07.000Z",
+        "description": "在虚无与幻灭中刻下属于自己的痕迹吧。🌿一只无性人偶🍃＆ 澄澈/荒诞/凄美/交融/戏剧性缥缈♬ 东方厨☯️ 🍥与你相遇亦是缘☘️ (欢迎互fo哦 ps偶尔发病",
+        "id": "1935582910217912320",
+        "location": "彼岸乐园",
+        "name": "雨夜兰陵行路人",
+        "pinned_tweet_id": "2034518955495391385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935583269468110849/1rP4Zh0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 2386,
+          "like_count": 16438,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 570
+        },
+        "username": "ameyorui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/祝你以后都开心/回fo请私信/🚪888互关免费",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 350,
+          "like_count": 11330,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 5878
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜叫我醉鸡，moe｜ISFP-T 12女初(´-ω-`)｜同类回fo🎹𝄞♡🪽提问箱https://t.co/AWOjVlhb0X 请不要对我说哦，我不是很喜欢这个词，@rinii165892 我爱你老公",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "rinii165892"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/suintouhea2t",
+                "end": 83,
+                "expanded_url": "http://ngl.link/suintouhea2t",
+                "start": 60,
+                "url": "https://t.co/AWOjVlhb0X"
+              }
+            ]
+          }
+        },
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe",
+        "pinned_tweet_id": "2030835174783779307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030832911432507392/Em01SCPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 358,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1383
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T08:34:00.000Z",
+        "description": "杂乱无章\n想要好多好多朋友 快来陪我\n缺爱 快来陪我\n是个废物 快来陪我\n身高178体重60 快来陪我\n高中生 快来陪我\n总而言之 快来陪我",
+        "id": "1964607990259965952",
+        "location": "星空",
+        "name": "烂纸箱菌📦",
+        "pinned_tweet_id": "2038344086646599716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029401964128186368/iRa8pP0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 273,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1075
+        },
+        "username": "moxinfanyingdui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:35:30.000Z",
+        "description": "bpd重度抑郁焦虑intp/乱发疯 /我没有记性，我什么都记不住",
+        "id": "1797970383477645312",
+        "name": "悦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028694340080451584/h5HQXAjv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 73,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 737
+        },
+        "username": "lilizln350765",
+        "verified": false
+      }
+    ]
+  }
+}

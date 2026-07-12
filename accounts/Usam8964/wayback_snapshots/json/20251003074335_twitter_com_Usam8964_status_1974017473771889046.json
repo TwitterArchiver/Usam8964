@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "1974017473771889046",
+    "created_at": "2025-10-03T07:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T08:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974017473771889046"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "二色幽紫蝶",
+          "probability": 0.5873,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1069281058212835328",
+          "start": 3,
+          "username": "youziKK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974017473771889046",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917896578880377242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youziKK: 皆さんお久しぶりです！こちらはサークル「二色幽紫蝶」！今回も5月5日の例大祭を参加しますよ！場所は06ab！\n今回の配布品はこちら！\n今回はなんと！東方夜雀食堂アニメ版のオープニングを初公開！現在は60%ほど進んでます！\n完成版ではございませんのでご勘…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3301,
+        "media_key": "3_1917892327101878272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp246Ppa0AAqk1P.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1974017473771889046",
+        "created_at": "2025-10-03T07:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974017473771889046"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "二色幽紫蝶",
+              "probability": 0.5873,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1069281058212835328",
+              "start": 3,
+              "username": "youziKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974017473771889046",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917896578880377242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youziKK: 皆さんお久しぶりです！こちらはサークル「二色幽紫蝶」！今回も5月5日の例大祭を参加しますよ！場所は06ab！\n今回の配布品はこちら！\n今回はなんと！東方夜雀食堂アニメ版のオープニングを初公開！現在は60%ほど進んでます！\n完成版ではございませんのでご勘…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917892327101878272"
+          ]
+        },
+        "author_id": "1069281058212835328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1917896578880377242",
+        "created_at": "2025-05-01T10:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T11:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917896578880377242"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "二色幽紫蝶",
+              "probability": 0.6155,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSSqGwhFrL",
+              "end": 170,
+              "expanded_url": "https://x.com/youziKK/status/1917896578880377242/photo/1",
+              "media_key": "3_1917892327101878272",
+              "start": 147,
+              "url": "https://t.co/TSSqGwhFrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917896578880377242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 37152,
+          "like_count": 746,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "皆さんお久しぶりです！こちらはサークル「二色幽紫蝶」！今回も5月5日の例大祭を参加しますよ！場所は06ab！\n今回の配布品はこちら！\n今回はなんと！東方夜雀食堂アニメ版のオープニングを初公開！現在は60%ほど進んでます！\n完成版ではございませんのでご勘弁！\n当日は皆様のご到来をお待ちします！ https://t.co/TSSqGwhFrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏 静かに交流できる方、歓迎します。",
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 1027,
+          "like_count": 33288,
+          "listed_count": 10,
+          "media_count": 461,
+          "tweet_count": 4056
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-02T17:24:05.000Z",
+        "description": "喜欢东方Project,同人/独立游戏\n同人社团「二色幽紫蝶」主催担当\n同人游戏「东方夜雀食堂」好评发卖中\n夜雀食堂 https://t.co/dOBL9EEdGn\n华彩乱战 https://t.co/ueazHypqi2\n华彩乱战2 https://t.co/lr5PG3k0GI\n新作「东方华心传」、「东方妖精舞踏会",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tmi.uzkk.net",
+                "end": 82,
+                "expanded_url": "http://tmi.uzkk.net",
+                "start": 59,
+                "url": "https://t.co/dOBL9EEdGn"
+              },
+              {
+                "display_url": "tbc.uzkk.net",
+                "end": 111,
+                "expanded_url": "http://tbc.uzkk.net",
+                "start": 88,
+                "url": "https://t.co/ueazHypqi2"
+              },
+              {
+                "display_url": "tbc2.uzkk.net",
+                "end": 141,
+                "expanded_url": "http://tbc2.uzkk.net",
+                "start": 118,
+                "url": "https://t.co/lr5PG3k0GI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/86865890",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/86865890",
+                "start": 0,
+                "url": "https://t.co/sBxwXBWSpi"
+              }
+            ]
+          }
+        },
+        "id": "1069281058212835328",
+        "name": "幽紫kk-二色幽紫蝶",
+        "pinned_tweet_id": "1973239381000675730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1069281459855228930/v6hGzzTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11717,
+          "following_count": 178,
+          "like_count": 216,
+          "listed_count": 48,
+          "media_count": 426,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/sBxwXBWSpi",
+        "username": "youziKK",
+        "verified": false
+      }
+    ]
+  }
+}

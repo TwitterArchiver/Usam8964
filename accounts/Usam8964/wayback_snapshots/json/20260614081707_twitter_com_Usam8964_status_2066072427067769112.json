@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2065767077189927086",
+    "created_at": "2026-06-14T08:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066072427067769112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060627239654629376",
+          "start": 0,
+          "username": "ashdieds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066072427067769112",
+    "in_reply_to_user_id": "2060627239654629376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065767077189927086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashdieds 胖鸸鹋有一期喝马用电解质的，碘离子超标代替氯离子，然后喝碘伏的我觉得也能上一期胖鸸鹋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2065767077189927086",
+        "created_at": "2026-06-14T08:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066072427067769112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060627239654629376",
+              "start": 0,
+              "username": "ashdieds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066072427067769112",
+        "in_reply_to_user_id": "2060627239654629376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065767077189927086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashdieds 胖鸸鹋有一期喝马用电解质的，碘离子超标代替氯离子，然后喝碘伏的我觉得也能上一期胖鸸鹋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2065767077189927086",
+        "created_at": "2026-06-13T12:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065767077189927086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065767077189927086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7459,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墙内怎么一堆喝碘伏的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "location": "RenkoUsami8964@proton.me",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3832,
+          "following_count": 1292,
+          "like_count": 66494,
+          "listed_count": 6,
+          "media_count": 541,
+          "tweet_count": 7655
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo\n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 142,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 136
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

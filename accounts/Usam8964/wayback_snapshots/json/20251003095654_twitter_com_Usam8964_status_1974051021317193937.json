@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1973655186406252854",
+    "created_at": "2025-10-03T09:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T10:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974051021317193937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795363435485843456",
+          "start": 0,
+          "username": "n2__r0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974051021317193937",
+    "in_reply_to_user_id": "1795363435485843456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973655186406252854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n2__r0 カフェで一晩中待っていたデンジの気持ちがわかる😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1973655180706193409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PU7hMaIAE_MFL.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1973655186406252854",
+        "created_at": "2025-10-03T09:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974051021317193937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795363435485843456",
+              "start": 0,
+              "username": "n2__r0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974051021317193937",
+        "in_reply_to_user_id": "1795363435485843456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973655186406252854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n2__r0 カフェで一晩中待っていたデンジの気持ちがわかる😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973655180706193409"
+          ]
+        },
+        "author_id": "1795363435485843456",
+        "conversation_id": "1973655186406252854",
+        "created_at": "2025-10-02T07:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973655186406252854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "いいねでDM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmPEUcbJNH",
+              "end": 38,
+              "expanded_url": "https://x.com/n2__r0/status/1973655186406252854/photo/1",
+              "media_key": "3_1973655180706193409",
+              "start": 15,
+              "url": "https://t.co/jmPEUcbJNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973655186406252854",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1137,
+          "impression_count": 396422,
+          "like_count": 15719,
+          "quote_count": 71,
+          "reply_count": 40,
+          "retweet_count": 415
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #いいねでDM https://t.co/jmPEUcbJNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3444,
+          "following_count": 1028,
+          "like_count": 33298,
+          "listed_count": 10,
+          "media_count": 451,
+          "tweet_count": 4050
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T07:56:22.000Z",
+        "description": "251 @cpausd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "cpausd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/1052723482?c=3",
+                "end": 23,
+                "expanded_url": "http://pushoong.com/1052723482?c=3",
+                "start": 0,
+                "url": "https://t.co/uhXugYDfcR"
+              }
+            ]
+          }
+        },
+        "id": "1795363435485843456",
+        "location": "ねる",
+        "name": "ねるねるね",
+        "pinned_tweet_id": "1973655186406252854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962779172759314435/UeYmhI48_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 981,
+          "like_count": 3077,
+          "listed_count": 14,
+          "media_count": 40,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/uhXugYDfcR",
+        "username": "n2__r0",
+        "verified": false
+      }
+    ]
+  }
+}

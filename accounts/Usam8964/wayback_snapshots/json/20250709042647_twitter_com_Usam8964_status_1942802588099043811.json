@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1942802588099043811",
+    "created_at": "2025-07-09T04:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T05:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942802588099043811"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1942802588099043811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然没有学历限制但还是面试问我是租房还是住员工宿舍：\n“住哪个寝”\n“肯定是女寝啊”\n“那不行那不行我租房子好了”\n“这边租房子很贵哦至少1300一个月”\n“那算辽算辽，住不起”\n......\n最后还是得看身份证，觉得完蛋了赶忙岔开话题找个理由从门外偷偷溜走了，对不起那个HR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1942802588099043811",
+        "created_at": "2025-07-09T04:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T05:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942802588099043811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942802588099043811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然没有学历限制但还是面试问我是租房还是住员工宿舍：\n“住哪个寝”\n“肯定是女寝啊”\n“那不行那不行我租房子好了”\n“这边租房子很贵哦至少1300一个月”\n“那算辽算辽，住不起”\n......\n最后还是得看身份证，觉得完蛋了赶忙岔开话题找个理由从门外偷偷溜走了，对不起那个HR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2990,
+          "following_count": 1031,
+          "like_count": 33825,
+          "listed_count": 8,
+          "media_count": 451,
+          "tweet_count": 3890
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

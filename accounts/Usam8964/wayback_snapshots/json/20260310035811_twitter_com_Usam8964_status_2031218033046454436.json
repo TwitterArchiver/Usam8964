@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2031216173711569201",
+    "created_at": "2026-03-10T03:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T04:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031218033046454436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001598933169315840",
+          "start": 0,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031218033046454436",
+    "in_reply_to_user_id": "2001598933169315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031216173711569201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldscX 我去不早说我是准尉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2031216173711569201",
+        "created_at": "2026-03-10T03:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T04:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031218033046454436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001598933169315840",
+              "start": 0,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031218033046454436",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031216173711569201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldscX 我去不早说我是准尉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2031216173711569201",
+        "created_at": "2026-03-10T03:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T04:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031216173711569201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031216173711569201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌国施行的军衔等级制度\nw675大将 w65上将 w625中将 w6少将\nw575大校 w55上校 w525中校 w5少校\nw475大尉 w45上尉  w425中尉 w4少尉 W3准尉\nW2上士，W1中士，W0下士\n红框(7000-9999)上等兵，黄框(4000-6999)二等兵，绿框(2000-3999)三等兵，白框青框(1999以下)学员"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3594,
+          "following_count": 1073,
+          "like_count": 36387,
+          "listed_count": 8,
+          "media_count": 355,
+          "tweet_count": 4574
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./xy/无任何特长，除了打Apex和睡觉之外没啥爱好。\n我是翎。\n亲爱的：@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/song?id=263740…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/song?id=2637402867&uct2=U2FsdGVkX1/XfjjVnwMFP6PT6YaKrz8aBzuHf03Mm/E=",
+                "start": 0,
+                "url": "https://t.co/9UnSJ1lBcS"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "重庆市胖猫大桥",
+        "name": "赤骸",
+        "pinned_tweet_id": "2026573127841726842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029928027803844608/cG84_bg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 263,
+          "like_count": 6627,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2440
+        },
+        "url": "https://t.co/9UnSJ1lBcS",
+        "username": "XldscX",
+        "verified": false
+      }
+    ]
+  }
+}

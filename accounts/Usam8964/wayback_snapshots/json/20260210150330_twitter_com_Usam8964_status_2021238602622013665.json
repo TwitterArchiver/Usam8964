@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2020951301820240113",
+    "created_at": "2026-02-10T15:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021238602622013665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499461699904376834",
+          "start": 0,
+          "username": "oliviaisolive"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Fast. Secure. Powerful.",
+          "display_url": "t.me/joinchat",
+          "end": 44,
+          "expanded_url": "http://t.me/joinchat",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2020542327388000256/Bev4frgz?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2020542327388000256/Bev4frgz?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "Telegram – a new era of messaging",
+          "unwound_url": "https://telegram.org/",
+          "url": "https://t.co/JJuXjZds4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021238602622013665",
+    "in_reply_to_user_id": "1499461699904376834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020951301820240113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oliviaisolive inurl:https://t.co/JJuXjZds4N 搜关键词"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2020951301820240113",
+        "created_at": "2026-02-10T15:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021238602622013665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499461699904376834",
+              "start": 0,
+              "username": "oliviaisolive"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Fast. Secure. Powerful.",
+              "display_url": "t.me/joinchat",
+              "end": 44,
+              "expanded_url": "http://t.me/joinchat",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2020542327388000256/Bev4frgz?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020542327388000256/Bev4frgz?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Telegram – a new era of messaging",
+              "unwound_url": "https://telegram.org/",
+              "url": "https://t.co/JJuXjZds4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021238602622013665",
+        "in_reply_to_user_id": "1499461699904376834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020951301820240113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oliviaisolive inurl:https://t.co/JJuXjZds4N 搜关键词"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499461699904376834",
+        "conversation_id": "2020951301820240113",
+        "created_at": "2026-02-09T20:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T21:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020951301820240113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020951301820240113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1473,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想嗑LSD，應該找什麼門路？真誠發問。\n我知道這玩意全世界都不合法，但我真的很需要這東西。我不想過靠鎮靜劑活著的人生，我想賭賭看，我是否能過上沒有疼痛折磨也沒有情緒折磨的人生。\n我想好好活著的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3507,
+          "following_count": 1049,
+          "like_count": 33228,
+          "listed_count": 8,
+          "media_count": 293,
+          "tweet_count": 3916
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T19:08:36.000Z",
+        "description": "病み垢｜04｜在搞笑和搞事業之間選擇了搞陰鬱｜Lesbian｜網黃勿擾｜不喜歡跟你聊天會直接拉黑｜ @richenied 一個在嘗試搬去地面居住的笨孩子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "richenied"
+              }
+            ]
+          }
+        },
+        "id": "1499461699904376834",
+        "location": "幽暗地域",
+        "name": "橄欖樹上的奧莉薇婭",
+        "pinned_tweet_id": "1874400129861775647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972489216149123072/go8YBhK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 271,
+          "like_count": 33679,
+          "listed_count": 3,
+          "media_count": 478,
+          "tweet_count": 4141
+        },
+        "username": "oliviaisolive",
+        "verified": false
+      }
+    ]
+  }
+}

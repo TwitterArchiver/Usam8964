@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2050395503834407170",
+    "created_at": "2026-05-02T15:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050601035555844536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1457686450577707019",
+          "start": 0,
+          "username": "fly_in_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050601035555844536",
+    "in_reply_to_user_id": "1457686450577707019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050395503834407170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fly_in_X 我这老账号怎么可能只有25分。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2050395341644771329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR3syPaMAEoj2M.png",
+        "width": 540
+      },
+      {
+        "height": 635,
+        "media_key": "3_2050395439338512384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR3yeLaYAAebfV.png",
+        "width": 505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2050395503834407170",
+        "created_at": "2026-05-02T15:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050601035555844536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1457686450577707019",
+              "start": 0,
+              "username": "fly_in_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050601035555844536",
+        "in_reply_to_user_id": "1457686450577707019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050395503834407170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fly_in_X 我这老账号怎么可能只有25分。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050395341644771329",
+            "3_2050395439338512384"
+          ]
+        },
+        "author_id": "1457686450577707019",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2050395503834407170",
+        "created_at": "2026-05-02T02:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050395503834407170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Estimate your 𝕏 (Twitter) TweepCred reputation score. Find out if the algorithm is limiting your reach and how to fix it.",
+              "display_url": "tweethunter.io/tweepcred-calc…",
+              "end": 60,
+              "expanded_url": "https://tweethunter.io/tweepcred-calculator",
+              "start": 37,
+              "status": 200,
+              "title": "TweepCred Calculator — Check Your Twitter/𝕏 Algorithm Score | tweethunter",
+              "unwound_url": "https://tweethunter.io/tweepcred-calculator",
+              "url": "https://t.co/isYPUgtPmQ"
+            },
+            {
+              "description": "Are you shadowbanned on Twitter?",
+              "display_url": "hisubway.online/shadowban/",
+              "end": 88,
+              "expanded_url": "https://hisubway.online/shadowban/",
+              "images": [
+                {
+                  "height": 1050,
+                  "url": "https://pbs.twimg.com/news_img/2050454263760130048/VNjnRTJ_?format=png&name=orig",
+                  "width": 2000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050454263760130048/VNjnRTJ_?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "Twitter Shadowban Test",
+              "unwound_url": "https://hisubway.online/shadowban/",
+              "url": "https://t.co/4whUeuFylC"
+            },
+            {
+              "display_url": "pic.x.com/jugzfACMI3",
+              "end": 130,
+              "expanded_url": "https://x.com/fly_in_X/status/2050395503834407170/photo/1",
+              "media_key": "3_2050395341644771329",
+              "start": 107,
+              "url": "https://t.co/jugzfACMI3"
+            },
+            {
+              "display_url": "pic.x.com/jugzfACMI3",
+              "end": 130,
+              "expanded_url": "https://x.com/fly_in_X/status/2050395503834407170/photo/1",
+              "media_key": "3_2050395439338512384",
+              "start": 107,
+              "url": "https://t.co/jugzfACMI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050395503834407170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 949,
+          "impression_count": 123499,
+          "like_count": 770,
+          "quote_count": 10,
+          "reply_count": 198,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "两个X帐号自检工具，一个查评分的，一个查健康度(是否被ban)的。\n评分：https://t.co/isYPUgtPmQ\n健康度:https://t.co/4whUeuFylC\n蓝V新人可以收藏一下，经常要用到。 https://t.co/jugzfACMI3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3699,
+          "following_count": 1196,
+          "like_count": 55572,
+          "listed_count": 6,
+          "media_count": 489,
+          "tweet_count": 6802
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-08T12:28:44.000Z",
+        "description": "认真学习中~~偶尔有些奇奇怪怪的想法~~",
+        "id": "1457686450577707019",
+        "name": "笑点有点高",
+        "pinned_tweet_id": "2050395503834407170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038622991517704192/k1W69aqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 2093,
+          "like_count": 1509,
+          "listed_count": 8,
+          "media_count": 682,
+          "tweet_count": 10212
+        },
+        "username": "fly_in_X",
+        "verified": true
+      }
+    ]
+  }
+}

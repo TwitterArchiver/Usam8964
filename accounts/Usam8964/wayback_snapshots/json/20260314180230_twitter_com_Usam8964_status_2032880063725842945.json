@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2030587970655564035",
+    "created_at": "2026-03-14T18:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032880063725842945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920704053031694336",
+          "start": 0,
+          "username": "AB3806514087983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032880063725842945",
+    "in_reply_to_user_id": "1920704053031694336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030587970655564035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AB3806514087983 好米"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20083,
+        "height": 1280,
+        "media_key": "13_2030587904997908480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030587904997908480/img/x_iexVGY6oUGV4Dm.jpg",
+        "public_metrics": {
+          "view_count": 408
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030587904997908480/vid/avc1/320x568/pt1x_kj8SVrzl_nf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030587904997908480/vid/avc1/480x852/ibA0sqTwqh_Rj6xG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030587904997908480/vid/avc1/720x1280/XyxjTDGCbFLWhsoQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030587904997908480/pl/ONcl8KdIw4Hk2O46.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2030587970655564035",
+        "created_at": "2026-03-14T18:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032880063725842945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920704053031694336",
+              "start": 0,
+              "username": "AB3806514087983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032880063725842945",
+        "in_reply_to_user_id": "1920704053031694336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030587970655564035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AB3806514087983 好米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030587904997908480"
+          ]
+        },
+        "author_id": "1920704053031694336",
+        "conversation_id": "2030587970655564035",
+        "created_at": "2026-03-08T10:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030587970655564035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmMoGqU95C",
+              "end": 34,
+              "expanded_url": "https://x.com/AB3806514087983/status/2030587970655564035/video/1",
+              "media_key": "13_2030587904997908480",
+              "start": 11,
+              "url": "https://t.co/HmMoGqU95C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030587970655564035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 859,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“呼吸是蓝色的以太” https://t.co/HmMoGqU95C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3616,
+          "following_count": 1114,
+          "like_count": 38387,
+          "listed_count": 9,
+          "media_count": 403,
+          "tweet_count": 5062
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆 不会弹吉他",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028191039799037952/mVh74C4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 33,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 307
+        },
+        "username": "AB3806514087983",
+        "verified": false
+      }
+    ]
+  }
+}

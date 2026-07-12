@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052423377781207040"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2052414768636686785",
+    "created_at": "2026-05-07T16:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052423381048586542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X2EE7ZgcqL",
+          "end": 44,
+          "expanded_url": "https://x.com/Usam8964/status/2052423381048586542/photo/1",
+          "media_key": "3_2052423377781207040",
+          "start": 21,
+          "url": "https://t.co/X2EE7ZgcqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052423381048586542",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052414768636686785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 所有人 https://t.co/X2EE7ZgcqL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052423377781207040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHusMBlbMAAiYFH.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052423377781207040"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2052414768636686785",
+        "created_at": "2026-05-07T16:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052423381048586542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2EE7ZgcqL",
+              "end": 44,
+              "expanded_url": "https://x.com/Usam8964/status/2052423381048586542/photo/1",
+              "media_key": "3_2052423377781207040",
+              "start": 21,
+              "url": "https://t.co/X2EE7ZgcqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052423381048586542",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052414768636686785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 所有人 https://t.co/X2EE7ZgcqL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2052414768636686785",
+        "created_at": "2026-05-07T15:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052414768636686785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052414768636686785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我复活了，哈哈。但是我应用端用不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3733,
+          "following_count": 1214,
+          "like_count": 57546,
+          "listed_count": 6,
+          "media_count": 497,
+          "tweet_count": 6961
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "干点烟代，电子烟纸烟 （新表单在做了）可散发，邮费12买的多包邮，也有电子烟，什么都有，问一些高端稀缺的电子烟（日韩）可能要等一下好兄弟问价格。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2052219707634364717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 818,
+          "like_count": 18208,
+          "listed_count": 1,
+          "media_count": 679,
+          "tweet_count": 9418
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

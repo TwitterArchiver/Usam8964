@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1929832728058646546",
+    "created_at": "2025-06-03T12:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T13:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929883089804972476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796022805844410368",
+          "start": 0,
+          "username": "TUSHANSUSU_YA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929883089804972476",
+    "in_reply_to_user_id": "1796022805844410368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929832728058646546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TUSHANSUSU_YA 正三的业力可以加5训练度"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1929832723205832704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsgkoxabwAAk2XZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1929832723939840000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsgko0Jb0AApdjn.jpg",
+        "width": 2080
+      },
+      {
+        "height": 2080,
+        "media_key": "3_1929832724665454594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsgko22b0AI5lJ8.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1929832728058646546",
+        "created_at": "2025-06-03T12:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T13:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929883089804972476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796022805844410368",
+              "start": 0,
+              "username": "TUSHANSUSU_YA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929883089804972476",
+        "in_reply_to_user_id": "1796022805844410368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929832728058646546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TUSHANSUSU_YA 正三的业力可以加5训练度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929832723205832704",
+            "3_1929832723939840000",
+            "3_1929832724665454594"
+          ]
+        },
+        "author_id": "1796022805844410368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1929832728058646546",
+        "created_at": "2025-06-03T09:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T10:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929832728058646546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8V7MWEPi5",
+              "end": 57,
+              "expanded_url": "https://x.com/TUSHANSUSU_YA/status/1929832728058646546/photo/1",
+              "media_key": "3_1929832723205832704",
+              "start": 34,
+              "url": "https://t.co/c8V7MWEPi5"
+            },
+            {
+              "display_url": "pic.x.com/c8V7MWEPi5",
+              "end": 57,
+              "expanded_url": "https://x.com/TUSHANSUSU_YA/status/1929832728058646546/photo/1",
+              "media_key": "3_1929832723939840000",
+              "start": 34,
+              "url": "https://t.co/c8V7MWEPi5"
+            },
+            {
+              "display_url": "pic.x.com/c8V7MWEPi5",
+              "end": 57,
+              "expanded_url": "https://x.com/TUSHANSUSU_YA/status/1929832728058646546/photo/1",
+              "media_key": "3_1929832724665454594",
+              "start": 34,
+              "url": "https://t.co/c8V7MWEPi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929832728058646546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "700万潜在，超级抗线王乌沙科夫，专家评级，逆风翻盘获得三业力（） https://t.co/c8V7MWEPi5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 1037,
+          "like_count": 33119,
+          "listed_count": 8,
+          "media_count": 445,
+          "tweet_count": 3815
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T03:36:33.000Z",
+        "description": "xyn～持证含糖～2024.2.20/\n是一只大白狐狸～/\n古希腊掌管头发的神/\n04  176  78肉肉腿/\n自学六爻～喜欢玄学/\n超级温柔，共情能力max/\n喜欢贴贴蹭蹭被摸摸，会趴在怀里撒娇/\n属性0/\ncoser\n超级可爱哦！\n最好的老婆～@SherylC75128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "SherylC75128"
+              }
+            ]
+          }
+        },
+        "id": "1796022805844410368",
+        "location": "涂山",
+        "name": "涂山苏苏（大白狐狸）🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823030749605527552/JsRuTWgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3509,
+          "following_count": 367,
+          "like_count": 2104,
+          "listed_count": 9,
+          "media_count": 331,
+          "tweet_count": 2018
+        },
+        "username": "TUSHANSUSU_YA",
+        "verified": false
+      }
+    ]
+  }
+}

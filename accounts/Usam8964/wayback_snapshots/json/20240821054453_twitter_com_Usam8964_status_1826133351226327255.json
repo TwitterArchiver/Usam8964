@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1826078283563483636",
+    "created_at": "2024-08-21T05:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T06:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826133351226327255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1073549510352093191",
+          "start": 0,
+          "username": "a69507877"
+        },
+        {
+          "end": 25,
+          "id": "1663066129923981312",
+          "start": 11,
+          "username": "Akirameru_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826133351226327255",
+    "in_reply_to_user_id": "1073549510352093191",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826132140758815006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a69507877 @Akirameru_QwQ 你这张图也没个结果啊，笑死。不会亲自跑吗我就是湖南的，我现在就在岳阳市，我怎么就知道有这个学校你朋友不知道，说明一你朋友根本不了解有什么戒网瘾学校，二你完全就是找他背书求个“已求证”的假借口，傻B，都说了我回你是赏你脸，下次你别回我了，你如有证据说这个学校不存在欺压现象就亲自跑一趟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1826078283563483636",
+        "created_at": "2024-08-21T05:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T06:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826133351226327255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1073549510352093191",
+              "start": 0,
+              "username": "a69507877"
+            },
+            {
+              "end": 25,
+              "id": "1663066129923981312",
+              "start": 11,
+              "username": "Akirameru_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826133351226327255",
+        "in_reply_to_user_id": "1073549510352093191",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826132140758815006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a69507877 @Akirameru_QwQ 你这张图也没个结果啊，笑死。不会亲自跑吗我就是湖南的，我现在就在岳阳市，我怎么就知道有这个学校你朋友不知道，说明一你朋友根本不了解有什么戒网瘾学校，二你完全就是找他背书求个“已求证”的假借口，傻B，都说了我回你是赏你脸，下次你别回我了，你如有证据说这个学校不存在欺压现象就亲自跑一趟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1073549510352093191",
+        "conversation_id": "1826078283563483636",
+        "created_at": "2024-08-21T05:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T06:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826132140758815006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 24,
+              "id": "1663066129923981312",
+              "start": 10,
+              "username": "Akirameru_QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/a69507877/stat…",
+              "end": 48,
+              "expanded_url": "https://x.com/a69507877/status/1826130412961137008?s=19",
+              "start": 25,
+              "url": "https://t.co/KGyRjsLHL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826132140758815006",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826130412961137008",
+            "type": "quoted"
+          },
+          {
+            "id": "1826119004001325307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @Akirameru_QwQ https://t.co/KGyRjsLHL5你知道我没有关注过吗？那个yaming前段时间就躺在我关注列表里了。  是不是不认同就表示邪恶，就得被扣帽子？起码我还拖朋友去现场求证，你做了什么呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 790,
+          "like_count": 19194,
+          "listed_count": 2,
+          "tweet_count": 2647
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T12:05:23.000Z",
+        "description": "",
+        "id": "1073549510352093191",
+        "location": "无",
+        "name": "十年减六年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821261732851142656/CxEcHtVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 128,
+          "listed_count": 0,
+          "tweet_count": 404
+        },
+        "username": "a69507877",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "Every morning tell yourself that you are getting better and better.\nLC_MESSAGES=zh_CN(正常)/zh_TW(心酸/想哭)/en_US\n想和頭像一樣可愛//喜歡電腦技術//愛大家♥️//互fo是好文明！",
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "永不言棄🥺♥️（貼貼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817164041938223105/KiWCGCWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 455,
+          "like_count": 58543,
+          "listed_count": 3,
+          "tweet_count": 2054
+        },
+        "username": "Akirameru_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

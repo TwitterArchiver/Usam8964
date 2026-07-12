@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1947946434025640237",
+    "created_at": "2025-07-23T15:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T16:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948048053933314390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2962119486",
+          "start": 0,
+          "username": "hoshinoyumemi11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948048053933314390",
+    "in_reply_to_user_id": "2962119486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947946434025640237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinoyumemi11 评价为主包号是起了但亲妈怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1947946434025640237",
+        "created_at": "2025-07-23T15:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T16:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948048053933314390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2962119486",
+              "start": 0,
+              "username": "hoshinoyumemi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948048053933314390",
+        "in_reply_to_user_id": "2962119486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947946434025640237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinoyumemi11 评价为主包号是起了但亲妈怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2962119486",
+        "conversation_id": "1947946434025640237",
+        "created_at": "2025-07-23T09:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T10:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947946434025640237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947946434025640237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3130,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与其关注一下跨性别有多「逆天」，倒不如关注一下谁家妈会用那个做头像（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3054,
+          "following_count": 1031,
+          "like_count": 33914,
+          "listed_count": 8,
+          "media_count": 453,
+          "tweet_count": 3921
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-07T04:55:43.000Z",
+        "description": "She/her|Proud to be Trans🏳️‍⚧️骄傲的进步跨|les🌈 爱人@yucandyyyy|请不要使用「生理性别」|酷儿女权|不是MtF|Althusserian Marxism|UK trains and buses|Elle as in 'Michelle' @Michelle_Z2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yucandyyyy"
+              },
+              {
+                "end": 157,
+                "start": 142,
+                "username": "Michelle_Z2023"
+              }
+            ]
+          }
+        },
+        "id": "2962119486",
+        "location": "Tkaronto",
+        "name": "Elle🏳️‍⚧️🇵🇸Solidarity Now!（热恋🍭版）",
+        "pinned_tweet_id": "1853780122475626968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872325210705219584/8MDDIacT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1481,
+          "like_count": 48079,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 5266
+        },
+        "username": "hoshinoyumemi11",
+        "verified": false
+      }
+    ]
+  }
+}

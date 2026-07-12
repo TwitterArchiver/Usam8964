@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2029845203558035921",
+    "created_at": "2026-03-06T10:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029861092172910988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029861092172910988",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029845203558035921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 绿色和粉色是什么雷霆配色"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2029845196792549376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCt1c6_aUAAsV0X.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2029845196817715200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCt1c7FaUAAyqYN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2029845203558035921",
+        "created_at": "2026-03-06T10:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029861092172910988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029861092172910988",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029845203558035921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 绿色和粉色是什么雷霆配色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029845196792549376",
+            "3_2029845196817715200"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2029845203558035921",
+        "created_at": "2026-03-06T09:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029845203558035921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBxJIkj6Bw",
+              "end": 48,
+              "expanded_url": "https://x.com/Goldwater8964/status/2029845203558035921/photo/1",
+              "media_key": "3_2029845196792549376",
+              "start": 25,
+              "url": "https://t.co/fBxJIkj6Bw"
+            },
+            {
+              "display_url": "pic.x.com/fBxJIkj6Bw",
+              "end": 48,
+              "expanded_url": "https://x.com/Goldwater8964/status/2029845203558035921/photo/1",
+              "media_key": "3_2029845196817715200",
+              "start": 25,
+              "url": "https://t.co/fBxJIkj6Bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029845203558035921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 96,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给amber和北雁冬翼设计了骄傲旗，你们喜欢吗 https://t.co/fBxJIkj6Bw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3575,
+          "following_count": 1066,
+          "like_count": 35627,
+          "listed_count": 8,
+          "media_count": 342,
+          "tweet_count": 4475
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 全网最自由的space—上麦判断认知学历 绝对的右派分子 🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2029126357465350502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 597,
+          "like_count": 3256,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 591
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

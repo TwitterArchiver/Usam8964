@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073989573370376192"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2073940985411932316",
+    "created_at": "2026-07-06T04:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073989576289579100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wc7ymC1PGb",
+          "end": 52,
+          "expanded_url": "https://x.com/Usam8964/status/2073989576289579100/photo/1",
+          "media_key": "3_2073989573370376192",
+          "start": 29,
+          "url": "https://t.co/wc7ymC1PGb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073989576289579100",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073940985411932316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ お嬢ちゃん、タバコ吸うでない? https://t.co/wc7ymC1PGb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2073989573370376192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhKh0ya8AAoytc.jpg",
+        "width": 650
+      },
+      {
+        "height": 755,
+        "media_key": "3_2073940978780786688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgeVP1a0AA6B89.jpg",
+        "width": 756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073989573370376192"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2073940985411932316",
+        "created_at": "2026-07-06T04:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073989576289579100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wc7ymC1PGb",
+              "end": 52,
+              "expanded_url": "https://x.com/Usam8964/status/2073989576289579100/photo/1",
+              "media_key": "3_2073989573370376192",
+              "start": 29,
+              "url": "https://t.co/wc7ymC1PGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073989576289579100",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073940985411932316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ お嬢ちゃん、タバコ吸うでない? https://t.co/wc7ymC1PGb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073940978780786688"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "conversation_id": "2073940985411932316",
+        "created_at": "2026-07-06T01:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073940985411932316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMcfg3UdzN",
+              "end": 49,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2073940985411932316/photo/1",
+              "media_key": "3_2073940978780786688",
+              "start": 26,
+              "url": "https://t.co/bMcfg3UdzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073940985411932316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼古喵喵\n强推，烟鬼看了流泪😭\n这不就是我嘛！！！ https://t.co/bMcfg3UdzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4095,
+          "following_count": 1343,
+          "like_count": 75733,
+          "listed_count": 6,
+          "media_count": 585,
+          "tweet_count": 8013
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / フォロバをご希望の方はDMお願いします /懦弱是无形的怪物 @MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2062786263774855222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 753,
+          "like_count": 15371,
+          "listed_count": 10,
+          "media_count": 1690,
+          "tweet_count": 7657
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": false
+      }
+    ]
+  }
+}

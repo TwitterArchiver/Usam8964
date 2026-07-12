@@ -1,0 +1,126 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1814303262168031233",
+    "created_at": "2024-07-19T14:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T15:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814304176723358074"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1814304176723358074",
+    "in_reply_to_user_id": "1643490407094030338",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814303262168031233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前情提要：做个平衡碎片，材料浪费了三份"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1814303262168031233",
+        "created_at": "2024-07-19T14:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T15:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814304176723358074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814304176723358074",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814303262168031233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前情提要：做个平衡碎片，材料浪费了三份"
+      },
+      {
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1814303262168031233",
+        "created_at": "2024-07-19T14:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T15:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814303262168031233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814303262168031233",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘4的坩埚——一生之敌\n对单线程的我来说，太难用了😶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 736,
+          "like_count": 14780,
+          "listed_count": 2,
+          "tweet_count": 2433
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

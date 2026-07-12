@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2034859741282017482",
+    "created_at": "2026-03-20T06:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034878699338965133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034878699338965133",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034859741282017482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina8964 ai：我好崩溃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2034859730364243968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1GJMQboAAEeJG.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2034859741282017482",
+        "created_at": "2026-03-20T06:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034878699338965133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034878699338965133",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034859741282017482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 ai：我好崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034859730364243968"
+          ]
+        },
+        "author_id": "1978032792383709184",
+        "conversation_id": "2034859741282017482",
+        "created_at": "2026-03-20T05:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034859741282017482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IcV4mP4dw",
+              "end": 44,
+              "expanded_url": "https://x.com/Sabrina8964/status/2034859741282017482/photo/1",
+              "media_key": "3_2034859730364243968",
+              "start": 21,
+              "url": "https://t.co/1IcV4mP4dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034859741282017482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大语言模型已被操逼生孩子主义者逼的没招了 https://t.co/1IcV4mP4dw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3638,
+          "following_count": 1132,
+          "like_count": 41547,
+          "listed_count": 9,
+          "media_count": 413,
+          "tweet_count": 5353
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "欧美迪哥百家黑，纯良舒肤佳雷妈妈梦男｜東雲繪名转世灵童",
+        "id": "1978032792383709184",
+        "location": "California, USA",
+        "name": "霉娇娇推特反黑站",
+        "pinned_tweet_id": "2034638140753977453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034096383624613888/4_jmXeNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 186,
+          "like_count": 7180,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1660
+        },
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

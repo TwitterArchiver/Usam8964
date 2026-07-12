@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1847695202942931259",
+    "created_at": "2024-10-20T06:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T07:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847884976865628216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1420962557897035781",
+          "start": 0,
+          "username": "shrinkviolet77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847884976865628216",
+    "in_reply_to_user_id": "1420962557897035781",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847695202942931259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shrinkviolet77 俾斯麦和新泽西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1847695202942931259",
+        "created_at": "2024-10-20T06:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T07:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847884976865628216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420962557897035781",
+              "start": 0,
+              "username": "shrinkviolet77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847884976865628216",
+        "in_reply_to_user_id": "1420962557897035781",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847695202942931259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrinkviolet77 俾斯麦和新泽西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847694879377473536"
+          ]
+        },
+        "author_id": "1420962557897035781",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1847695202942931259",
+        "created_at": "2024-10-19T17:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T18:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847695202942931259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0Lmk09zA1",
+              "end": 55,
+              "expanded_url": "https://x.com/shrinkviolet77/status/1847695202942931259/photo/1",
+              "media_key": "3_1847694879377473536",
+              "start": 32,
+              "url": "https://t.co/G0Lmk09zA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847695202942931259",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 231,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果像这样发AI图，马斯克训练出的AI会不会更容易认出是AI呢 https://t.co/G0Lmk09zA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 923,
+          "like_count": 26854,
+          "listed_count": 4,
+          "tweet_count": 3238
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "我是一头能榨油的老母猪～🐖🐖🐖\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 116,
+          "like_count": 27222,
+          "listed_count": 1,
+          "tweet_count": 11314
+        },
+        "username": "shrinkviolet77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "1848158817558970701",
+    "created_at": "2024-10-21T00:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T01:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848158817558970701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339446920511569920",
+          "start": 3,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848158817558970701",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847480516184068537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shudesu00: 躁郁症，哦躁郁症，哦躁郁症，有了你痛苦生活，全烦恼！躁郁症人生，奇妙至极，最棒游戏，人人赞叹你！如果不躁，那就不对，晚不吃喹硫平否则我会猫叫！无论白天，还是黑夜，精神药的味道，让我呕吐震颤！嗯嗯嗯嗯嗯，躁郁症，哦精神科，哦发神经，美味如梦，像中大奖…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "1848158817558970701",
+        "created_at": "2024-10-21T00:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T01:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848158817558970701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339446920511569920",
+              "start": 3,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848158817558970701",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847480516184068537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shudesu00: 躁郁症，哦躁郁症，哦躁郁症，有了你痛苦生活，全烦恼！躁郁症人生，奇妙至极，最棒游戏，人人赞叹你！如果不躁，那就不对，晚不吃喹硫平否则我会猫叫！无论白天，还是黑夜，精神药的味道，让我呕吐震颤！嗯嗯嗯嗯嗯，躁郁症，哦精神科，哦发神经，美味如梦，像中大奖…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1847480516184068537",
+        "created_at": "2024-10-19T03:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T04:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847480516184068537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847480516184068537",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6036,
+          "like_count": 184,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "躁郁症，哦躁郁症，哦躁郁症，有了你痛苦生活，全烦恼！躁郁症人生，奇妙至极，最棒游戏，人人赞叹你！如果不躁，那就不对，晚不吃喹硫平否则我会猫叫！无论白天，还是黑夜，精神药的味道，让我呕吐震颤！嗯嗯嗯嗯嗯，躁郁症，哦精神科，哦发神经，美味如梦，像中大奖的狂喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 925,
+          "like_count": 26962,
+          "listed_count": 4,
+          "tweet_count": 3249
+        },
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "Ftx_intp_双相_aspd_习惯性点赞_同成分互fo请直来💍 蛙宝重度依赖@CoFfffEeeeE1 【一次性电子烟除个别高货90剩余75包邮、悦刻五代180r、悦刻五代原厂弹90r一盒包邮，两盒起按80r一盒，四盒起75r一盒。纸外烟代，散拼：1包起发/邮费15、散拼10盒/成条包邮单独报价，买烟请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树（电子烟/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818517642342457344/W-xtl8gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3454,
+          "following_count": 2121,
+          "like_count": 110232,
+          "listed_count": 3,
+          "tweet_count": 13428
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

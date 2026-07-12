@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2017143962348507162",
+    "created_at": "2026-01-30T18:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T19:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017305115271827593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1440574779015122950",
+          "start": 0,
+          "username": "Lanperouge1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017305115271827593",
+    "in_reply_to_user_id": "1440574779015122950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017143962348507162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanperouge1 根据拍摄的星空判断拍摄地所在的经纬度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2017143962348507162",
+        "created_at": "2026-01-30T18:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017305115271827593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1440574779015122950",
+              "start": 0,
+              "username": "Lanperouge1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017305115271827593",
+        "in_reply_to_user_id": "1440574779015122950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017143962348507162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanperouge1 根据拍摄的星空判断拍摄地所在的经纬度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440574779015122950",
+        "conversation_id": "2017143962348507162",
+        "created_at": "2026-01-30T07:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017143962348507162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017143962348507162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 93,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么自学了很有用的东西吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998373924263153664/RfLfOjEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3442,
+          "following_count": 1013,
+          "like_count": 32523,
+          "listed_count": 8,
+          "media_count": 470,
+          "tweet_count": 4111
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-22T07:12:58.000Z",
+        "description": "互fo请私信。 妹  @himeka123yuan /弟@saiko7940181406\n#世界治愈计划",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "世界治愈计划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "himeka123yuan"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "saiko7940181406"
+              }
+            ]
+          }
+        },
+        "id": "1440574779015122950",
+        "location": "世界治愈计划",
+        "name": "超高校级的治愈系",
+        "pinned_tweet_id": "1948547182552121525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795769523095924736/h8VDqj8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 1273,
+          "like_count": 253,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 2983
+        },
+        "username": "Lanperouge1",
+        "verified": false
+      }
+    ]
+  }
+}

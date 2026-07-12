@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053148404801544193"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2053083997216141782",
+    "created_at": "2026-05-09T16:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053148407653675078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044392328966680576",
+          "start": 0,
+          "username": "OE3IIGFQRQ9473"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5dIgQaZSrP",
+          "end": 45,
+          "expanded_url": "https://x.com/Usam8964/status/2053148407653675078/photo/1",
+          "media_key": "3_2053148404801544193",
+          "start": 22,
+          "url": "https://t.co/5dIgQaZSrP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053148407653675078",
+    "in_reply_to_user_id": "2044392328966680576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053083997216141782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OE3IIGFQRQ9473 超级萌！！ https://t.co/5dIgQaZSrP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2053148404801544193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4_mJtbIAEHae3.jpg",
+        "width": 387
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2053083935161376769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4E9hla4AEU9dF.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053148404801544193"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2053083997216141782",
+        "created_at": "2026-05-09T16:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053148407653675078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044392328966680576",
+              "start": 0,
+              "username": "OE3IIGFQRQ9473"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dIgQaZSrP",
+              "end": 45,
+              "expanded_url": "https://x.com/Usam8964/status/2053148407653675078/photo/1",
+              "media_key": "3_2053148404801544193",
+              "start": 22,
+              "url": "https://t.co/5dIgQaZSrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053148407653675078",
+        "in_reply_to_user_id": "2044392328966680576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053083997216141782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OE3IIGFQRQ9473 超级萌！！ https://t.co/5dIgQaZSrP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053083935161376769"
+          ]
+        },
+        "author_id": "2044392328966680576",
+        "conversation_id": "2053083997216141782",
+        "created_at": "2026-05-09T12:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053083997216141782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qL5WMdeqB4",
+              "end": 30,
+              "expanded_url": "https://x.com/OE3IIGFQRQ9473/status/2053083997216141782/photo/1",
+              "media_key": "3_2053083935161376769",
+              "start": 7,
+              "url": "https://t.co/qL5WMdeqB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053083997216141782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 342,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "眉清目秀？！ https://t.co/qL5WMdeqB4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 1220,
+          "like_count": 57547,
+          "listed_count": 6,
+          "media_count": 503,
+          "tweet_count": 7009
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T12:28:23.000Z",
+        "description": "11年 順女 LGBTQ全友好 交友大歡迎\n本垢@FanQie_QianQian \n這裏是我的情緒垃圾桶 日常碎碎念（極多（\n負能過多 如果讓你感到不適我很抱歉 請屏蔽喵_(._.)_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/241BETQBPK"
+              }
+            ]
+          }
+        },
+        "id": "2044392328966680576",
+        "location": "看看你身後呢🤤",
+        "name": "芊芊/番茄操蛋9.0",
+        "pinned_tweet_id": "2050870299605020804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050602502027153408/qsJOFkPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 73,
+          "like_count": 1606,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/241BETQBPK",
+        "username": "OE3IIGFQRQ9473",
+        "verified": false
+      }
+    ]
+  }
+}

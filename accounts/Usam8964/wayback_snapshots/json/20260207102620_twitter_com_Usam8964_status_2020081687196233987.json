@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020081684096724993"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2020081687196233987",
+    "created_at": "2026-02-07T10:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T11:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020081687196233987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rSYflA9iuk",
+          "end": 23,
+          "expanded_url": "https://x.com/Usam8964/status/2020081687196233987/photo/1",
+          "media_key": "3_2020081684096724993",
+          "start": 0,
+          "url": "https://t.co/rSYflA9iuk"
+        },
+        {
+          "display_url": "x.com/yx53834975/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yx53834975/status/2019985470235766989",
+          "start": 24,
+          "url": "https://t.co/o2BItoejqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020081687196233987",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019985470235766989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/rSYflA9iuk https://t.co/o2BItoejqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2020081684096724993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjFlr3bsAEYFJ1.jpg",
+        "width": 835
+      },
+      {
+        "height": 584,
+        "media_key": "3_2019060125886222336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUkfK-akAABbfY.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020081684096724993"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2020081687196233987",
+        "created_at": "2026-02-07T10:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020081687196233987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSYflA9iuk",
+              "end": 23,
+              "expanded_url": "https://x.com/Usam8964/status/2020081687196233987/photo/1",
+              "media_key": "3_2020081684096724993",
+              "start": 0,
+              "url": "https://t.co/rSYflA9iuk"
+            },
+            {
+              "display_url": "x.com/yx53834975/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yx53834975/status/2019985470235766989",
+              "start": 24,
+              "url": "https://t.co/o2BItoejqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020081687196233987",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019985470235766989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/rSYflA9iuk https://t.co/o2BItoejqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019060125886222336"
+          ]
+        },
+        "author_id": "360897875",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019985470235766989",
+        "created_at": "2026-02-07T04:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019985470235766989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z46RlGTwAD",
+              "end": 57,
+              "expanded_url": "https://x.com/yx53834975/status/2019985470235766989/photo/1",
+              "media_key": "3_2019060125886222336",
+              "start": 34,
+              "url": "https://t.co/z46RlGTwAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019985470235766989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8443,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "第一次知道：微信帳號會因為「內容抨擊多過於歌頌」這樣的理由而被封！ https://t.co/z46RlGTwAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3446,
+          "following_count": 1030,
+          "like_count": 32681,
+          "listed_count": 8,
+          "media_count": 283,
+          "tweet_count": 3760
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-23T23:01:57.000Z",
+        "description": "幸福在于自给自足之中。\n坏人因畏惧而服从，好人因爱而服从。",
+        "id": "360897875",
+        "name": "映萱",
+        "pinned_tweet_id": "2016320319376572832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690624895451824128/OtBLsh9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20104,
+          "following_count": 360,
+          "like_count": 6480,
+          "listed_count": 91,
+          "media_count": 7054,
+          "tweet_count": 8521
+        },
+        "username": "yx53834975",
+        "verified": false
+      }
+    ]
+  }
+}

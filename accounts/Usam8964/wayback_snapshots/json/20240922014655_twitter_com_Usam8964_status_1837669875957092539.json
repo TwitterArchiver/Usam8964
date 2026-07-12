@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837669873268543491"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1837314500208513272",
+    "created_at": "2024-09-22T01:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T02:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837669875957092539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Mualani_Ch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xbncultlyw",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Usam8964/status/1837669875957092539/photo/1",
+          "media_key": "3_1837669873268543491",
+          "start": 12,
+          "url": "https://t.co/XbNcULtlYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837669875957092539",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837314500208513272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mualani_Ch https://t.co/XbNcULtlYW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1837669873268543491",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYC3A2qb0AMydcr.png",
+        "width": 535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837669873268543491"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1837314500208513272",
+        "created_at": "2024-09-22T01:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T02:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837669875957092539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Mualani_Ch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbncultlyw",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Usam8964/status/1837669875957092539/photo/1",
+              "media_key": "3_1837669873268543491",
+              "start": 12,
+              "url": "https://t.co/XbNcULtlYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837669875957092539",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837314500208513272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mualani_Ch https://t.co/XbNcULtlYW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837314496903499776"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1837314500208513272",
+        "created_at": "2024-09-21T02:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T03:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837314500208513272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfqljsucwv",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Mualani_Ch/status/1837314500208513272/photo/1",
+              "media_key": "3_1837314496903499776",
+              "start": 0,
+              "url": "https://t.co/cfqljsUcWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837314500208513272",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 69102,
+          "like_count": 776,
+          "quote_count": 6,
+          "reply_count": 37,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cfqljsUcWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长党/社交废物/含糖/在读JK/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接",
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 889,
+          "like_count": 24780,
+          "listed_count": 3,
+          "tweet_count": 2991
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🇹🇼•友🏳️‍🌈🏳️‍⚧️•互fo请私讯•@Landscapy_Lover|@huahuojiang_|@GotouSugi_Kh|@MiaoShenXiuSi|@AvrovaDonz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Landscapy_Lover"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "GotouSugi_Kh"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "MiaoShenXiuSi"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "AvrovaDonz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mualani_ch",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mualani_ch",
+                "start": 0,
+                "url": "https://t.co/tNTYDoELYC"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "↓我的提问箱",
+        "name": "🫧玛拉妮酱～",
+        "pinned_tweet_id": "1826201330584842293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827023479385849856/bYntY_Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12729,
+          "following_count": 9283,
+          "like_count": 51549,
+          "listed_count": 51,
+          "tweet_count": 8624
+        },
+        "url": "https://t.co/tNTYDoELYC",
+        "username": "Mualani_Ch",
+        "verified": false
+      }
+    ]
+  }
+}

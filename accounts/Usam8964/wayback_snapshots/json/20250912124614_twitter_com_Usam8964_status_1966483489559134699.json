@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1496843478470639621"
+      ],
+      "media_source_tweet_id": [
+        "1496843542383427585"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "1966483489559134699",
+    "created_at": "2025-09-12T12:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T13:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966483489559134699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KJzs3Jk2Mh",
+          "end": 40,
+          "expanded_url": "https://x.com/avogado6/status/1496843542383427585/photo/1",
+          "media_key": "3_1496843478470639621",
+          "start": 17,
+          "url": "https://t.co/KJzs3Jk2Mh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966483489559134699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9008
+    },
+    "referenced_tweets": [
+      {
+        "id": "1496843542383427585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: 文面 https://t.co/KJzs3Jk2Mh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1496843478470639621",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FMXbNoqaQAUuJo6.jpg",
+        "width": 3300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1496843478470639621"
+          ],
+          "media_source_tweet_id": [
+            "1496843542383427585"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "1966483489559134699",
+        "created_at": "2025-09-12T12:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T13:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966483489559134699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJzs3Jk2Mh",
+              "end": 40,
+              "expanded_url": "https://x.com/avogado6/status/1496843542383427585/photo/1",
+              "media_key": "3_1496843478470639621",
+              "start": 17,
+              "url": "https://t.co/KJzs3Jk2Mh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966483489559134699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9008
+        },
+        "referenced_tweets": [
+          {
+            "id": "1496843542383427585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: 文面 https://t.co/KJzs3Jk2Mh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1496843478470639621"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "1496843542383427585",
+        "created_at": "2022-02-24T13:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2022-02-24T14:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1496843542383427585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJzs3Jk2Mh",
+              "end": 26,
+              "expanded_url": "https://x.com/avogado6/status/1496843542383427585/photo/1",
+              "media_key": "3_1496843478470639621",
+              "start": 3,
+              "url": "https://t.co/KJzs3Jk2Mh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1496843542383427585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1089,
+          "impression_count": 0,
+          "like_count": 78400,
+          "quote_count": 435,
+          "reply_count": 162,
+          "retweet_count": 9008
+        },
+        "reply_settings": "everyone",
+        "text": "文面 https://t.co/KJzs3Jk2Mh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "MTF/家长不管党/社交废物/持证含糖/在读JK？/物理苦手/INFP-T/纯生活推\nNow 正體中文/简体中文/日本語/English supported.\nvx🚪50同类免费，时不时发朋友圈，陪聊可接\n老婆：@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ🍥伊莲娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643490479798112256/rWNEsRLN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 1032,
+          "like_count": 33191,
+          "listed_count": 10,
+          "media_count": 464,
+          "tweet_count": 4031
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1958415849540497736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486696,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 9034,
+          "media_count": 3451,
+          "tweet_count": 4134
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

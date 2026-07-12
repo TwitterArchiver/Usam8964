@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2035606529148428761",
+    "created_at": "2026-03-22T07:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T08:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035617508934459500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035617508934459500",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035606529148428761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 诊断是伴有精神病状的双相情感障碍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "3_2035606514287992832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_tVvKbYAA4aQj.jpg",
+        "width": 344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2035606529148428761",
+        "created_at": "2026-03-22T07:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035617508934459500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035617508934459500",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035606529148428761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 诊断是伴有精神病状的双相情感障碍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035606514287992832"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "conversation_id": "2035606529148428761",
+        "created_at": "2026-03-22T06:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035606529148428761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0T8bybkrxj",
+              "end": 165,
+              "expanded_url": "https://x.com/Olebe179131/status/2035606529148428761/photo/1",
+              "media_key": "3_2035606514287992832",
+              "start": 142,
+              "url": "https://t.co/0T8bybkrxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035606529148428761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗？其实医学上“精神病”其实是指精神分裂症，而且幻觉和妄想是精分独有的症状，焦虑，抑郁，双相，ADHD，这些都叫做精神障碍。有同学要说了:不对呀，老师老师我虽然是抑郁或是双相但却有幻视，幻听的症状。那这种情况下你的抑郁或者双相就叫伴有“精神病\"症状的抑郁或者双相了。很神奇吧( https://t.co/0T8bybkrxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3635,
+          "following_count": 1132,
+          "like_count": 42751,
+          "listed_count": 9,
+          "media_count": 423,
+          "tweet_count": 5490
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定已发疯胡言乱语/百合厨/二次元/清水推/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星(已戒o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 433,
+          "like_count": 16678,
+          "listed_count": 0,
+          "media_count": 565,
+          "tweet_count": 1982
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}
