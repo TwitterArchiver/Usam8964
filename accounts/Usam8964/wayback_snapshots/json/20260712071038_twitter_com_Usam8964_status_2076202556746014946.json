@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075930478486687744"
+      ],
+      "media_source_tweet_id": [
+        "2075930484639736158"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2076202556746014946",
+    "created_at": "2026-07-12T07:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076202556746014946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2070509531801817088",
+          "start": 3,
+          "username": "Yankakejiga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1QOIvkmwdV",
+          "end": 81,
+          "expanded_url": "https://x.com/Yankakejiga/status/2075930484639736158/photo/1",
+          "media_key": "3_2075930478486687744",
+          "start": 58,
+          "url": "https://t.co/1QOIvkmwdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076202556746014946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3593
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075930484639736158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yankakejiga: 病んでる時に描いた絵でいったらこれもだな\nリスカ跡を血小板ちゃんが治しにきてる絵 https://t.co/1QOIvkmwdV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075930478486687744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8vxXybEAA4a7h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075930478486687744"
+          ],
+          "media_source_tweet_id": [
+            "2075930484639736158"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2076202556746014946",
+        "created_at": "2026-07-12T07:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076202556746014946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2070509531801817088",
+              "start": 3,
+              "username": "Yankakejiga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QOIvkmwdV",
+              "end": 81,
+              "expanded_url": "https://x.com/Yankakejiga/status/2075930484639736158/photo/1",
+              "media_key": "3_2075930478486687744",
+              "start": 58,
+              "url": "https://t.co/1QOIvkmwdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076202556746014946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3593
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075930484639736158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yankakejiga: 病んでる時に描いた絵でいったらこれもだな\nリスカ跡を血小板ちゃんが治しにきてる絵 https://t.co/1QOIvkmwdV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075930478486687744"
+          ]
+        },
+        "author_id": "2070509531801817088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2075930484639736158",
+        "created_at": "2026-07-11T13:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075930484639736158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QOIvkmwdV",
+              "end": 64,
+              "expanded_url": "https://x.com/Yankakejiga/status/2075930484639736158/photo/1",
+              "media_key": "3_2075930478486687744",
+              "start": 41,
+              "url": "https://t.co/1QOIvkmwdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075930484639736158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4114,
+          "impression_count": 734935,
+          "like_count": 50465,
+          "quote_count": 145,
+          "reply_count": 45,
+          "retweet_count": 3593
+        },
+        "reply_settings": "everyone",
+        "text": "病んでる時に描いた絵でいったらこれもだな\nリスカ跡を血小板ちゃんが治しにきてる絵 https://t.co/1QOIvkmwdV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 1356,
+          "like_count": 78427,
+          "listed_count": 6,
+          "media_count": 601,
+          "tweet_count": 8130
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T14:09:39.000Z",
+        "description": "",
+        "id": "2070509531801817088",
+        "name": "やんかけの鳥獣自我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070511542907609088/Y18r7R7p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 23,
+          "like_count": 64,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Yankakejiga",
+        "verified": false
+      }
+    ]
+  }
+}
