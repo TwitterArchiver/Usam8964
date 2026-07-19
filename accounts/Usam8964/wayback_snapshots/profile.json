@@ -1,21 +1,25 @@
 {
   "name": "イレンナ",
   "username": "@Usam8964",
-  "bio": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。  興味分野：数学、外国文学（INFP）📚  好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。   持病（双極性障害など） 🩷：@bolckAshley @yuki40582  ℵ₀n-β1naria",
+  "bio": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
   "location": "",
-  "link": "ngl.link/usam8964",
+  "link": "https://ngl.link/usam8964",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2072003546862715204",
   "bio_entities": {
-    "urls": [
+    "mentions": [
       {
-        "display_url": "t.me/usamiryanko8964",
-        "end": 117,
-        "expanded_url": "http://t.me/usamiryanko8964",
-        "start": 94,
-        "url": "https://t.co/HKffFbQmwb"
+        "end": 118,
+        "start": 106,
+        "username": "bolckAshley"
+      },
+      {
+        "end": 129,
+        "start": 119,
+        "username": "yuki40582"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg"
 }
