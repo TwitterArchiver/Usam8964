@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2080227522864975872"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2080213947127566668",
+    "created_at": "2026-07-23T09:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080227587662782623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SayoriCat8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bFZYnREYY8",
+          "end": 44,
+          "expanded_url": "https://x.com/Usam8964/status/2080227587662782623/photo/1",
+          "media_key": "16_2080227522864975872",
+          "start": 21,
+          "url": "https://t.co/bFZYnREYY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080227587662782623",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080222880076648591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SayoriCat8964 还是自慰吧 https://t.co/bFZYnREYY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "16_2080227522864975872",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HN5z6RhbkAApwwK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HN5z6RhbkAApwwK.mp4"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080227522864975872"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2080213947127566668",
+        "created_at": "2026-07-23T09:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080227587662782623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SayoriCat8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFZYnREYY8",
+              "end": 44,
+              "expanded_url": "https://x.com/Usam8964/status/2080227587662782623/photo/1",
+              "media_key": "16_2080227522864975872",
+              "start": 21,
+              "url": "https://t.co/bFZYnREYY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080227587662782623",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080222880076648591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SayoriCat8964 还是自慰吧 https://t.co/bFZYnREYY8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "2080213947127566668",
+        "created_at": "2026-07-23T09:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080222880076648591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080222880076648591",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080222551935176916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 我一直在哭啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4177,
+          "following_count": 1362,
+          "like_count": 81175,
+          "listed_count": 7,
+          "media_count": 621,
+          "tweet_count": 8226
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/双極性障害",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayoricat8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sayoricat8964",
+                "start": 0,
+                "url": "https://t.co/sYom874rTF"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "善良纱世理✨",
+        "pinned_tweet_id": "2079755765771026899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3252,
+          "following_count": 1265,
+          "like_count": 151385,
+          "listed_count": 13,
+          "media_count": 1752,
+          "tweet_count": 22826
+        },
+        "url": "https://t.co/sYom874rTF",
+        "username": "SayoriCat8964",
+        "verified": false
+      }
+    ]
+  }
+}

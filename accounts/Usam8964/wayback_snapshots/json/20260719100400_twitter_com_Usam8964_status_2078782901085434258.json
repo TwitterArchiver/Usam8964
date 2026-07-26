@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078782884526370816"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078782901085434258",
+    "created_at": "2026-07-19T10:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078782901085434258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rEG5KTfcTA",
+          "end": 26,
+          "expanded_url": "https://x.com/Usam8964/status/2078782901085434258/photo/1",
+          "media_key": "3_2078782884526370816",
+          "start": 3,
+          "url": "https://t.co/rEG5KTfcTA"
+        },
+        {
+          "display_url": "x.com/Usam8964/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Usam8964/status/2078780148938363028",
+          "start": 27,
+          "url": "https://t.co/Z3rFVIaWCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078782901085434258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078780148938363028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "留档 https://t.co/rEG5KTfcTA https://t.co/Z3rFVIaWCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3345,
+        "media_key": "3_2078782884526370816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlSBQVbMAAUz8J.jpg",
+        "width": 1893
+      },
+      {
+        "duration_ms": 540,
+        "height": 320,
+        "media_key": "13_2078780128495345664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078780128495345664/img/kkXZ-coPsa9KEicG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078780128495345664/vid/avc1/294x320/3K7rIVwhf46Cn6p5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078780128495345664/pl/zT-W_7Xb_Cd4cjdy.m3u8"
+          }
+        ],
+        "width": 294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078782884526370816"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078782901085434258",
+        "created_at": "2026-07-19T10:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078782901085434258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEG5KTfcTA",
+              "end": 26,
+              "expanded_url": "https://x.com/Usam8964/status/2078782901085434258/photo/1",
+              "media_key": "3_2078782884526370816",
+              "start": 3,
+              "url": "https://t.co/rEG5KTfcTA"
+            },
+            {
+              "display_url": "x.com/Usam8964/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Usam8964/status/2078780148938363028",
+              "start": 27,
+              "url": "https://t.co/Z3rFVIaWCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078782901085434258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078780148938363028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "留档 https://t.co/rEG5KTfcTA https://t.co/Z3rFVIaWCL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078780128495345664"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2078780148938363028",
+        "created_at": "2026-07-19T09:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078780148938363028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIwDLwi8zP",
+              "end": 23,
+              "expanded_url": "https://x.com/Usam8964/status/2078780148938363028/video/1",
+              "media_key": "13_2078780128495345664",
+              "start": 0,
+              "url": "https://t.co/JIwDLwi8zP"
+            },
+            {
+              "display_url": "x.com/akui1121/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/akui1121/status/2078767047283224873",
+              "start": 24,
+              "url": "https://t.co/QP0QgNrTmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078780148938363028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078767047283224873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/JIwDLwi8zP https://t.co/QP0QgNrTmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4161,
+          "following_count": 1361,
+          "like_count": 80090,
+          "listed_count": 6,
+          "media_count": 612,
+          "tweet_count": 8184
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": true
+      }
+    ]
+  }
+}
