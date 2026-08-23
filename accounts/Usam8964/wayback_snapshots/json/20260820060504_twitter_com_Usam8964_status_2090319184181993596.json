@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090073093180137472"
+      ],
+      "media_source_tweet_id": [
+        "2090073099027075298"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2090319184181993596",
+    "created_at": "2026-08-20T06:05:04.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090319184181993596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827563342967533568",
+          "start": 3,
+          "username": "merofang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T9MdO10XRM",
+          "end": 37,
+          "expanded_url": "https://x.com/merofang/status/2090073099027075298/photo/1",
+          "media_key": "3_2090073093180137472",
+          "start": 14,
+          "url": "https://t.co/T9MdO10XRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090319184181993596",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090073093180137472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 462
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090073099027075298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @merofang: https://t.co/T9MdO10XRM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090073093180137472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFuZ5GaoAAo17e.jpg",
+        "width": 1325
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090073093180137472"
+          ],
+          "media_source_tweet_id": [
+            "2090073099027075298"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2090319184181993596",
+        "created_at": "2026-08-20T06:05:04.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090319184181993596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827563342967533568",
+              "start": 3,
+              "username": "merofang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9MdO10XRM",
+              "end": 37,
+              "expanded_url": "https://x.com/merofang/status/2090073099027075298/photo/1",
+              "media_key": "3_2090073093180137472",
+              "start": 14,
+              "url": "https://t.co/T9MdO10XRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090319184181993596",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090073093180137472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 462
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090073099027075298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @merofang: https://t.co/T9MdO10XRM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090073093180137472"
+          ]
+        },
+        "author_id": "1827563342967533568",
+        "conversation_id": "2090073099027075298",
+        "created_at": "2026-08-19T13:47:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090073099027075298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9MdO10XRM",
+              "end": 23,
+              "expanded_url": "https://x.com/merofang/status/2090073099027075298/photo/1",
+              "media_key": "3_2090073093180137472",
+              "start": 0,
+              "url": "https://t.co/T9MdO10XRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090073099027075298",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090073093180137472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 29931,
+          "like_count": 3346,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 462
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T9MdO10XRM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090319184181993596",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4225,
+          "following_count": 1373,
+          "like_count": 90191,
+          "listed_count": 7,
+          "media_count": 635,
+          "tweet_count": 8541
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-25T04:27:16.000Z",
+        "description": "✉️ toqha5937@gmail.com",
+        "id": "1827563342967533568",
+        "is_identity_verified": false,
+        "location": "🚫 AI ",
+        "most_recent_tweet_id": "2090073099027075298",
+        "name": "メロンパン",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827563342967533568/1730823443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035323360369102848/x0g_MGTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33740,
+          "following_count": 121,
+          "like_count": 1573,
+          "listed_count": 168,
+          "media_count": 86,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "merofang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

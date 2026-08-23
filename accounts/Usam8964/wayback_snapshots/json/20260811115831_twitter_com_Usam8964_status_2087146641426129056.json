@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2087139925666017753",
+    "created_at": "2026-08-11T11:58:31.000Z",
+    "display_text_range": [
+      17,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087146641426129056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712839187546992640",
+          "start": 0,
+          "username": "miyako_yumemita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087146641426129056",
+    "in_reply_to_user_id": "1712839187546992640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087139925666017753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyako_yumemita 富士見夜子せんせいは悪いものじゃない"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2087139771240038400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcCkFVaQAAXyzI.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2087139925666017753",
+        "created_at": "2026-08-11T11:58:31.000Z",
+        "display_text_range": [
+          17,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087146641426129056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712839187546992640",
+              "start": 0,
+              "username": "miyako_yumemita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087146641426129056",
+        "in_reply_to_user_id": "1712839187546992640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087139925666017753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyako_yumemita 富士見夜子せんせいは悪いものじゃない"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087139771240038400"
+          ]
+        },
+        "author_id": "1712839187546992640",
+        "conversation_id": "2087139925666017753",
+        "created_at": "2026-08-11T11:31:50.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087139925666017753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ra4mIj52mQ",
+              "end": 26,
+              "expanded_url": "https://x.com/miyako_yumemita/status/2087139925666017753/photo/1",
+              "media_key": "3_2087139771240038400",
+              "start": 3,
+              "url": "https://t.co/Ra4mIj52mQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087139925666017753",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087139771240038400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 16841,
+          "like_count": 1716,
+          "quote_count": 38,
+          "reply_count": 55,
+          "retweet_count": 497
+        },
+        "reply_settings": "everyone",
+        "text": "🐶💕 https://t.co/Ra4mIj52mQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087146641426129056",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4233,
+          "following_count": 1389,
+          "like_count": 87643,
+          "listed_count": 7,
+          "media_count": 628,
+          "tweet_count": 8448
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-13T14:34:45.000Z",
+        "description": "夢限大みゅーたいぷ @BDP_yumemita key.\n健康まんが家•イラストレーター💪🐶🍤 \n📖ちゃおプラスにて #マジるる 連載中♪\n🏷️総合 #みるみやこ FA #かくみやこ ログ #みやこが描いた\n💜Instagram https://t.co/xUJSRpiiET",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 59,
+                "tag": "マジるる"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "みるみやこ"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "かくみやこ"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "tag": "みやこが描いた"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "BDP_yumemita"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/38_385_popo",
+                "end": 138,
+                "expanded_url": "https://www.instagram.com/38_385_popo",
+                "start": 115,
+                "url": "https://t.co/xUJSRpiiET"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@miyako_yumemi…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@miyako_yumemita",
+                "start": 0,
+                "url": "https://t.co/qYNlly7tvN"
+              }
+            ]
+          }
+        },
+        "id": "1712839187546992640",
+        "is_identity_verified": true,
+        "location": "♰🥮🏺🦆♰",
+        "most_recent_tweet_id": "2087139925666017753",
+        "name": "藤都子",
+        "pinned_tweet_id": "1976958282242965858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712839187546992640/1716250957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722603009677701120/ive9TlKN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49087,
+          "following_count": 87,
+          "like_count": 49944,
+          "listed_count": 306,
+          "media_count": 1583,
+          "tweet_count": 10099
+        },
+        "url": "https://t.co/qYNlly7tvN",
+        "username": "miyako_yumemita",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

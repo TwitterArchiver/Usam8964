@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086408541573935104",
+        "3_2086408541548736513"
+      ],
+      "media_source_tweet_id": [
+        "2086408551652897214",
+        "2086408551652897214"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2090790235961758163",
+    "created_at": "2026-08-21T13:16:51.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090790235961758163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055629282366697472",
+          "start": 3,
+          "username": "tbnnhr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dWcHkWavja",
+          "end": 103,
+          "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+          "media_key": "3_2086408541573935104",
+          "start": 80,
+          "url": "https://t.co/dWcHkWavja"
+        },
+        {
+          "display_url": "pic.x.com/dWcHkWavja",
+          "end": 103,
+          "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+          "media_key": "3_2086408541548736513",
+          "start": 80,
+          "url": "https://t.co/dWcHkWavja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090790235961758163",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086408541573935104"
+      },
+      {
+        "media_key": "3_2086408541548736513"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086408551652897214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tbnnhr: 大家好，這是自介\n07/休學/戒od/情緒病/地雷系\n同類互fo🫶🏻來互轉ㄚ\n未來可能會線下？\n偶爾發日常和自拍\n可以隨便跟我互動聊天 https://t.co/dWcHkWavja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_2086408541573935104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRpg6ja8AAeWE4.jpg",
+        "width": 1149
+      },
+      {
+        "height": 1381,
+        "media_key": "3_2086408541548736513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRpg6dacAE0mFl.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086408541573935104",
+            "3_2086408541548736513"
+          ],
+          "media_source_tweet_id": [
+            "2086408551652897214",
+            "2086408551652897214"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2090790235961758163",
+        "created_at": "2026-08-21T13:16:51.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090790235961758163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055629282366697472",
+              "start": 3,
+              "username": "tbnnhr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWcHkWavja",
+              "end": 103,
+              "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+              "media_key": "3_2086408541573935104",
+              "start": 80,
+              "url": "https://t.co/dWcHkWavja"
+            },
+            {
+              "display_url": "pic.x.com/dWcHkWavja",
+              "end": 103,
+              "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+              "media_key": "3_2086408541548736513",
+              "start": 80,
+              "url": "https://t.co/dWcHkWavja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090790235961758163",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086408541573935104"
+          },
+          {
+            "media_key": "3_2086408541548736513"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086408551652897214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tbnnhr: 大家好，這是自介\n07/休學/戒od/情緒病/地雷系\n同類互fo🫶🏻來互轉ㄚ\n未來可能會線下？\n偶爾發日常和自拍\n可以隨便跟我互動聊天 https://t.co/dWcHkWavja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086408541573935104",
+            "3_2086408541548736513"
+          ]
+        },
+        "author_id": "2055629282366697472",
+        "conversation_id": "2086408551652897214",
+        "created_at": "2026-08-09T11:05:36.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086408551652897214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWcHkWavja",
+              "end": 91,
+              "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+              "media_key": "3_2086408541573935104",
+              "start": 68,
+              "url": "https://t.co/dWcHkWavja"
+            },
+            {
+              "display_url": "pic.x.com/dWcHkWavja",
+              "end": 91,
+              "expanded_url": "https://x.com/wwwwwsuger/status/2086408551652897214/photo/1",
+              "media_key": "3_2086408541548736513",
+              "start": 68,
+              "url": "https://t.co/dWcHkWavja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086408551652897214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086408541573935104"
+          },
+          {
+            "media_key": "3_2086408541548736513"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 536,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，這是自介\n07/休學/戒od/情緒病/地雷系\n同類互fo🫶🏻來互轉ㄚ\n未來可能會線下？\n偶爾發日常和自拍\n可以隨便跟我互動聊天 https://t.co/dWcHkWavja"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090790235961758163",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4231,
+          "following_count": 1376,
+          "like_count": 90204,
+          "listed_count": 7,
+          "media_count": 635,
+          "tweet_count": 8551
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T12:42:40.000Z",
+        "description": "女/07/躁鬱/戒od/割/地雷/台灣/同類互fol🫶🏻",
+        "id": "2055629282366697472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090784611928576327",
+        "name": "金大",
+        "pinned_tweet_id": "2086408551652897214",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055629282366697472/1785334889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082471480819163136/w550orJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 16,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "tbnnhr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

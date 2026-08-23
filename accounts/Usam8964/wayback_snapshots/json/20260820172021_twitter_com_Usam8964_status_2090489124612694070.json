@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090485667147194368",
+        "3_2090485666979467264",
+        "3_2090485666966908928",
+        "3_2090485666962714624"
+      ],
+      "media_source_tweet_id": [
+        "2090485685711143058",
+        "2090485685711143058",
+        "2090485685711143058",
+        "2090485685711143058"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090489124612694070",
+    "created_at": "2026-08-20T17:20:21.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090489124612694070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1854224109011664896",
+          "start": 3,
+          "username": "A5Tr41"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HE5aAhUyXZ",
+          "end": 135,
+          "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+          "media_key": "3_2090485667147194368",
+          "start": 112,
+          "url": "https://t.co/HE5aAhUyXZ"
+        },
+        {
+          "display_url": "pic.x.com/HE5aAhUyXZ",
+          "end": 135,
+          "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+          "media_key": "3_2090485666979467264",
+          "start": 112,
+          "url": "https://t.co/HE5aAhUyXZ"
+        },
+        {
+          "display_url": "pic.x.com/HE5aAhUyXZ",
+          "end": 135,
+          "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+          "media_key": "3_2090485666966908928",
+          "start": 112,
+          "url": "https://t.co/HE5aAhUyXZ"
+        },
+        {
+          "display_url": "pic.x.com/HE5aAhUyXZ",
+          "end": 135,
+          "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+          "media_key": "3_2090485666962714624",
+          "start": 112,
+          "url": "https://t.co/HE5aAhUyXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090489124612694070",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090485667147194368"
+      },
+      {
+        "media_key": "3_2090485666979467264"
+      },
+      {
+        "media_key": "3_2090485666966908928"
+      },
+      {
+        "media_key": "3_2090485666962714624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090485685711143058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A5Tr41: 一个置顶\nid春卷/团子（倒是太古早了这个很少人叫了\n阴暗地雷系猫猫\n存在一定精神问题 边缘型\n喜欢maimai sdvx 粥 v家\n存在轻犯病内容请谅解\n直关就是喜欢你！想混眼熟w\n互关欢迎扩列w https://t.co/HE5aAhUyXZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2090485667147194368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLlo25aoAAfefG.jpg",
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2090485666979467264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLlo2RbUAAEinh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090485666966908928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLlo2ObsAAOnK0.jpg",
+        "width": 944
+      },
+      {
+        "height": 944,
+        "media_key": "3_2090485666962714624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLlo2NbsAAtAp2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090485667147194368",
+            "3_2090485666979467264",
+            "3_2090485666966908928",
+            "3_2090485666962714624"
+          ],
+          "media_source_tweet_id": [
+            "2090485685711143058",
+            "2090485685711143058",
+            "2090485685711143058",
+            "2090485685711143058"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090489124612694070",
+        "created_at": "2026-08-20T17:20:21.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090489124612694070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1854224109011664896",
+              "start": 3,
+              "username": "A5Tr41"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HE5aAhUyXZ",
+              "end": 135,
+              "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+              "media_key": "3_2090485667147194368",
+              "start": 112,
+              "url": "https://t.co/HE5aAhUyXZ"
+            },
+            {
+              "display_url": "pic.x.com/HE5aAhUyXZ",
+              "end": 135,
+              "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+              "media_key": "3_2090485666979467264",
+              "start": 112,
+              "url": "https://t.co/HE5aAhUyXZ"
+            },
+            {
+              "display_url": "pic.x.com/HE5aAhUyXZ",
+              "end": 135,
+              "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+              "media_key": "3_2090485666966908928",
+              "start": 112,
+              "url": "https://t.co/HE5aAhUyXZ"
+            },
+            {
+              "display_url": "pic.x.com/HE5aAhUyXZ",
+              "end": 135,
+              "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+              "media_key": "3_2090485666962714624",
+              "start": 112,
+              "url": "https://t.co/HE5aAhUyXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090489124612694070",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090485667147194368"
+          },
+          {
+            "media_key": "3_2090485666979467264"
+          },
+          {
+            "media_key": "3_2090485666966908928"
+          },
+          {
+            "media_key": "3_2090485666962714624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090485685711143058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A5Tr41: 一个置顶\nid春卷/团子（倒是太古早了这个很少人叫了\n阴暗地雷系猫猫\n存在一定精神问题 边缘型\n喜欢maimai sdvx 粥 v家\n存在轻犯病内容请谅解\n直关就是喜欢你！想混眼熟w\n互关欢迎扩列w https://t.co/HE5aAhUyXZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090485667147194368",
+            "3_2090485666979467264",
+            "3_2090485666966908928",
+            "3_2090485666962714624"
+          ]
+        },
+        "author_id": "1854224109011664896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090485685711143058",
+        "created_at": "2026-08-20T17:06:41.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090485685711143058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HE5aAhUyXZ",
+              "end": 123,
+              "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+              "media_key": "3_2090485667147194368",
+              "start": 100,
+              "url": "https://t.co/HE5aAhUyXZ"
+            },
+            {
+              "display_url": "pic.x.com/HE5aAhUyXZ",
+              "end": 123,
+              "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+              "media_key": "3_2090485666979467264",
+              "start": 100,
+              "url": "https://t.co/HE5aAhUyXZ"
+            },
+            {
+              "display_url": "pic.x.com/HE5aAhUyXZ",
+              "end": 123,
+              "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+              "media_key": "3_2090485666966908928",
+              "start": 100,
+              "url": "https://t.co/HE5aAhUyXZ"
+            },
+            {
+              "display_url": "pic.x.com/HE5aAhUyXZ",
+              "end": 123,
+              "expanded_url": "https://x.com/A5Tr41/status/2090485685711143058/photo/1",
+              "media_key": "3_2090485666962714624",
+              "start": 100,
+              "url": "https://t.co/HE5aAhUyXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090485685711143058",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090485667147194368"
+          },
+          {
+            "media_key": "3_2090485666979467264"
+          },
+          {
+            "media_key": "3_2090485666966908928"
+          },
+          {
+            "media_key": "3_2090485666962714624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个置顶\nid春卷/团子（倒是太古早了这个很少人叫了\n阴暗地雷系猫猫\n存在一定精神问题 边缘型\n喜欢maimai sdvx 粥 v家\n存在轻犯病内容请谅解\n直关就是喜欢你！想混眼熟w\n互关欢迎扩列w https://t.co/HE5aAhUyXZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090489124612694070",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4230,
+          "following_count": 1376,
+          "like_count": 90372,
+          "listed_count": 7,
+          "media_count": 635,
+          "tweet_count": 8548
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "电波的幻想\n@_nemu404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "_nemu404"
+              }
+            ]
+          }
+        },
+        "id": "1854224109011664896",
+        "is_identity_verified": false,
+        "location": "Shinjuku-ku, Tokyo",
+        "most_recent_tweet_id": "2090485685711143058",
+        "name": "☘️",
+        "pinned_tweet_id": "2090485685711143058",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854224109011664896/1771691507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087857338208362496/qOKa9Cei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 118,
+          "like_count": 1073,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 4168
+        },
+        "url": "",
+        "username": "A5Tr41",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

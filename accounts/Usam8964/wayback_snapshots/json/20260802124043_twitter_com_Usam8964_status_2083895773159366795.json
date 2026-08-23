@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2083850634890227758",
+    "created_at": "2026-08-02T12:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083895773159366795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041028626397937665",
+          "start": 0,
+          "username": "_1haru_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083895773159366795",
+    "in_reply_to_user_id": "2041028626397937665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083850634890227758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_1haru_oxo 好使"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2083850634890227758",
+        "created_at": "2026-08-02T12:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083895773159366795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041028626397937665",
+              "start": 0,
+              "username": "_1haru_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083895773159366795",
+        "in_reply_to_user_id": "2041028626397937665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083850634890227758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_1haru_oxo 好使"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041028626397937665",
+        "conversation_id": "2083850634890227758",
+        "created_at": "2026-08-02T09:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083850634890227758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083850634890227758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花知晓好使吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4176,
+          "following_count": 1355,
+          "like_count": 84278,
+          "listed_count": 7,
+          "media_count": 624,
+          "tweet_count": 8308
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T05:42:36.000Z",
+        "description": "haru｜08｜非健全｜互fo互转大欢迎\n💕VOCALOID 初音ミク大好き\n🍓@2_haru_ovo｜CN EN🆗｜LGBTQ+友好\n🔮长期接塔罗占卜 需要请dm ₍ᐢ..ᐢ₎♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "2_haru_ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sakuracat.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://sakuracat.com/#/register?code=JUdXPeOU",
+                "start": 0,
+                "url": "https://t.co/j2R9EZhbYo"
+              }
+            ]
+          }
+        },
+        "id": "2041028626397937665",
+        "location": "塔罗15一问",
+        "name": "未成椿",
+        "pinned_tweet_id": "2083789930116141179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083890265530720256/K1ak67nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 56,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/j2R9EZhbYo",
+        "username": "_1haru_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

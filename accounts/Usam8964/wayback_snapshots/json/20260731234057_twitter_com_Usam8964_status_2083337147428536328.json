@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2083034126245142766",
+    "created_at": "2026-07-31T23:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083337147428536328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971144333991739399",
+          "start": 0,
+          "username": "yonghengzhisi"
+        },
+        {
+          "end": 30,
+          "id": "2002873553792966658",
+          "start": 15,
+          "username": "Selenophile080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083337147428536328",
+    "in_reply_to_user_id": "1971144333991739399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083190644139573706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yonghengzhisi @Selenophile080 在公开场合发表意见是有公共社会责任的，还是这种带有歧义可能导致错误自我归因忽略外界因素的全称命题，作为意见至少应该论述为什么这个全称命题成立，如果是情绪化那就应该写明，楼主骂你蠢不对，但是我觉得楼主思路确实更逻辑缜密"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2083034126245142766",
+        "created_at": "2026-07-31T23:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083337147428536328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971144333991739399",
+              "start": 0,
+              "username": "yonghengzhisi"
+            },
+            {
+              "end": 30,
+              "id": "2002873553792966658",
+              "start": 15,
+              "username": "Selenophile080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083337147428536328",
+        "in_reply_to_user_id": "1971144333991739399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083190644139573706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yonghengzhisi @Selenophile080 在公开场合发表意见是有公共社会责任的，还是这种带有歧义可能导致错误自我归因忽略外界因素的全称命题，作为意见至少应该论述为什么这个全称命题成立，如果是情绪化那就应该写明，楼主骂你蠢不对，但是我觉得楼主思路确实更逻辑缜密"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971144333991739399",
+        "conversation_id": "2083034126245142766",
+        "created_at": "2026-07-31T13:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083190644139573706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002873553792966658",
+              "start": 0,
+              "username": "Selenophile080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083190644139573706",
+        "in_reply_to_user_id": "2002873553792966658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083187954357502283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selenophile080 我确实很自恋，而且我只是在攻击你的愚蠢，而非剥夺你的话语权，评判你的论调是否在目的论上具备合法性，也没有对不明所以是否可以发表观点进行价值判断。我只是抱有对【真】的审美，认为你的观点玷污了真理应有的美感，出于纯粹的审美上的主观恶意对你进行人身攻击。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4177,
+          "following_count": 1362,
+          "like_count": 83536,
+          "listed_count": 7,
+          "media_count": 623,
+          "tweet_count": 8293
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T09:27:06.000Z",
+        "description": "",
+        "id": "1971144333991739399",
+        "name": "枯木朽株",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082921786518413312/6K2dsB_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "yonghengzhisi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T22:47:50.000Z",
+        "description": "爱吃🐭💊，我再也不当搞笑女了，互联网没有人懂我的抽象。\n@FrostyStrings讨厌你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "2002873553792966658",
+        "name": "琉璃雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082433161414283570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076592113878441985/fklIDCLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 178,
+          "like_count": 184,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "Selenophile080",
+        "verified": false
+      }
+    ]
+  }
+}
