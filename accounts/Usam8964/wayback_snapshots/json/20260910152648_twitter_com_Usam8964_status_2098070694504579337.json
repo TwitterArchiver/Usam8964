@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096941740515360768",
+        "3_2096941740506968064"
+      ],
+      "media_source_tweet_id": [
+        "2096941750262911156",
+        "2096941750262911156"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2098070694504579337",
+    "created_at": "2026-09-10T15:26:48.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098070694504579337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2089408201209102336",
+          "start": 3,
+          "username": "zhuzhuzhuzhusiz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYcE3mTKh2",
+          "end": 58,
+          "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2096941750262911156/photo/1",
+          "media_key": "3_2096941740515360768",
+          "start": 35,
+          "url": "https://t.co/bYcE3mTKh2"
+        },
+        {
+          "display_url": "pic.x.com/bYcE3mTKh2",
+          "end": 58,
+          "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2096941750262911156/photo/1",
+          "media_key": "3_2096941740506968064",
+          "start": 35,
+          "url": "https://t.co/bYcE3mTKh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098070694504579337",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096941740515360768"
+      },
+      {
+        "media_key": "3_2096941740506968064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096941750262911156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhuzhuzhuzhusiz: 怎么办呀炸玉\n求帮转QaQ https://t.co/bYcE3mTKh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2096941740515360768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnVZyYbgAAf1tl.jpg",
+        "width": 827
+      },
+      {
+        "height": 704,
+        "media_key": "3_2096941740506968064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnVZyWbcAA4cPg.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096941740515360768",
+            "3_2096941740506968064"
+          ],
+          "media_source_tweet_id": [
+            "2096941750262911156",
+            "2096941750262911156"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2098070694504579337",
+        "created_at": "2026-09-10T15:26:48.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098070694504579337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2089408201209102336",
+              "start": 3,
+              "username": "zhuzhuzhuzhusiz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYcE3mTKh2",
+              "end": 58,
+              "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2096941750262911156/photo/1",
+              "media_key": "3_2096941740515360768",
+              "start": 35,
+              "url": "https://t.co/bYcE3mTKh2"
+            },
+            {
+              "display_url": "pic.x.com/bYcE3mTKh2",
+              "end": 58,
+              "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2096941750262911156/photo/1",
+              "media_key": "3_2096941740506968064",
+              "start": 35,
+              "url": "https://t.co/bYcE3mTKh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098070694504579337",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096941740515360768"
+          },
+          {
+            "media_key": "3_2096941740506968064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096941750262911156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhuzhuzhuzhusiz: 怎么办呀炸玉\n求帮转QaQ https://t.co/bYcE3mTKh2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096941740515360768",
+            "3_2096941740506968064"
+          ]
+        },
+        "author_id": "2089408201209102336",
+        "conversation_id": "2096941750262911156",
+        "created_at": "2026-09-07T12:40:47.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096941750262911156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYcE3mTKh2",
+              "end": 37,
+              "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2096941750262911156/photo/1",
+              "media_key": "3_2096941740515360768",
+              "start": 14,
+              "url": "https://t.co/bYcE3mTKh2"
+            },
+            {
+              "display_url": "pic.x.com/bYcE3mTKh2",
+              "end": 37,
+              "expanded_url": "https://x.com/zhuzhuzhuzhusiz/status/2096941750262911156/photo/1",
+              "media_key": "3_2096941740506968064",
+              "start": 14,
+              "url": "https://t.co/bYcE3mTKh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096941750262911156",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096941740515360768"
+          },
+          {
+            "media_key": "3_2096941740506968064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3695,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "怎么办呀炸玉\n求帮转QaQ https://t.co/bYcE3mTKh2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098070694504579337",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 1386,
+          "like_count": 92855,
+          "listed_count": 7,
+          "media_count": 646,
+          "tweet_count": 8610
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:45:53.000Z",
+        "description": "炸玉的6.0\n含od自伤内容\n妈妈@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "2089408201209102336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098063945701715985",
+        "name": "炸炸的玉6.0",
+        "pinned_tweet_id": "2096941750262911156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089408201209102336/1788779799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089408584824291328/xsqL6M6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 146,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "zhuzhuzhuzhusiz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

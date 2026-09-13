@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095211240780165120"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "conversation_id": "2095140487535734879",
+    "created_at": "2026-09-02T18:04:23.000Z",
+    "display_text_range": [
+      16,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T19:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095211247432327324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083759498066534400",
+          "start": 0,
+          "username": "Ririnkachan0808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GfeOCiBNqb",
+          "end": 40,
+          "expanded_url": "https://x.com/Usam8964/status/2095211247432327324/photo/1",
+          "media_key": "3_2095211240780165120",
+          "start": 17,
+          "url": "https://t.co/GfeOCiBNqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095211247432327324",
+    "in_reply_to_user_id": "2083759498066534400",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2095211240780165120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095140487535734879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririnkachan0808 https://t.co/GfeOCiBNqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 934,
+        "media_key": "3_2095211240780165120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROvhcgbcAAJfo7.jpg",
+        "width": 1912
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095140468015452160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNvJ7abUAAZUru.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095140468007067648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNvJ7YbYAAi0P5.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095140468007051264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNvJ7YbIAAI7C7.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095211240780165120"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2095140487535734879",
+        "created_at": "2026-09-02T18:04:23.000Z",
+        "display_text_range": [
+          16,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095211247432327324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083759498066534400",
+              "start": 0,
+              "username": "Ririnkachan0808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfeOCiBNqb",
+              "end": 40,
+              "expanded_url": "https://x.com/Usam8964/status/2095211247432327324/photo/1",
+              "media_key": "3_2095211240780165120",
+              "start": 17,
+              "url": "https://t.co/GfeOCiBNqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095211247432327324",
+        "in_reply_to_user_id": "2083759498066534400",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2095211240780165120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095140487535734879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririnkachan0808 https://t.co/GfeOCiBNqb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095140468015452160",
+            "3_2095140468007067648",
+            "3_2095140468007051264"
+          ]
+        },
+        "author_id": "2083759498066534400",
+        "conversation_id": "2095140487535734879",
+        "created_at": "2026-09-02T13:23:12.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095140487535734879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gp8mvQKJ33",
+              "end": 37,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2095140487535734879/photo/1",
+              "media_key": "3_2095140468015452160",
+              "start": 14,
+              "url": "https://t.co/gp8mvQKJ33"
+            },
+            {
+              "display_url": "pic.x.com/gp8mvQKJ33",
+              "end": 37,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2095140487535734879/photo/1",
+              "media_key": "3_2095140468007067648",
+              "start": 14,
+              "url": "https://t.co/gp8mvQKJ33"
+            },
+            {
+              "display_url": "pic.x.com/gp8mvQKJ33",
+              "end": 37,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2095140487535734879/photo/1",
+              "media_key": "3_2095140468007051264",
+              "start": 14,
+              "url": "https://t.co/gp8mvQKJ33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095140487535734879",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095140468015452160"
+          },
+          {
+            "media_key": "3_2095140468007067648"
+          },
+          {
+            "media_key": "3_2095140468007051264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 719,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我又惹到墙内老鼠男了😭😭 https://t.co/gp8mvQKJ33"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095211247432327324",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4231,
+          "following_count": 1382,
+          "like_count": 91914,
+          "listed_count": 7,
+          "media_count": 642,
+          "tweet_count": 8579
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🩷🎀💞\n家有幼女鬼一只",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@leyochanririr…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@leyochanririri0808?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/RHAxmjevqz"
+              }
+            ]
+          }
+        },
+        "id": "2083759498066534400",
+        "is_identity_verified": false,
+        "location": "某个醉鬼的酒壶",
+        "most_recent_tweet_id": "2095159527083774043",
+        "name": "Ririnkadesuyo",
+        "pinned_tweet_id": "2089934952972648486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083759498066534400/1786194139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086393771910942720/E8Telu_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 371,
+          "like_count": 1481,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/RHAxmjevqz",
+        "username": "Ririnkachan0808",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
