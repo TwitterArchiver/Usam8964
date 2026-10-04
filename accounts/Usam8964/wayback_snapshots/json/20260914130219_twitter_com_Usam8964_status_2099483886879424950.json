@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099469247324053504",
+        "3_2099470235200000000"
+      ],
+      "media_source_tweet_id": [
+        "2099470244943478800",
+        "2099470244943478800"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099483886879424950",
+    "created_at": "2026-09-14T13:02:19.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099483886879424950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2087636528633982976",
+          "start": 3,
+          "username": "67De_dian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nvk9KuiKH1",
+          "end": 95,
+          "expanded_url": "https://x.com/67De_dian/status/2099470244943478800/photo/1",
+          "media_key": "3_2099469247324053504",
+          "start": 72,
+          "url": "https://t.co/Nvk9KuiKH1"
+        },
+        {
+          "display_url": "pic.x.com/Nvk9KuiKH1",
+          "end": 95,
+          "expanded_url": "https://x.com/67De_dian/status/2099470244943478800/photo/1",
+          "media_key": "3_2099470235200000000",
+          "start": 72,
+          "url": "https://t.co/Nvk9KuiKH1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099483886879424950",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099469247324053504"
+      },
+      {
+        "media_key": "3_2099470235200000000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099470244943478800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @67De_dian: 有没有宝宝和我互fo呀ww\n随缘一下呀求转发嘿嘿(´∀`)ﾉ\n\n好友位随缘\n🚪25 想开什么药都可以详细教你呀… https://t.co/Nvk9KuiKH1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099469247324053504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLQKC-bYAAKNFD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2099470235200000000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLRDjGaEAAMoaD.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099469247324053504",
+            "3_2099470235200000000"
+          ],
+          "media_source_tweet_id": [
+            "2099470244943478800",
+            "2099470244943478800"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099483886879424950",
+        "created_at": "2026-09-14T13:02:19.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099483886879424950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2087636528633982976",
+              "start": 3,
+              "username": "67De_dian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nvk9KuiKH1",
+              "end": 95,
+              "expanded_url": "https://x.com/67De_dian/status/2099470244943478800/photo/1",
+              "media_key": "3_2099469247324053504",
+              "start": 72,
+              "url": "https://t.co/Nvk9KuiKH1"
+            },
+            {
+              "display_url": "pic.x.com/Nvk9KuiKH1",
+              "end": 95,
+              "expanded_url": "https://x.com/67De_dian/status/2099470244943478800/photo/1",
+              "media_key": "3_2099470235200000000",
+              "start": 72,
+              "url": "https://t.co/Nvk9KuiKH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099483886879424950",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099469247324053504"
+          },
+          {
+            "media_key": "3_2099470235200000000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099470244943478800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @67De_dian: 有没有宝宝和我互fo呀ww\n随缘一下呀求转发嘿嘿(´∀`)ﾉ\n\n好友位随缘\n🚪25 想开什么药都可以详细教你呀… https://t.co/Nvk9KuiKH1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099469247324053504",
+            "3_2099470235200000000"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099470244943478800",
+        "created_at": "2026-09-14T12:08:07.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099470244943478800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nvk9KuiKH1",
+              "end": 80,
+              "expanded_url": "https://x.com/67De_dian/status/2099470244943478800/photo/1",
+              "media_key": "3_2099469247324053504",
+              "start": 57,
+              "url": "https://t.co/Nvk9KuiKH1"
+            },
+            {
+              "display_url": "pic.x.com/Nvk9KuiKH1",
+              "end": 80,
+              "expanded_url": "https://x.com/67De_dian/status/2099470244943478800/photo/1",
+              "media_key": "3_2099470235200000000",
+              "start": 57,
+              "url": "https://t.co/Nvk9KuiKH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099470244943478800",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099469247324053504"
+          },
+          {
+            "media_key": "3_2099470235200000000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有没有宝宝和我互fo呀ww\n随缘一下呀求转发嘿嘿(´∀`)ﾉ\n\n好友位随缘\n🚪25 想开什么药都可以详细教你呀… https://t.co/Nvk9KuiKH1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099483886879424950",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2099023148536742310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 1384,
+          "like_count": 93645,
+          "listed_count": 7,
+          "media_count": 650,
+          "tweet_count": 8647
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2099479487469801774",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 416,
+          "like_count": 4007,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 953
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098807773521907712",
+        "3_2098807773534605312",
+        "3_2098807773547151360",
+        "3_2098807775107440640"
+      ],
+      "media_source_tweet_id": [
+        "2098807783781273721",
+        "2098807783781273721",
+        "2098807783781273721",
+        "2098807783781273721"
+      ]
+    },
+    "author_id": "1643490407094030338",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2099786175107961188",
+    "created_at": "2026-09-15T09:03:30.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T10:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099786175107961188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2098794605223522304",
+          "start": 3,
+          "username": "cigsaferdrug"
+        },
+        {
+          "end": 43,
+          "id": "1536716629505359872",
+          "start": 29,
+          "username": "cigsafterdrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxVDvFNPe1",
+          "end": 108,
+          "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+          "media_key": "3_2098807773521907712",
+          "start": 85,
+          "url": "https://t.co/NxVDvFNPe1"
+        },
+        {
+          "display_url": "pic.x.com/NxVDvFNPe1",
+          "end": 108,
+          "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+          "media_key": "3_2098807773534605312",
+          "start": 85,
+          "url": "https://t.co/NxVDvFNPe1"
+        },
+        {
+          "display_url": "pic.x.com/NxVDvFNPe1",
+          "end": 108,
+          "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+          "media_key": "3_2098807773547151360",
+          "start": 85,
+          "url": "https://t.co/NxVDvFNPe1"
+        },
+        {
+          "display_url": "pic.x.com/NxVDvFNPe1",
+          "end": 108,
+          "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+          "media_key": "3_2098807775107440640",
+          "start": 85,
+          "url": "https://t.co/NxVDvFNPe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099786175107961188",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098807773521907712"
+      },
+      {
+        "media_key": "3_2098807773534605312"
+      },
+      {
+        "media_key": "3_2098807773547151360"
+      },
+      {
+        "media_key": "3_2098807775107440640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098807783781273721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cigsaferdrug: 你好，我是小迴\n一代目@cigsafterdrug 坠机了 \n想找回互关求帮转…\n是毒虫烟鬼酒鬼餐券妹 希望跟更多同类互关！🥹❤️💧 https://t.co/NxVDvFNPe1"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [cigsafterdrug].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "cigsafterdrug",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "cigsafterdrug"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2098807773521907712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB2jNCaEAAHUzN.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1531,
+        "media_key": "3_2098807773534605312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB2jNFb0AA7Oma.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098807773547151360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB2jNIbQAAxkWQ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2098807775107440640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB2jS8bYAAzNdM.jpg",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098807773521907712",
+            "3_2098807773534605312",
+            "3_2098807773547151360",
+            "3_2098807775107440640"
+          ],
+          "media_source_tweet_id": [
+            "2098807783781273721",
+            "2098807783781273721",
+            "2098807783781273721",
+            "2098807783781273721"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099786175107961188",
+        "created_at": "2026-09-15T09:03:30.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099786175107961188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2098794605223522304",
+              "start": 3,
+              "username": "cigsaferdrug"
+            },
+            {
+              "end": 43,
+              "id": "1536716629505359872",
+              "start": 29,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 108,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807773521907712",
+              "start": 85,
+              "url": "https://t.co/NxVDvFNPe1"
+            },
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 108,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807773534605312",
+              "start": 85,
+              "url": "https://t.co/NxVDvFNPe1"
+            },
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 108,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807773547151360",
+              "start": 85,
+              "url": "https://t.co/NxVDvFNPe1"
+            },
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 108,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807775107440640",
+              "start": 85,
+              "url": "https://t.co/NxVDvFNPe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099786175107961188",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098807773521907712"
+          },
+          {
+            "media_key": "3_2098807773534605312"
+          },
+          {
+            "media_key": "3_2098807773547151360"
+          },
+          {
+            "media_key": "3_2098807775107440640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098807783781273721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cigsaferdrug: 你好，我是小迴\n一代目@cigsafterdrug 坠机了 \n想找回互关求帮转…\n是毒虫烟鬼酒鬼餐券妹 希望跟更多同类互关！🥹❤️💧 https://t.co/NxVDvFNPe1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098807773521907712",
+            "3_2098807773534605312",
+            "3_2098807773547151360",
+            "3_2098807775107440640"
+          ]
+        },
+        "author_id": "2098794605223522304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098807783781273721",
+        "created_at": "2026-09-12T16:15:44.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098807783781273721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1536716629505359872",
+              "start": 11,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 90,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807773521907712",
+              "start": 67,
+              "url": "https://t.co/NxVDvFNPe1"
+            },
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 90,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807773534605312",
+              "start": 67,
+              "url": "https://t.co/NxVDvFNPe1"
+            },
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 90,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807773547151360",
+              "start": 67,
+              "url": "https://t.co/NxVDvFNPe1"
+            },
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 90,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807775107440640",
+              "start": 67,
+              "url": "https://t.co/NxVDvFNPe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098807783781273721",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098807773521907712"
+          },
+          {
+            "media_key": "3_2098807773534605312"
+          },
+          {
+            "media_key": "3_2098807773547151360"
+          },
+          {
+            "media_key": "3_2098807775107440640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2422,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我是小迴\n一代目@cigsafterdrug 坠机了 \n想找回互关求帮转…\n是毒虫烟鬼酒鬼餐券妹 希望跟更多同类互关！🥹❤️💧 https://t.co/NxVDvFNPe1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099786175107961188",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2099023148536742310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4229,
+          "following_count": 1384,
+          "like_count": 93836,
+          "listed_count": 7,
+          "media_count": 650,
+          "tweet_count": 8654
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-12T15:27:38.000Z",
+        "description": "可以叫我小迴 任何群體全友好 \n查成分互fo\n前世@cigsafterdrug 互關尋回中\n🚪52/88 互fo不用\n只要幸福就好了，祝你幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "cigsafterdrug"
+              }
+            ]
+          }
+        },
+        "id": "2098794605223522304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099771276047114632",
+        "name": "urtoolateialreadydied",
+        "pinned_tweet_id": "2098807783781273721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098794605223522304/1789227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098796185112965120/mGi3D7-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 97,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "cigsaferdrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

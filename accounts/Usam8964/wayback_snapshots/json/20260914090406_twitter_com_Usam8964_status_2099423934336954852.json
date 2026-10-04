@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1643490407094030338",
+    "conversation_id": "2099366930050126308",
+    "created_at": "2026-09-14T09:04:06.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T10:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099423934336954852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701555310006308864",
+          "start": 0,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099423934336954852",
+    "in_reply_to_user_id": "1701555310006308864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099366930050126308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eternal1uv9 女神。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099366906499063813",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJzFBsWYAUMgNn.jpg",
+        "width": 1866
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099366906461335562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJzFBjWsAoecW9.jpg",
+        "width": 1688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2099366930050126308",
+        "created_at": "2026-09-14T09:04:06.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T10:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099423934336954852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701555310006308864",
+              "start": 0,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099423934336954852",
+        "in_reply_to_user_id": "1701555310006308864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099366930050126308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eternal1uv9 女神。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099366906499063813",
+            "3_2099366906461335562"
+          ]
+        },
+        "author_id": "1701555310006308864",
+        "conversation_id": "2099366930050126308",
+        "created_at": "2026-09-14T05:17:35.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T06:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099366930050126308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0prCgTPiL",
+              "end": 25,
+              "expanded_url": "https://x.com/Eternal1uv9/status/2099366930050126308/photo/1",
+              "media_key": "3_2099366906499063813",
+              "start": 2,
+              "url": "https://t.co/b0prCgTPiL"
+            },
+            {
+              "display_url": "pic.x.com/b0prCgTPiL",
+              "end": 25,
+              "expanded_url": "https://x.com/Eternal1uv9/status/2099366930050126308/photo/1",
+              "media_key": "3_2099366906461335562",
+              "start": 2,
+              "url": "https://t.co/b0prCgTPiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099366930050126308",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2099366906499063813"
+          },
+          {
+            "media_key": "3_2099366906461335562"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐱 https://t.co/b0prCgTPiL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099423934336954852",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2099023148536742310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 1385,
+          "like_count": 93593,
+          "listed_count": 7,
+          "media_count": 650,
+          "tweet_count": 8643
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "窗外红梅落雪以青丝换白首",
+        "id": "1701555310006308864",
+        "is_identity_verified": false,
+        "location": "地霊殿",
+        "most_recent_tweet_id": "2099422746253963447",
+        "name": "シャナ",
+        "pinned_tweet_id": "2035691575297323229",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701555310006308864/1750231737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026678441152753671/9a5vO9rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 242,
+          "like_count": 1090,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 2418
+        },
+        "url": "",
+        "username": "Eternal1uv9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
